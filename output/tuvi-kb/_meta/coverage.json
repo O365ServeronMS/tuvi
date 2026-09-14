@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 54,
+   "referenced": 55,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,7 +268,6 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0041-anh-huong-cua-nhung-sao-toa-thu-tai-cung-phu-mau-p06",
     "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p01",
     "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p02",
     "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p03",
@@ -378,7 +377,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 31.6
+   "coverage_percent": 32.2
   },
   "tl": {
    "chunks": 107,
@@ -867,7 +866,25 @@
    "palace:phu-mau:thien-luong"
   ],
   "tb#0041-anh-huong-cua-nhung-sao-toa-thu-tai-cung-phu-mau-p05": [
-   "palace:phu-mau:pha-quan"
+   "palace:phu-mau:dia-khong+dia-kiep",
+   "palace:phu-mau:hoa-tinh+linh-tinh",
+   "palace:phu-mau:kinh-duong+da-la",
+   "palace:phu-mau:pha-quan",
+   "palace:phu-mau:ta-phu+huu-bat",
+   "palace:phu-mau:thien-khoi+thien-viet",
+   "palace:phu-mau:van-xuong+van-khuc"
+  ],
+  "tb#0041-anh-huong-cua-nhung-sao-toa-thu-tai-cung-phu-mau-p06": [
+   "palace:phu-mau:co-than+qua-tu",
+   "palace:phu-mau:dao-hoa+hong-loan",
+   "palace:phu-mau:hoa-khoa",
+   "palace:phu-mau:hoa-ky",
+   "palace:phu-mau:hoa-loc",
+   "palace:phu-mau:hoa-quyen",
+   "palace:phu-mau:loc-ton",
+   "palace:phu-mau:thai-tue",
+   "palace:phu-mau:thien-ma",
+   "palace:phu-mau:tuan+triet"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
@@ -1081,8 +1098,12 @@
   ],
   "td#0062-that-phu-mau-cung": [
    "palace:phu-mau:cu-mon",
+   "palace:phu-mau:hoa-tinh+linh-tinh",
+   "palace:phu-mau:kinh-duong+da-la",
    "palace:phu-mau:liem-trinh",
+   "palace:phu-mau:loc-ton",
    "palace:phu-mau:pha-quan",
+   "palace:phu-mau:ta-phu+huu-bat",
    "palace:phu-mau:thai-am",
    "palace:phu-mau:thai-duong",
    "palace:phu-mau:tham-lang",
@@ -1093,6 +1114,8 @@
    "palace:phu-mau:thien-phu",
    "palace:phu-mau:thien-tuong",
    "palace:phu-mau:tu-vi",
+   "palace:phu-mau:tuan+triet",
+   "palace:phu-mau:van-xuong+van-khuc",
    "palace:phu-mau:vu-khuc"
   ],
   "tl#0008-nen-rat-chat-che": [
