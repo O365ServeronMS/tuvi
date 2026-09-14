@@ -1,0 +1,1520 @@
+[
+ {
+  "rule": "B",
+  "from": "di ệu",
+  "to": "diệu",
+  "count": 21
+ },
+ {
+  "rule": "B",
+  "from": "nhi ều",
+  "to": "nhiều",
+  "count": 17
+ },
+ {
+  "rule": "A",
+  "from": "ng ười",
+  "to": "người",
+  "count": 16
+ },
+ {
+  "rule": "A",
+  "from": "nh ưng",
+  "to": "nhưng",
+  "count": 16
+ },
+ {
+  "rule": "B",
+  "from": "su ốt",
+  "to": "suốt",
+  "count": 14
+ },
+ {
+  "rule": "B",
+  "from": "Ki ếp",
+  "to": "Kiếp",
+  "count": 13
+ },
+ {
+  "rule": "B",
+  "from": "chi ếu",
+  "to": "chiếu",
+  "count": 12
+ },
+ {
+  "rule": "A",
+  "from": "th ường",
+  "to": "thường",
+  "count": 12
+ },
+ {
+  "rule": "B",
+  "from": "Vi ệt",
+  "to": "Việt",
+  "count": 11
+ },
+ {
+  "rule": "A",
+  "from": "ch ức",
+  "to": "chức",
+  "count": 11
+ },
+ {
+  "rule": "A",
+  "from": "s ự",
+  "to": "sự",
+  "count": 11
+ },
+ {
+  "rule": "A",
+  "from": "M ệnh",
+  "to": "Mệnh",
+  "count": 9
+ },
+ {
+  "rule": "A",
+  "from": "h ậu",
+  "to": "hậu",
+  "count": 9
+ },
+ {
+  "rule": "A",
+  "from": "ph ạm",
+  "to": "phạm",
+  "count": 9
+ },
+ {
+  "rule": "A",
+  "from": "ph ải",
+  "to": "phải",
+  "count": 9
+ },
+ {
+  "rule": "A",
+  "from": "s ủa",
+  "to": "sủa",
+  "count": 9
+ },
+ {
+  "rule": "A",
+  "from": "Ph ủ",
+  "to": "Phủ",
+  "count": 8
+ },
+ {
+  "rule": "B",
+  "from": "Quy ền",
+  "to": "Quyền",
+  "count": 8
+ },
+ {
+  "rule": "A",
+  "from": "nh ư",
+  "to": "như",
+  "count": 8
+ },
+ {
+  "rule": "A",
+  "from": "t ọa",
+  "to": "tọa",
+  "count": 8
+ },
+ {
+  "rule": "B",
+  "from": "vi ệc",
+  "to": "việc",
+  "count": 8
+ },
+ {
+  "rule": "A",
+  "from": "B ạch",
+  "to": "Bạch",
+  "count": 7
+ },
+ {
+  "rule": "A",
+  "from": "h ọ",
+  "to": "họ",
+  "count": 7
+ },
+ {
+  "rule": "A",
+  "from": "h ội",
+  "to": "hội",
+  "count": 7
+ },
+ {
+  "rule": "A",
+  "from": "kh ốn",
+  "to": "khốn",
+  "count": 7
+ },
+ {
+  "rule": "A",
+  "from": "tr ắc",
+  "to": "trắc",
+  "count": 7
+ },
+ {
+  "rule": "A",
+  "from": "b ạt",
+  "to": "bạt",
+  "count": 6
+ },
+ {
+  "rule": "A",
+  "from": "g ặp",
+  "to": "gặp",
+  "count": 6
+ },
+ {
+  "rule": "B",
+  "from": "mi ếu",
+  "to": "miếu",
+  "count": 6
+ },
+ {
+  "rule": "A",
+  "from": "nh ập",
+  "to": "nhập",
+  "count": 6
+ },
+ {
+  "rule": "A",
+  "from": "tr ở",
+  "to": "trở",
+  "count": 6
+ },
+ {
+  "rule": "B",
+  "from": "Thi ếu",
+  "to": "Thiếu",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "c ũng",
+  "to": "cũng",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "kh ắc",
+  "to": "khắc",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "kh ổ",
+  "to": "khổ",
+  "count": 5
+ },
+ {
+  "rule": "B",
+  "from": "mu ộn",
+  "to": "muộn",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "r ất",
+  "to": "rất",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "t ất",
+  "to": "tất",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "th ể",
+  "to": "thể",
+  "count": 5
+ },
+ {
+  "rule": "B",
+  "from": "thi ếu",
+  "to": "thiếu",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "tr ợ",
+  "to": "trợ",
+  "count": 5
+ },
+ {
+  "rule": "B",
+  "from": "tu ổi",
+  "to": "tuổi",
+  "count": 5
+ },
+ {
+  "rule": "A",
+  "from": "B ại",
+  "to": "Bại",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "K ỵ",
+  "to": "Kỵ",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "T ử",
+  "to": "Tử",
+  "count": 4
+ },
+ {
+  "rule": "B",
+  "from": "Tu ế",
+  "to": "Tuế",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "V ũ",
+  "to": "Vũ",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "b ạo",
+  "to": "bạo",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "gi ả",
+  "to": "giả",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "h ưng",
+  "to": "hưng",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "l ại",
+  "to": "lại",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "nh ững",
+  "to": "những",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "s ống",
+  "to": "sống",
+  "count": 4
+ },
+ {
+  "rule": "A",
+  "from": "C ơ",
+  "to": "Cơ",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "C ự",
+  "to": "Cự",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Gi ải",
+  "to": "Giải",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "Nguy ệt",
+  "to": "Nguyệt",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Nh ưng",
+  "to": "Nhưng",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Nh ật",
+  "to": "Nhật",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Ph ượng",
+  "to": "Phượng",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Qu ốc",
+  "to": "Quốc",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "T ướng",
+  "to": "Tướng",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "Th ần",
+  "to": "Thần",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "Tu ất",
+  "to": "Tuất",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "Tu ần",
+  "to": "Tuần",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "b ại",
+  "to": "bại",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "b ệnh",
+  "to": "bệnh",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "b ị",
+  "to": "bị",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "ch ắc",
+  "to": "chắc",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "hi ển",
+  "to": "hiển",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "l ớn",
+  "to": "lớn",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "m ờ",
+  "to": "mờ",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "nghi ệp",
+  "to": "nghiệp",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "t ại",
+  "to": "tại",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "t ật",
+  "to": "tật",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "t ừ",
+  "to": "từ",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "th ất",
+  "to": "thất",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "thu ộc",
+  "to": "thuộc",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "ti ếng",
+  "to": "tiếng",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "ti ền",
+  "to": "tiền",
+  "count": 3
+ },
+ {
+  "rule": "B",
+  "from": "to ại",
+  "to": "toại",
+  "count": 3
+ },
+ {
+  "rule": "A",
+  "from": "H ư",
+  "to": "Hư",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "H ồng",
+  "to": "Hồng",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "H ữu",
+  "to": "Hữu",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Kh ốc",
+  "to": "Khốc",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "M ộc",
+  "to": "Mộc",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Nh ững",
+  "to": "Những",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Ph ụ",
+  "to": "Phụ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Ph ục",
+  "to": "Phục",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Qu ả",
+  "to": "Quả",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "S ứ",
+  "to": "Sứ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "Th ọ",
+  "to": "Thọ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "V ăn",
+  "to": "Văn",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "bu ồn",
+  "to": "buồn",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "c ải",
+  "to": "cải",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "c ủa",
+  "to": "của",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ch ịu",
+  "to": "chịu",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ch ứa",
+  "to": "chứa",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ch ữ",
+  "to": "chữ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ch ữa",
+  "to": "chữa",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "chi ều",
+  "to": "chiều",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "d ương",
+  "to": "dương",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "h ọa",
+  "to": "họa",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "h ọc",
+  "to": "học",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "h ợp",
+  "to": "hợp",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "hi ểm",
+  "to": "hiểm",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "ho ặc",
+  "to": "hoặc",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "k ể",
+  "to": "kể",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "kh ỏi",
+  "to": "khỏi",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "l ấn",
+  "to": "lấn",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "l ấy",
+  "to": "lấy",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "l ận",
+  "to": "lận",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "m ắc",
+  "to": "mắc",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "m ỹ",
+  "to": "mỹ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "n ếu",
+  "to": "nếu",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ng ựa",
+  "to": "ngựa",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "nh ỏ",
+  "to": "nhỏ",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "ph ối",
+  "to": "phối",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "quy ền",
+  "to": "quyền",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "s ư",
+  "to": "sư",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "s ướng",
+  "to": "sướng",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "t ượng",
+  "to": "tượng",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "th ẳng",
+  "to": "thẳng",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "th ịnh",
+  "to": "thịnh",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "th ứ",
+  "to": "thứ",
+  "count": 2
+ },
+ {
+  "rule": "B",
+  "from": "ti ến",
+  "to": "tiến",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "tr ước",
+  "to": "trước",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "tr ường",
+  "to": "trường",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "v ướng",
+  "to": "vướng",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "v ới",
+  "to": "với",
+  "count": 2
+ },
+ {
+  "rule": "A",
+  "from": "B ộc",
+  "to": "Bộc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "C ương",
+  "to": "Cương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "D ương",
+  "to": "Dương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "D ậu",
+  "to": "Dậu",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "G ặp",
+  "to": "Gặp",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Gi ả",
+  "to": "Giả",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "H ạn",
+  "to": "Hạn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "H ọ",
+  "to": "Họ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "H ỷ",
+  "to": "Hỷ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Kh ắc",
+  "to": "Khắc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "L ưu",
+  "to": "Lưu",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "L ương",
+  "to": "Lương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "L ộc",
+  "to": "Lộc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "L ực",
+  "to": "Lực",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "Mu ốn",
+  "to": "Muốn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "N ếu",
+  "to": "Nếu",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "S ớm",
+  "to": "Sớm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "S ức",
+  "to": "Sức",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "T ài",
+  "to": "Tài",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "T ả",
+  "to": "Tả",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "T ọa",
+  "to": "Tọa",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "T ừ",
+  "to": "Từ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "T ỵ",
+  "to": "Tỵ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Th ư",
+  "to": "Thư",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Th ương",
+  "to": "Thương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Th ậm",
+  "to": "Thậm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Th ổ",
+  "to": "Thổ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Th ủy",
+  "to": "Thủy",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Tr ước",
+  "to": "Trước",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Tr ẻ",
+  "to": "Trẻ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "Tr ực",
+  "to": "Trực",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "Tri ệt",
+  "to": "Triệt",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "Tu ổi",
+  "to": "Tuổi",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "Tuy ệt",
+  "to": "Tuyệt",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "X ương",
+  "to": "Xương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "b ẻ",
+  "to": "bẻ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "b ỏ",
+  "to": "bỏ",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "bi ết",
+  "to": "biết",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "c ắn",
+  "to": "cắn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ch ơi",
+  "to": "chơi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ch ẳng",
+  "to": "chẳng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ch ết",
+  "to": "chết",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ch ốn",
+  "to": "chốn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ch ồng",
+  "to": "chồng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "d ạ",
+  "to": "dạ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "d ệt",
+  "to": "dệt",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "d ở",
+  "to": "dở",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "g ọi",
+  "to": "gọi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "g ốc",
+  "to": "gốc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ải",
+  "to": "giải",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ảm",
+  "to": "giảm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ết",
+  "to": "giết",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ỏi",
+  "to": "giỏi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ờ",
+  "to": "giờ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "gi ữ",
+  "to": "giữ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "h ơi",
+  "to": "hơi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "h ương",
+  "to": "hương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "h ưởng",
+  "to": "hưởng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "h ộ",
+  "to": "hộ",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ho ạn",
+  "to": "hoạn",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "huy ết",
+  "to": "huyết",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "kh ăn",
+  "to": "khăn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "kh ỏe",
+  "to": "khỏe",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "kho ảng",
+  "to": "khoảng",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ki ếm",
+  "to": "kiếm",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ki ện",
+  "to": "kiện",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "l ần",
+  "to": "lần",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "l ộc",
+  "to": "lộc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "l ừng",
+  "to": "lừng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ưu",
+  "to": "mưu",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ạng",
+  "to": "mạng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ạnh",
+  "to": "mạnh",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ất",
+  "to": "mất",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ật",
+  "to": "mật",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ắt",
+  "to": "mắt",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ẹ",
+  "to": "mẹ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ọi",
+  "to": "mọi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ộ",
+  "to": "mộ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "m ới",
+  "to": "mới",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "n ăm",
+  "to": "năm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "n ăng",
+  "to": "năng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "n ổi",
+  "to": "nổi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "n ở",
+  "to": "nở",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ng ắn",
+  "to": "ngắn",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ng ộ",
+  "to": "ngộ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ng ực",
+  "to": "ngực",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ngh ĩ",
+  "to": "nghĩ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ngh ề",
+  "to": "nghề",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ngh ịch",
+  "to": "nghịch",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "nguy ệt",
+  "to": "nguyệt",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "nh ất",
+  "to": "nhất",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "nh ầm",
+  "to": "nhầm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ph ạt",
+  "to": "phạt",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ph ổi",
+  "to": "phổi",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "ph ục",
+  "to": "phục",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "r ậm",
+  "to": "rậm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "r ằng",
+  "to": "rằng",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ru ộng",
+  "to": "ruộng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "s ắc",
+  "to": "sắc",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "s ớm",
+  "to": "sớm",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "s ức",
+  "to": "sức",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "t ổ",
+  "to": "tổ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "t ử",
+  "to": "tử",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ăng",
+  "to": "thăng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ương",
+  "to": "thương",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ấy",
+  "to": "thấy",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ầy",
+  "to": "thầy",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ế",
+  "to": "thế",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ọ",
+  "to": "thọ",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ời",
+  "to": "thời",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "th ủ",
+  "to": "thủ",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "thu ận",
+  "to": "thuận",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ti ết",
+  "to": "tiết",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "ti ểu",
+  "to": "tiểu",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "tr ần",
+  "to": "trần",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "tr ắng",
+  "to": "trắng",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "tr ẻ",
+  "to": "trẻ",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "truy ền",
+  "to": "truyền",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "v ề",
+  "to": "về",
+  "count": 1
+ },
+ {
+  "rule": "B",
+  "from": "xu ống",
+  "to": "xuống",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "đ ược",
+  "to": "được",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "đ ất",
+  "to": "đất",
+  "count": 1
+ },
+ {
+  "rule": "A",
+  "from": "đ ếm",
+  "to": "đếm",
+  "count": 1
+ }
+]
