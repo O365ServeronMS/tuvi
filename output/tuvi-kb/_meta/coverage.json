@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 45,
+   "referenced": 48,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,9 +268,6 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p30",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31",
     "tb#0040-anh-huong-cua-nhat-nhat-tai-cac-vi-tri-tren-ban",
     "tb#0041-anh-huong-cua-nhung-sao-toa-thu-tai-cung-phu-mau-p01",
     "tb#0041-anh-huong-cua-nhung-sao-toa-thu-tai-cung-phu-mau-p02",
@@ -387,7 +384,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 26.3
+   "coverage_percent": 28.1
   },
   "tl": {
    "chunks": 107,
@@ -834,6 +831,22 @@
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p28": [
    "palace:menh-than:dia-khong+dia-kiep"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29": [
+   "palace:menh-than:hoa-khoa",
+   "palace:menh-than:hoa-ky",
+   "palace:menh-than:hoa-loc",
+   "palace:menh-than:hoa-quyen"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p30": [
+   "palace:menh-than:hoa-khoa",
+   "palace:menh-than:hoa-ky",
+   "palace:menh-than:hoa-quyen"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31": [
+   "palace:menh-than:dai-hao+tieu-hao",
+   "palace:menh-than:tang-mon+bach-ho",
+   "palace:menh-than:thien-khoc+thien-hu"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
