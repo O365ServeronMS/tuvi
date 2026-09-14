@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 23,
+   "referenced": 30,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,13 +268,6 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p08",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p10",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p13",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16",
@@ -409,7 +402,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 13.5
+   "coverage_percent": 17.5
   },
   "tl": {
    "chunks": 107,
@@ -496,7 +489,7 @@
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 43,
+   "referenced": 45,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -511,8 +504,6 @@
     "td#0007-chu-tinh-van-dap-luan",
     "td#0048-thap-nhi-cung-luan",
     "td#0049-cung-menh-cung-than-va-han-deu-tot-thi-suot-doi",
-    "td#0051-cung-ca-quyet-chuong-tren-gap-tham-lang-pha",
-    "td#0052-sao-tham-lang-o-tu-mo-dia-thin-tuat-suu-mui-rat",
     "td#0053-sao-ta-phu-co-the-giang-phuc-la-nguoi-don-hau",
     "td#0054-sao-kinh-duong-thu-menh-tinh-net-cung-ran-tu-mo",
     "td#0057-nhi-thien-di-cung",
@@ -577,7 +568,7 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 35.5
+   "coverage_percent": 37.2
   }
  },
  "chunk_refs": {
@@ -773,6 +764,35 @@
    "palace:menh-than:vu-khuc",
    "palace:menh-than:vu-khuc+tham-lang"
   ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07": [
+   "palace:menh-than:thai-duong"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p08": [
+   "palace:menh-than:thai-duong",
+   "palace:menh-than:thai-duong+cu-mon",
+   "palace:menh-than:thai-duong+thai-am"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09": [
+   "palace:menh-than:thai-duong",
+   "palace:menh-than:thien-co",
+   "palace:menh-than:thien-co+thien-luong"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p10": [
+   "palace:menh-than:thien-co+thien-luong",
+   "palace:menh-than:thien-phu",
+   "palace:menh-than:thien-phu+vu-khuc"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11": [
+   "palace:menh-than:thai-am"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12": [
+   "palace:menh-than:tham-lang",
+   "palace:menh-than:vu-khuc+tham-lang"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p13": [
+   "palace:menh-than:tham-lang",
+   "palace:menh-than:tham-lang+liem-trinh"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -949,12 +969,24 @@
   ],
   "td#0050-sao-tu-vi-de-nhat-tinh-tren-bau-troi-cung-menh": [
    "palace:menh-than:liem-trinh",
+   "palace:menh-than:thai-duong",
+   "palace:menh-than:thien-co",
    "palace:menh-than:thien-dong",
    "palace:menh-than:tu-vi",
    "palace:menh-than:tu-vi+pha-quan",
    "palace:menh-than:tu-vi+tham-lang",
    "palace:menh-than:tu-vi+that-sat",
    "palace:menh-than:vu-khuc"
+  ],
+  "td#0051-cung-ca-quyet-chuong-tren-gap-tham-lang-pha": [
+   "palace:menh-than:thai-am",
+   "palace:menh-than:thien-phu"
+  ],
+  "td#0052-sao-tham-lang-o-tu-mo-dia-thin-tuat-suu-mui-rat": [
+   "palace:menh-than:tham-lang",
+   "palace:menh-than:tham-lang+liem-trinh",
+   "palace:menh-than:thien-co+thien-luong",
+   "palace:menh-than:vu-khuc+tham-lang"
   ],
   "td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu": [
    "star:dia-khong",
