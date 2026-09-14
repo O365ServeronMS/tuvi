@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 94,
+   "referenced": 96,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -269,8 +269,6 @@
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0070-anh-huong-cua-nhung-sao-cuu-giai",
-    "tb#0071-anh-huong-cua-nhung-sao-tac-hoa",
     "tb#0072-tu-vi",
     "tb#0073-thien-dong",
     "tb#0074-thien-phu",
@@ -338,7 +336,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 55.0
+   "coverage_percent": 56.1
   },
   "tl": {
    "chunks": 107,
@@ -1096,6 +1094,31 @@
    "palace:thien-di:tuan+triet",
    "palace:thien-di:tuong-quan+phuc-binh+de-vuong+thai+dao-hoa+hong-loan+kiep-sat+luu-ha",
    "palace:thien-di:van-xuong+van-khuc+thien-khoi+thien-viet"
+  ],
+  "tb#0070-anh-huong-cua-nhung-sao-cuu-giai": [
+   "palace:tat-ach:hoa-quyen+ta-phu+huu-bat+thanh-long+thieu-duong+thieu-am+phuc-duc-tinh+tuan+triet+thien-duc",
+   "palace:tat-ach:tu-vi+thien-phu+thien-luong+hoa-loc+hoa-khoa+loc-ton+bac-sy+trang-sinh+de-vuong+thien-giai+dia-giai+giai-than"
+  ],
+  "tb#0071-anh-huong-cua-nhung-sao-tac-hoa": [
+   "palace:tat-ach:cu-mon",
+   "palace:tat-ach:da-la",
+   "palace:tat-ach:dia-khong+dia-kiep+hoa-ky+loc-ton+tieu-hao+dai-hao+thai-tue+thien-ma",
+   "palace:tat-ach:hoa-tinh+linh-tinh",
+   "palace:tat-ach:kinh-duong",
+   "palace:tat-ach:kinh-duong+benh-phu+quan-phu+dieu-khach+moc-duc+benh+thai+dao-hoa+hong-loan",
+   "palace:tat-ach:liem-trinh",
+   "palace:tat-ach:pha-quan",
+   "palace:tat-ach:tang-mon+bach-ho+thien-hinh+long-tri+thien-khoc+thien-hu",
+   "palace:tat-ach:thai-am",
+   "palace:tat-ach:thai-duong",
+   "palace:tat-ach:tham-lang",
+   "palace:tat-ach:that-sat",
+   "palace:tat-ach:thien-co",
+   "palace:tat-ach:thien-dong",
+   "palace:tat-ach:thien-luong",
+   "palace:tat-ach:thien-tuong",
+   "palace:tat-ach:thien-viet+phuc-binh+duong+thien-hinh+thien-rieu+thien-hy+hoa-cai+co-than+qua-tu+luu-ha",
+   "palace:tat-ach:vu-khuc"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
