@@ -1,0 +1,86 @@
+---
+id: npl#0107-nhung-phu-tinh-chi-khoa-bang
+book: nguyen-phat-loc
+book_code: npl
+book_title: "Tử Vi Tổng Hợp (Nguyễn Phát Lộc)"
+title: "2. – Những phụ tinh chỉ khoa bảng"
+heading_path: ["B. - CÁC SAO KHOA BẢNG", "2. – Những phụ tinh chỉ khoa bảng"]
+level: 3
+ordinal: 107
+part: 1
+parts: 1
+source_file: input/TU-VI-TONG-HOP-NGUYEN-PHAT-LOC.clean.md
+source_lines: 4873-4924
+chars: 3615
+stars_detected:
+  - hoa-khoa
+  - thien-hinh
+  - bac-sy
+  - hoa-tinh
+  - linh-tinh
+  - luu-ha
+  - thai-tue
+  - long-tri
+  - phuong-cac
+  - thai-duong
+  - thien-khoi
+  - thien-khong
+  - thien-viet
+  - van-khuc
+  - van-xuong
+stars_in_title: []
+palaces_detected: [menh]
+non_luan: false
+---
+
+### 2. – Những phụ tinh chỉ khoa bảng
+
+− Hoá khoa
+
+Sao này điển hình cho khoa bảng. Ngoài đức tính thông minh, hiếu học, Hoá Khoa còn chỉ sự đỗ đạt, trình độ học vấn cao và rộng.
+
+Năng khiếu học vấn còn đi liền với khả năng sư phạm, khả năng sáng tác, sưu tầm. Có Hoá Khoa ở Mệnh hay chiếu Mệnh, học trò thì xuất sắc, thầy giáo thì dạy hay, khảo cứu thì nổi danh, có viết sách.
+
+Hoá Khoa còn chỉ phương pháp dạy và học độc đáo, cách thức trình bày, ngăn nắp, hệ thống hoá các điều hiểu biết một cách mạch lạc, trật tự, diễn tả tư tưởng rất rõ ràng và thông thái.
+
+Vì thế Hoá Khoa là một sao hùng biện, lối hùng biện củ người có học vấn uyên thâm, của hạng thức giả.
+
+− Văn xương, Văn Khúc Nếu Hoá Khoa tượng trung cho trí tuệ thuần túy thì Xương, Khúc tượng trưng cho tình cảm và trí tuệ. Vì vậy, Xương, Khúc rất xuất sắc trong những ngành học nào mình thích, trong khi Hoá Khoa
+
+thì giỏi về nhiều môn. Thành thử, cái học cảu Xương, Khúc thiên về chuyên khoa, cái học của Hoá Khoa thì thiên về liên khoa (culture générale). Cũng vì lẽ đó, nên khó ai vượt nổi Xương, Khúc trong chuyên môn sở trường. Cái học của Hoá Khoa có chiều rộng, còn cái học của Xương, Khúc nặng về chiều sâu.
+
+Vì nặn về tình cảm nên ngành học của Xương, Khúc là văn chương, triết lý, thi ca, nhạc kịch, vốn là các bộ môn làmrung động mãnh liệt tâm hồn con người.
+
+− Thiên khôi, Thiên việt
+
+Về mặt vật dụng, Khôi chỉ bằng sắc, Việt chỉ bút nghiên. Cả hai là biểu tượng cho người học trò giỏi và đỗ đạt. Vì ý nghĩa văn học trực tiếp như thế nên có thể nói Khôi, Việt chỉ sự lỗi lạc, xuất chúng trong nhiều ngành, còn Xương, Khúc thì chỉ hay trong một ngành.
+
+Khôi còn có nghĩa là đứng đầu, cầm đầu, vì thế có tinh thần ganh đua mãnh liệt để chiếm giải nhất, không chấp nhận nổi sự thua thiệt. Đức tính quý báu của Khôi, Việt là óc lãnh tụ, sự mưu cơ, tài tổ chức, chí hướng chỉ huy, lãnh đạo. Có thể vì vậy mà Khôi, Việt hữu dụng cho xã hội, trong khi
+
+Hoá, Khoa và Xương, Khúc thường đắc dụng cho học đường, cho ngành gíao dục thuần túy. Khôi, Việt vừalà người có học, vừa biết ứng dụng cái học vào trường đời, cũng bằng ý chí tranh thắng thi đua, vốn là động cơ thành công trong nhiều lãnh vực. Cho nên Khôi, Việt phải đắc thời và hiển đạt. Điều này cólẽ nhờ tinh thần thực tiển hơn là lý thuyết của hai sao này.
+
+− Long trì, Phượng các.
+
+Bằng cấp của hai sao này rất cao, đặc biệt là khi đứng đồng cung ở Mùi (với người tuổi Mão) hoặc ở Sửu (với người tuổi Dậu). Tuy nhiên, sách vỡ không nói rõ chi tiết hơn.
+
+− Thiên hình Chỉ năng khiếu nhận xét tinh vi, phê phán phân minh (jugenment), sao này rất đắc dụng cho người
+
+khảo cứu, cho lụât gia, cho học trò, cho nhà phê bình nghệ thuật, văn chương. Nếu văn của Xương Khúc nồng nàn, bóng bẩy thì văn của Thiên Hình lại khô khan, kỹ thuật, nhưng vô cùng chính xác.
+
+− Thái Tuế
+
+Sao này lanh lợi, nói giỏi, nhiều ý và nhất là nhiều lời, hoạt bát. Ý và lời còn vượt xa địa hạt phê bình để đi tới soi bói, chỉ trích. Cho nên Thái Tuế không khách quan như Thiên Hình, vì vậy thích
+
+hợp cho luật sư, công tố, ứng cử viên tranh cử, chính trị gia……
+
+− Văn tinh, Lưu Hà, Bác Sỹ
+
+Văn tinh chỉ sự ham học, Lưu Hà và Bác Sỹ chỉ sự hùng biện sự diễn đạt tư tưởng thâm thúy. Cả 3 đều cần cho học trò, cho giáo sư, cho thuyết khách.
+
+− Hoả tinh, Linh tinh đắc địa Đi với Thái Dương sáng sủa, Hoả, Linh làm tăng thêmsự mẫn tiệp (perspicaifé), có lợi cho sự học
+
+hỏi và khảo cứu, điều tra. Cả 3 cùng là sao hoả nên rất sắc bén linh động.
+
+− Thiên Không
+
+Chỉ sự thông minh của hạng mưu sĩ, lưu manh, cắc cớ, gian xảo, dùng trí để hại, để phá, để diệt kẻ khác. Nếu là học trò thì hay đánh phép, cóp bài lúc thi.
