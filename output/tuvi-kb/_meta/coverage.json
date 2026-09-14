@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 96,
+   "referenced": 103,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -269,13 +269,6 @@
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0072-tu-vi",
-    "tb#0073-thien-dong",
-    "tb#0074-thien-phu",
-    "tb#0075-thien-tuong",
-    "tb#0076-pha-quan",
-    "tb#0077-ta-huu",
-    "tb#0078-khong-kiep-ta-huu-sat-tinh-tuong-phuc",
     "tb#0079-tien-quyet",
     "tb#0080-nhan-dinh-anh-huong-cac-sao-p01",
     "tb#0080-nhan-dinh-anh-huong-cac-sao-p02",
@@ -336,7 +329,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 56.1
+   "coverage_percent": 60.2
   },
   "tl": {
    "chunks": 107,
@@ -1119,6 +1112,61 @@
    "palace:tat-ach:thien-tuong",
    "palace:tat-ach:thien-viet+phuc-binh+duong+thien-hinh+thien-rieu+thien-hy+hoa-cai+co-than+qua-tu+luu-ha",
    "palace:tat-ach:vu-khuc"
+  ],
+  "tb#0072-tu-vi": [
+   "palace:tai-bach:liem-trinh",
+   "palace:tai-bach:tu-vi"
+  ],
+  "tb#0073-thien-dong": [
+   "palace:tai-bach:thai-duong",
+   "palace:tai-bach:thien-co",
+   "palace:tai-bach:thien-dong",
+   "palace:tai-bach:vu-khuc"
+  ],
+  "tb#0074-thien-phu": [
+   "palace:tai-bach:cu-mon",
+   "palace:tai-bach:thai-am",
+   "palace:tai-bach:tham-lang",
+   "palace:tai-bach:thien-phu"
+  ],
+  "tb#0075-thien-tuong": [
+   "palace:tai-bach:that-sat",
+   "palace:tai-bach:thien-luong",
+   "palace:tai-bach:thien-tuong"
+  ],
+  "tb#0076-pha-quan": [
+   "palace:tai-bach:dia-khong+dia-kiep",
+   "palace:tai-bach:hoa-tinh+linh-tinh",
+   "palace:tai-bach:kinh-duong+da-la",
+   "palace:tai-bach:pha-quan",
+   "palace:tai-bach:thien-khoi+thien-viet",
+   "palace:tai-bach:van-xuong+van-khuc"
+  ],
+  "tb#0077-ta-huu": [
+   "palace:tai-bach:an-quang+thien-quy",
+   "palace:tai-bach:co-than+qua-tu",
+   "palace:tai-bach:dai-hao+tieu-hao",
+   "palace:tai-bach:dao-hoa+hong-loan",
+   "palace:tai-bach:dau-quan",
+   "palace:tai-bach:dieu-khach",
+   "palace:tai-bach:hoa-ky",
+   "palace:tai-bach:hoa-quyen+hoa-khoa",
+   "palace:tai-bach:liem-trinh+kinh-duong+da-la+hoa-tinh+linh-tinh+dia-khong+dia-kiep",
+   "palace:tai-bach:loc-ton+hoa-loc",
+   "palace:tai-bach:phuc-binh",
+   "palace:tai-bach:ta-phu+huu-bat",
+   "palace:tai-bach:thien-ma",
+   "palace:tai-bach:thien-rieu+thien-y",
+   "palace:tai-bach:thien-tuong+that-sat+dia-khong+dia-kiep+hoa-loc+ta-phu+huu-bat+phuc-binh+thien-khong",
+   "palace:tai-bach:tu-vi",
+   "palace:tai-bach:tuan+triet"
+  ],
+  "tb#0078-khong-kiep-ta-huu-sat-tinh-tuong-phuc": [
+   "palace:tai-bach:da-la+hoa-loc+tieu-hao+dai-hao+tang-mon+thien-ma+hong-loan",
+   "palace:tai-bach:hoa-tinh+linh-tinh+dia-khong+dia-kiep+tieu-hao+dai-hao+dao-hoa+hong-loan",
+   "palace:tai-bach:thien-co+da-la+hoa-ky+luc-sy+thai-tue+tang-mon+mo+thien-hinh+long-tri+phuong-cac+dao-hoa+kiep-sat+luu-ha",
+   "palace:tai-bach:thien-tuong+that-sat+dia-khong+dia-kiep+hoa-loc+ta-phu+huu-bat+phuc-binh+thien-khong",
+   "palace:tai-bach:tuan+triet"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
