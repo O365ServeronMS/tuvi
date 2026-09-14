@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 7,
+   "referenced": 10,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -267,9 +267,6 @@
     "tb#0018-ngay-va-gio",
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
-    "tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh",
-    "tb#0027-thien-khong-hoa",
-    "tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh",
     "tb#0029-thien-hinh-hoa",
     "tb#0030-tam-thai-thuy-bat-toa-moc",
     "tb#0031-quoc-an-tho",
@@ -425,21 +422,18 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 4.1
+   "coverage_percent": 5.8
   },
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 5,
+   "referenced": 14,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
     "tl#0005-cua-60-hoa-giap",
     "tl#0006-kim-chung-khac-moc-lau",
     "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung",
-    "tl#0008-nen-rat-chat-che",
-    "tl#0009-danh-du-cua-long-phuong-ta-huu-xuong-khuc",
-    "tl#0010-bua-me-thuoc-lu-khoa-quyen-loc",
     "tl#0011-gop-mat-chung-voi-thai-tue",
     "tl#0012-nhung-hanh-tinh",
     "tl#0013-hieu-nang-cua-quoc-an-duong-phu",
@@ -447,10 +441,6 @@
     "tl#0015-the-nao-la-thien-la-dia-vong",
     "tl#0016-b-giu-lai",
     "tl#0017-thien-tru-cung-quan-he-lam-sao",
-    "tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep",
-    "tl#0019-hung-khi-cua-luc-sat-tinh",
-    "tl#0020-hung-sat-tinh-ngo-che-la-dang-qui",
-    "tl#0021-pham-chat-rieng-biet-giua-van-xuong-va-van-khuc",
     "tl#0023-boi-dau-bach-ho-duong-phu-tro-nen-ac-hai",
     "tl#0024-nhung-truong-hop-ngoai-le-cua-bai-luc-tinh",
     "tl#0025-thien-phu-thai-am-tham-lang-cu-mon-thien-tuong",
@@ -459,12 +449,10 @@
     "tl#0028-thuong-su-la-2-don-canh-cho-3-doan-duong-luon",
     "tl#0029-nhung-dang-duc-hanh-cao-day-khong-co-gi-ngan-p01",
     "tl#0029-nhung-dang-duc-hanh-cao-day-khong-co-gi-ngan-p02",
-    "tl#0030-khoi-viet-thien-at-qui-nhan",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
     "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh",
     "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than",
     "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban",
-    "tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu",
     "tl#0040-ty-voi-than-ngo-voi-mui",
     "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
     "tl#0042-trong-tu-vi-vong-trang-sinh-co-y-nghia-gi",
@@ -532,12 +520,12 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 4.8
+   "coverage_percent": 13.5
   },
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 20,
+   "referenced": 36,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -550,23 +538,9 @@
     "td#0005-ban-phuong-tot-cat-la-do-noi-tu-cuong-manh-tu",
     "td#0006-cung-xung-chieu-tot-la-nghenh-xuan-tiep-phuc",
     "td#0007-chu-tinh-van-dap-luan",
-    "td#0027-sao-van-xuong",
-    "td#0028-sao-van-khuc",
-    "td#0029-sao-ta-phu-huu-bat",
-    "td#0030-sao-thien-khoi-thien-viet",
-    "td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la",
-    "td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha",
-    "td#0033-sao-hoa-quyen",
-    "td#0034-sao-hoa-ki-nhap-mieu-lai-thanh-hay",
-    "td#0035-sao-kinh-duong",
-    "td#0036-cung-tam-hop-xung-chieu-menh-than-ma-gap-ta-huu",
-    "td#0037-sao-hoa-tinh",
-    "td#0038-sao-linh-tinh",
     "td#0039-cung-phuc-duc-va-tai-bach-moi-sinh-ra-da-ngheo",
     "td#0040-sao-thien-thuong-thien-su",
     "td#0041-sao-thien-rieu-o-cung-tuat-mao-dau-cau-thu-hai",
-    "td#0042-sao-thien-khoc-thien-hu",
-    "td#0043-sao-loc-ton-tren-day-de-phat-trien-loi-giang",
     "td#0044-cung-doi-chieu-voi-tang-mon-an-bach-ho-cung-doi",
     "td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu",
     "td#0046-tam-thai-bat-toa",
@@ -577,8 +551,6 @@
     "td#0052-sao-tham-lang-o-tu-mo-dia-thin-tuat-suu-mui-rat",
     "td#0053-sao-ta-phu-co-the-giang-phuc-la-nguoi-don-hau",
     "td#0054-sao-kinh-duong-thu-menh-tinh-net-cung-ran-tu-mo",
-    "td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu",
-    "td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi",
     "td#0057-nhi-thien-di-cung",
     "td#0058-tam-quan-loc-cung",
     "td#0059-tu-tai-bach-cung",
@@ -641,12 +613,17 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 16.5
+   "coverage_percent": 29.8
   }
  },
  "chunk_refs": {
   "npl#0204-cac-sao-thien-can": [
    "palace:menh-than:tu-vi+tham-lang"
+  ],
+  "tb#0012-sao-luu-ha": [
+   "star:thien-khong",
+   "star:triet",
+   "star:tuan"
   ],
   "tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh": [
    "star:liem-trinh",
@@ -655,6 +632,8 @@
   "tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh": [
    "star:thai-duong",
    "star:thien-dong",
+   "star:triet",
+   "star:tuan",
    "star:vu-khuc"
   ],
   "tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh": [
@@ -665,12 +644,46 @@
   "tb#0024-tham-lang-bac-dau-tinh-am-thuy-hung-tinh-dam": [
    "star:cu-mon",
    "star:tham-lang",
-   "star:thien-tuong"
+   "star:thien-tuong",
+   "star:triet",
+   "star:tuan"
   ],
   "tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh": [
+   "star:da-la",
+   "star:dai-hao",
+   "star:kinh-duong",
    "star:pha-quan",
    "star:that-sat",
-   "star:thien-luong"
+   "star:thien-luong",
+   "star:tieu-hao"
+  ],
+  "tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh": [
+   "star:dia-khong",
+   "star:dia-kiep",
+   "star:hoa-tinh",
+   "star:huu-bat",
+   "star:linh-tinh",
+   "star:loc-ton",
+   "star:ta-phu",
+   "star:thien-khoi",
+   "star:thien-viet",
+   "star:van-khuc",
+   "star:van-xuong"
+  ],
+  "tb#0027-thien-khong-hoa": [
+   "star:dai-hao",
+   "star:hoa-khoa",
+   "star:hoa-ky",
+   "star:hoa-loc",
+   "star:hoa-quyen",
+   "star:thien-khong"
+  ],
+  "tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh": [
+   "star:dai-hao",
+   "star:thien-hu",
+   "star:thien-khoc",
+   "star:thien-ma",
+   "star:tieu-hao"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p01": [
    "palace:menh-than:tu-vi+tham-lang"
@@ -735,12 +748,125 @@
   "td#0026-sao-pha-quan": [
    "star:pha-quan"
   ],
+  "td#0027-sao-van-xuong": [
+   "star:van-xuong"
+  ],
+  "td#0028-sao-van-khuc": [
+   "star:van-khuc"
+  ],
+  "td#0029-sao-ta-phu-huu-bat": [
+   "star:huu-bat",
+   "star:ta-phu"
+  ],
+  "td#0030-sao-thien-khoi-thien-viet": [
+   "star:thien-khoi",
+   "star:thien-viet"
+  ],
+  "td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la": [
+   "star:loc-ton"
+  ],
+  "td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha": [
+   "star:hoa-khoa",
+   "star:hoa-loc",
+   "star:thien-ma"
+  ],
+  "td#0033-sao-hoa-quyen": [
+   "star:hoa-quyen"
+  ],
+  "td#0034-sao-hoa-ki-nhap-mieu-lai-thanh-hay": [
+   "star:hoa-ky"
+  ],
+  "td#0035-sao-kinh-duong": [
+   "star:kinh-duong"
+  ],
+  "td#0036-cung-tam-hop-xung-chieu-menh-than-ma-gap-ta-huu": [
+   "star:da-la",
+   "star:kinh-duong"
+  ],
+  "td#0037-sao-hoa-tinh": [
+   "star:hoa-tinh"
+  ],
+  "td#0038-sao-linh-tinh": [
+   "star:linh-tinh"
+  ],
+  "td#0042-sao-thien-khoc-thien-hu": [
+   "star:dai-hao",
+   "star:thien-hu",
+   "star:thien-khoc",
+   "star:tieu-hao",
+   "star:triet",
+   "star:tuan"
+  ],
+  "td#0043-sao-loc-ton-tren-day-de-phat-trien-loi-giang": [
+   "star:dai-hao",
+   "star:tieu-hao"
+  ],
   "td#0050-sao-tu-vi-de-nhat-tinh-tren-bau-troi-cung-menh": [
    "palace:menh-than:tu-vi+tham-lang"
+  ],
+  "td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu": [
+   "star:dia-khong",
+   "star:dia-kiep",
+   "star:thien-khong"
+  ],
+  "td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi": [
+   "star:hoa-khoa"
+  ],
+  "tl#0008-nen-rat-chat-che": [
+   "star:hoa-loc",
+   "star:hoa-quyen",
+   "star:loc-ton",
+   "star:thien-khong"
+  ],
+  "tl#0009-danh-du-cua-long-phuong-ta-huu-xuong-khuc": [
+   "star:huu-bat",
+   "star:ta-phu",
+   "star:van-khuc",
+   "star:van-xuong"
+  ],
+  "tl#0010-bua-me-thuoc-lu-khoa-quyen-loc": [
+   "star:hoa-khoa",
+   "star:hoa-ky",
+   "star:hoa-loc",
+   "star:hoa-quyen"
+  ],
+  "tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep": [
+   "star:dia-khong",
+   "star:dia-kiep"
+  ],
+  "tl#0019-hung-khi-cua-luc-sat-tinh": [
+   "star:da-la",
+   "star:dia-khong",
+   "star:dia-kiep",
+   "star:hoa-tinh",
+   "star:kinh-duong",
+   "star:linh-tinh"
+  ],
+  "tl#0020-hung-sat-tinh-ngo-che-la-dang-qui": [
+   "star:da-la",
+   "star:hoa-khoa",
+   "star:hoa-ky",
+   "star:hoa-tinh",
+   "star:kinh-duong",
+   "star:linh-tinh",
+   "star:thien-hu",
+   "star:thien-khoc",
+   "star:triet",
+   "star:tuan"
+  ],
+  "tl#0021-pham-chat-rieng-biet-giua-van-xuong-va-van-khuc": [
+   "star:huu-bat",
+   "star:ta-phu",
+   "star:van-khuc",
+   "star:van-xuong"
   ],
   "tl#0022-a-liem-sat-suu-mui": [
    "star:liem-trinh",
    "star:pha-quan"
+  ],
+  "tl#0030-khoi-viet-thien-at-qui-nhan": [
+   "star:thien-khoi",
+   "star:thien-viet"
   ],
   "tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day": [
    "star:thai-am",
@@ -767,6 +893,12 @@
    "star:thien-tuong",
    "star:tu-vi",
    "star:vu-khuc"
+  ],
+  "tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu": [
+   "star:dia-khong",
+   "star:thien-khong",
+   "star:triet",
+   "star:tuan"
   ]
  }
 }
