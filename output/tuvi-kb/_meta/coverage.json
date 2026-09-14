@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 30,
+   "referenced": 38,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,14 +268,6 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p17",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p18",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p19",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20",
-    "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23",
     "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24",
@@ -402,7 +394,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 17.5
+   "coverage_percent": 22.2
   },
   "tl": {
    "chunks": 107,
@@ -793,6 +785,40 @@
    "palace:menh-than:tham-lang",
    "palace:menh-than:tham-lang+liem-trinh"
   ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14": [
+   "palace:menh-than:cu-mon",
+   "palace:menh-than:thai-duong+cu-mon"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15": [
+   "palace:menh-than:cu-mon",
+   "palace:menh-than:cu-mon+thien-co",
+   "palace:menh-than:cu-mon+thien-dong",
+   "palace:menh-than:thai-duong+cu-mon"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16": [
+   "palace:menh-than:thien-tuong"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p17": [
+   "palace:menh-than:thien-dong+thien-luong",
+   "palace:menh-than:thien-luong",
+   "palace:menh-than:thien-luong+thai-am",
+   "palace:menh-than:thien-luong+thai-duong"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p18": [
+   "palace:menh-than:that-sat",
+   "palace:menh-than:that-sat+liem-trinh",
+   "palace:menh-than:thien-luong",
+   "palace:menh-than:tu-vi+that-sat"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p19": [
+   "palace:menh-than:that-sat"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20": [
+   "palace:menh-than:pha-quan"
+  ],
+  "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21": [
+   "palace:menh-than:pha-quan"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -983,9 +1009,15 @@
    "palace:menh-than:thien-phu"
   ],
   "td#0052-sao-tham-lang-o-tu-mo-dia-thin-tuat-suu-mui-rat": [
+   "palace:menh-than:cu-mon",
+   "palace:menh-than:pha-quan",
    "palace:menh-than:tham-lang",
    "palace:menh-than:tham-lang+liem-trinh",
+   "palace:menh-than:that-sat",
    "palace:menh-than:thien-co+thien-luong",
+   "palace:menh-than:thien-luong",
+   "palace:menh-than:thien-luong+thai-duong",
+   "palace:menh-than:thien-tuong",
    "palace:menh-than:vu-khuc+tham-lang"
   ],
   "td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu": [
