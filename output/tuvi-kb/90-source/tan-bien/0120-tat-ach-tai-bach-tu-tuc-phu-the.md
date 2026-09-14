@@ -1,0 +1,154 @@
+---
+id: tb#0120-tat-ach-tai-bach-tu-tuc-phu-the
+book: tan-bien
+book_code: tb
+book_title: "Tử Vi Đẩu Số Tân Biên"
+title: "TẬT ÁCH TÀI BẠCH TỬ TỨC PHU THÊ"
+heading_path: ["TẬT ÁCH TÀI BẠCH TỬ TỨC PHU THÊ"]
+level: 1
+ordinal: 120
+part: 1
+parts: 1
+source_file: input/TU-VI-DAU-SO-TAN-BIEN.clean.md
+source_lines: 8257-8371
+chars: 3580
+stars_detected:
+  - linh-tinh
+  - thien-ma
+  - triet
+  - tuan
+  - bach-ho
+  - da-la
+  - hoa-tinh
+  - hong-loan
+  - quan-phu
+  - thai-duong
+  - thai-tue
+  - thien-hinh
+  - thien-khoc
+  - thieu-duong
+  - bac-sy
+  - bat-toa
+  - benh-phu
+  - co-than
+  - cu-mon
+  - dai-hao
+stars_in_title: []
+palaces_detected: [menh, phu-the, phuc-duc, tat-ach, than, tu-tuc]
+non_luan: false
+---
+
+# TẬT ÁCH TÀI BẠCH TỬ TỨC PHU THÊ
+
+| Thiên Phủ (Đ) | Thiên Đồng (H) | Vũ Khúc (M) | Thái Dương (H) |
+| --- | --- | --- | --- |
+| Thái Âm (H) | Tham Lang (M) | Cự Môn (Đ) |  |
+
+Điếu Khách - Thiên Sứ - Tiểu Hao - Trực Phù - Văn Thái Tuế - Thiên Hình - Cô Thần - Kiếp Sát - Hóa Thiếu Dương - Tướng Khúc - Thiên Khôi - Thiên Hỏa Tinh - Thanh Long - Kỵ - Thiên Không - Đà La Quân - Quốc Ấn - Địa Giải Giải - Thiên Trù - Hóa Tam Thai - Bát Tọa - Hoa - Lực Sỹ - Thiếu Dương - - Thiên Tài - Thiên Mã - Khoa - Suy Cái - Đế Vượng Văn Xương - Hồng Loan -
+
+Thiên Phúc - Bệnh Thai Phụ - Hóa Quyền - Hóa Lộc - Lâm Quan
+
+| 53 | 43 | 33 | 23 |
+| --- | --- | --- | --- |
+| Hợi | Tý | Sửu | Dần |
+
+# THIÊN DI
+
+Thiên La - Quả Tú - Lưu Hà - Tấu Thư - Phúc Đức - Thiên Đức - Phong Cáo - Tử
+
+63
+
+tấuT Mão
+
+# HUYNH ĐỆ
+
+Thiên Tướng (H) Tang Môn - Địa Không - Lộc Tồn - Bác Sỹ - Thiên Thọ - Thiên Quan - Quan Đới 13
+
+# NÔ BỘC
+
+Liêm Trinh (H) Phá Quân (H)
+
+# Phi Liêm - Bạch Hổ -
+
+Thiên Thương - Phượng Các - Giải Thần - Mộ uậD Âm Nam Năm Tân Mùi, tháng 11, ngày 30, giờ Dần Mệnh Lộ Bàng Thổ Mộc Tam Cục Thìn Triệt
+
+# MỆNH VIÊN
+
+Thiên Cơ (M) Thiên Lương (M) Quan Phủ - Địa Võng - Kình Dương - Thiếu Âm - Mộc Dục 3
+
+Thân Mùi Ngọ Tỵ Tuần
+
+# QUAN LỘC - THÂN ĐIỀN TRẠCH PHÚC ĐỨC PHỤ MẪU
+
+Tử Vi (B) Thất Sát (V) Hỷ Thần - Long Đức - Tả Bệnh Phù - Tuế Phá - Đại Hao - Tử Phù - Linh Phục Binh - Quan Phù - Phù - Thiên Quý - Thiên Thiên Hư - Phá Toái - Địa Linh - Hữu Bật - Ân Thiên Khốc - Thiên Riêu - Việt - Đường Phù - Thiên Kiếp - Thai Quang - Nguyệt Đức - Đào Long Trì - Thiên Y - Đẩu Hỷ - Tuyệt Hoa - Lưu Niên - Dưỡng Quân - Thiên Mã - Tràng Sinh Mệnh: Cơ, Lương, Tuần án ngữ, Triệt xung chiếu. Thiếu thời rất lao khổ, không thể sống lâu được, chỉ có tu hành mới được hưởng phúc thọ. Gốc đại hạn (23-32) có Cự, Nhật, Xương, Kỵ, Đà, Sát, Lực Hồng, Không, Tuyệt, Lưu, Tử, Linh, Cô, Quả. Lưu niên tiểu hạn năm Tỵ có Tử, Sát, Phục, Đẩu, Khốc, Phủ, Tướng, ấn, Mã, Hổ, Hình, Phi, Hỏa, Thương, Sứ. Cung nhập hạn có Tuần án ngữ, Triệt xung chiếu. Lưu Thái Tuế năm Tỵ tại cung Tật Ách, năm Quý Tỵ (1953) 23 tuổi tử trận tại làng Quần - Phương Hạ - Nam Định.
+
+# MỤC LỤC
+
+# LỜI NÓI ĐẦU 1
+
+# PHẦN 1 - LẬP THÀNH 2
+
+| 1. Định cung | 2 |
+| --- | --- |
+| 2. Tìm Bản Mệnh | 2 |
+| 3. Phân Âm Dương | 3 |
+| 4. Định giờ | 3 |
+| 5. An Mệnh | 3 |
+| 6. An Thân | 3 |
+| 7. Lập cục | 4 |
+| 8. An sao | 4 |
+| 9. Định hướng chiếu | 13 |
+| 10. Khởi hạn | 15 |
+| 11. Lý giải Ngũ Hành, Can, Chi | 17 |
+
+# PHẦN 2 - LUẬN ĐOÁN 12 CUNG 23
+
+1. Những điều phải chú ý trước khi luận đoán 23
+
+| 2. Định danh | 24 |
+| --- | --- |
+| 3. Đặc tính các sao | 25 |
+
+4. Nhận định khái quát về cung Mệnh và cung Thân 39
+
+| 5. Cung Phụ Mẫu | 95 |
+| --- | --- |
+| 6. Cung Phúc Đức | 101 |
+| 7. Điền Trạch | 114 |
+| 8. Quan Lộc | 121 |
+| 9. Nô Bộc | 128 |
+| 10. Thiên Di | 132 |
+| 11. Tật Ách | 137 |
+| 12. Tài Bạch | 144 |
+| 13. Tử Tức | 150 |
+| 14. Thê Thiếp (Phu Quân) | 157 |
+| 15. Huynh Đệ | 164 |
+| 16. Nhận định về mùa sinh và giờ sinh | 169 |
+
+| 17. Phụ luận về Mệnh Thân | 170 |
+| --- | --- |
+| 18. Phụ luận về Tử Tức | 171 |
+| 19. Phân cục | 171 |
+
+20. Nhận xét số mệnh của một vài hạng người 175
+
+| 21. Luận số tiểu nhi | 177 |
+| --- | --- |
+| 22. Phụ luận bản mệnh thuộc Ngũ Hành | 180 |
+| 23. Ý nghĩa hình tượng của sao | 182 |
+
+# PHẦN 3 - LUẬN ĐOÁN VẬN HẠN 186
+
+| 1. Phương pháp luận đoán vận hạn | 186 |
+| --- | --- |
+| 2. Nhận định về hạn | 186 |
+
+3. Nhận định ảnh hưởng củaa những sao nhập hạn 190
+
+4. Nhận định ảnh hưởng củaa những sao lưu động 202
+
+| 5. Luận đoán chết và đám tang | 204 |
+| --- | --- |
+| 6. Phụ lục | 205 |
+
+# MỤC LỤC 210

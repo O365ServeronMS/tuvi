@@ -234,8 +234,11 @@ def build_chunks(sections: list[Section]) -> list[Chunk]:
         start = pending[0].start_line if pending else sec.start_line
         pending = []
         end = sec.start_line + len(sec.lines) - 1
-        size = sum(len(l) for l in lines if l.strip())
-        if size < MIN_CHUNK and chunks and not is_container:
+        size = _size(lines)
+        # A tiny section joins the previous chunk only while that chunk is itself still
+        # small, so a run of short sections (Tân Biên mục 3: 85 star entries) packs into
+        # chunks of MIN..~2*MIN chars instead of being swallowed by one big neighbour.
+        if size < MIN_CHUNK and chunks and not is_container and _size(chunks[-1].lines) < MIN_CHUNK:
             prev = chunks[-1]
             prev.lines.extend(lines)
             prev.end_line = end
@@ -249,7 +252,31 @@ def build_chunks(sections: list[Section]) -> list[Chunk]:
         else:
             chunks.append(Chunk(0, pending[0].title, [pending[0].title], pending[0].level, lines,
                                 pending[0].start_line, pending[-1].start_line + len(pending[-1].lines) - 1))
-    if len(chunks) > 1 and sum(len(l) for l in chunks[0].lines if l.strip()) < MIN_CHUNK:
+    # A lone short section wedged between two big ones stays tiny; fold it into the
+    # previous chunk when that one still has room.
+    packed: list[Chunk] = []
+    carry: list[Chunk] = []  # tiny chunks waiting to be prepended to the next chunk
+    for c in chunks:
+        if _size(c.lines) < MIN_CHUNK:
+            if packed and _size(packed[-1].lines) < TARGET_CHUNK:
+                packed[-1].lines.extend(c.lines)
+                packed[-1].end_line = c.end_line
+            else:
+                carry.append(c)
+            continue
+        if carry:
+            c.lines = [l for t in carry for l in t.lines] + c.lines
+            c.start_line = carry[0].start_line
+            carry = []
+        packed.append(c)
+    if carry:
+        if packed:
+            packed[-1].lines.extend(l for t in carry for l in t.lines)
+            packed[-1].end_line = carry[-1].end_line
+        else:
+            packed.extend(carry)
+    chunks = packed
+    if len(chunks) > 1 and _size(chunks[0].lines) < MIN_CHUNK:
         first = chunks.pop(0)  # publisher page / bare book title: fold into the next chunk
         chunks[0].lines = first.lines + chunks[0].lines
         chunks[0].start_line = first.start_line
