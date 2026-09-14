@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 62,
+   "referenced": 66,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,12 +268,8 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p08",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p09",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p10",
     "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p11",
     "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p12",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p13",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
     "tb#0044-tu-vi",
     "tb#0045-vu-khuc",
@@ -370,7 +366,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 36.3
+   "coverage_percent": 38.6
   },
   "tl": {
    "chunks": 107,
@@ -906,6 +902,39 @@
    "palace:phuc-duc:pha-quan",
    "palace:phuc-duc:that-sat"
   ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p08": [
+   "palace:phuc-duc:dia-khong+dia-kiep",
+   "palace:phuc-duc:hoa-tinh+linh-tinh",
+   "palace:phuc-duc:kinh-duong+da-la",
+   "palace:phuc-duc:thien-khoi+thien-viet",
+   "palace:phuc-duc:van-xuong+van-khuc"
+  ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p09": [
+   "palace:phuc-duc:dai-hao+tieu-hao",
+   "palace:phuc-duc:hoa-khoa",
+   "palace:phuc-duc:hoa-ky",
+   "palace:phuc-duc:hoa-loc",
+   "palace:phuc-duc:hoa-quyen",
+   "palace:phuc-duc:loc-ton",
+   "palace:phuc-duc:ta-phu+huu-bat",
+   "palace:phuc-duc:tang-mon+bach-ho",
+   "palace:phuc-duc:thien-khoc+thien-hu",
+   "palace:phuc-duc:thien-ma"
+  ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p10": [
+   "palace:phuc-duc:an-quang+thien-quy",
+   "palace:phuc-duc:co-than+qua-tu",
+   "palace:phuc-duc:dao-hoa+hong-loan",
+   "palace:phuc-duc:long-tri+phuong-cac",
+   "palace:phuc-duc:thai-tue",
+   "palace:phuc-duc:thien-quan+thien-phuc",
+   "palace:phuc-duc:tuan+triet"
+  ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p13": [
+   "palace:phuc-duc:co-than+qua-tu",
+   "palace:phuc-duc:dao-hoa+hong-loan",
+   "palace:phuc-duc:tuan+triet"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -1118,15 +1147,21 @@
   ],
   "td#0061-luc-phuc-duc-cung": [
    "palace:phuc-duc:cu-mon",
+   "palace:phuc-duc:hoa-tinh+linh-tinh",
+   "palace:phuc-duc:kinh-duong+da-la",
    "palace:phuc-duc:liem-trinh",
+   "palace:phuc-duc:loc-ton",
    "palace:phuc-duc:pha-quan",
+   "palace:phuc-duc:ta-phu+huu-bat",
    "palace:phuc-duc:thai-duong",
    "palace:phuc-duc:tham-lang",
    "palace:phuc-duc:that-sat",
    "palace:phuc-duc:thien-dong",
+   "palace:phuc-duc:thien-khoi+thien-viet",
    "palace:phuc-duc:thien-phu",
    "palace:phuc-duc:thien-tuong",
    "palace:phuc-duc:tu-vi",
+   "palace:phuc-duc:van-xuong+van-khuc",
    "palace:phuc-duc:vu-khuc"
   ],
   "td#0062-that-phu-mau-cung": [
