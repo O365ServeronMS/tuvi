@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 110,
+   "referenced": 119,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -269,15 +269,6 @@
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0081-tu-vi",
-    "tb#0082-liem-trinh",
-    "tb#0083-thai-duong",
-    "tb#0084-thien-phu",
-    "tb#0085-tham-lang",
-    "tb#0086-thien-tuong",
-    "tb#0087-that-sat",
-    "tb#0088-sat-tinh",
-    "tb#0089-song-hao",
     "tb#0090-tien-quyet",
     "tb#0091-nhan-dinh-anh-huong-cac-sao",
     "tb#0092-thuan-mua-sinh",
@@ -322,7 +313,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 64.3
+   "coverage_percent": 69.6
   },
   "tl": {
    "chunks": 107,
@@ -1196,6 +1187,47 @@
    "palace:tu-tuc:thien-luong+dia-khong+dia-kiep+tuong-quan+phuc-binh+tang-mon+bach-ho+thai+dao-hoa+hong-loan",
    "palace:tu-tuc:tieu-hao+dai-hao+thien-hinh+thien-rieu+long-tri+phuong-cac+an-quang+thien-quy+dao-hoa+hong-loan+thien-khoc+thien-hu",
    "palace:tu-tuc:tuan+triet"
+  ],
+  "tb#0081-tu-vi": [
+   "palace:phu-the:tu-vi"
+  ],
+  "tb#0082-liem-trinh": [
+   "palace:phu-the:liem-trinh",
+   "palace:phu-the:thien-dong",
+   "palace:phu-the:vu-khuc"
+  ],
+  "tb#0083-thai-duong": [
+   "palace:phu-the:thai-duong",
+   "palace:phu-the:thien-co"
+  ],
+  "tb#0084-thien-phu": [
+   "palace:phu-the:thai-am",
+   "palace:phu-the:thien-phu"
+  ],
+  "tb#0085-tham-lang": [
+   "palace:phu-the:cu-mon",
+   "palace:phu-the:tham-lang"
+  ],
+  "tb#0086-thien-tuong": [
+   "palace:phu-the:thien-luong",
+   "palace:phu-the:thien-tuong"
+  ],
+  "tb#0087-that-sat": [
+   "palace:phu-the:pha-quan",
+   "palace:phu-the:that-sat"
+  ],
+  "tb#0088-sat-tinh": [
+   "palace:phu-the:hoa-loc+hoa-quyen+hoa-khoa+hoa-ky",
+   "palace:phu-the:kinh-duong+da-la+hoa-tinh+linh-tinh+dia-khong+dia-kiep",
+   "palace:phu-the:loc-ton+thien-ma+thai-tue+phuc-binh+tuong-quan+an-quang+thien-quy",
+   "palace:phu-the:ta-phu+huu-bat",
+   "palace:phu-the:thien-khoi+thien-viet",
+   "palace:phu-the:van-xuong+van-khuc"
+  ],
+  "tb#0089-song-hao": [
+   "palace:phu-the:cu-mon+hoa-tinh+linh-tinh+tieu-hao+dai-hao+tuan+triet+co-than+qua-tu+dao-hoa+hong-loan+dau-quan+thien-rieu",
+   "palace:phu-the:hoa-loc+hoa-ky+ta-phu+huu-bat+thanh-long+thai+thien-ma+thien-rieu+long-tri+phuong-cac+dao-hoa+hong-loan+hoa-cai",
+   "palace:phu-the:tham-lang+cu-mon+thien-tuong+that-sat+da-la+dia-kiep+hoa-ky+phuc-binh"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
