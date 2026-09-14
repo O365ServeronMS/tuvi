@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 86,
+   "referenced": 88,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -269,8 +269,6 @@
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0062-ket-hop-nhan-dinh",
-    "tb#0063-phu-doan",
     "tb#0064-tu-vi",
     "tb#0065-thien-dong",
     "tb#0066-thien-co",
@@ -346,7 +344,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 50.3
+   "coverage_percent": 51.5
   },
   "tl": {
    "chunks": 107,
@@ -433,7 +431,7 @@
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 49,
+   "referenced": 50,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -453,7 +451,6 @@
     "td#0057-nhi-thien-di-cung",
     "td#0059-tu-tai-bach-cung",
     "td#0060-ngu-phu-the-cung",
-    "td#0063-bat-no-boc-cung",
     "td#0065-thap-tat-ach-cung",
     "td#0066-luc-dat-chang-qua-nho-van-menh",
     "td#0067-b-mot-phai-can-cu-vao-chinh-thu",
@@ -508,7 +505,7 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 40.5
+   "coverage_percent": 41.3
   }
  },
  "chunk_refs": {
@@ -1046,6 +1043,24 @@
    "palace:quan-loc:tuan+triet",
    "palace:quan-loc:vu-khuc+thien-co+van-xuong+van-khuc+tuong-quan+thai-tue+bach-ho+thien-hinh+thien-rieu+long-tri+dao-hoa+hong-loan"
   ],
+  "tb#0062-ket-hop-nhan-dinh": [
+   "palace:no-boc:tu-vi+liem-trinh+thien-dong+vu-khuc+thai-duong+thien-co+thien-phu+thai-am+tham-lang+cu-mon+thien-tuong+thien-luong+that-sat+pha-quan"
+  ],
+  "tb#0063-phu-doan": [
+   "palace:no-boc:dai-hao+tieu-hao",
+   "palace:no-boc:dao-hoa",
+   "palace:no-boc:dia-khong+dia-kiep+ta-phu+huu-bat",
+   "palace:no-boc:hoa-ky",
+   "palace:no-boc:hoa-loc+hoa-quyen+hoa-khoa",
+   "palace:no-boc:hoa-quyen+ta-phu+huu-bat+de-vuong+thai+dao-hoa+hong-loan+hoa-cai",
+   "palace:no-boc:loc-ton",
+   "palace:no-boc:ta-phu+huu-bat",
+   "palace:no-boc:ta-phu+huu-bat+tuong-quan+phuc-binh",
+   "palace:no-boc:thien-khoc+thien-hu",
+   "palace:no-boc:tuan+triet",
+   "palace:no-boc:tuong-quan+phuc-binh",
+   "palace:no-boc:van-xuong+van-khuc+thien-khoi+thien-viet"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -1315,6 +1330,13 @@
    "palace:phu-mau:tuan+triet",
    "palace:phu-mau:van-xuong+van-khuc",
    "palace:phu-mau:vu-khuc"
+  ],
+  "td#0063-bat-no-boc-cung": [
+   "palace:no-boc:hoa-quyen+ta-phu+huu-bat+de-vuong+thai+dao-hoa+hong-loan+hoa-cai",
+   "palace:no-boc:loc-ton",
+   "palace:no-boc:ta-phu+huu-bat",
+   "palace:no-boc:tu-vi+liem-trinh+thien-dong+vu-khuc+thai-duong+thien-co+thien-phu+thai-am+tham-lang+cu-mon+thien-tuong+thien-luong+that-sat+pha-quan",
+   "palace:no-boc:van-xuong+van-khuc+thien-khoi+thien-viet"
   ],
   "td#0064-cung-nhieu-ruong-vuon-nha-cua-o-dau-cung-thuong": [
    "palace:dien-trach:cu-mon",
