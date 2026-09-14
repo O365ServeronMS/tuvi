@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 103,
+   "referenced": 110,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -269,13 +269,6 @@
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0079-tien-quyet",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p01",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p02",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p03",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p04",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p05",
-    "tb#0080-nhan-dinh-anh-huong-cac-sao-p06",
     "tb#0081-tu-vi",
     "tb#0082-liem-trinh",
     "tb#0083-thai-duong",
@@ -329,7 +322,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 60.2
+   "coverage_percent": 64.3
   },
   "tl": {
    "chunks": 107,
@@ -1167,6 +1160,42 @@
    "palace:tai-bach:thien-co+da-la+hoa-ky+luc-sy+thai-tue+tang-mon+mo+thien-hinh+long-tri+phuong-cac+dao-hoa+kiep-sat+luu-ha",
    "palace:tai-bach:thien-tuong+that-sat+dia-khong+dia-kiep+hoa-loc+ta-phu+huu-bat+phuc-binh+thien-khong",
    "palace:tai-bach:tuan+triet"
+  ],
+  "tb#0079-tien-quyet": [
+   "palace:tu-tuc:tu-vi+liem-trinh+thien-dong+vu-khuc+thai-duong+thien-co+thien-phu+thai-am+tham-lang+cu-mon+thien-tuong+thien-luong+that-sat+pha-quan"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p01": [
+   "palace:tu-tuc:liem-trinh",
+   "palace:tu-tuc:thien-dong",
+   "palace:tu-tuc:tu-vi"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p02": [
+   "palace:tu-tuc:thai-duong",
+   "palace:tu-tuc:thien-co",
+   "palace:tu-tuc:thien-phu",
+   "palace:tu-tuc:vu-khuc"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p03": [
+   "palace:tu-tuc:thai-am",
+   "palace:tu-tuc:that-sat",
+   "palace:tu-tuc:thien-luong"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p04": [
+   "palace:tu-tuc:kinh-duong+da-la+dia-khong+dia-kiep+hoa-tinh+linh-tinh+van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+loc-ton",
+   "palace:tu-tuc:pha-quan"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p05": [
+   "palace:tu-tuc:benh+tu+mo+tuyet+thai+duong",
+   "palace:tu-tuc:hoa-loc+hoa-quyen+hoa-khoa+hoa-ky",
+   "palace:tu-tuc:tieu-hao+dai-hao+thien-hinh+thien-rieu+long-tri+phuong-cac+an-quang+thien-quy+dao-hoa+hong-loan+thien-khoc+thien-hu",
+   "palace:tu-tuc:trang-sinh+moc-duc+quan-doi+lam-quan+de-vuong+co-than+qua-tu+dau-quan"
+  ],
+  "tb#0080-nhan-dinh-anh-huong-cac-sao-p06": [
+   "palace:tu-tuc:kinh-duong+da-la+dia-khong+dia-kiep+hoa-tinh+linh-tinh+van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+loc-ton",
+   "palace:tu-tuc:thien-dong+thai-duong+thai-am+thien-luong+that-sat+thai-tue+thai+thien-hinh",
+   "palace:tu-tuc:thien-luong+dia-khong+dia-kiep+tuong-quan+phuc-binh+tang-mon+bach-ho+thai+dao-hoa+hong-loan",
+   "palace:tu-tuc:tieu-hao+dai-hao+thien-hinh+thien-rieu+long-tri+phuong-cac+an-quang+thien-quy+dao-hoa+hong-loan+thien-khoc+thien-hu",
+   "palace:tu-tuc:tuan+triet"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
