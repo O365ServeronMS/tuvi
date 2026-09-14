@@ -10,6 +10,7 @@ primary: [tb]
 cross: [td]
 chunks:
   - tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p01
+  - tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p10
   - td#0061-luc-phuc-duc-cung
 ---
 # Tử Vi tại Phúc Đức
@@ -25,6 +26,7 @@ chunks:
 - [TB] Sát đồng cung: phải ly tổ, bôn ba mới hưởng phúc sống lâu; họ hàng nhiều người giàu sang, hiển đạt võ nghiệp nhưng ở xa quê hương.
 - [TB] Phá đồng cung: lao tâm khổ tứ, chẳng được yên thân; phải lìa bỏ quê hương mới khá giả và sống lâu; họ hàng ly tán.
 - [TB] Tham đồng cung: suốt đời chẳng toại ý, giảm thọ vì bạc phúc; họ hàng ly tán, người khá giả lại chết sớm.
+- [TB] Gặp thêm sát tinh đồng cung (mục riêng 6.1.37): giảm thọ, khó tránh tai họa; phải lập nghiệp ở nơi thật xa quê hương mới được yên thân; họ hàng ly tán, có nhiều người chết bất đắc kỳ tử, ngành trưởng họ suy bại.
 
 ## Đối chứng
 - [TĐ] Tử Vi hưởng phúc an lạc; cùng Thiên Phủ suốt đời tốt lành; cùng Phá Quân lo nghĩ buồn phiền; cùng Thiên Cơ hưởng phúc chung thân; gặp Dương, Đà, Linh, Hỏa, Không, Kiếp thì phúc phận kém.
@@ -35,5 +37,7 @@ chunks:
 > "Phủ đồng cung, Tướng đồng cung: suốt đời được xứng ý toại lòng, sống lâu và hưởng phúc. Họ hàng nhiều người giàu sang" (tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p01)
 
 > "Tham đồng cung: suốt đời chẳng được xứng ý toại lòng, giảm thọ vì bạc phúc. Họ hàng ly tán, người nào khá giả lại chết sớm" (tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p01)
+
+> "Tử Vi, Sát tinh đồng cung Giảm thọ, khó tránh được tai họa. Phải lập nghiệp ở nơi thật xa quê hương, may ra mới được yên thân. Họ hàng ly tán, có nhiều người chết bất đắc kỳ tử. Ngành trưởng họ suy bại" (tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p10)
 
 > "Có sao Tử Vi hưởng phúc an lạc : cùng Thiên Phủ suốt đời tốt lành ; cùng Phá Quân lo nghĩ buồn phiền ; cùng Thiên Cơ hưởng phúc chung thân ; gặp Dương Đà, Linh Hoả, Không Kiếp phúc phận kém" (td#0061-luc-phuc-duc-cung)

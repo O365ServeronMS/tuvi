@@ -258,7 +258,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 66,
+   "referenced": 68,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -268,8 +268,6 @@
     "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0038-cac-nhan-dinh",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p11",
-    "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p12",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
     "tb#0044-tu-vi",
     "tb#0045-vu-khuc",
@@ -366,7 +364,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 38.6
+   "coverage_percent": 39.8
   },
   "tl": {
    "chunks": 107,
@@ -928,11 +926,32 @@
    "palace:phuc-duc:long-tri+phuong-cac",
    "palace:phuc-duc:thai-tue",
    "palace:phuc-duc:thien-quan+thien-phuc",
-   "palace:phuc-duc:tuan+triet"
+   "palace:phuc-duc:tu-vi",
+   "palace:phuc-duc:tuan+triet",
+   "palace:phuc-duc:vu-khuc+van-xuong+van-khuc+thien-khoi+thien-viet"
+  ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p11": [
+   "palace:phuc-duc:thai-am+da-la+hoa-ky+thien-rieu",
+   "palace:phuc-duc:thai-duong+da-la+hoa-ky+thien-rieu",
+   "palace:phuc-duc:thai-duong+thai-am+hoa-ky",
+   "palace:phuc-duc:thien-phu",
+   "palace:phuc-duc:vu-khuc+tham-lang+hoa-tinh+linh-tinh"
+  ],
+  "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p12": [
+   "palace:phuc-duc:cu-mon+hoa-ky",
+   "palace:phuc-duc:cu-mon+hoa-tinh",
+   "palace:phuc-duc:dia-khong+dia-kiep+hoa-ky",
+   "palace:phuc-duc:hoa-ky+quan-phu+benh+thien-hinh",
+   "palace:phuc-duc:hoa-tinh+linh-tinh+tang-mon",
+   "palace:phuc-duc:kinh-duong+da-la+dia-khong+dia-kiep",
+   "palace:phuc-duc:kinh-duong+da-la+hoa-ky",
+   "palace:phuc-duc:kinh-duong+da-la+hoa-tinh",
+   "palace:phuc-duc:that-sat+kinh-duong"
   ],
   "tb#0042-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung-p13": [
    "palace:phuc-duc:co-than+qua-tu",
    "palace:phuc-duc:dao-hoa+hong-loan",
+   "palace:phuc-duc:thien-rieu",
    "palace:phuc-duc:tuan+triet"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
