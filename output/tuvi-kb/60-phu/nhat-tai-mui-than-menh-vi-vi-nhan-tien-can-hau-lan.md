@@ -2,7 +2,7 @@
 id: phu:nhat-tai-mui-than-menh-vi-vi-nhan-tien-can-hau-lan
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thai-duong, mui, than, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07
@@ -23,3 +23,6 @@ Sao: Thái Dương. Cung: Mệnh, tại Mùi hoặc Thân.
 
 ## Nguyên văn
 > "Nhật tại Mùi, Thân, Mệnh vị, vi nhân tiên cần hậu lấn Cung Mệnh an tại Mùi, Thân có Nhật tọa thủ, là người không bền chí, làm việc gì cũng chỉ chuyên cần siêng năng buổi đầu, rồi về sau lại lười biếng trễ nải và bỏ dở." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Nhật lạc Mùi, Thân tại mệnh vị vi nhân tiên cần hậu lăn", giải: "Mệnh đóng cung Thân, Mùi có sao Thái Dương con người chóng chán, trước chăm chỉ sau lười biếng." (td#0012-sao-thai-duong)

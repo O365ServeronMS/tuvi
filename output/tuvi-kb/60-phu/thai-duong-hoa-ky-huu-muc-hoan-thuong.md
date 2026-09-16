@@ -2,7 +2,7 @@
 id: phu:thai-duong-hoa-ky-huu-muc-hoan-thuong
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thai-duong, hoa-ky, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09
@@ -23,3 +23,6 @@ Sao: Thái Dương, Hóa Kỵ. Cung: Mệnh.
 
 ## Nguyên văn
 > "Thái Dương, Hóa Kỵ, hữu mục hoàn thương Cung Mệnh có Nhật, Kỵ tọa thủ đồng cung, nên hay đau mắt, mắt thường có tật." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Thái Dương, Hoá Kị thị phi nhật hữu mục hoàn thương", giải: "Gặp Hoá Kị, mắt hư đau bất ngờ." (td#0012-sao-thai-duong)
