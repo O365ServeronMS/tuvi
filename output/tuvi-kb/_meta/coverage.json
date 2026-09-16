@@ -942,7 +942,17 @@
    "phu:thien-khoi-thien-viet-tai-the-van-chuong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24": [
-   "palace:menh-than:loc-ton"
+   "palace:menh-than:loc-ton",
+   "phu:loc-dao-ma-dao-ky-kiep-khong-tue",
+   "phu:loc-ma-toi-hy-giao-tri-chung-nhan-sung-ai",
+   "phu:loc-phung-xung-pha-cat-da-thanh-hung",
+   "phu:loc-ton-hau-trong-da-y-thuc",
+   "phu:loc-ton-tai-vien-chi-tu-to-nghiep",
+   "phu:loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi",
+   "phu:loc-trieu-vien-than-vinh-quy-hien",
+   "phu:minh-loc-am-loc-vi-chi-cong-khanh",
+   "phu:song-loc-thu-menh-la-hau-chuyen-quyen",
+   "phu:song-loc-trung-phung-chung-than-phu-quy"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p25": [
    "palace:menh-than:ta-phu+huu-bat"
