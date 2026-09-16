@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 38,
+   "referenced": 42,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -297,10 +297,7 @@
     "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh",
     "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than",
     "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban",
-    "tl#0040-ty-voi-than-ngo-voi-mui",
     "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
-    "tl#0044-chinh-khong-bang-chieu-chieu-khong-bang-giap",
-    "tl#0045-dau-la-mot-cai-so-dep",
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
     "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
@@ -334,7 +331,6 @@
     "tl#0080-nguoi-thuoc-tho-ngu-cuc-trang-sinh-xuat-phat-tu",
     "tl#0081-cuc-vi-dau-tro-thanh-phan-quan-trong-cua-so",
     "tl#0082-tren-dia-ban-toan-so",
-    "tl#0085-nang-luc-quan-trong-cua-nhi-hop",
     "tl#0086-khuc",
     "tl#0087-di-mot-luc-luong-phai-de-y-1",
     "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can",
@@ -353,7 +349,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 36.5
+   "coverage_percent": 40.4
   },
   "td": {
    "chunks": 122,
@@ -1996,6 +1992,11 @@
    "star:tuan",
    "star:tue-pha"
   ],
+  "tl#0040-ty-voi-than-ngo-voi-mui": [
+   "rule:menh-o-tam-hop-thai-tue-la-loi-the",
+   "rule:nhi-hop-luon-la-sinh",
+   "rule:xung-chieu-luon-la-khac"
+  ],
   "tl#0042-trong-tu-vi-vong-trang-sinh-co-y-nghia-gi": [
    "star:benh",
    "star:de-vuong",
@@ -2020,6 +2021,14 @@
    "star:trang-sinh",
    "star:tuong-quan"
   ],
+  "tl#0044-chinh-khong-bang-chieu-chieu-khong-bang-giap": [
+   "rule:chinh-khong-bang-chieu-chieu-khong-bang-giap",
+   "rule:giap-luc-sat-tinh-anh-huong-nguoi-than"
+  ],
+  "tl#0045-dau-la-mot-cai-so-dep": [
+   "rule:4-so-giong-nhau-khong-tu-dong-tot",
+   "rule:ngu-hanh-thang-thu-thai-bo-sung-tu-tru"
+  ],
   "tl#0047-ban-the-thuc-chat-cua-thai-tue": [
    "star:bach-ho",
    "star:quan-phu",
@@ -2042,6 +2051,9 @@
    "combo:sat-pha-liem-tham",
    "combo:that-sat-trieu-nguong-dau",
    "combo:tu-phu-vu-tuong"
+  ],
+  "tl#0085-nang-luc-quan-trong-cua-nhi-hop": [
+   "rule:nhi-hop-bo-khuyet-noi-tam-14-chinh-tinh"
   ],
   "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan": [
    "combo:co-nguyet-dong-luong",
