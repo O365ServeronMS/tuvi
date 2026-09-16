@@ -41,14 +41,14 @@ chunks:
 - [TĐ] Cự Môn ở Tý, Ngọ hợp với mệnh cục thế nào cũng vinh hiển, tam hợp xung chiếu có Khoa Quyền Lộc thì quan cao cực phẩm; hãm địa bị hung tinh phá phách càng thêm tai họa, tính thô lỗ, dễ thương tích môi miệng; miếu địa đỡ hại hơn. Gặp Kình Dương, Linh Hỏa thì mọi việc bất tường, tính nóng nảy điên đảo; nữ mệnh phòng không cô độc.
 
 ## Phú liên quan
-- "Thìn, Tuất ứng hiềm hãm Cự Môn" / "Cự, Môn, Thìn, Tuất vi hãm địa, Tân nhân hóa cát" → hãm địa tại Thìn, Tuất mờ ám; tuổi Quý, Tân lại thành sáng sủa, phú quý song toàn.
-- "Cự Môn, Tứ Sát hãm nhi hung" → gặp Kình, Đà, Hỏa, Linh thì mờ ám, vất vả, nhiều bệnh, tai họa.
-- "Cự Môn, Đà La tất sinh dị chí" → hãm địa gặp Kình hay Đà đồng cung là người yếu đuối, nhiều bệnh; khỏe mạnh thì thành trộm cắp.
-- "Cự, Hỏa, Linh phùng ác hạn, tử thuật ngoại đạo" → gặp Hỏa, Linh mà gặp ác hạn thì chết ngoài đường.
-- "Cự, Hỏa, Kình, Dương, Đà La phùng ác diệu, ải tử đầu hà" → gặp Hỏa, Kình, Đà cùng sao xấu thì tự tử.
-- "Cự Môn Hợi Tý, kỵ ngộ Lộc Tồn" → tại Hợi, Tý kỵ Lộc Tồn đồng cung; gặp thêm Quyền, Lộc thì có cao vọng nhưng khó thực hiện.
-- "Cự Môn Tý, Ngọ, Khoa, Quyền Lộc, thạch trung cẩn ngọc" → tại Tý, Ngọ gặp Khoa, Quyền, Lộc là người học rộng tài cao, phú quý, phúc thọ song toàn.
-- "Cự Môn, Thìn cung Hóa Kỵ, Tân nhân Mệnh ngộ phản vi giai" → tại Thìn gặp Hóa Kỵ đồng cung mờ ám, nhưng tuổi Tân lại thành sáng sủa, giàu sang.
+- "Thìn, Tuất ứng hiềm hãm Cự Môn" → `60-phu/thin-tuat-ung-hiem-ham-cu-mon.md`; "Cự, Môn, Thìn, Tuất vi hãm địa, Tân nhân hóa cát" → `60-phu/cu-mon-thin-tuat-vi-ham-dia-tan-nhan-hoa-cat-loc-tranh-vinh.md`
+- "Cự Môn, Tứ Sát hãm nhi hung" → `60-phu/cu-mon-tu-sat-ham-nhi-hung.md`
+- "Cự Môn, Đà La tất sinh dị chí" → `60-phu/cu-mon-da-la-tat-sinh-di-chi.md`
+- "Cự, Hỏa, Linh phùng ác hạn, tử thuật ngoại đạo" → `60-phu/cu-hoa-linh-phung-ac-han-tu-thuat-ngoai-dao.md`
+- "Cự, Hỏa, Kình, Dương, Đà La phùng ác diệu, ải tử đầu hà" → `60-phu/cu-hoa-kinh-duong-da-la-phung-ac-dieu-ai-tu-dau-ha.md`
+- "Cự Môn Hợi Tý, kỵ ngộ Lộc Tồn" → `60-phu/cu-mon-hoi-ty-ky-ngo-loc-ton-nhi-phung-quyen-loc.md`
+- "Cự Môn Tý, Ngọ, Khoa, Quyền Lộc, thạch trung cẩn ngọc" → `60-phu/cu-mon-ty-ngo-khoa-quyen-loc-thach-trung-can-ngoc.md`
+- "Cự Môn, Thìn cung Hóa Kỵ, Tân nhân Mệnh ngộ phản vi giai" → `60-phu/cu-mon-thin-cung-hoa-ky-tan-nhan-menh-ngo-phan-vi-giai.md`
 
 ## Nguyên văn
 > "Cự miếu, vượng hay đắc địa là người thông minh, nhân hậu, vui vẻ, có mưu cơ, có trí xét đoán sáng suốt, ăn nói đanh thép, được hưởng giàu sang và sống lâu" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14)

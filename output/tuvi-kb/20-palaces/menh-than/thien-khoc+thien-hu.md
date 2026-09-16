@@ -32,9 +32,9 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Thiên Khốc, Thiên Hư tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Khốc, Hư, Tý, Ngọ, tiền bần hậu phú" → tại Tý, Ngọ thời trẻ nghèo túng, từ ngoài 30 tuổi mới khá giả, về già thật giàu có.
-- "Khốc, Khách, Kiếp, Phủ mạc ngọ Cự, Dương, chung thân đa lệ" → Khốc gặp Khách, Kiếp, Phủ cùng Cự, Nhật thì suốt đời than khóc, tiếc thương.
-- "Hư, Kình, Tuế, Khách gia lãm, mãn thế đa phùng tang sự" → Hư gặp Kình, Tuế, Khách thì tang tóc liên miên suốt đời.
+- "Khốc, Hư, Tý, Ngọ, tiền bần hậu phú" → `60-phu/khoc-hu-ty-ngo-tien-ban-hau-phu.md`
+- "Khốc, Khách, Kiếp, Phủ mạc ngọ Cự, Dương, chung thân đa lệ" → `60-phu/khoc-khach-kiep-phu-mac-ngo-cu-duong-chung-than-da-le.md`
+- "Hư, Kình, Tuế, Khách gia lãm, mãn thế đa phùng tang sự" → `60-phu/hu-kinh-tue-khach-gia-lam-man-the-da-phung-tang-su.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Khốc hay Thiên Hư tọa thủ, nên da xanh xám, vẻ mặt buồn tẻ, mắt có quầng đen, thận hư, tính đa sầu đa cảm, suốt đời ưu tư phiền muộn" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31)

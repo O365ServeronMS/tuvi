@@ -34,9 +34,9 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Hóa Kỵ tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Hóa Ky, văn nhân bất nại" → gặp Xương, Khúc, Khôi, Việt hội hợp là người thông minh, có văn tài, nhưng trắc trở đường công danh.
-- "Kỵ ngộ Khoa tinh cư Hợi, Tý" → tại Hợi, Tý gặp Khoa (đồng cung hay xung chiếu) là người khôn ngoan, cẩn thận, được kính trọng.
-- "Hóa Kỵ Tý cung, Khoa, Lương phụ chiếu, đắc quân dân sủng ái" → tại Tý gặp Khoa, Lương hội chiếu cùng sao sáng là người có đức độ, danh vọng, được quý mến.
+- "Hóa Ky, văn nhân bất nại" → `60-phu/hoa-ky-van-nhan-bat-nai.md`
+- "Kỵ ngộ Khoa tinh cư Hợi, Tý" → `60-phu/ky-ngo-khoa-tinh-cu-hoi-ty.md`
+- "Hóa Kỵ Tý cung, Khoa, Lương phụ chiếu, đắc quân dân sủng ái" → `60-phu/hoa-ky-ty-cung-khoa-luong-phu-chieu-dac-quan-dan-sung-ai.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Hóa Kỵ tọa thủ, nên thường phải mang tật ở chân tay hayở mắt, tính nông nổi, hay nhầm lẫn" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29)

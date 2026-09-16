@@ -31,16 +31,16 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Địa Không, Địa Kiếp tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Địa Kiếp độc thủ thị kỷ phi nhân" → Kiếp đơn thủ là người ích kỷ.
-- "Kiếp, Không, Tỵ, Hợi, đồng vị, tảo đạt công danh" → tại Tỵ, Hợi đồng cung thì công danh sớm đạt nhưng không lâu bền.
-- "Sinh sử Kiếp, Không do như bán thiên chiết sí" → hãm địa tại Tứ Sinh thì không sống lâu, như chim gãy cánh giữa trời.
-- "Dần, Thân, Kiếp, Không nhi ngộ Quý tinh thăng trầm vô độ" → tại Dần, Thân gặp nhiều sao sáng thì đường đời thăng trầm, công danh tài lộc như mây nổi.
-- "Kiếp, Không giáp Mệnh vi bại cục, chủ bần tiện" → tại Tỵ, Hợi giáp Kiếp Không thì nghèo hèn, vất vả, lang thang.
-- "Kiếp, Cơ ngộ Hỏa, tất ngộ hỏa tai" → Kiếp, Cơ đồng cung gặp Hỏa thì dễ gặp hỏa tai.
-- "Mệnh trung ngộ Kiếp, Tham do như lãng lý hành thuyền" → Kiếp, Tham đồng cung thì lao khổ, lang thang, dễ tai nạn sông nước.
-- "Kiếp, Không hà hiềm Tỵ, Hợi, Tướng, Mã đồng cư..." → tại Tỵ, Hợi có Kiếp Không Tướng Mã đồng cung, gặp Khoa thì tài giỏi, lập nghiệp lớn trong thời loạn.
-- "Kiếp, Phủ, Khốc, Khách, mạc ngộ Cự, Dương chung thân đa lệ" → Kiếp gặp Phủ, Khốc, Khách cùng Cự, Nhật thì suốt đời cô đơn sầu khổ.
-- "Nhan Hồi yếu tử do hữu Kiếp, Không, Đào, Hồng Đà, Linh thủ Mệnh" → hội đủ các sao này thì không thể sống lâu.
+- "Địa Kiếp độc thủ thị kỷ phi nhân" → `60-phu/dia-kiep-doc-thu-thi-ky-phi-nhan.md`
+- "Kiếp, Không, Tỵ, Hợi, đồng vị, tảo đạt công danh" → `60-phu/kiep-khong-ty-hoi-dong-vi-tao-dat-cong-danh.md`
+- "Sinh sử Kiếp, Không do như bán thiên chiết sí" → `60-phu/sinh-su-kiep-khong-do-nhu-ban-thien-chiet-si.md`
+- "Dần, Thân, Kiếp, Không nhi ngộ Quý tinh thăng trầm vô độ" → `60-phu/dan-than-kiep-khong-nhi-ngo-quy-tinh-thang-tram-vo-do.md`
+- "Kiếp, Không giáp Mệnh vi bại cục, chủ bần tiện" → `60-phu/kiep-khong-giap-menh-vi-bai-cuc-chu-ban-tien.md`
+- "Kiếp, Cơ ngộ Hỏa, tất ngộ hỏa tai" → `60-phu/kiep-co-ngo-hoa-tat-ngo-hoa-tai.md`
+- "Mệnh trung ngộ Kiếp, Tham do như lãng lý hành thuyền" → `60-phu/menh-trung-ngo-kiep-tham-do-nhu-lang-ly-hanh-thuyen.md`
+- "Kiếp, Không hà hiềm Tỵ, Hợi, Tướng, Mã đồng cư..." → `60-phu/kiep-khong-ha-hiem-ty-hoi-tuong-ma-dong-cu-chi-hoi-khoa-tinh.md`
+- "Kiếp, Phủ, Khốc, Khách, mạc ngộ Cự, Dương chung thân đa lệ" → `60-phu/kiep-phu-khoc-khach-mac-ngo-cu-duong-chung-than-da-le.md`
+- "Nhan Hồi yếu tử do hữu Kiếp, Không, Đào, Hồng Đà, Linh thủ Mệnh" → `60-phu/nhan-hoi-yeu-tu-do-huu-kiep-khong-dao-hong-da-linh-thu-menh.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Địa Kiếp hay Địa Không đơn thủ, nên thân hình thô xấu, da kém vẻ tươi nhuận" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p28)

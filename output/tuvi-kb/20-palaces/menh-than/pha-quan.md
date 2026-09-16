@@ -35,17 +35,17 @@ chunks:
 - [TĐ] Cả ba sao Phá Quân, Thất Sát, Tham Lang cư miếu địa hội tụ vào Mệnh cung tất là con người anh hùng; Phá Quân đóng đơn độc không hay, nhưng có Khoa Quyền Lộc hội thì tốt dị thường, rơi vào hãm địa thì bỏ tổ nghiệp mà đi tha hương cầu thực; không nên thủ ở cung Thân, lại có Dương, Đà, Linh, Hỏa hội hung thì dễ thương tàn, yểu chiết, chỉ nên đi tu.
 
 ## Phú liên quan
-- "Phá Quân nhất diệu, tính nan minh" → đơn thủ (không gặp chính diệu khác đồng cung) là người không sáng suốt, hay nghe nịnh hót.
-- "Phá Quân, tý, Ngọ, gia quan tiến lộc" → tại Tý, Ngọ thì phú quý song toàn.
-- "Phá Quân Khảm, Ly, Cô thân độc ảnh" → tại Tý (Khảm), Ngọ (Ly) thì sớm xa cách người thân, khắc vợ chồng hay hiếm con.
-- "Phá Quân, Tham Lang, phùng lộc, Mã nam đa lãng đãng, nữ đa dâm" → Phá hoặc Tham gặp Lộc, Mã: nam phóng đãng, nữ dâm dật; thêm Hình thì vô hạnh nhưng kiếm tiền dễ.
-- "Phá, Sát khủng phùng hỏa, Hao" → Phá hoặc Sát gặp Hỏa, Hao thì khó tránh tai nạn khủng khiếp; thêm Việt, Hình thì về già chết vì tai nạn.
-- "Phá, Kình, Mão, Dậu, Nhi phùng Phụ, Bật, Khởi ngụy Hoàng Sào" → tại Mão, Dậu đồng cung Kình, gặp Phụ, Bật là người độc ác, đa sát, làm loạn như Hoàng Sào.
-- "Phá Quân, Hỏa, Linh, bôn ba lao toái" → gặp Hỏa, Linh thì suốt đời bôn ba lao khổ.
-- "Dần, Thân, Phá, Hỏa, Việt lâm ư, Tân, Đinh, Tuế cơ xảo tài hành" → tuổi Tân, Đinh tại Dần, Thân gặp Hỏa, Việt là người giỏi máy móc, chuyên kỹ nghệ.
-- "Phá Quân Thìn, Tuất nhi ngộ Khoa, Tuần" → tại Thìn, Tuất vốn gian ác bất nhân; gặp Khoa đồng cung, Tuần án ngữ lại thẳng thắn, lương thiện; tuổi Mậu, Quý thì hoạnh phát danh tài.
-- "Phá tọa ly, ngôn ngữ thô bạo" → tại Ngọ hay gắt gỏng, nói năng thô lỗ; gặp Lộc hay Thiếu Dương lại vui tính, hay đùa bỡn.
-- "Phá cư Mộ, cương quả chi nhân" → tại Tứ Mộ là người cương quả, gặp thời loạn dễ lập sự nghiệp lớn; thêm Hình, Lộc thì uy quyền hiển hách.
+- "Phá Quân nhất diệu, tính nan minh" → `60-phu/pha-quan-nhat-dieu-tinh-nan-minh.md`
+- "Phá Quân, tý, Ngọ, gia quan tiến lộc" → `60-phu/pha-quan-ty-ngo-gia-quan-tien-loc.md`
+- "Phá Quân Khảm, Ly, Cô thân độc ảnh" → `60-phu/pha-quan-kham-ly-co-than-doc-anh.md`
+- "Phá Quân, Tham Lang, phùng lộc, Mã nam đa lãng đãng, nữ đa dâm" → `60-phu/pha-quan-tham-lang-phung-loc-ma-nam-da-lang-dang-nu-da-dam.md`
+- "Phá, Sát khủng phùng hỏa, Hao" → `60-phu/pha-sat-khung-phung-hoa-hao-mac-ngo-viet-hinh-lao-han.md`
+- "Phá, Kình, Mão, Dậu, Nhi phùng Phụ, Bật, Khởi ngụy Hoàng Sào" → `60-phu/pha-kinh-mao-dau-nhi-phung-phu-bat-khoi-nguy-hoang-sao.md`
+- "Phá Quân, Hỏa, Linh, bôn ba lao toái" → `60-phu/pha-quan-hoa-linh-bon-ba-lao-toai.md`
+- "Dần, Thân, Phá, Hỏa, Việt lâm ư, Tân, Đinh, Tuế cơ xảo tài hành" → `60-phu/dan-than-pha-hoa-viet-lam-u-tan-dinh-tue-co-xao-tai-hanh.md`
+- "Phá Quân Thìn, Tuất nhi ngộ Khoa, Tuần" → `60-phu/pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong.md`
+- "Phá tọa ly, ngôn ngữ thô bạo" → `60-phu/pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong.md`
+- "Phá cư Mộ, cương quả chi nhân" → `60-phu/pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the.md`
 
 ## Nguyên văn
 > "Phá miếu, vượng hay đắc địa là người thông minh, cương quả, hiếu thắng, tự đắc, có thủ đoạn, có tài thao lược, lại can đảm, dũng mãnh, ưa hoạt động, thích đi xa, ham săn bắn" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20)

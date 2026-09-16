@@ -35,18 +35,18 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Văn Xương, Văn Khúc tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Văn Quế Văn Hoa, cửu trùng quý hiến" → đắc địa gặp nhiều sao sáng thì rất quý hiển.
-- "Dương Phi hảo sắc thị Khúc, Xương" → có Khúc Xương thủ Mệnh là người xinh đẹp, ví như Dương Quý Phi.
-- "Tỵ, Hợi tọa Quế, Hoa, phi vinh tắc phú" → tại Tỵ, Hợi gặp nhiều sao sáng thì không quý hiển cũng là triệu phú.
-- "Xương, Khúc Liêm Trinh ư Tỵ, Hợi, vi nhân bất thiện tao hình" → tại Tỵ, Hợi gặp Liêm đồng cung là người gian dối, dễ tù tội, khó sống lâu.
-- "Xương, Khúc Phá Quân phùng, hình khắc đa lao toái" → gặp Phá đồng cung thì lao tâm khổ tứ, dễ bị giam cầm.
-- "Xương, Khúc, Phá Quân lâm Hổ, Thỏ, Sát, Dương xung phá bôn ba" → tại Dần, Mão gặp Phá đồng cung, Sát tinh (nhất là Kình) xung chiếu thì lao khổ, bôn tẩu, tù tội.
-- "Xương, Khúc, Lương tinh vị chí thai cương" → gặp Lương đồng cung hay xung chiếu thì quý hiển, uy danh lừng lẫy.
-- "Xương, Khúc, Tả, Hữu, hội Dương, Đà đương sinh dị chí" → gặp Tả Hữu đồng cung, Kình Đà hội hợp thì có nốt ruồi kín, nhiều tướng lạ.
-- "Xương, Khúc Lộc Tồn do vi kỳ thị" → gặp Lộc đồng cung thì tài năng xuất chúng.
-- "Văn Xương, Vũ Khúc ư Mệnh Thân, văn vũ kiêm bỉ" → Xương đắc địa gặp Vũ đồng cung thì tài kiêm văn võ, uy danh lừng lẫy, giàu sang.
-- "Văn Xương, Tả Phụ vị chí tam thai" → Xương đắc địa gặp Tả đồng cung thì rất quý hiển.
-- "Xương, Khúc giáp Mệnh tối vi kỳ" → giáp Xương, giáp Khúc thì thông minh, được kính trọng, ra ngoài gặp quý nhân.
+- "Văn Quế Văn Hoa, cửu trùng quý hiến" → `60-phu/van-que-van-hoa-cuu-trung-quy-hien.md`
+- "Dương Phi hảo sắc thị Khúc, Xương" → `60-phu/duong-phi-hao-sac-thi-khuc-xuong.md`
+- "Tỵ, Hợi tọa Quế, Hoa, phi vinh tắc phú" → `60-phu/ty-hoi-toa-que-hoa-phi-vinh-tac-phu.md`
+- "Xương, Khúc Liêm Trinh ư Tỵ, Hợi, vi nhân bất thiện tao hình" → `60-phu/xuong-khuc-liem-trinh-u-ty-hoi-vi-nhan-bat-thien-tao-hinh.md`
+- "Xương, Khúc Phá Quân phùng, hình khắc đa lao toái" → `60-phu/xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai.md`
+- "Xương, Khúc, Phá Quân lâm Hổ, Thỏ, Sát, Dương xung phá bôn ba" → `60-phu/xuong-khuc-pha-quan-lam-ho-tho-sat-duong-xung-pha-bon-ba.md`
+- "Xương, Khúc, Lương tinh vị chí thai cương" → `60-phu/xuong-khuc-luong-tinh-vi-chi-thai-cuong.md`
+- "Xương, Khúc, Tả, Hữu, hội Dương, Đà đương sinh dị chí" → `60-phu/xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi.md`
+- "Xương, Khúc Lộc Tồn do vi kỳ thị" → `60-phu/xuong-khuc-loc-ton-do-vi-ky-thi.md`
+- "Văn Xương, Vũ Khúc ư Mệnh Thân, văn vũ kiêm bỉ" → `60-phu/van-xuong-vu-khuc-u-menh-than-van-vu-kiem-bi.md`
+- "Văn Xương, Tả Phụ vị chí tam thai" → `60-phu/van-xuong-ta-phu-vi-chi-tam-thai.md`
+- "Xương, Khúc giáp Mệnh tối vi kỳ" → `60-phu/xuong-khuc-giap-menh-toi-vi-ky.md`
 
 ## Nguyên văn
 > "Xương, Khúc đắc địa, nên tai thính, mắt rất sáng, trong mình thường có nốt ruổi kín hợp với quý tướng, lại là người thông minh, học rộng, biết suy xét, phán đoán mọi việc trước sau hay dở, có văn tài và có nang khiếu về âm nhạc" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21)

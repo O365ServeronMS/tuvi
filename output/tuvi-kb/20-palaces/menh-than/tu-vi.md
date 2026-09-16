@@ -35,22 +35,22 @@ chunks:
 - [TĐ] Cung Mệnh có Tử Vi thì Phúc Lộc tiền tài hưng vượng, thêm Tướng Tá hội tụ tất phú quý song toàn và tăm tiếng lẫy lừng; nhưng gặp Kiếp Không thì không thọ, gặp Dương Đà, Hỏa Linh chỉ nên vào chùa.
 
 ## Phú liên quan
-- "Tử Vi trung hậu" → cung Mệnh có Tử miếu địa hay bình hòa tọa thủ là người trung hậu.
-- "Đế tọa La, Võng, hoàn vi phi nghĩa chi nhân" → Tử Vi tại Thìn (La) hay Tuất (Võng) là người bất nghĩa.
-- "Tử Vi cư Ngọ, vô Hình Kỵ, Giáp, Đinh, Kỷ vị chí công khanh" → an tại Ngọ không gặp Kình, Đà, tuổi Giáp, Đinh, Kỷ rất quý hiển.
-- "Tử Vi nam Hợi, nữ Dần cung, Nhâm Giáp sinh nhân phú quý đồng" → nam mệnh tuổi Nhâm, Giáp an tại Hợi, nữ mệnh an tại Dần đều hưởng phú quý.
-- "Tử Vi, tài năng" → Tử hay Vũ miếu địa hay đắc địa tọa thủ là người có nhiều tài năng.
-- "Tử Vi, Vũ Khúc, Phá Quân, hội Dương, Đà, khi công danh, chi nghị kinh thương" → Tử, Vũ hay Phá tọa thủ gặp Kình, Đà thì không thích công danh, chỉ thích buôn bán.
-- "Tử Vi, Xương, Khúc phú quý khả kỷ" → gặp Xương, Khúc hội hợp thì được hưởng giàu sang.
-- "Tử Vi, Phụ, Bật đồng cung nhất hô bá nặc cư thượng phẩm" → Tử, Phụ, Bật tọa thủ đồng cung thì uy quyền hiển hách, nói một lời được muôn người nghe theo.
-- "Tử Vi tu cần Tam Hóa, nhược phùng Tứ Sát, phong bãi hà hoa" → cần Khoa, Quyền, Lộc hội hợp; gặp Kình, Đà, Không, Kiếp thì mờ ám như hoa gặp mưa gió.
-- "Tử Vi cư Tý, Ngọ, Khoa, Quyền, Lộc chiếu tối vi kỳ" → an tại Tý, Ngọ gặp Khoa, Quyền, Lộc hội chiếu rất sáng sủa tốt đẹp.
-- "Tử Vi, Quyền, Lộc ngộ Dương, Đà tuy mỹ cát nhi vô đạo" → gặp Quyền, Lộc nhưng bị Kình, Đà xâm phạm thì giàu sang mà vô đạo, bất chính.
-- "Tử, Lộc đồng cung Phụ, Bật chiếu quý bất khả ngôn" → Tử, Lộc tọa thủ đồng cung gặp Phụ, Bật hội chiếu thì quý hiển đến tột bực.
-- "Tử, Phù giáp Mệnh vi quý cách" → cung Mệnh sáng sủa được giáp bởi Tử, Phủ thì rất quý hiển.
-- "Tử, Phủ triều viên, thực lộc vạn chung" → Tử, Phủ hội chiếu cung Mệnh là người rất giàu, suốt đời sung túc.
-- "Tử Vi mạc phùng Kiếp, Không, Hồng, Đào nhập Mệnh giảm thọ" → gặp Kiếp, Không, Hồng, Đào đồng cung thì tuổi thọ bị chiết giảm.
-- "Tử Vi, Thiên Tướng, Thân phụng Phá kiêm ngộ Vượng, Kình, đa mưu, yếm trá" → Tử, Tướng tọa thủ tại Mệnh, Phá tọa thủ tại Thân gặp Kình là người mưu mô, gian trá.
+- "Tử Vi trung hậu" → `60-phu/tu-vi-trung-hau.md`
+- "Đế tọa La, Võng, hoàn vi phi nghĩa chi nhân" → `60-phu/de-toa-la-vong-hoan-vi-phi-nghia-chi-nhan.md`
+- "Tử Vi cư Ngọ, vô Hình Kỵ, Giáp, Đinh, Kỷ vị chí công khanh" → `60-phu/tu-vi-cu-ngo-vo-hinh-ky-giap-dinh-ky-vi-chi-cong-khanh.md`
+- "Tử Vi nam Hợi, nữ Dần cung, Nhâm Giáp sinh nhân phú quý đồng" → `60-phu/tu-vi-nam-hoi-nu-dan-cung-nham-giap-sinh-nhan-phu-quy-dong.md`
+- "Tử Vi, tài năng" → `60-phu/tu-vi-tai-nang.md`
+- "Tử Vi, Vũ Khúc, Phá Quân, hội Dương, Đà, khi công danh, chi nghị kinh thương" → `60-phu/tu-vi-vu-khuc-pha-quan-hoi-duong-da-khi-cong-danh-chi-nghi-kinh-thuong.md`
+- "Tử Vi, Xương, Khúc phú quý khả kỷ" → `60-phu/tu-vi-xuong-khuc-phu-quy-kha-ky.md`
+- "Tử Vi, Phụ, Bật đồng cung nhất hô bá nặc cư thượng phẩm" → `60-phu/tu-vi-phu-bat-dong-cung-nhat-ho-ba-nac-cu-thuong-pham.md`
+- "Tử Vi tu cần Tam Hóa, nhược phùng Tứ Sát, phong bãi hà hoa" → `60-phu/tu-vi-tu-can-tam-hoa-nhuoc-phung-tu-sat-phong-bai-ha-hoa.md`
+- "Tử Vi cư Tý, Ngọ, Khoa, Quyền, Lộc chiếu tối vi kỳ" → `60-phu/tu-vi-cu-ty-ngo-khoa-quyen-loc-chieu-toi-vi-ky.md`
+- "Tử Vi, Quyền, Lộc ngộ Dương, Đà tuy mỹ cát nhi vô đạo" → `60-phu/tu-vi-quyen-loc-ngo-duong-da-tuy-my-cat-nhi-vo-dao.md`
+- "Tử, Lộc đồng cung Phụ, Bật chiếu quý bất khả ngôn" → `60-phu/tu-loc-dong-cung-phu-bat-chieu-quy-bat-kha-ngon.md`
+- "Tử, Phù giáp Mệnh vi quý cách" → `60-phu/tu-phu-giap-menh-vi-quy-cach.md`
+- "Tử, Phủ triều viên, thực lộc vạn chung" → `60-phu/tu-phu-trieu-vien-thuc-loc-van-chung.md`
+- "Tử Vi mạc phùng Kiếp, Không, Hồng, Đào nhập Mệnh giảm thọ" → `60-phu/tu-vi-mac-phung-kiep-khong-hong-dao-nhap-menh-giam-tho.md`
+- "Tử Vi, Thiên Tướng, Thân phụng Phá kiêm ngộ Vượng, Kình, đa mưu, yếm trá" → `60-phu/tu-vi-thien-tuong-than-phung-pha-kiem-ngo-vuong-kinh-da-muu-yem-tra.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Tử Vi miếu, vượng hay đắc địa tọa thủ, nên thân hình đẫy đà và cao, da hồng hào, mặt đầy đặn, có trí thông minh, suốt đời được hưởng phúc, tuổi thọ cũng gia tăng" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p01)

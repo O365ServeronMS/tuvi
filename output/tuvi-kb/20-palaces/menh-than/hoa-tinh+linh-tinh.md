@@ -30,13 +30,13 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Hỏa Tinh, Linh Tinh tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Hỏa Tinh, Linh Tinh chuyên tác họa" → là hai sao gây tai họa; đắc địa không đáng lo, hãm địa khó tránh sự chẳng lành.
-- "Hỏa, Linh tương ngộ đa trấn chư bang" → một tọa một chiếu, hay đồng cung đắc địa, thì tài ba xuất chúng, hiển đạt võ nghiệp, uy quyền danh tiếng.
-- "Hỏa, Linh khả Tỵ, Sửu, Mùi, Việt, Tham, Vũ ưng ngộ..." → tại Sửu, Mùi gặp Việt, Tham, Vũ đồng cung thì xuất tướng nhập tướng; gặp thêm Kiếp thì khó tránh tai họa đao thương súng đạn.
-- "Hỏa, Linh, Kình Dương vi hạ cách" → gặp Kình hội hợp thì công danh trắc trở, tài lộc không phong túc, dễ tai nạn.
-- "Hỏa, Linh giáp Mệnh vi bại cục" → giáp Hỏa, Linh thì chẳng toại ý, lang thang bôn tẩu phương xa.
-- "Hỏa diệu phùng Tuyệt tại Hợi cung..." → tại Hợi đồng cung Tuyệt, gặp Tham, Hình thì dũng mãnh, hiển đạt võ nghiệp, uy danh lừng lẫy.
-- "Linh phùng Mã, nhi ngộ Dương, Đà, hữu tật tứ chi" → Linh, Mã đồng cung gặp Kình, Đà thì chân tay tàn tật.
+- "Hỏa Tinh, Linh Tinh chuyên tác họa" → `60-phu/hoa-tinh-linh-tinh-chuyen-tac-hoa.md`
+- "Hỏa, Linh tương ngộ đa trấn chư bang" → `60-phu/hoa-linh-tuong-ngo-da-tran-chu-bang.md`
+- "Hỏa, Linh khả Tỵ, Sửu, Mùi, Việt, Tham, Vũ ưng ngộ..." → `60-phu/hoa-linh-suu-mui-viet-tham-vu-ung-ngo-lai-phung-kiep-dieu.md`
+- "Hỏa, Linh, Kình Dương vi hạ cách" → `60-phu/hoa-linh-kinh-duong-vi-ha-cach.md`
+- "Hỏa, Linh giáp Mệnh vi bại cục" → `60-phu/hoa-linh-giap-menh-vi-bai-cuc.md`
+- "Hỏa diệu phùng Tuyệt tại Hợi cung..." → `60-phu/hoa-dieu-phung-tuyet-tai-hoi-cung-nhi-ngo-tham-hinh.md`
+- "Linh phùng Mã, nhi ngộ Dương, Đà, hữu tật tứ chi" → `60-phu/linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Hỏa Tinh hay Linh Tinh tọa thủ, nên thân hình thô xấu, lông tóc vàng hay đỏ, thường có tỳ vết ở chân, tay hay răng miệng, tính ương ngạnh, nóng nảy" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27)

@@ -33,11 +33,11 @@ chunks:
 - [TĐ] Thiên Đồng tọa Mệnh, tính tình ôn hòa tử tế, có phúc lộc và đa thọ; đóng tại miếu vượng thì ăn lộc và có danh tiếng, gặp cát tinh thì thông minh lanh lợi.
 
 ## Phú liên quan
-- "Thiên Đồng nhập Mệnh, hoán cải vô thường" → không có định kiến, hay thay đổi chí hướng, công việc và chỗ ở.
-- "Thiên Đồng hội cát thọ nguyên thời" → gặp nhiều sao sáng sủa tốt đẹp hội hợp thì sống lâu.
-- "Thiên Đồng, Tuất cung vi phản bội, định nhân hóa cát, chủ đại quý" → tại Tuất vốn mờ ám nhưng tuổi Đinh lại hóa quý hiển.
-- "Phúc Diệu phùng Việt diệu, định thị hải hà dúc tú" → gặp Việt đồng cung là người đẹp đẽ, có vẻ mặt uy nghi.
-- "Thiên Đồng Tuất cung Hóa Kỵ, Đinh nhân Mệnh ngộ phải vi giai" → tại Tuất gặp Hóa Kỵ đồng cung vốn mờ ám nhưng tuổi Đinh lại phú quý song toàn.
+- "Thiên Đồng nhập Mệnh, hoán cải vô thường" → `60-phu/thien-dong-nhap-menh-hoan-cai-vo-thuong.md`
+- "Thiên Đồng hội cát thọ nguyên thời" → `60-phu/thien-dong-hoi-cat-tho-nguyen-thoi.md`
+- "Thiên Đồng, Tuất cung vi phản bội, định nhân hóa cát, chủ đại quý" → `60-phu/thien-dong-tuat-cung-vi-phan-boi-dinh-nhan-hoa-cat-chu-dai-quy.md`
+- "Phúc Diệu phùng Việt diệu, định thị hải hà dúc tú" → `60-phu/phuc-dieu-phung-viet-dieu-dinh-thi-hai-ha-duc-tu.md`
+- "Thiên Đồng Tuất cung Hóa Kỵ, Đinh nhân Mệnh ngộ phải vi giai" → `60-phu/thien-dong-tuat-cung-hoa-ky-dinh-nhan-menh-ngo-phai-vi-giai.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Đồng tọa thủ, nên thân hình nở nang, hơi thấp, chân tay ngắn, da trắng, mặt vuông vắn đầy đặn" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p04)

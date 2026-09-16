@@ -34,12 +34,12 @@ chunks:
 - [TĐ] Thiên Tướng là vị tinh tú siêu quần, thủ Thân Mệnh là đáng mừng, làm quan đến bậc tể tướng; làm chủ Mệnh cung là người cả quyết, tự chủ, giàu sang; nhưng gặp Vũ Khúc, Phá Quân cùng Dương, Đà, Linh, Hỏa thì nếu không làm thợ, làm lái buôn thì đi vào con đường tăng ni.
 
 ## Phú liên quan
-- "Thiên Tướng Thìn, Tuất, khởi thị công danh" → tại Thìn, Tuất rất quý hiển.
-- "Nữ tướng tinh, tương cận như mãnh hùng" → đàn bà có Tướng tọa thủ rất can đảm, dũng mãnh, bạo tợn.
-- "Thiên Tướng chi tinh Nữ Mệnh triều, tất dương tử quý cập phu hiền" → nữ mệnh miếu vượng đắc địa thì lấy được chồng hiền, sinh con quý.
-- "Thiên Tướng, Liêm Trinh, Kình Dương giáp hình trượng nan đào" → Liêm Tướng đồng cung tại Tý, Ngọ lại giáp Kình thì khó tránh tù tội.
-- "Tướng Hồng nữ Mệnh, quý nhân hảo phối" → nữ mệnh có Tướng, Hồng đồng cung thì lấy được chồng giàu sang.
-- "Tướng ngộ Khúc, Mộc, Cái, Đào, thuần tước dâm phong" → nữ mệnh gặp Khúc, Mộc Dục, Hoa Cái, Đào Hoa thì xinh đẹp nhưng dâm đãng.
+- "Thiên Tướng Thìn, Tuất, khởi thị công danh" → `60-phu/thien-tuong-thin-tuat-khoi-thi-cong-danh.md`
+- "Nữ tướng tinh, tương cận như mãnh hùng" → `60-phu/nu-tuong-tinh-tuong-can-nhu-manh-hung.md`
+- "Thiên Tướng chi tinh Nữ Mệnh triều, tất dương tử quý cập phu hiền" → `60-phu/thien-tuong-chi-tinh-nu-menh-trieu-tat-duong-tu-quy-cap-phu-hien.md`
+- "Thiên Tướng, Liêm Trinh, Kình Dương giáp hình trượng nan đào" → `60-phu/thien-tuong-liem-trinh-kinh-duong-giap-hinh-truong-nan-dao.md`
+- "Tướng Hồng nữ Mệnh, quý nhân hảo phối" → `60-phu/tuong-hong-nu-menh-quy-nhan-hao-phoi.md`
+- "Tướng ngộ Khúc, Mộc, Cái, Đào, thuần tước dâm phong" → `60-phu/tuong-ngo-khuc-moc-cai-dao-thuan-tuoc-dam-phong.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Tướng miếu, vượng hay đắc địa tọa thủ, nên thân hình nở nang, cao vừa tầm, da trắng, vẻ mặt đẹp đẽ uy nghi, rất thông minh, tính đôn hậu, thẳng thắng" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16)
