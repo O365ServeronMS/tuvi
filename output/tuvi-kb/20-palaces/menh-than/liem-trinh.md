@@ -33,17 +33,17 @@ chunks:
 - [TĐ] Liêm Trinh thủ Mệnh vốn con người phi thường, chí khí ưa ngang ngược; theo đường tranh đấu có thể ở bậc đại quý, làm việc giỏi giang; nhưng rơi vào nhàn cung (hãm địa) thì dù gặp cát diệu vẫn có hung, thêm ác sát thì mệnh coi như hết.
 
 ## Phú liên quan
-- "Liêm Trinh thanh bạch năng tương thủ" → miếu địa, vượng địa hay đắc địa tọa thủ là người thẳng thắn, cao khiết.
-- "Liêm Trinh chủ hạ tiện, cơ hàn" → hãm địa tọa thủ là người nghèo hèn, suốt đời lao khổ.
-- "Liêm Trinh Thân, Mùi cung vô Sát, phú quý thanh dương phiêu viên danh" → an tại Thân, Mùi không bị Sát tinh xâm phạm thì phú quý đến tột bực.
-- "Liêm Trinh, Phá Quân, Hỏa Tinh cư hãm địa, tự ải đầu hà" → Liêm hoặc Phá hãm địa gặp Hỏa đồng cung dễ tự tử, thắt cổ hay trầm mình.
-- "Liêm Trinh phùng Văn quế cánh bôn ba" → gặp Khúc đồng cung thì suốt đời bôn ba, nay đây mai đó.
-- "Liêm Trinh Mão Dậu gia Sát công tư vô diện quan nhân" → tại Mão, Dậu gặp nhiều Sát tinh thì không thể mưu cầu công danh, chuyên kỹ nghệ hay doanh thương.
-- "Liêm Trinh, Mão, Dậu, mạc ngộ Kiếp, Kình tu phòng hình ngục" → tại Mão, Dậu gặp Kiếp, Hình thì suốt đời lang thang phiêu bạt.
-- "Liêm Trinh, Sát tinh cư Tỵ, Hợi, lưu đăng thiên thai" → tại Tỵ, Hợi gặp nhiều Sát tinh thì suốt đời lang thang phiêu bạt.
-- "Liêm Trinh, Tứ Sát, tao hình lục" → gặp Kình, Đà, Hỏa, Linh thì dễ bị bắt bớ giam cầm, có thể bị ám sát.
-- "Liêm Trinh, Bạch Hổ, hình ngục nan đào" → gặp Hổ đồng cung hoặc xung chiếu thì khó tránh xiềng xích gông cùm.
-- "Liêm Trinh nhập Miếu hội Tướng Quân" → gặp Tướng Quân đồng cung hoặc xung chiếu thì dũng mãnh như Trọng Do.
+- "Liêm Trinh thanh bạch năng tương thủ" → `60-phu/liem-trinh-thanh-bach-nang-tuong-thu.md`
+- "Liêm Trinh chủ hạ tiện, cơ hàn" → `60-phu/liem-trinh-chu-ha-tien-co-han.md`
+- "Liêm Trinh Thân, Mùi cung vô Sát, phú quý thanh dương phiêu viên danh" → `60-phu/liem-trinh-than-mui-cung-vo-sat-phu-quy-thanh-duong-phieu-vien-danh.md`
+- "Liêm Trinh, Phá Quân, Hỏa Tinh cư hãm địa, tự ải đầu hà" → `60-phu/liem-trinh-pha-quan-hoa-tinh-cu-ham-dia-tu-ai-dau-ha.md`
+- "Liêm Trinh phùng Văn quế cánh bôn ba" → `60-phu/liem-trinh-phung-van-que-canh-bon-ba.md`
+- "Liêm Trinh Mão Dậu gia Sát công tư vô diện quan nhân" → `60-phu/liem-trinh-mao-dau-gia-sat-cong-tu-vo-dien-quan-nhan.md`
+- "Liêm Trinh, Mão, Dậu, mạc ngộ Kiếp, Kình tu phòng hình ngục" → `60-phu/liem-trinh-mao-dau-mac-ngo-kiep-kinh-tu-phong-hinh-nguc.md`
+- "Liêm Trinh, Sát tinh cư Tỵ, Hợi, lưu đăng thiên thai" → `60-phu/liem-trinh-sat-tinh-cu-ty-hoi-luu-dang-thien-thai.md`
+- "Liêm Trinh, Tứ Sát, tao hình lục" → `60-phu/liem-trinh-tu-sat-tao-hinh-luc.md`
+- "Liêm Trinh, Bạch Hổ, hình ngục nan đào" → `60-phu/liem-trinh-bach-ho-hinh-nguc-nan-dao.md`
+- "Liêm Trinh nhập Miếu hội Tướng Quân" → `60-phu/liem-trinh-nhap-mieu-hoi-tuong-quan-trong-do-uy-manh.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Liêm tọa thủ nên thân hình cao lớn, xương to và lộ, da thô, mặt hơi dài, sớm có nếp nhăn, vẻ mặt không được tươi thuận, mắt lồi, sáng, lông mày rậm" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p03)

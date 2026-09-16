@@ -3,7 +3,7 @@
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 1,
+   "referenced": 7,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -14,9 +14,7 @@
     "npl#0007-con-nguoi-trong-khoa-tu-vi-p02",
     "npl#0007-con-nguoi-trong-khoa-tu-vi-p03",
     "npl#0008-nguoi-chet",
-    "npl#0009-c-nhung-gioi-han-cua-khoa-tu-vi",
     "npl#0010-quyen-larousse-medical-illustre-1924-trang-760",
-    "npl#0011-pham-vi-ap-dung-khoa-tu-vi",
     "npl#0013-dai-phan-tich-macro-analyse-p01",
     "npl#0013-dai-phan-tich-macro-analyse-p02",
     "npl#0013-dai-phan-tich-macro-analyse-p03",
@@ -64,15 +62,11 @@
     "npl#0052-nhung-yeu-to-can-phai-cuu-xet",
     "npl#0053-yeu-to-am-duong",
     "npl#0054-a-ban-menh",
-    "npl#0055-cach-cua-chinh-tinh",
     "npl#0056-yeu-to-cuc",
     "npl#0057-nhung-cung-cuong-cua-phai-nam",
     "npl#0058-nhung-cung-cuong-cua-phai-nu",
     "npl#0059-thoi-gian-hieu-luc-cua-cac-sao",
-    "npl#0060-nhung-cung-dung-de-xem-han",
     "npl#0061-van-de-cua-thang-nhuan",
-    "npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi",
-    "npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han",
     "npl#0064-ban-menh-la-can-ban",
     "npl#0065-nhieu-cach-phu-tinh-hop-vi-la-can-ban",
     "npl#0066-hoan-canh-giai-cap-va-moi-truong-sinh-hoat",
@@ -253,100 +247,47 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 0.4
+   "coverage_percent": 2.8
   },
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 121,
+   "referenced": 155,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
     "tb#0016-ngu-hanh",
     "tb#0017-phan-am-duong",
     "tb#0018-ngay-va-gio",
-    "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
-    "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0092-thuan-mua-sinh",
     "tb#0093-thuong-cach",
     "tb#0094-ha-cach",
     "tb#0095-tieu-luan",
-    "tb#0096-quy-cuc-co-danh-chuc-quyen-quy",
-    "tb#0097-ban-tien-cuc-ngheo-hen",
-    "tb#0098-phu-luan",
-    "tb#0099-ban-tien",
-    "tb#0100-biet-tai-ve-van-nghe",
-    "tb#0101-chuyen-ve-ky-nghe",
-    "tb#0102-tinh-gio-sinh",
-    "tb#0103-nhan-xet-cung-menh-va-cung-phuc-duc",
-    "tb#0104-phu-luan-ban-menh-thuoc-ngu-hanh",
-    "tb#0105-luan-doan-van-han",
     "tb#0106-vat-dung-bieu-tuong-bang-cac-sao",
     "tb#0107-co-the-trong-nguoi-bieu-tuong-bang-sao",
-    "tb#0108-ket-hop-nhan-dinh",
-    "tb#0109-lien-he-giua-dai-han-va-tieu-han",
-    "tb#0110-lien-he-giua-menh-than-va-han",
-    "tb#0111-lien-he-giua-nam-tuoi-va-nam-han-nam-xung",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p01",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p02",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p03",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p04",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p05",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p06",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p07",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p08",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p10",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p11",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p12",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13",
-    "tb#0113-luu-thai-tue-luu-tang-mon-luu-bach-ho",
-    "tb#0114-luu-thien-khoc-luu-thien-hu",
-    "tb#0115-luu-thien-ma",
-    "tb#0116-dam-tang",
     "tb#0117-tai-bach",
     "tb#0118-phuc-lam-quan-quan-doi-thien-tai-hoa-cai-hoa",
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 70.8
+   "coverage_percent": 90.6
   },
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 30,
+   "referenced": 61,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
     "tl#0005-cua-60-hoa-giap",
     "tl#0006-kim-chung-khac-moc-lau",
-    "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung",
     "tl#0012-nhung-hanh-tinh",
-    "tl#0025-thien-phu-thai-am-tham-lang-cu-mon-thien-tuong",
     "tl#0026-lan-thu-thuy-net-xuan-son",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
-    "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh",
-    "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than",
-    "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban",
-    "tl#0040-ty-voi-than-ngo-voi-mui",
-    "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
-    "tl#0044-chinh-khong-bang-chieu-chieu-khong-bang-giap",
-    "tl#0045-dau-la-mot-cai-so-dep",
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
-    "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
     "tl#0050-giay-lien-lac-bao-voi-no",
-    "tl#0051-menh-o-ngo-co-tu-vi-bao-o-ty-co-thien-co-dac",
-    "tl#0052-menh-o-tuat-co-tu-tuong-bao-o-dau-co-cu-co-sinh",
-    "tl#0053-menh-co-nguyet-dong-luong-cu-nhat-ham-dia-kho",
-    "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la",
-    "tl#0055-giau-nho-ban-sang-vi-vo",
-    "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh",
-    "tl#0057-an-han-nen-tinh-the-nao",
-    "tl#0058-the-nao-la-van-hoi-tot",
-    "tl#0059-triet-ly-chinh-danh-trong-tu-vi",
     "tl#0060-mot-ngoi-troi-dat-nguoi",
     "tl#0061-doi-benh-thai-thinh-suy-hoan-luong-4-quan-tu",
     "tl#0062-ngam-hay-muon-su-tai-troi-troi-kia-da-bat-lam",
@@ -355,7 +296,6 @@
     "tl#0065-tu-giap-ti-buoc-qua-giap-tuat-tu-giap-tuat-sang",
     "tl#0066-can-khon-nhat-hi-truong-nhan-sinh-thi-bi-kich",
     "tl#0067-can-khon-nhat-hi-truong-nhan-sinh-thi-bi-kich",
-    "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi",
     "tl#0069-khuc",
     "tl#0070-thien",
     "tl#0071-khuc",
@@ -370,20 +310,9 @@
     "tl#0080-nguoi-thuoc-tho-ngu-cuc-trang-sinh-xuat-phat-tu",
     "tl#0081-cuc-vi-dau-tro-thanh-phan-quan-trong-cua-so",
     "tl#0082-tren-dia-ban-toan-so",
-    "tl#0083-pham-cach-giua-tu-vi-va-pha-quan",
-    "tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan",
-    "tl#0085-nang-luc-quan-trong-cua-nhi-hop",
     "tl#0086-khuc",
-    "tl#0087-di-mot-luc-luong-phai-de-y-1",
-    "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan",
-    "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can",
-    "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao",
     "tl#0091-dau-la-ngoi-vi-chinh-xac-cua-thien-at-qui-nhan",
-    "tl#0092-dinh-y-gi-dat-nam-tuoi-o-mo-cung-doi-xung-voi",
-    "tl#0094-nghich-ly-am-duong-la-muc",
     "tl#0095-nhung-net-dac-khoan-cua-bon-tuoi-at-mau-tan-nham",
-    "tl#0096-giap-liem-pha-vu-duong-don-tat-ca-khoa-quyen",
-    "tl#0097-tan-thuoc-am-ma-thai-duong-cam-quyen-tuc-la-the",
     "tl#0098-truoc-cong-nguyen",
     "tl#0099-sau-cong-nguyen",
     "tl#0100-thai-cuc-2-luong-nghi",
@@ -393,12 +322,12 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 28.8
+   "coverage_percent": 58.7
   },
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 51,
+   "referenced": 57,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -419,10 +348,6 @@
     "td#0060-ngu-phu-the-cung",
     "td#0065-thap-tat-ach-cung",
     "td#0066-luc-dat-chang-qua-nho-van-menh",
-    "td#0067-b-mot-phai-can-cu-vao-chinh-thu",
-    "td#0068-sao-thai-duong-nhap-han-neu-o-ham-dia-bi-ac",
-    "td#0069-sao-thien-tuong-neu-bo-ac-tinh-vay-boc-lai-co",
-    "td#0070-cung-menh-xau-co-the-bi-bao-benh-chet",
     "td#0071-luan-ve-nu-menh-p01",
     "td#0071-luan-ve-nu-menh-p02",
     "td#0071-luan-ve-nu-menh-p03",
@@ -443,8 +368,6 @@
     "td#0083-hinh-dang-va-tinh-tinh",
     "td#0084-tham-lang-mieu-vuong-chi-cung-mieu-thoi-nguoi",
     "td#0085-tinh-cuong-chang-co-ai-ua",
-    "td#0086-cach-cuc",
-    "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach",
     "td#0088-sao-cu-mon-linh-tinh-toa-thu-do-la-pha-cach-vi",
     "td#0089-tat-yeu-j-tang-dao",
     "td#0090-dau-so-cot-tuy-phu-chu-giai",
@@ -471,10 +394,32 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 42.1
+   "coverage_percent": 47.1
   }
  },
  "chunk_refs": {
+  "npl#0009-c-nhung-gioi-han-cua-khoa-tu-vi": [
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
+  "npl#0011-pham-vi-ap-dung-khoa-tu-vi": [
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
+  "npl#0055-cach-cua-chinh-tinh": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat",
+   "combo:sat-pha-liem-tham",
+   "combo:tu-phu-vu-tuong",
+   "combo:vo-chinh-dieu"
+  ],
+  "npl#0060-nhung-cung-dung-de-xem-han": [
+   "han:dai-han-tieu-han-lien-he"
+  ],
+  "npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi": [
+   "han:han-tuong-sinh-tuong-khac-ban-menh"
+  ],
+  "npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han": [
+   "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
+  ],
   "npl#0204-cac-sao-thien-can": [
    "palace:menh-than:tu-vi+tham-lang"
   ],
@@ -482,6 +427,12 @@
    "star:thien-khong",
    "star:triet",
    "star:tuan"
+  ],
+  "tb#0013-tam-chieu": [
+   "rule:xem-mot-cung-phai-xem-ca-tam-hop-xung-chieu-nhi-hop"
+  ],
+  "tb#0019-tuong-hop-tuong-pha": [
+   "rule:ban-menh-sinh-cuc-tot-hon-cuc-sinh-ban-menh"
   ],
   "tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh": [
    "star:liem-trinh",
@@ -638,136 +589,472 @@
    "star:tu",
    "star:tuyet"
   ],
+  "tb#0038-cac-nhan-dinh": [
+   "rule:menh-khong-than-kiep-doi-lap-menh-kiep-than-khong",
+   "rule:menh-o-sinh-vuong-bai-tuyet-dia-theo-ban-menh",
+   "rule:menh-tuan-than-triet-doi-lap-menh-triet-than-tuan",
+   "rule:menh-vo-chinh-dieu-dac-diem-va-cuu-giai"
+  ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p01": [
    "palace:menh-than:tu-vi",
    "palace:menh-than:tu-vi+tham-lang",
    "palace:menh-than:tu-vi+that-sat",
-   "palace:menh-than:tu-vi+thien-phu"
+   "palace:menh-than:tu-vi+thien-phu",
+   "phu:de-toa-la-vong-hoan-vi-phi-nghia-chi-nhan",
+   "phu:tu-vi-cu-ngo-vo-hinh-ky-giap-dinh-ky-vi-chi-cong-khanh",
+   "phu:tu-vi-nam-hoi-nu-dan-cung-nham-giap-sinh-nhan-phu-quy-dong",
+   "phu:tu-vi-thien-tuong-than-phung-pha-kiem-ngo-vuong-kinh-da-muu-yem-tra",
+   "phu:tu-vi-trung-hau"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p02": [
    "palace:menh-than:tu-vi",
    "palace:menh-than:tu-vi+pha-quan",
    "palace:menh-than:tu-vi+tham-lang",
-   "palace:menh-than:tu-vi+that-sat"
+   "palace:menh-than:tu-vi+that-sat",
+   "phu:tu-loc-dong-cung-phu-bat-chieu-quy-bat-kha-ngon",
+   "phu:tu-phu-giap-menh-vi-quy-cach",
+   "phu:tu-phu-trieu-vien-thuc-loc-van-chung",
+   "phu:tu-vi-cu-ty-ngo-khoa-quyen-loc-chieu-toi-vi-ky",
+   "phu:tu-vi-mac-phung-kiep-khong-hong-dao-nhap-menh-giam-tho",
+   "phu:tu-vi-phu-bat-dong-cung-nhat-ho-ba-nac-cu-thuong-pham",
+   "phu:tu-vi-quyen-loc-ngo-duong-da-tuy-my-cat-nhi-vo-dao",
+   "phu:tu-vi-tai-nang",
+   "phu:tu-vi-tu-can-tam-hoa-nhuoc-phung-tu-sat-phong-bai-ha-hoa",
+   "phu:tu-vi-vu-khuc-pha-quan-hoi-duong-da-khi-cong-danh-chi-nghi-kinh-thuong",
+   "phu:tu-vi-xuong-khuc-phu-quy-kha-ky"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p03": [
-   "palace:menh-than:liem-trinh"
+   "palace:menh-than:liem-trinh",
+   "phu:liem-trinh-bach-ho-hinh-nguc-nan-dao",
+   "phu:liem-trinh-chu-ha-tien-co-han",
+   "phu:liem-trinh-mao-dau-gia-sat-cong-tu-vo-dien-quan-nhan",
+   "phu:liem-trinh-mao-dau-mac-ngo-kiep-kinh-tu-phong-hinh-nguc",
+   "phu:liem-trinh-nhap-mieu-hoi-tuong-quan-trong-do-uy-manh",
+   "phu:liem-trinh-pha-quan-hoa-tinh-cu-ham-dia-tu-ai-dau-ha",
+   "phu:liem-trinh-phung-van-que-canh-bon-ba",
+   "phu:liem-trinh-sat-tinh-cu-ty-hoi-luu-dang-thien-thai",
+   "phu:liem-trinh-than-mui-cung-vo-sat-phu-quy-thanh-duong-phieu-vien-danh",
+   "phu:liem-trinh-thanh-bach-nang-tuong-thu",
+   "phu:liem-trinh-tu-sat-tao-hinh-luc",
+   "phu:tu-ngo-kinh-da-hoa-linh-huu-gia-toa-that-coc-chi-uu"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p04": [
    "palace:menh-than:thien-dong",
    "palace:menh-than:thien-dong+thai-am",
-   "palace:menh-than:thien-dong+thien-luong"
+   "palace:menh-than:thien-dong+thien-luong",
+   "phu:dan-than-toi-hy-dong-luong-hoi",
+   "phu:dong-am-tai-ty-nguyet-lang-thien-mon-dung-nhan-my-ai",
+   "phu:dong-luong-vien-ngo-khoi-quyen-tang-phung-linh-ky-giao-lai-song-loc",
+   "phu:dong-nguyet-duong-cu-ngo-vi-binh-mau-tran-ngu-bien-cuong",
+   "phu:dong-nguyet-ham-cung-gia-sat-trong-ky-nghe-doanh-thuong",
+   "phu:phuc-dieu-phung-viet-dieu-dinh-thi-hai-ha-duc-tu",
+   "phu:thien-dong-hoi-cat-tho-nguyen-thoi",
+   "phu:thien-dong-nhap-menh-hoan-cai-vo-thuong",
+   "phu:thien-dong-tuat-cung-hoa-ky-dinh-nhan-menh-ngo-phai-vi-giai",
+   "phu:thien-dong-tuat-cung-vi-phan-boi-dinh-nhan-hoa-cat-chu-dai-quy"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p05": [
    "palace:menh-than:vu-khuc",
    "palace:menh-than:vu-khuc+pha-quan",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung",
+   "phu:vu-khuc-cu-can-thuong-toi-pha-thai-am-phung-tham-lang",
+   "phu:vu-khuc-mieu-vien-uy-danh-bach-hien",
+   "phu:vu-khuc-nhan-cung-da-thu-nghe",
+   "phu:vu-khuc-pha-quan-pha-gia-lao-luc",
+   "phu:vu-khuc-vi-qua-tu",
+   "phu:vu-pha-tuong-ngo-xuong-khuc-thong-minh-co-xao",
+   "phu:vu-pha-ty-hoi-tham-lan-bat-luong",
+   "phu:vu-phung-pha-dieu-nan-bao-di-lai-san-nghiep"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p06": [
    "palace:menh-than:vu-khuc",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:mao-cu-vu-sat-pha-liem-phong-moc-ap-loi-kinh",
+   "phu:tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung",
+   "phu:vu-khuc-dan-than-nhi-ngo-loc-quyen-phu-gia-vuong-khai",
+   "phu:vu-khuc-duong-da-kiem-qua-tu-vi-tien-nhan-nguy",
+   "phu:vu-khuc-khoi-viet-cu-mieu-vuong-tai-chuc-chi-quan",
+   "phu:vu-khuc-kiep-sat-hoi-kinh-duong-sat-nhan-bat-hieu-nhon",
+   "phu:vu-khuc-loc-ma-giao-tri-phat-tai-vien-quan",
+   "phu:vu-khuc-van-khuc-vi-nhan-da-hoc-da-nang"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07": [
-   "palace:menh-than:thai-duong"
+   "palace:menh-than:thai-duong",
+   "phu:nhat-tai-mui-than-menh-vi-vi-nhan-tien-can-hau-lan",
+   "phu:nhat-xuat-loi-mon-phu-quy-vinh-hoa",
+   "phu:thai-duong-cu-ngo-canh-tan-dinh-ky-nhan-phu-quy-song-toan",
+   "phu:thai-duong-cu-ngo-nhat-le-trung-thien",
+   "phu:thai-duong-cu-ty-binh-dinh-phu-quy-trung-luong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p08": [
    "palace:menh-than:thai-duong",
    "palace:menh-than:thai-duong+cu-mon",
-   "palace:menh-than:thai-duong+thai-am"
+   "palace:menh-than:thai-duong+thai-am",
+   "phu:cu-tai-hoi-cung-nhat-menh-ty-thuc-loc-tri-danh",
+   "phu:cu-tai-ty-cung-nhat-menh-hoi-phan-vi-bat-gia",
+   "phu:duong-am-thin-tuat-nhat-nguyet-bach-cung-nhuoc-vo-minh",
+   "phu:nguyet-nhat-dong-mui-menh-an-suu-hau-ba-chi-tai",
+   "phu:nhat-lac-nhan-cung-sac-thieu-xuan-dung",
+   "phu:nhat-mao-nguyet-hoi-mui-cung-menh-da-chiet-que",
+   "phu:nhat-nguyet-giap-menh-bat-quyen-tac-phu",
+   "phu:nhat-nguyet-khoa-loc-suu-cung-dinh-thi-cong-khanh",
+   "phu:nhat-nguyet-menh-than-cu-suu-mui-tam-phuong-vo-cat-phan-vi-hung",
+   "phu:nhat-nguyet-nhi-chieu-hu-khong-hoc-nhat-nhi-thap",
+   "phu:nhat-nguyet-sat-hoi-nam-da-gian-dao-nu-da-dam",
+   "phu:nhat-nguyet-suu-mui-ai-ngo-tuan-khong-van-tat-thuong-cach",
+   "phu:nhat-nguyet-suu-mui-am-duong-hon-hop-tu-giam-quang-huy",
+   "phu:nhat-nguyet-thu-menh-bat-nhu-chieu-hop-tinh-minh",
+   "phu:nhat-nguyet-tinh-minh-ta-cuu-trung-kim-dien",
+   "phu:nhat-nguyet-tinh-tranh-quang-quyen-loc-phi-tan",
+   "phu:nhat-nguyet-vo-minh-nhi-phung-rieu-da-ky-kiep-kinh-tat-nguyen-luong-muc",
+   "phu:nhat-ty-nguyet-suu-cung-menh-bo-thiem-cung",
+   "phu:nu-menh-doan-chinh-thai-duong-tinh-tao-ngo-hien-phu",
+   "phu:tam-hop-minh-chau-sinh-vuong-dia-an-bo-thiem-cung"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09": [
    "palace:menh-than:thai-duong",
    "palace:menh-than:thien-co",
-   "palace:menh-than:thien-co+thien-luong"
+   "palace:menh-than:thien-co+thien-luong",
+   "phu:co-luong-hoi-hop-thien-dam-binh-cu-tuat-diec-vi-my-luan",
+   "phu:co-luong-thu-menh-gia-cat-dieu-phu-quy-song-toan",
+   "phu:co-luong-tu-sat-tuong-quan-xung-vu-khach-tang-luu",
+   "phu:co-nguyet-can-khon-nhi-hoi-xuong-rieu-thi-tu-dam-tang",
+   "phu:co-vien-phu-tinh-tu-tam",
+   "phu:nhat-cu-hoi-dia-nhat-tram-thuy-de",
+   "phu:nhat-ham-xung-phung-ac-sat-lao-luc-bon-ba",
+   "phu:nhat-tai-ty-cung-nhat-my-huy-thien-kiem-lai-loc-ma",
+   "phu:thai-duong-hoa-ky-huu-muc-hoan-thuong",
+   "phu:thien-am-trieu-cuong-nhan-tu-chi-truong",
+   "phu:thien-co-gia-ac-sat-dong-cung-can-than-thu-thiet"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p10": [
    "palace:menh-than:thien-co+thien-luong",
    "palace:menh-than:thien-phu",
-   "palace:menh-than:thien-phu+vu-khuc"
+   "palace:menh-than:thien-phu+vu-khuc",
+   "phu:co-luong-dong-chieu-menh-than-khong-vi-tang-dao",
+   "phu:co-nguyet-dong-luong-tac-lai-nhan",
+   "phu:dan-moc-phu-vi-huu-hoi-tam-ky-kinh-bat-cu-lai-an-ngu",
+   "phu:nam-thien-phu-giao-long-vang-uyen",
+   "phu:phu-tuong-dong-lai-hoi-menh-cung-toan-gia-thuc-loc",
+   "phu:phu-vu-ty-cung-giap-dinh-nhan-toa-phuc-vuong-danh-ba",
+   "phu:thien-phu-cu-ngo-tuat-thien-tuong-lai-trieu-giap-nhan-nhat-pham-chi-quy",
+   "phu:thien-phu-lam-tuat-huu-tinh-phu-phu-quy-song-toan",
+   "phu:thien-phu-on-luong",
+   "phu:thien-phu-thien-tuong-thien-luong-dong-quan-than-khanh-hoi",
+   "phu:thien-phu-tuat-cung-vo-sat-tau-giap-ky-nhan-hoanh-phat-danh-tai",
+   "phu:thien-phu-xuong-khuc-loc-ton-cu-van-chi-tu",
+   "phu:thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11": [
-   "palace:menh-than:thai-am"
+   "palace:menh-than:thai-am",
+   "phu:nguyet-dieu-thien-luong-nu-dam-ban",
+   "phu:nguyet-lang-thien-mon-u-hoi-dia-dang-van-chap-chuong-dai-quyen",
+   "phu:thai-am-cu-ty-binh-dinh-phu-quy-trung-luong",
+   "phu:thai-am-cu-ty-thuy-dang-que-ngac-dac-thanh-yeu-chi-chuc",
+   "phu:thai-am-duong-da-tat-chu-nhan-ly-tai-tan",
+   "phu:thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12": [
    "palace:menh-than:tham-lang",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:nu-menh-tham-lang-da-tat-do",
+   "phu:tham-lang-ham-dia-tac-tru-nhan",
+   "phu:tham-lang-nhap-mieu-tho-nguyen-thoi",
+   "phu:tham-lang-ty-hoi-bat-vi-do-thi-diec-tao-hinh",
+   "phu:tham-lang-ty-ngo-mao-dau-thu-thiet-cau-than",
+   "phu:tham-lang-vu-khuc-dong-thu-than-vo-cat-menh-phan-bat-tuong",
+   "phu:tham-vu-dong-hanh-van-canh-bien-di-than-phuc",
+   "phu:tham-vu-mo-trung-cu-tam-thap-tong-phat-phuc",
+   "phu:tham-vu-pha-quan-vo-cat-dieu-me-luyen-tuu-sac-di-vong-than",
+   "phu:tham-vu-than-cung-vi-ha-cach",
+   "phu:tham-vu-tien-ban-nhi-hau-phu",
+   "phu:tham-vu-tu-sinh-tu-mo-cung-pha-quan-ky-sat-tinh-bach-cong-thong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p13": [
    "palace:menh-than:tham-lang",
-   "palace:menh-than:tham-lang+liem-trinh"
+   "palace:menh-than:tham-lang+liem-trinh",
+   "phu:dan-than-nhi-hoi-tham-liem-ngo-van-xuong-nhap-lao-quan-trong",
+   "phu:tham-cu-doai-chan-thoat-tuc-vi-tang",
+   "phu:tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh",
+   "phu:tham-dao-tai-nhan-cung-nu-menh-doc-phu-chi-nhan",
+   "phu:tham-lang-da-la-tai-dan-cung-phong-luu-thai-trong",
+   "phu:tham-lang-gia-cat-toa-trang-sinh-tho-khao-vinh-nhu-banh-to",
+   "phu:tham-lang-gia-sat-dong-cung-nu-thau-huong-nam-thu-thiet",
+   "phu:tham-lang-hoa-tinh-cu-mieu-vuong-danh-tran-chu-bang",
+   "phu:tham-lang-hoi-sat-vo-cat-dieu-do-te-chi-nhan",
+   "phu:tham-lang-hoi-ty-hanh-phung-quyen-vuong-bien-hu-thanh-thuc",
+   "phu:tham-lang-ky-ngo-sat-tinh-uu-am-khong-kiep",
+   "phu:tham-lang-liem-trinh-dong-do-nam-lang-dang-nu-da-dam",
+   "phu:tham-lang-ngo-hoa-linh-tu-mo-cung-hao-phu-gia-tu",
+   "phu:tham-liem-can-thuong-van-lap-vo-phong",
+   "phu:tham-linh-tinh-thu-tuong-tuong-chi-danh",
+   "phu:tham-ngo-duong-da-cu-hoi-ty-danh-vi-phiem-thuy-dao-hoa",
+   "phu:tham-sat-ngo-dan-kiem-ngo-ho-tang-loi-thu-nan-de",
+   "phu:tham-toa-thuy-cung-giap-bien-tu-sat-ban-kho-chung-than",
+   "phu:tham-tu-toa-nhi-phung-hoa-ky-dao-ngoai-hanh-thuong",
+   "phu:tham-xuong-cu-menh-phan-cot-tuy-si"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14": [
    "palace:menh-than:cu-mon",
-   "palace:menh-than:thai-duong+cu-mon"
+   "palace:menh-than:thai-duong+cu-mon",
+   "phu:cu-mon-thin-tuat-vi-ham-dia-tan-nhan-hoa-cat-loc-tranh-vinh",
+   "phu:cu-nhat-dong-cung-quan-phong-tam-dai",
+   "phu:cu-nhat-menh-cung-dan-vi-thuc-loc-tri-danh",
+   "phu:cu-nhat-menh-lap-than-cung-diec-dieu",
+   "phu:thin-tuat-ung-hiem-ham-cu-mon"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15": [
    "palace:menh-than:cu-mon",
    "palace:menh-than:cu-mon+thien-co",
    "palace:menh-than:cu-mon+thien-dong",
-   "palace:menh-than:thai-duong+cu-mon"
+   "palace:menh-than:thai-duong+cu-mon",
+   "phu:cu-co-chinh-huong-hanh-ngo-song-hao-uy-quyen-quan-the",
+   "phu:cu-co-dan-cung-vi-pha-dang",
+   "phu:cu-co-dau-thuong-hoa-cat-gia-tung-huu-tai-quan-da-bat-chung",
+   "phu:cu-co-dong-cung-cong-khanh-chi-vi",
+   "phu:cu-co-mao-dau-at-tan-ky-binh-chi-cong-khanh",
+   "phu:cu-co-nhi-ngo-loc-ton-ngon-ngu-bat-can",
+   "phu:cu-dong-nhap-mo-nhi-hoi-ky-kinh-nan-phong-thuy-nan",
+   "phu:cu-dong-nhi-phung-la-vong-ngo-khoa-tinh-thoai-thuyet-lich-sinh",
+   "phu:cu-hinh-cung-chieu-diec-vi-ky",
+   "phu:cu-hoa-kinh-duong-da-la-phung-ac-dieu-ai-tu-dau-ha",
+   "phu:cu-hoa-linh-phung-ac-han-tu-thuat-ngoai-dao",
+   "phu:cu-mon-da-la-tat-sinh-di-chi",
+   "phu:cu-mon-hoi-ty-ky-ngo-loc-ton-nhi-phung-quyen-loc",
+   "phu:cu-mon-thin-cung-hoa-ky-tan-nhan-menh-ngo-phan-vi-giai",
+   "phu:cu-mon-tu-sat-ham-nhi-hung",
+   "phu:cu-mon-ty-ngo-khoa-quyen-loc-thach-trung-can-ngoc",
+   "phu:cu-nhat-dan-cung-lap-menh-than-tien-tri-danh-nhi-thuc-loc",
+   "phu:cu-nhat-dan-than-thien-mon-nhat-lang-ky-ngo-loc-ton",
+   "phu:cu-nhat-menh-lap-than-cung-diec-dieu",
+   "phu:cu-nhat-than-lap-menh-dan-tri-danh-thuc-loc",
+   "phu:mao-dau-cu-co-at-tan-am-nu-vuong-phu-ich-tu",
+   "phu:tan-nhan-toi-ai-cu-mon-nhuoc-lam-tu-mo-hanh-phuc-cuu-menh-chi-tinh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16": [
-   "palace:menh-than:thien-tuong"
+   "palace:menh-than:thien-tuong",
+   "phu:nu-tuong-tinh-tuong-can-nhu-manh-hung",
+   "phu:thien-tuong-chi-tinh-nu-menh-trieu-tat-duong-tu-quy-cap-phu-hien",
+   "phu:thien-tuong-liem-trinh-kinh-duong-giap-hinh-truong-nan-dao",
+   "phu:thien-tuong-thin-tuat-khoi-thi-cong-danh",
+   "phu:tuong-hong-nu-menh-quy-nhan-hao-phoi",
+   "phu:tuong-ngo-khuc-moc-cai-dao-thuan-tuoc-dam-phong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p17": [
    "palace:menh-than:thien-dong+thien-luong",
    "palace:menh-than:thien-luong",
    "palace:menh-than:thien-luong+thai-am",
-   "palace:menh-than:thien-luong+thai-duong"
+   "palace:menh-than:thien-luong+thai-duong",
+   "phu:am-phuc-tai-menh-an-ngu-bat-phung-tai-uong",
+   "phu:luong-dong-co-nguyet-dan-than-vi-nhat-sinh-loi-nghiep-thong-minh",
+   "phu:luong-dong-ty-hoi-nam-da-lang-dang-nu-da-dam",
+   "phu:luong-nhat-mao-cung-nhat-xuat-phu-tang-dung-mao-phuong-vien",
+   "phu:luong-phung-hao-sat-tai-cung-dao-thuong-hinh-thuong",
+   "phu:luong-tu-am-linh-nghi-ta-dong-luong-chi-khach",
+   "phu:thien-luong-cu-ngo-vi-quan-tu-thanh-hien-trieu-dinh",
+   "phu:thien-luong-thai-am-khuoc-tac-phieu-bong-chi-khach",
+   "phu:thien-luong-thai-duong-xuong-loc-hoi-lo-truyen-de-nhat-danh",
+   "phu:thien-luong-thien-ma-vi-nhan-phieu-dang-vo-nghi",
+   "phu:thien-luong-thu-chieu-cat-tuong-phung",
+   "phu:thien-luong-van-xuong-cu-mieu-vuong-vi-chi-cong-khanh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p18": [
    "palace:menh-than:that-sat",
    "palace:menh-than:that-sat+liem-trinh",
    "palace:menh-than:thien-luong",
-   "palace:menh-than:tu-vi+that-sat"
+   "palace:menh-than:tu-vi+that-sat",
+   "phu:sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu",
+   "phu:sat-liem-suu-mui-at-ky-am-nam-anh-hung-tri-dung",
+   "phu:sat-pha-tham-tai-nu-menh-nhi-ngo-van-xuong-tan-dinh-tue-suong-phu-chi-nhan",
+   "phu:sat-tu-ton-cung-de-hue-bao-kiem",
+   "phu:that-sat-dan-than-ty-ngo-nhat-sinh-tuoc-loc-vinh-xuong",
+   "phu:that-sat-liem-trinh-dong-vi-lo-thuong-mai-thi",
+   "phu:that-sat-pha-quan-nghi-xuat-ngoai-chu-ban-thu-nghe-bat-nang-tinh",
+   "phu:that-sat-trung-phung-tu-sat-yeu-da-boi-khuc-tran-trung-vong",
+   "phu:thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p19": [
-   "palace:menh-than:that-sat"
+   "palace:menh-than:that-sat",
+   "phu:sat-cu-ly-kham-nam-nhan-the-hien-da-hoi",
+   "phu:sat-hinh-hoi-long-than-dinh-giang",
+   "phu:sat-hinh-toa-cung-liem-truc-vo-tu",
+   "phu:sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu",
+   "phu:sat-lam-tuyet-dia-hoi-duong-da-nhan-hoi-yeu-chiet",
+   "phu:that-sat-hoa-duong-ban-tha-tien-do-te-chi-nhan",
+   "phu:that-sat-lam-than-chung-thi-yeu"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20": [
-   "palace:menh-than:pha-quan"
+   "palace:menh-than:pha-quan",
+   "phu:dan-than-pha-hoa-viet-lam-u-tan-dinh-tue-co-xao-tai-hanh",
+   "phu:pha-kinh-mao-dau-nhi-phung-phu-bat-khoi-nguy-hoang-sao",
+   "phu:pha-quan-hoa-linh-bon-ba-lao-toai",
+   "phu:pha-quan-kham-ly-co-than-doc-anh",
+   "phu:pha-quan-nhat-dieu-tinh-nan-minh",
+   "phu:pha-quan-tham-lang-phung-loc-ma-nam-da-lang-dang-nu-da-dam",
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:pha-quan-ty-ngo-gia-quan-tien-loc",
+   "phu:pha-sat-khung-phung-hoa-hao-mac-ngo-viet-hinh-lao-han"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21": [
    "palace:menh-than:pha-quan",
-   "palace:menh-than:van-xuong+van-khuc"
+   "palace:menh-than:van-xuong+van-khuc",
+   "phu:duong-phi-hao-sac-thi-khuc-xuong",
+   "phu:nu-nhan-xuong-khuc-thong-minh-phu-quy-chi-da-dam",
+   "phu:pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the",
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong",
+   "phu:ty-hoi-toa-que-hoa-phi-vinh-tac-phu",
+   "phu:van-que-van-hoa-cuu-trung-quy-hien",
+   "phu:van-xuong-van-khuc-vi-nhan-da-hoc-da-nang-phu",
+   "phu:xuong-khuc-co-loc-thanh-tu-xao",
+   "phu:xuong-khuc-liem-trinh-u-ty-hoi-vi-nhan-bat-thien-tao-hinh",
+   "phu:xuong-khuc-luong-tinh-vi-chi-thai-cuong",
+   "phu:xuong-khuc-pha-quan-lam-ho-tho-sat-duong-xung-pha-bon-ba",
+   "phu:xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22": [
-   "palace:menh-than:van-xuong+van-khuc"
+   "palace:menh-than:van-xuong+van-khuc",
+   "phu:nhi-khuc-trieu-vien-phung-ta-huu-tuong-tuong-chi-tai",
+   "phu:nhi-khuc-vuong-cung-uy-danh-hach-dich",
+   "phu:van-tinh-cung-chieu-gia-nghi-nien-thieu-dang-khoa",
+   "phu:van-xuong-hoi-liem-trinh-chi-tang-menh-thien-nien",
+   "phu:van-xuong-ta-phu-vi-chi-tam-thai",
+   "phu:van-xuong-vu-khuc-u-menh-than-van-vu-kiem-bi",
+   "phu:xuong-khuc-giap-menh-toi-vi-ky",
+   "phu:xuong-khuc-giap-menh-xuat-ngoai-da-can-quy-nhan",
+   "phu:xuong-khuc-giap-nhat-quy-nhi-tha-hien",
+   "phu:xuong-khuc-loc-ton-do-vi-ky-thi",
+   "phu:xuong-khuc-suu-mui-giap-nhan-duong-nu-kiem-phung-hong-loc",
+   "phu:xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23": [
-   "palace:menh-than:thien-khoi+thien-viet"
+   "palace:menh-than:thien-khoi+thien-viet",
+   "phu:giap-quy-giap-loc-thieu-nhan-tri",
+   "phu:khoi-tinh-giap-menh-vi-ky-cach",
+   "phu:khoi-tinh-lam-menh-vi-chi-tam-thai",
+   "phu:khoi-viet-phu-tinh-vi-phuc-tho",
+   "phu:khoi-viet-tai-menh-than-nhu-chiet-que",
+   "phu:khoi-viet-tai-menh-than-vi-truong-tu",
+   "phu:khoi-viet-trung-phung-sat-co-tat-vuu-da",
+   "phu:khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy",
+   "phu:thien-khoi-thien-viet-tai-the-van-chuong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24": [
-   "palace:menh-than:loc-ton"
+   "palace:menh-than:loc-ton",
+   "phu:loc-dao-ma-dao-ky-kiep-khong-tue",
+   "phu:loc-ma-toi-hy-giao-tri-chung-nhan-sung-ai",
+   "phu:loc-phung-xung-pha-cat-da-thanh-hung",
+   "phu:loc-ton-hau-trong-da-y-thuc",
+   "phu:loc-ton-tai-vien-chi-tu-to-nghiep",
+   "phu:loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi",
+   "phu:loc-trieu-vien-than-vinh-quy-hien",
+   "phu:minh-loc-am-loc-vi-chi-cong-khanh",
+   "phu:song-loc-thu-menh-la-hau-chuyen-quyen",
+   "phu:song-loc-trung-phung-chung-than-phu-quy"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p25": [
-   "palace:menh-than:ta-phu+huu-bat"
+   "palace:menh-than:ta-phu+huu-bat",
+   "phu:huu-bat-thien-tuong-phuc-lai-lam",
+   "phu:mo-phung-ta-huu-ton-cu-bat-toa-chi-quy",
+   "phu:phu-bat-ai-nhap-mo-cung-nhuoc-phung-de-vuong-van-doan-vo-cach",
+   "phu:phu-bat-giap-de-phuc-lai-lam",
+   "phu:ta-huu-don-thu-chieu-menh-ly-tong-thu-xuat",
+   "phu:ta-huu-dong-cung-phi-la-y-tu",
+   "phu:ta-huu-dong-cung-ton-cu-van-thua",
+   "phu:ta-huu-giap-menh-vi-quy-cach-tb",
+   "phu:ta-huu-khoi-viet-u-phuc-tho",
+   "phu:ta-huu-kinh-duong-tao-hinh-luc",
+   "phu:ta-phu-huu-bat-chung-than-phuc-hau"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26": [
-   "palace:menh-than:kinh-duong"
+   "palace:menh-than:kinh-duong",
+   "phu:duong-da-giap-ky-vi-bai-cuc",
+   "phu:duong-da-hoa-linh-phung-phat-tai-hung-tac-ky",
+   "phu:giap-duong-giap-da-vi-khat-cai",
+   "phu:kinh-da-linh-hoa-thu-than-menh-yeu-da-boi-khuc-chi-nhan",
+   "phu:kinh-duong-dong-am-nhi-phung-phuong-giai-nhat-the-uy-danh",
+   "phu:kinh-duong-hoa-tinh-oai-quyen-xuat-chung",
+   "phu:kinh-duong-nhap-mieu-phu-quy-thanh-duong",
+   "phu:kinh-duong-phung-luc-si-ly-quang-nan-phong",
+   "phu:kinh-duong-ty-ngo-mao-dau-phi-yeu-chiet-nhi-hinh-thuong",
+   "phu:kinh-hu-tue-khach-gia-lam-man-the-da-phung-tang-su",
+   "phu:kinh-tu-giap-an-hinh-truong-nan-dao",
+   "phu:ly-quang-suc-dich-van-nhan",
+   "phu:ma-dau-doi-kiem-phi-yeu-chiet-nhi-chu-hinh-thuong",
+   "phu:ma-dau-doi-kiem-tran-ngu-bien-cuong",
+   "phu:menh-duong-da-gia-kiep-tho-giam"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27": [
    "palace:menh-than:da-la",
-   "palace:menh-than:hoa-tinh+linh-tinh"
+   "palace:menh-than:hoa-tinh+linh-tinh",
+   "phu:hoa-dieu-phung-tuyet-tai-hoi-cung-nhi-ngo-tham-hinh",
+   "phu:hoa-linh-giap-menh-vi-bai-cuc",
+   "phu:hoa-linh-kinh-duong-vi-ha-cach",
+   "phu:hoa-linh-suu-mui-viet-tham-vu-ung-ngo-lai-phung-kiep-dieu",
+   "phu:hoa-linh-tuong-ngo-da-tran-chu-bang",
+   "phu:hoa-tinh-linh-tinh-chuyen-tac-hoa",
+   "phu:linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p28": [
-   "palace:menh-than:dia-khong+dia-kiep"
+   "palace:menh-than:dia-khong+dia-kiep",
+   "phu:dan-than-kiep-khong-nhi-ngo-quy-tinh-thang-tram-vo-do",
+   "phu:dia-kiep-doc-thu-thi-ky-phi-nhan",
+   "phu:kiep-co-ngo-hoa-tat-ngo-hoa-tai",
+   "phu:kiep-khong-giap-menh-vi-bai-cuc-chu-ban-tien",
+   "phu:kiep-khong-ha-hiem-ty-hoi-tuong-ma-dong-cu-chi-hoi-khoa-tinh",
+   "phu:kiep-khong-ty-hoi-dong-vi-tao-dat-cong-danh",
+   "phu:kiep-phu-khoc-khach-mac-ngo-cu-duong-chung-than-da-le",
+   "phu:menh-trung-ngo-kiep-tham-do-nhu-lang-ly-hanh-thuyen",
+   "phu:nhan-hoi-yeu-tu-do-huu-kiep-khong-dao-hong-da-linh-thu-menh",
+   "phu:sinh-su-kiep-khong-do-nhu-ban-thien-chiet-si"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29": [
    "palace:menh-than:hoa-khoa",
    "palace:menh-than:hoa-ky",
    "palace:menh-than:hoa-loc",
-   "palace:menh-than:hoa-quyen"
+   "palace:menh-than:hoa-quyen",
+   "phu:hoa-loc-cung-loc-dinh-vi-van-vo-toan-tai",
+   "phu:hoa-loc-dac-dia-dan-mao-co-thu-tham-tai",
+   "phu:hoa-loc-hoan-vi-hao-huu-huong-mo-trung-tang",
+   "phu:hoa-loc-ty-ngo-phu-tu-van-chuong-quan-the",
+   "phu:loc-phung-luong-mieu-bao-tu-tai-ich-du-tha-nhan",
+   "phu:luong-loc-ngo-dan-nhi-phung-tu-vu-dinh-ky-am-nam-phu-da-danh-tho",
+   "phu:menh-vo-chinh-dieu-hoan-ngo-tam-khong-huu-song-loc-phu-quy-kha-ky",
+   "phu:quyen-loc-menh-phung-kiem-hop-cat-uy-danh-lung-lay-quyen-ap-chung",
+   "phu:quyen-loc-trung-phung-sat-thau-hu-du-chi-long",
+   "phu:quyen-loc-trung-phung-tai-quan-song-my",
+   "phu:song-loc-cu-nhi-ngo-co-luong-phu-gia-dich-quoc"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p30": [
    "palace:menh-than:hoa-khoa",
    "palace:menh-than:hoa-ky",
-   "palace:menh-than:hoa-quyen"
+   "palace:menh-than:hoa-quyen",
+   "phu:hoa-ky-ty-cung-khoa-luong-phu-chieu-dac-quan-dan-sung-ai",
+   "phu:hoa-ky-van-nhan-bat-nai",
+   "phu:khoa-danh-ham-u-hung-than-mieu-nhi-bat-tu",
+   "phu:khoa-loc-giap-vi-quy-cach",
+   "phu:khoa-loc-tuan-phung-chu-bot-than-nhien-nhap-tuong",
+   "phu:khoa-menh-quyen-trieu-dang-chung-giap-de",
+   "phu:khoa-minh-loc-am-liet-vi-tam-thai",
+   "phu:khoa-quyen-loc-hop-phu-quy-song-toan",
+   "phu:khoa-quyen-loc-vong-danh-du-chieu-truong",
+   "phu:ky-ngo-khoa-tinh-cu-hoi-ty",
+   "phu:quyen-khoc-dong-cung-minh-danh-vu-the",
+   "phu:quyen-loc-trung-phung-sat-thau-hu-du-chi-long",
+   "phu:tam-ky-giao-hoi-mac-ngo-ky-kinh-giang-lo-thanh-van"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31": [
    "palace:menh-than:dai-hao+tieu-hao",
    "palace:menh-than:tang-mon+bach-ho",
-   "palace:menh-than:thien-khoc+thien-hu"
+   "palace:menh-than:thien-khoc+thien-hu",
+   "phu:hao-ngo-tham-lang-tang-dam-tinh-u-tinh-de",
+   "phu:hu-kinh-tue-khach-gia-lam-man-the-da-phung-tang-su",
+   "phu:khoc-hu-ty-ngo-tien-ban-hau-phu",
+   "phu:khoc-khach-kiep-phu-mac-ngo-cu-duong-chung-than-da-le",
+   "phu:nam-nhan-tang-ho-huu-tai-uyen-bac",
+   "phu:nu-menh-ho-rieu-da-su-qua-uu",
+   "phu:song-hao-mao-dau-chung-thuy-trieu-dong-toi-hiem-hoa-loc-ai-ngo-cu-co"
   ],
   "tb#0040-anh-huong-cua-nhat-nhat-tai-cac-vi-tri-tren-ban": [
    "palace:phu-mau:thai-am",
@@ -1250,6 +1537,216 @@
    "palace:huynh-de:van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+loc-ton+hoa-quyen+hoa-khoa+hoa-ky",
    "palace:huynh-de:vu-khuc"
   ],
+  "tb#0092-thuan-mua-sinh": [
+   "rule:thuan-mua-sinh-gio-sinh-menh-vuong-tuong"
+  ],
+  "tb#0096-quy-cuc-co-danh-chuc-quyen-quy": [
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:that-sat-tham-hoa-cach",
+   "combo:tu-vi-phu-ta-cach",
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "tb#0097-ban-tien-cuc-ngheo-hen": [
+   "combo:ban-tien-cuc"
+  ],
+  "tb#0098-phu-luan": [
+   "combo:ban-tien-cuc",
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:phuc-tho-thong-minh-giau-co",
+   "combo:that-sat-tham-hoa-cach",
+   "combo:tu-vi-phu-ta-cach",
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "tb#0099-ban-tien": [
+   "combo:ban-tien-hoang-dang-tan-tat-yeu-tu",
+   "combo:van-chuc-vo-chuc-uy-dung"
+  ],
+  "tb#0100-biet-tai-ve-van-nghe": [
+   "combo:bien-tai-van-nghe-ky-nghe",
+   "combo:buon-ban-cach",
+   "combo:van-chuc-vo-chuc-uy-dung"
+  ],
+  "tb#0101-chuyen-ve-ky-nghe": [
+   "combo:bien-tai-van-nghe-ky-nghe",
+   "combo:tu-hanh-trom-cuop"
+  ],
+  "tb#0102-tinh-gio-sinh": [
+   "rule:gio-xau-tieu-nhi-can-menh-phuc-duc-sang-de-cuu-giai"
+  ],
+  "tb#0103-nhan-xet-cung-menh-va-cung-phuc-duc": [
+   "rule:gio-xau-tieu-nhi-can-menh-phuc-duc-sang-de-cuu-giai"
+  ],
+  "tb#0104-phu-luan-ban-menh-thuoc-ngu-hanh": [
+   "rule:nguyen-the-ban-menh-khac-nhau-du-cung-hanh"
+  ],
+  "tb#0105-luan-doan-van-han": [
+   "han:han-tuong-sinh-tuong-khac-ban-menh"
+  ],
+  "tb#0108-ket-hop-nhan-dinh": [
+   "han:han-tuong-sinh-tuong-khac-ban-menh",
+   "han:phuong-phap-luan-doan-van-han"
+  ],
+  "tb#0109-lien-he-giua-dai-han-va-tieu-han": [
+   "han:dai-han-tieu-han-lien-he"
+  ],
+  "tb#0110-lien-he-giua-menh-than-va-han": [
+   "han:bach-ho-nhap-han",
+   "han:cu-mon-nhap-han",
+   "han:da-la-nhap-han",
+   "han:dai-han-tieu-han-lien-he",
+   "han:dam-tang",
+   "han:dao-hoa-nhap-han",
+   "han:duong-phu-nhap-han",
+   "han:giai-than-nhap-han",
+   "han:han-chet",
+   "han:han-sinh-con-han-nguoi-gia",
+   "han:hoa-khoa-nhap-han",
+   "han:hoa-ky-nhap-han",
+   "han:hoa-loc-nhap-han",
+   "han:hoa-quyen-nhap-han",
+   "han:hoa-tinh-nhap-han",
+   "han:hong-loan-nhap-han",
+   "han:khong-kiep-nhap-han",
+   "han:kinh-duong-nhap-han",
+   "han:liem-trinh-nhap-han",
+   "han:linh-tinh-nhap-han",
+   "han:loc-ton-nhap-han",
+   "han:long-phuong-nhap-han",
+   "han:luu-loc-kinh-da-nhap-han",
+   "han:luu-thai-tue-tang-bach-ho-nhap-han",
+   "han:luu-thien-khoc-thien-hu-nhap-han",
+   "han:luu-thien-ma-nhap-han",
+   "han:menh-than-han-lien-he",
+   "han:pha-quan-nhap-han",
+   "han:phuc-binh-nhap-han",
+   "han:phuong-phap-luan-doan-van-han",
+   "han:quang-quy-nhap-han",
+   "han:quoc-an-nhap-han",
+   "han:song-hao-nhap-han",
+   "han:ta-huu-nhap-han",
+   "han:tang-mon-nhap-han",
+   "han:thai-am-nhap-han",
+   "han:thai-cao-nhap-han",
+   "han:thai-duong-nhap-han",
+   "han:thai-toa-nhap-han",
+   "han:tham-lang-nhap-han",
+   "han:that-sat-nhap-han",
+   "han:thien-co-nhap-han",
+   "han:thien-dong-nhap-han",
+   "han:thien-giai-dia-giai-nhap-han",
+   "han:thien-hu-nhap-han",
+   "han:thien-khoc-nhap-han",
+   "han:thien-khong-nhap-han",
+   "han:thien-luong-nhap-han",
+   "han:thien-ma-nhap-han",
+   "han:thien-phu-nhap-han",
+   "han:thien-tuong-nhap-han",
+   "han:thien-viet-nhap-han",
+   "han:triet-nhap-han",
+   "han:tu-vi-nhap-han",
+   "han:tuan-nhap-han",
+   "han:tuong-quan-nhap-han",
+   "han:vu-khuc-nhap-han",
+   "han:xuong-khuc-nhap-han"
+  ],
+  "tb#0111-lien-he-giua-nam-tuoi-va-nam-han-nam-xung": [
+   "han:nam-tuoi-nam-xung"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p01": [
+   "han:liem-trinh-nhap-han",
+   "han:thien-dong-nhap-han",
+   "han:tu-vi-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p02": [
+   "han:thai-duong-nhap-han",
+   "han:thien-co-nhap-han",
+   "han:vu-khuc-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p03": [
+   "han:thai-am-nhap-han",
+   "han:tham-lang-nhap-han",
+   "han:thien-phu-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p04": [
+   "han:cu-mon-nhap-han",
+   "han:thien-tuong-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p05": [
+   "han:pha-quan-nhap-han",
+   "han:that-sat-nhap-han",
+   "han:thien-luong-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p06": [
+   "han:da-la-nhap-han",
+   "han:kinh-duong-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p07": [
+   "han:hoa-tinh-nhap-han",
+   "han:khong-kiep-nhap-han",
+   "han:linh-tinh-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p08": [
+   "han:loc-ton-nhap-han",
+   "han:ta-huu-nhap-han",
+   "han:xuong-khuc-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09": [
+   "han:hoa-khoa-nhap-han",
+   "han:hoa-ky-nhap-han",
+   "han:hoa-loc-nhap-han",
+   "han:hoa-quyen-nhap-han",
+   "han:thien-khoc-nhap-han",
+   "han:thien-viet-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p10": [
+   "han:bach-ho-nhap-han",
+   "han:song-hao-nhap-han",
+   "han:tang-mon-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p11": [
+   "han:bach-ho-nhap-han",
+   "han:dao-hoa-nhap-han",
+   "han:hong-loan-nhap-han",
+   "han:long-phuong-nhap-han",
+   "han:thien-hu-nhap-han",
+   "han:thien-khoc-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p12": [
+   "han:duong-phu-nhap-han",
+   "han:phuc-binh-nhap-han",
+   "han:quang-quy-nhap-han",
+   "han:quoc-an-nhap-han",
+   "han:thai-toa-nhap-han",
+   "han:tuong-quan-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13": [
+   "han:giai-than-nhap-han",
+   "han:thai-cao-nhap-han",
+   "han:thien-giai-dia-giai-nhap-han",
+   "han:thien-khong-nhap-han",
+   "han:thien-ma-nhap-han",
+   "han:triet-nhap-han",
+   "han:tuan-nhap-han"
+  ],
+  "tb#0113-luu-thai-tue-luu-tang-mon-luu-bach-ho": [
+   "han:han-sinh-con-han-nguoi-gia",
+   "han:luu-thai-tue-tang-bach-ho-nhap-han"
+  ],
+  "tb#0114-luu-thien-khoc-luu-thien-hu": [
+   "han:luu-loc-kinh-da-nhap-han",
+   "han:luu-thien-khoc-thien-hu-nhap-han"
+  ],
+  "tb#0115-luu-thien-ma": [
+   "han:han-chet",
+   "han:luu-thien-ma-nhap-han"
+  ],
+  "tb#0116-dam-tang": [
+   "han:dam-tang"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -1571,6 +2068,58 @@
    "palace:dien-trach:van-xuong+van-khuc",
    "palace:dien-trach:vu-khuc"
   ],
+  "td#0067-b-mot-phai-can-cu-vao-chinh-thu": [
+   "han:thien-co-nhap-han",
+   "han:tu-vi-nhap-han"
+  ],
+  "td#0068-sao-thai-duong-nhap-han-neu-o-ham-dia-bi-ac": [
+   "han:cu-mon-nhap-han",
+   "han:liem-trinh-nhap-han",
+   "han:thai-am-nhap-han",
+   "han:thai-duong-nhap-han",
+   "han:tham-lang-nhap-han",
+   "han:thien-dong-nhap-han",
+   "han:thien-phu-nhap-han",
+   "han:thien-tuong-nhap-han",
+   "han:vu-khuc-nhap-han"
+  ],
+  "td#0069-sao-thien-tuong-neu-bo-ac-tinh-vay-boc-lai-co": [
+   "han:kinh-duong-nhap-han",
+   "han:loc-ton-nhap-han",
+   "han:pha-quan-nhap-han",
+   "han:that-sat-nhap-han",
+   "han:thien-luong-nhap-han",
+   "han:thien-tuong-nhap-han"
+  ],
+  "td#0070-cung-menh-xau-co-the-bi-bao-benh-chet": [
+   "han:da-la-nhap-han",
+   "han:hoa-khoa-nhap-han",
+   "han:hoa-ky-nhap-han",
+   "han:hoa-loc-nhap-han",
+   "han:hoa-quyen-nhap-han",
+   "han:hoa-tinh-nhap-han",
+   "han:khong-kiep-nhap-han",
+   "han:linh-tinh-nhap-han",
+   "han:nam-tuoi-nam-xung",
+   "han:thien-khong-nhap-han",
+   "han:thien-ma-nhap-han"
+  ],
+  "td#0086-cach-cuc": [
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:that-sat-tham-hoa-cach",
+   "combo:that-sat-trieu-nguong-dau",
+   "combo:tu-phu-vu-tuong",
+   "combo:tu-vi-phu-ta-cach"
+  ],
+  "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach": [
+   "combo:ban-tien-cuc"
+  ],
+  "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung": [
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh"
+  ],
   "tl#0008-nen-rat-chat-che": [
    "star:bac-sy",
    "star:hoa-loc",
@@ -1627,6 +2176,7 @@
    "star:quoc-an"
   ],
   "tl#0014-cho-nen-coi-thuong-quyen-uy-cua-dau-quan": [
+   "han:dau-quan-tieu-van",
    "star:dao-hoa",
    "star:dau-quan",
    "star:pha-toai"
@@ -1694,6 +2244,7 @@
    "star:van-xuong"
   ],
   "tl#0022-a-liem-sat-suu-mui": [
+   "combo:liem-tham-ty-hoi-liem-sat-suu-mui",
    "star:liem-trinh",
    "star:pha-quan",
    "star:thien-tho"
@@ -1708,11 +2259,16 @@
    "star:dieu-khach",
    "star:tang-mon"
   ],
+  "tl#0025-thien-phu-thai-am-tham-lang-cu-mon-thien-tuong": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat"
+  ],
   "tl#0027-thien-can-o-tai-long-ta": [
    "star:thien-tai",
    "star:thien-tho"
   ],
   "tl#0028-thuong-su-la-2-don-canh-cho-3-doan-duong-luon": [
+   "han:han-49-53-67-thuong-su",
    "star:tang-mon",
    "star:thien-su",
    "star:thien-thuong"
@@ -1734,6 +2290,17 @@
    "star:thien-khoi",
    "star:thien-viet"
   ],
+  "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh": [
+   "rule:menh-than-tu-sinh-tu-chinh-tu-mo-anh-huong-suc-khoe",
+   "rule:tu-moi-tai-thai-tue-van-la-di-nhan-ky-tai"
+  ],
+  "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than": [
+   "rule:phuc-duc-khong-hoan-toan-chi-phoi-menh-than",
+   "rule:thuyet-menh-khong-bang-than-khong-vung-ly"
+  ],
+  "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban": [
+   "rule:duong-cung-la-dat-phi-nhieu-am-cung-bat-on"
+  ],
   "tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day": [
    "star:thai-am",
    "star:thai-duong",
@@ -1747,6 +2314,10 @@
    "star:thai-duong"
   ],
   "tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat",
+   "combo:sat-pha-liem-tham",
+   "combo:tu-phu-vu-tuong",
    "star:cu-mon",
    "star:liem-trinh",
    "star:pha-quan",
@@ -1761,6 +2332,8 @@
    "star:vu-khuc"
   ],
   "tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu": [
+   "rule:tuan-lam-diu-triet-bao-vay-triet-ha-khac-nhau",
+   "rule:tuan-triet-co-loi-khi-che-hoa-sat-tinh-khac-hanh-menh",
    "star:dia-khong",
    "star:luu-ha",
    "star:thanh-long",
@@ -1769,7 +2342,18 @@
    "star:tuan",
    "star:tue-pha"
   ],
+  "tl#0040-ty-voi-than-ngo-voi-mui": [
+   "rule:menh-o-tam-hop-thai-tue-la-loi-the",
+   "rule:nhi-hop-luon-la-sinh",
+   "rule:xung-chieu-luon-la-khac"
+  ],
+  "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh": [
+   "rule:am-duong-tuoi-gio-cung-quyet-dinh-thu-bac-gia-dinh",
+   "rule:gio-sinh-sai-lech-chi-co-the-giua-hai-gio-lien-ke",
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
   "tl#0042-trong-tu-vi-vong-trang-sinh-co-y-nghia-gi": [
+   "rule:vong-trang-sinh-chia-hai-phe-doi-lap-y-nghia",
    "star:benh",
    "star:de-vuong",
    "star:duong",
@@ -1784,6 +2368,7 @@
    "star:tuyet"
   ],
   "tl#0043-an-soi-o-thi-khong-ai-tuong-nho-giay-rach-phai": [
+   "rule:vong-trang-sinh-chia-hai-phe-doi-lap-y-nghia",
    "star:bac-sy",
    "star:de-vuong",
    "star:luc-sy",
@@ -1793,10 +2378,82 @@
    "star:trang-sinh",
    "star:tuong-quan"
   ],
+  "tl#0044-chinh-khong-bang-chieu-chieu-khong-bang-giap": [
+   "rule:chinh-khong-bang-chieu-chieu-khong-bang-giap",
+   "rule:giap-luc-sat-tinh-anh-huong-nguoi-than"
+  ],
+  "tl#0045-dau-la-mot-cai-so-dep": [
+   "rule:4-so-giong-nhau-khong-tu-dong-tot",
+   "rule:ngu-hanh-thang-thu-thai-bo-sung-tu-tru"
+  ],
   "tl#0047-ban-the-thuc-chat-cua-thai-tue": [
+   "rule:tam-hop-thai-tue-la-chinh-danh-trach-nhiem",
    "star:bach-ho",
    "star:quan-phu",
    "star:thai-tue"
+  ],
+  "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc": [
+   "rule:bon-tam-hop-cuc-manh-yeu-khac-nhau"
+  ],
+  "tl#0051-menh-o-ngo-co-tu-vi-bao-o-ty-co-thien-co-dac": [
+   "rule:bao-no-manh-yeu-theo-menh"
+  ],
+  "tl#0052-menh-o-tuat-co-tu-tuong-bao-o-dau-co-cu-co-sinh": [
+   "rule:bao-no-manh-yeu-theo-menh"
+  ],
+  "tl#0053-menh-co-nguyet-dong-luong-cu-nhat-ham-dia-kho": [
+   "rule:bao-no-manh-yeu-theo-menh",
+   "rule:phu-mau-hien-thi-tat-ach-nang"
+  ],
+  "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la": [
+   "rule:phu-mau-hien-thi-tat-ach-nang"
+  ],
+  "tl#0055-giau-nho-ban-sang-vi-vo": [
+   "rule:giau-nho-ban-sang-vi-vo-dieu-kien"
+  ],
+  "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh": [
+   "rule:giau-nho-ban-sang-vi-vo-dieu-kien"
+  ],
+  "tl#0057-an-han-nen-tinh-the-nao": [
+   "han:dai-han-tieu-han-lien-he",
+   "han:nam-tuoi-nam-xung"
+  ],
+  "tl#0058-the-nao-la-van-hoi-tot": [
+   "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
+  ],
+  "tl#0059-triet-ly-chinh-danh-trong-tu-vi": [
+   "rule:tam-hoa-lien-chau-can-dung-tuoi-chinh-danh",
+   "rule:tam-hoa-lien-chau-quy-hon-tam-hoa-nhap-tam-hop"
+  ],
+  "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi": [
+   "combo:vo-chinh-dieu"
+  ],
+  "tl#0083-pham-cach-giua-tu-vi-va-pha-quan": [
+   "combo:tu-vi-pha-quan-pham-cach"
+  ],
+  "tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan": [
+   "combo:sat-pha-liem-tham",
+   "combo:that-sat-trieu-nguong-dau",
+   "combo:tu-phu-vu-tuong"
+  ],
+  "tl#0085-nang-luc-quan-trong-cua-nhi-hop": [
+   "rule:nhi-hop-bo-khuyet-noi-tam-14-chinh-tinh"
+  ],
+  "tl#0087-di-mot-luc-luong-phai-de-y-1": [
+   "rule:menh-di-cung-phai-hanh-sao-quyet-thang-bai"
+  ],
+  "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat"
+  ],
+  "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can": [
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
+  ],
+  "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao": [
+   "combo:tam-hoa-lien-chau"
+  ],
+  "tl#0092-dinh-y-gi-dat-nam-tuoi-o-mo-cung-doi-xung-voi": [
+   "rule:nam-tuoi-o-mo-cung-la-thu-thach-phai-phan-dau"
   ],
   "tl#0093-nghia-vu-bo-tam-minh-ra-sao-ma-thien-hi-lai": [
    "star:dao-hoa",
@@ -1808,6 +2465,15 @@
    "star:truc-phu",
    "star:tu-phu",
    "star:tue-pha"
+  ],
+  "tl#0094-nghich-ly-am-duong-la-muc": [
+   "rule:nghich-ly-am-duong-di-kem-phuc-tinh-cuu-vot"
+  ],
+  "tl#0096-giap-liem-pha-vu-duong-don-tat-ca-khoa-quyen": [
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
+  ],
+  "tl#0097-tan-thuoc-am-ma-thai-duong-cam-quyen-tuc-la-the": [
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
   ]
  }
 }

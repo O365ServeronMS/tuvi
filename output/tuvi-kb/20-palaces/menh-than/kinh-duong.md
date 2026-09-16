@@ -31,18 +31,18 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Kình Dương tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Kình, Dương nhập Miếu, phú quý thanh dương" → tại Tứ Mộ gặp nhiều sao sáng thì phú quý, danh tiếng lừng lẫy; tuổi Thìn, Tuất, Sửu, Mùi càng quý hiển.
-- "Kình Dương Tý, Ngọ, Mão, Dậu phi yểu chiết nhi hình thương" → tại Tý, Ngọ, Mão, Dậu thì chết non, hoặc mang tàn tật.
-- "Mã đầu đới kiêm..." / "Mã đầu đới kiếm, trấn ngự biên cương" → tại Ngọ như kiếm kề cổ ngựa, dễ chết yểu; nhưng nếu xa lánh Sát tinh mà gặp Lộc, Mã, Khôi, Quyền thì hiển đạt võ nghiệp, trấn giữ biên cương; tuổi Bính Tuất tài quan song mỹ.
-- "Kình Dương, Đồng, Âm, nhi phùng, Phượng, Giải, nhất thế uy danh" → tại Ngọ đồng cung Đồng Âm, gặp Phượng, Giải thì hiển đạt võ nghiệp, uy quyền hiển hách, giàu sang trọn đời.
-- "Kình, Tù, Giáp, Ấn, hình trượng nan đào" → giáp Liêm, Tướng thì khó tránh tù tội.
-- "Kình Dương, Hỏa Tướng, oai quyền xuất chúng..." → tại Tứ Mộ đồng cung Hỏa thì uy quyền hiển hách; thêm Tham, Vũ thì thành bậc anh hùng.
-- "Kình, Đà, Linh, Hỏa thủ Thân, Mệnh yếu đà bối khúc chi nhân" → hội hợp tại Mệnh hay Thân thì gù lưng, có tật ở lưng; hãm địa thì cùng khổ, chết thê thảm.
-- "Mệnh, Dương, Đà gia Kiếp, thọ giảm" → Kình hay Đà gặp Kiếp đồng cung thì giảm thọ.
-- "Giáp Dương, giáp Đà vi khất điếu" → giáp Kình, giáp Đà thì cùng khổ, lang thang, có khi phải ăn xin.
-- "Dương, Đà giáp Kỵ vi bại cục" → Kỵ tọa thủ, giáp Kình giáp Đà thì nghèo túng, khổ sở, hay mắc tai họa.
-- "Kình, Hư, Tuế, Khách gia lâm, mãn thế đa phùng tang sự" → gặp Hư, Tuế, Khách thì sầu khổ, trai sát vợ gái khắc chồng.
-- "Lý Quảng sức dịch vạn chứng" / "Kình Dương phùng Lực Sỹ, Lý Quảng nan phong" → Kình, Lực Sỹ đồng cung thì sức khỏe hơn người, lập nhiều công trạng nhưng khó được ghi công.
+- "Kình, Dương nhập Miếu, phú quý thanh dương" → `60-phu/kinh-duong-nhap-mieu-phu-quy-thanh-duong.md`
+- "Kình Dương Tý, Ngọ, Mão, Dậu phi yểu chiết nhi hình thương" → `60-phu/kinh-duong-ty-ngo-mao-dau-phi-yeu-chiet-nhi-hinh-thuong.md`
+- "Mã đầu đới kiêm..." → `60-phu/ma-dau-doi-kiem-phi-yeu-chiet-nhi-chu-hinh-thuong.md`; "Mã đầu đới kiếm, trấn ngự biên cương" → `60-phu/ma-dau-doi-kiem-tran-ngu-bien-cuong.md`
+- "Kình Dương, Đồng, Âm, nhi phùng, Phượng, Giải, nhất thế uy danh" → `60-phu/kinh-duong-dong-am-nhi-phung-phuong-giai-nhat-the-uy-danh.md`
+- "Kình, Tù, Giáp, Ấn, hình trượng nan đào" → `60-phu/kinh-tu-giap-an-hinh-truong-nan-dao.md`
+- "Kình Dương, Hỏa Tướng, oai quyền xuất chúng..." → `60-phu/kinh-duong-hoa-tinh-oai-quyen-xuat-chung.md`
+- "Kình, Đà, Linh, Hỏa thủ Thân, Mệnh yếu đà bối khúc chi nhân" → `60-phu/kinh-da-linh-hoa-thu-than-menh-yeu-da-boi-khuc-chi-nhan.md`
+- "Mệnh, Dương, Đà gia Kiếp, thọ giảm" → `60-phu/menh-duong-da-gia-kiep-tho-giam.md`
+- "Giáp Dương, giáp Đà vi khất điếu" → `60-phu/duong-da-hoa-linh-phung-phat-tai-hung-tac-ky.md`
+- "Dương, Đà giáp Kỵ vi bại cục" → `60-phu/duong-da-giap-ky-vi-bai-cuc.md`
+- "Kình, Hư, Tuế, Khách gia lâm, mãn thế đa phùng tang sự" → `60-phu/kinh-hu-tue-khach-gia-lam-man-the-da-phung-tang-su.md`
+- "Lý Quảng sức dịch vạn chứng" → `60-phu/ly-quang-suc-dich-van-nhan.md`; "Kình Dương phùng Lực Sỹ, Lý Quảng nan phong" → `60-phu/kinh-duong-phung-luc-si-ly-quang-nan-phong.md`
 
 ## Nguyên văn
 > "Kình đắc địa, nên tính khí cương cường, quả quyết, dũng mảnh, lắm cơ mưu, thích mạo hiểm, nhưng hay kiêu căng tự đắc" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26)

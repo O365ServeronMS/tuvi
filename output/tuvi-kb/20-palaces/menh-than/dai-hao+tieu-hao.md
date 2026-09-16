@@ -30,8 +30,8 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Song Hao tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Hao ngộ Tham Lang, tàng dâm tình ư tinh đế" → gặp Tham (đồng cung hay xung chiếu) là người hiếu sắc, dâm dật nhưng kín đáo.
-- "Song Hao Mão, Dậu, chủng thủy triều Đông, tối hiểm Hóa Lộc, ái ngộ Cự, Cơ" → tại Mão, Dậu rất kỵ gặp Lộc, rất cần gặp Cự, Cơ; nếu Hao Cự Cơ đồng cung thì phú quý đến tột bực, phúc thọ song toàn.
+- "Hao ngộ Tham Lang, tàng dâm tình ư tinh đế" → `60-phu/hao-ngo-tham-lang-tang-dam-tinh-u-tinh-de.md`
+- "Song Hao Mão, Dậu, chủng thủy triều Đông, tối hiểm Hóa Lộc, ái ngộ Cự, Cơ" → `60-phu/song-hao-mao-dau-chung-thuy-trieu-dong-toi-hiem-hoa-loc-ai-ngo-cu-co.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Đại Hao hay Tiểu Hao tọa thủ, nên nên thân hình nhỏ nhắn, bộ máy tiêu hóa không được lành mạnh, tính khôn ngoan nhưng không quả quyết, không bền chí" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31)

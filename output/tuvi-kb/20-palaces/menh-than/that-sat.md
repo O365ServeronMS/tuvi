@@ -37,15 +37,15 @@ chunks:
 - [TĐ] Thất Sát đóng tại Dần, Thân, Tý, Ngọ thì rợ Tây di phải chịu phục người anh hùng, thêm Khôi Việt, Tả Hữu tụ hội thì khoa lộc danh cao, giàu sang phú quý; ở hãm địa thì hung họa như ôm hổ dữ mà ngủ, nếu Sát quá mạnh không bị chế phục có thể chết; thủ Mệnh ở nhàn cung thêm Cự Môn, Dương Đà chiếu xung thì nên tu tỉnh cho bớt ác nghiệp.
 
 ## Phú liên quan
-- "Thất Sát Dần, Thân, Tý, Ngọ nhất sinh tước lộc, vinh xương" → tại Dần, Thân (Thất Sát triều đẩu) hay Tý, Ngọ (Thất Sát ngưỡng đẩu) thì phú quý đến tột bậc.
-- "Thất Sát, Phá Quân, nghi xuất ngoại, chư ban thủ nghệ bất năng tinh" → Sát hoặc Phá hãm địa thì phải lìa gia đình đi làm ăn xa, biết nhiều nghề nhưng không tinh.
-- "Thất Sát trung phùng Tứ sát yêu đà bối khúc trận trung vong" → gặp Kình, Đà, Hỏa, Linh thì gù lưng, có tật ở lưng, ra trận dễ mạng vong.
-- "Sát, Kình tại Ngọ, mã đầu đới kiếm" → tại Ngọ đồng cung Kình, gặp nhiều Sát tinh thì dễ tai họa xe cộ dao súng; tuổi Bính Mậu nặng, tuổi Giáp Kỷ lại thành anh hùng.
-- "Sát lâm Tuyệt địa hội Dương, Đà, Nhan Hồi yểu chiết" → tại Tuyệt địa gặp Kình, Đà thì yểu tử.
-- "Thất Sát, Hỏa, Dương bần thả tiện, đồ tể chi nhân" → hãm địa gặp Hỏa, Kình thì nghèo hèn, làm nghề đồ tể.
-- "Sát cư Ly, Khảm nam nhân thê hiền" → tại Ngọ (Ly), Tý (Khảm) đàn ông lấy được vợ hiền; gặp Kiếp, Riêu thì ghét đàn bà, ở độc thân; đàn bà gặp Kiếp Riêu thì khổ sở vì tình.
-- "Sát, Hình hội long thần định giáng" / "Sát, Hình tọa củng liêm trực vô tư" → gặp Hình đồng cung hay chiếu thì oai phong lẫm liệt, liêm khiết, thẳng thắn, vô tư.
-- "Thất Sát lâm, Thân chung thị yểu" → cung Thân có Sát tọa thủ thì không thể sống lâu.
+- "Thất Sát Dần, Thân, Tý, Ngọ nhất sinh tước lộc, vinh xương" → `60-phu/that-sat-dan-than-ty-ngo-nhat-sinh-tuoc-loc-vinh-xuong.md`
+- "Thất Sát, Phá Quân, nghi xuất ngoại, chư ban thủ nghệ bất năng tinh" → `60-phu/that-sat-pha-quan-nghi-xuat-ngoai-chu-ban-thu-nghe-bat-nang-tinh.md`
+- "Thất Sát trung phùng Tứ sát yêu đà bối khúc trận trung vong" → `60-phu/that-sat-trung-phung-tu-sat-yeu-da-boi-khuc-tran-trung-vong.md`
+- "Sát, Kình tại Ngọ, mã đầu đới kiếm" → `60-phu/sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu.md`
+- "Sát lâm Tuyệt địa hội Dương, Đà, Nhan Hồi yểu chiết" → `60-phu/sat-lam-tuyet-dia-hoi-duong-da-nhan-hoi-yeu-chiet.md`
+- "Thất Sát, Hỏa, Dương bần thả tiện, đồ tể chi nhân" → `60-phu/that-sat-hoa-duong-ban-tha-tien-do-te-chi-nhan.md`
+- "Sát cư Ly, Khảm nam nhân thê hiền" → `60-phu/sat-cu-ly-kham-nam-nhan-the-hien-da-hoi.md`
+- "Sát, Hình hội long thần định giáng" → `60-phu/sat-hinh-hoi-long-than-dinh-giang.md`; "Sát, Hình tọa củng liêm trực vô tư" → `60-phu/sat-hinh-toa-cung-liem-truc-vo-tu.md`
+- "Thất Sát lâm, Thân chung thị yểu" → `60-phu/that-sat-lam-than-chung-thi-yeu.md`
 
 ## Nguyên văn
 > "Sát miếu, vượng hay đắc địa, nên rất can đảm, dũng mãnh, thông minh, có nhiều mưu cơ, lại thêm tánh cương nghị, hiếu thắng, và hay nói đại ngôn, nhưng được nhiều người tin phục" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p18)

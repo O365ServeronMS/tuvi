@@ -35,16 +35,16 @@ chunks:
 - [TĐ] Vũ Khúc thủ Mệnh hóa thành Quyền, chung quanh có sao tốt thì hoàn toàn phúc thọ, chí khí và tinh thần hơn người; nếu bị nhiều sát tinh xung phá thì dù giàu có cũng lụn bại.
 
 ## Phú liên quan
-- "Vũ Khúc vi Quả Tú" → có đặc tính như Quả Tú, hay cách biệt người thân, nếu không khắc cha mẹ anh em thì khắc vợ chồng hoặc hiếm con.
-- "Vũ Khúc, Miếu viên, uy danh bách hiến" → miếu địa gặp nhiều sao sáng sủa thì phú quý đến tột bậc, uy quyền hiển hách.
-- "Vũ Khúc nhàn cung đa thủ nghệ" → hãm địa tọa thủ thì chuyên về thủ công hay làm thợ.
-- "Mão cư Vũ, Sát, Phá, Liêm, phòng mộc áp lôi kinh" → tại Mão có Vũ Sát hoặc Phá Liêm đồng cung thì phải đề phòng tai nạn điện, lửa, sấm sét, bệnh thần kinh.
-- "Vũ Khúc, Dương, Đà kiêm Quả Tú, vị tiền nhân nguy" → hãm địa gặp Kình, Đà, Quả hội hợp thì vì tiền mà nguy khốn đến thân.
-- "Vũ Khúc, Văn Khúc vi nhân đa học, đa năng" → miếu, vượng, đắc địa gặp Khúc đồng cung là người thông minh, học rộng, có tài năng.
-- "Vũ Khúc, Khôi, Việt cư Miếu, Vượng tài chức chi quan" → miếu, vượng gặp Khôi hay Việt đồng cung thì có quan chức về tài chính.
-- "Vũ Khúc, Lộc, Mã giao trì, phát tài viễn quận" → miếu, đắc địa gặp Lộc, Mã hội hợp thì lập nghiệp xa quê mà khá giả.
-- "Vũ Khúc, Dần Thân nhị ngộ Lộc, Quyền phú gia Vương, Khải" → tại Dần, Thân gặp Lộc, Quyền hội hợp thì rất giàu.
-- "Vũ Khúc, Kiếp Sát hội Kình, Dương sát nhân, bất hiếu nhơn" → hãm địa gặp Kiếp Sát đồng cung, Kình chiếu thì rất gian ác bất lương.
+- "Vũ Khúc vi Quả Tú" → `60-phu/vu-khuc-vi-qua-tu.md`
+- "Vũ Khúc, Miếu viên, uy danh bách hiến" → `60-phu/vu-khuc-mieu-vien-uy-danh-bach-hien.md`
+- "Vũ Khúc nhàn cung đa thủ nghệ" → `60-phu/vu-khuc-nhan-cung-da-thu-nghe.md`
+- "Mão cư Vũ, Sát, Phá, Liêm, phòng mộc áp lôi kinh" → `60-phu/mao-cu-vu-sat-pha-liem-phong-moc-ap-loi-kinh.md`
+- "Vũ Khúc, Dương, Đà kiêm Quả Tú, vị tiền nhân nguy" → `60-phu/vu-khuc-duong-da-kiem-qua-tu-vi-tien-nhan-nguy.md`
+- "Vũ Khúc, Văn Khúc vi nhân đa học, đa năng" → `60-phu/vu-khuc-van-khuc-vi-nhan-da-hoc-da-nang.md`
+- "Vũ Khúc, Khôi, Việt cư Miếu, Vượng tài chức chi quan" → `60-phu/vu-khuc-khoi-viet-cu-mieu-vuong-tai-chuc-chi-quan.md`
+- "Vũ Khúc, Lộc, Mã giao trì, phát tài viễn quận" → `60-phu/vu-khuc-loc-ma-giao-tri-phat-tai-vien-quan.md`
+- "Vũ Khúc, Dần Thân nhị ngộ Lộc, Quyền phú gia Vương, Khải" → `60-phu/vu-khuc-dan-than-nhi-ngo-loc-quyen-phu-gia-vuong-khai.md`
+- "Vũ Khúc, Kiếp Sát hội Kình, Dương sát nhân, bất hiếu nhơn" → `60-phu/vu-khuc-kiep-sat-hoi-kinh-duong-sat-nhan-bat-hieu-nhon.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Vũ Khúc tọa thủ, nên thân hình nở nang cao vừa tầm, nặng cân đầu, mặt dài, vẻ mặt uy nghi" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p05)

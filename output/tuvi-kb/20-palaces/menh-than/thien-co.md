@@ -37,10 +37,10 @@ chunks:
 - [TĐ] Thiên Cơ, Thái Âm, Thiên Lương hợp cùng Thái Dương đắc địa thì kẻ tầm thường cũng giàu sang; có chức tước thêm Khoa Quyền Lộc thì diện kiến đế vương; nhưng Thiên Cơ gặp Hóa Kỵ ở nhàn cung (Tỵ) thì dù có chức vị tiền tài rồi cũng mất hết, trở thành phiêu bồng tăng đạo.
 
 ## Phú liên quan
-- "Cơ Viên phú tính từ tâm" → miếu, vượng, đắc địa tọa thủ là người có lòng từ thiện.
-- "Thiên Cơ gia ác Sát đồng cung, cẩn thân thử thiết" → miếu vượng đắc gặp nhiều Sát tinh là người quỷ quyệt xảo trá; hãm địa gặp Sát tinh là hạng trộm cướp bất lương.
-- "Cơ, Nguyệt, Cấn, Khôn, nhi hội Xương, Riêu, thi tứ, dâm tàng" → Cơ Nguyệt đồng cung tại Dần, Thân gặp Xương, Riêu thì hay làm thơ văn dâm tình.
-- "Cơ, Nguyệt Đồng Lương tác lại nhân" → Cơ, Nguyệt, Đồng, Lương hội hợp (cách Cơ Nguyệt Đồng Lương) thường làm công chức; cách cục đầy đủ sẽ làm ở Lô 6.
+- "Cơ Viên phú tính từ tâm" → `60-phu/co-vien-phu-tinh-tu-tam.md`
+- "Thiên Cơ gia ác Sát đồng cung, cẩn thân thử thiết" → `60-phu/thien-co-gia-ac-sat-dong-cung-can-than-thu-thiet.md`
+- "Cơ, Nguyệt, Cấn, Khôn, nhi hội Xương, Riêu, thi tứ, dâm tàng" → `60-phu/co-nguyet-can-khon-nhi-hoi-xuong-rieu-thi-tu-dam-tang.md`
+- "Cơ, Nguyệt Đồng Lương tác lại nhân" → `60-phu/co-nguyet-dong-luong-tac-lai-nhan.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Cơ miếu, vượng hay đắc địa tọa thủ, nên thân hình cao, xương lộ, da trắng, mặt dài, nhưng đều đặn, rất thông minh, khôn ngoan, có óc kinh doanh, có mưu trí, biết quyền biến, tính nhân hậu, từ thiện, được hưởng giàu sang và sống lâu" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p09)

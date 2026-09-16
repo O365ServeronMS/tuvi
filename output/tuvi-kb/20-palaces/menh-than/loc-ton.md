@@ -29,16 +29,16 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Lộc Tồn tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Lộc Tồn hậu trọng đa y thực" → gặp nhiều sao sáng thì giàu sang, ăn ngon mặc đẹp; tại Hợi thì tài quan song mỹ.
-- "Lộc Tồn tại viên, chi tứ tổ nghiệp" → tọa thủ thì có của cải tiền nhân để lại.
-- "Lộc triều viên, thân vinh quý hiển" → Mệnh sáng sủa có Lộc chiếu thì rất quý hiển.
-- "Lộc Tồn Tý, Ngọ vị, Mệnh, Thân, Thiên Di phùng chi, lợi lộc nghi" → tại Tý, Ngọ (Mệnh, Thân hay Thiên Di) gặp nhiều sao sáng thì rất giàu sang.
-- "Lộc phùng xung Phá, cát dã thành hung" → gặp Phá xung chiếu thì mờ ám, tiền tài thiếu thốn, hay mắc tai họa.
-- "Song Lộc thủ Mệnh, Lã Hậu chuyên quyền" → Lộc Tồn và Hóa Lộc đồng cung, gặp nhiều sao sáng thì độc đoán, có óc lãnh tụ, thích chuyên quyền.
-- "Song Lộc trùng phùng, chung thân phú quý" → Lộc Tồn và Hóa Lộc (đồng cung, hoặc một tọa một chiếu) thì giàu sang trọn đời.
-- "Minh Lộc, Ám Lộc, vị chí công khanh" → Lộc Tồn và Hóa Lộc ở thế nhị hợp (Uyên Ương Lộc Hội) thì giàu sang, quan chức lớn, uy quyền hiển hách.
-- "Lộc, Mã tối hỷ giao tri, chúng nhân sủng ái" → Lộc, Mã (một tọa một chiếu) thì rực rỡ, giàu sang, dễ kiếm tiền, được nhiều người mến chuộng.
-- "Lộc đáo, Mã đáo kỵ Kiếp, Không, Tuế" → Lộc, Mã gặp thêm Kiếp, Không, Tuế thì mờ ám, chẳng toại ý, khó tránh tai họa.
+- "Lộc Tồn hậu trọng đa y thực" → `60-phu/loc-ton-hau-trong-da-y-thuc.md`
+- "Lộc Tồn tại viên, chi tứ tổ nghiệp" → `60-phu/loc-ton-tai-vien-chi-tu-to-nghiep.md`
+- "Lộc triều viên, thân vinh quý hiển" → `60-phu/loc-trieu-vien-than-vinh-quy-hien.md`
+- "Lộc Tồn Tý, Ngọ vị, Mệnh, Thân, Thiên Di phùng chi, lợi lộc nghi" → `60-phu/loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi.md`
+- "Lộc phùng xung Phá, cát dã thành hung" → `60-phu/loc-phung-xung-pha-cat-da-thanh-hung.md`
+- "Song Lộc thủ Mệnh, Lã Hậu chuyên quyền" → `60-phu/song-loc-thu-menh-la-hau-chuyen-quyen.md`
+- "Song Lộc trùng phùng, chung thân phú quý" → `60-phu/song-loc-trung-phung-chung-than-phu-quy.md`
+- "Minh Lộc, Ám Lộc, vị chí công khanh" → `60-phu/minh-loc-am-loc-vi-chi-cong-khanh.md`
+- "Lộc, Mã tối hỷ giao tri, chúng nhân sủng ái" → `60-phu/loc-ma-toi-hy-giao-tri-chung-nhan-sung-ai.md`
+- "Lộc đáo, Mã đáo kỵ Kiếp, Không, Tuế" → `60-phu/loc-dao-ma-dao-ky-kiep-khong-tue.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Lộc Tồn tọa thủ, gặp nhiều sao sáng sủa tốt đẹp hội hợp, là người thông minh, học rộng, tính nhân hậu, từ thiện, có tài tổ chức, có nhiều sáng kiến lạ và biết ứng biến, suốt đời được hưởng giàu sang, được nhiều người kính trọng và sống lâu" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24)

@@ -41,16 +41,16 @@ chunks:
 - [TĐ] Trong cung Mệnh có Thái Dương thì phúc thọ nông hậu; thêm Quyền, Lộc, Khôi, Xương, Tả, Hữu thì phú quý ngang Thạch Sùng; nhưng đóng tại Sửu, Mùi mà không có Khoa Quyền Lộc thì phúc bạc, gặp Sát tinh xung phá thì bần cùng; hãm địa gặp Hóa Kỵ thì mờ ám trục trặc, dễ phá sản.
 
 ## Phú liên quan
-- "Nhật xuất Lôi môn, phú quý vinh hoa" → tại Mão thì phú quý, rất vinh hiển.
-- "Thái Dương cư Ngọ, Nhật lệ trung thiên" → tại Ngọ rất sáng sủa; tuổi Canh, Tân, Đinh, Kỷ chuyên quyền, phú quý đến tột bậc.
-- "Thái Dương cư Tý, Bính, Đinh phú quý trung lương" → tại Tý kém sáng; riêng tuổi Bính, Đinh giàu sang, trung chính lương thiện.
-- "Nhật tại Mùi, Thân, Mệnh vị, vi nhân tiên cần hậu lấn" → tại Mùi, Thân là người chuyên cần lúc đầu, lười biếng về sau.
-- "Nữ Mệnh đoan chính Thái Dương tinh tao ngộ hiền phu tín khả bằng" → nữ mệnh miếu, vượng, đắc địa là người đoan chính, sớm lấy được chồng hiền.
-- "Nhật lạc nhàn cung, sắc thiều xuân dung" → hãm địa thì vẻ mặt kém tươi, có vẻ buồn tẻ.
-- "Nhật tại Tỵ cung, Nhật mỹ huy thiên" → tại Tỵ rất sáng sủa; gặp Lộc, Mã, Sinh, Phụ, Bật thì giàu lớn thời bình, gặp Tướng, Ấn, Binh, Hình (không Tuần Triệt) thì lập nghiệp lớn thời loạn.
-- "Nhật cư Hợi địa, Nhật trầm thủy đề" → tại Hợi kém sáng như mặt trời chìm đáy nước; gặp Khoa Quyền Lộc hay Tả Hữu Hồng Khôi thì vẫn lập được công danh.
-- "Nhật Hãm, xung phùng ác Sát, lao lục bôn ba" → hãm địa gặp nhiều Sát tinh thì suốt đời lao khổ, bôn ba.
-- "Thái Dương, Hóa Kỵ, hữu mục hoàn thương" → gặp Hóa Kỵ đồng cung thì hay đau mắt, mắt có tật.
+- "Nhật xuất Lôi môn, phú quý vinh hoa" → `60-phu/nhat-xuat-loi-mon-phu-quy-vinh-hoa.md`
+- "Thái Dương cư Ngọ, Nhật lệ trung thiên" → `60-phu/thai-duong-cu-ngo-nhat-le-trung-thien.md`
+- "Thái Dương cư Tý, Bính, Đinh phú quý trung lương" → `60-phu/thai-duong-cu-ty-binh-dinh-phu-quy-trung-luong.md`
+- "Nhật tại Mùi, Thân, Mệnh vị, vi nhân tiên cần hậu lấn" → `60-phu/nhat-tai-mui-than-menh-vi-vi-nhan-tien-can-hau-lan.md`
+- "Nữ Mệnh đoan chính Thái Dương tinh tao ngộ hiền phu tín khả bằng" → `60-phu/nu-menh-doan-chinh-thai-duong-tinh-tao-ngo-hien-phu.md`
+- "Nhật lạc nhàn cung, sắc thiều xuân dung" → `60-phu/nhat-lac-nhan-cung-sac-thieu-xuan-dung.md`
+- "Nhật tại Tỵ cung, Nhật mỹ huy thiên" → `60-phu/nhat-tai-ty-cung-nhat-my-huy-thien-kiem-lai-loc-ma.md`
+- "Nhật cư Hợi địa, Nhật trầm thủy đề" → `60-phu/nhat-cu-hoi-dia-nhat-tram-thuy-de.md`
+- "Nhật Hãm, xung phùng ác Sát, lao lục bôn ba" → `60-phu/nhat-ham-xung-phung-ac-sat-lao-luc-bon-ba.md`
+- "Thái Dương, Hóa Kỵ, hữu mục hoàn thương" → `60-phu/thai-duong-hoa-ky-huu-muc-hoan-thuong.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thái Dung, miếu, vượng hay đắc địa tọa thủ, nên thân hình đẫy đà, cao vừa tầm, da hồng hào, mặt vuông vắn đầy đặn, có vẻ uy nghi" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07)

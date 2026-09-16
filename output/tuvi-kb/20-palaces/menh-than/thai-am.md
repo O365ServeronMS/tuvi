@@ -39,11 +39,11 @@ chunks:
 - [TĐ] Thái Âm là tinh hoa của hành thủy, đóng ở Thân Mệnh thì phúc lộc tự sinh, ở Dậu, Tuất, Hợi là đắc địa sáng rực rỡ và có tiếng tăm; nhập miếu biến thành Quyền tinh, người thanh tú, bẩm tính ôn lương, làm quan thanh hiển; nhưng tại Dần hội cùng Thiên Cơ, Xương Khúc thì dù có sao tốt cũng khó làm nên cơ nghiệp, gặp ác sát xung phá thì bần cùng đến già.
 
 ## Phú liên quan
-- "Nguyệt lãng Thiên môn ư Hợi địa đăng vân chấp chưởng đại quyền" → tại Hợi rất rực rỡ, phú quý đến tột bậc, nắm giữ quyền hành lớn.
-- "Thái Âm cư Tý, hiệu viết, thủy đăng quế ngạc, đắc thanh yếu chi chức, trung gián chi tài" → tại Tý rất sáng sủa, quý hiển, có tài can gián người trên.
-- "Nguyệt diệu Thiên Lương, nữ dâm bần" → nữ mệnh Nguyệt hãm địa gặp Lương chiếu là người dâm đãng, nghèo hèn.
-- "Thái Âm, Vũ Khúc, Lộc Tồn đồng, Tả, Hữu, tương phùng phú quý ông" → Nguyệt (hoặc Vũ) miếu vượng đắc địa gặp Lộc đồng cung, Tả Hữu hội hợp là bậc triệu phú.
-- "Thái Âm, Dương, Đà tất chủ nhân ly tài tán" → miếu vượng đắc địa gặp Kình, Đà thì ly tổ, tiền tài hao tán; hãm địa gặp Kình, Đà thì cùng khổ, nghèo túng.
+- "Nguyệt lãng Thiên môn ư Hợi địa đăng vân chấp chưởng đại quyền" → `60-phu/nguyet-lang-thien-mon-u-hoi-dia-dang-van-chap-chuong-dai-quyen.md`
+- "Thái Âm cư Tý, hiệu viết, thủy đăng quế ngạc, đắc thanh yếu chi chức, trung gián chi tài" → `60-phu/thai-am-cu-ty-thuy-dang-que-ngac-dac-thanh-yeu-chi-chuc.md`
+- "Nguyệt diệu Thiên Lương, nữ dâm bần" → `60-phu/nguyet-dieu-thien-luong-nu-dam-ban.md`
+- "Thái Âm, Vũ Khúc, Lộc Tồn đồng, Tả, Hữu, tương phùng phú quý ông" → `60-phu/thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong.md`
+- "Thái Âm, Dương, Đà tất chủ nhân ly tài tán" → `60-phu/thai-am-duong-da-tat-chu-nhan-ly-tai-tan.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thái Âm, miếu, vượng hay đắc địa tọa thủ, nên thân hình to lớn, hơi cao, da trắng, mặt vuông vắn, đầy đặn, dương, mắt sáng, rất thông minh, tính khoan hòa, nhân hậu, từ thiện, ưa thích văn chương, mỹ thuật" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11)

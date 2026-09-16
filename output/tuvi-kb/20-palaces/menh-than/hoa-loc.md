@@ -29,11 +29,11 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Hóa Lộc tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Hóa Lộc, củng Lộc, định vi văn võ toàn tài" → Hóa Lộc hợp chiếu, Lộc Tồn xung chiếu (hay ngược lại với Liêm Trinh) thì tài kiêm văn võ, giàu sang trọn đời.
-- "Lưỡng Lộc Ngọ Dần nhi phùng Tử, Vũ, Đinh, Kỷ, âm nam phú đa danh thọ" → tuổi Đinh, Kỷ tại Tý, Ngọ có Lộc gặp Tử, Vũ thì phú quý, sống lâu; có thêm một Lộc nữa chiếu thì toàn mỹ.
-- "Lộc phùng Lương miếu, bảo tư tài ích dữ tha nhân" → gặp Lương miếu địa đồng cung là người giàu, hay đem của giúp người khác.
-- "Song Lộc cư nhị ngộ Cơ, Lương phú gia địch quốc" → Hóa Lộc hay Lộc Tồn gặp Cơ, Lương hội hợp là người rất giàu; tại Dần, Thân có thêm một Lộc chiếu thì chắc chắn triệu phú.
-- "Mệnh vô Chính diệu, hoan ngộ Tam Không, hựu Song Lộc, phú quý khả kỳ" → vô Chính diệu, gặp Tuần Triệt và Thiên Không, Địa Không, thêm Lộc Tồn, Hóa Lộc thì giàu sang nhưng không lâu bền.
+- "Hóa Lộc, củng Lộc, định vi văn võ toàn tài" → `60-phu/hoa-loc-cung-loc-dinh-vi-van-vo-toan-tai.md`
+- "Lưỡng Lộc Ngọ Dần nhi phùng Tử, Vũ, Đinh, Kỷ, âm nam phú đa danh thọ" → `60-phu/luong-loc-ngo-dan-nhi-phung-tu-vu-dinh-ky-am-nam-phu-da-danh-tho.md`
+- "Lộc phùng Lương miếu, bảo tư tài ích dữ tha nhân" → `60-phu/loc-phung-luong-mieu-bao-tu-tai-ich-du-tha-nhan.md`
+- "Song Lộc cư nhị ngộ Cơ, Lương phú gia địch quốc" → `60-phu/song-loc-cu-nhi-ngo-co-luong-phu-gia-dich-quoc.md`
+- "Mệnh vô Chính diệu, hoan ngộ Tam Không, hựu Song Lộc, phú quý khả kỳ" → `60-phu/menh-vo-chinh-dieu-hoan-ngo-tam-khong-huu-song-loc-phu-quy-kha-ky.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Hóa Lộc tọa thủ, nên rậm râu tóc, tính thẳng thắn, lương thiện, rất thông minh, sành ăn uống, suốt đời được ăn miếng ngon, mặc đồ tốt" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29)

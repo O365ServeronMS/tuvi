@@ -31,8 +31,8 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Tang Môn, Bạch Hổ tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Nam nhân Tang, Hổ, hữu tài uyên bác" → đàn ông đắc địa có tài thao lược, học rộng, biết nhiều.
-- "Nữ mệnh Hổ Riêu, đa sự quả ưu" → nữ mệnh gặp Riêu đồng cung thì hôn phối trắc trở, suốt đời ưu phiền vì chồng con.
+- "Nam nhân Tang, Hổ, hữu tài uyên bác" → `60-phu/nam-nhan-tang-ho-huu-tai-uyen-bac.md`
+- "Nữ mệnh Hổ Riêu, đa sự quả ưu" → `60-phu/nu-menh-ho-rieu-da-su-qua-uu.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Tang Môn hay Bạch Hổ tọa thủ, là người can đảm, cương nghị, nhưng hơi ương ngạnh, mới lọt lòng mẹ đã có tang" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31)

@@ -28,15 +28,15 @@ chunks:
 Sách Trần Đoàn không bàn riêng về Thiên Khôi, Thiên Việt tại Mệnh trong đoạn đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Phú liên quan
-- "Khôi Việt tại Mệnh, Thân vì trưởng tử" → tọa thủ là con trưởng, hay sau cũng đoạt trưởng.
-- "Thiên Khôi, Thiên Việt, tái thế văn chương" → gặp văn tinh (Xương, Khúc, Khoa, Tuế, Tấu) thì văn tài lỗi lạc, sớm hiển đạt.
-- "Khôi, Việt phụ tinh, vi phúc thọ" → gặp nhiều sao sáng thì hưởng phúc, sống lâu.
-- "Khôi, Việt tại Mệnh, Thân, da chiết quế" → tọa thủ thì đi thi đỗ cao.
-- "Khôi, Việt, Cương, Khúc, Lộc Tồn, Hình, Sát vô xung đại phú quý" → gặp Xương, Khúc, Lộc mà không bị Sát, Kỵ, Hình xâm phạm thì phú quý đến cực độ, sống lâu.
-- "Khôi, Việt trùng phùng Sát, cố tật vưu đa" → gặp Sát tinh thì nhiều bệnh tật khó chữa.
-- "Khôi tinh lâm Mệnh, vị chí tam thai" → gặp nhiều sao sáng thì rất quý hiển; tại Ngọ gặp Tử đồng cung thì uy danh lừng lẫy, giàu sang trọn đời.
-- "Khôi tinh giáp Mệnh vi kỳ cách" → giáp Khôi, giáp Việt thì thông minh, sớm hiển đạt, được quý nhân phù trợ.
-- "Giáp Quý, Giáp Lộc, thiếu nhân tri" → giáp Khôi, Việt, Lộc thì rất quý hiển và giàu có, ít người sánh kịp.
+- "Khôi Việt tại Mệnh, Thân vì trưởng tử" → `60-phu/khoi-viet-tai-menh-than-vi-truong-tu.md`
+- "Thiên Khôi, Thiên Việt, tái thế văn chương" → `60-phu/thien-khoi-thien-viet-tai-the-van-chuong.md`
+- "Khôi, Việt phụ tinh, vi phúc thọ" → `60-phu/khoi-viet-phu-tinh-vi-phuc-tho.md`
+- "Khôi, Việt tại Mệnh, Thân, da chiết quế" → `60-phu/khoi-viet-tai-menh-than-nhu-chiet-que.md`
+- "Khôi, Việt, Cương, Khúc, Lộc Tồn, Hình, Sát vô xung đại phú quý" → `60-phu/khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy.md`
+- "Khôi, Việt trùng phùng Sát, cố tật vưu đa" → `60-phu/khoi-viet-trung-phung-sat-co-tat-vuu-da.md`
+- "Khôi tinh lâm Mệnh, vị chí tam thai" → `60-phu/khoi-tinh-lam-menh-vi-chi-tam-thai.md`
+- "Khôi tinh giáp Mệnh vi kỳ cách" → `60-phu/khoi-tinh-giap-menh-vi-ky-cach.md`
+- "Giáp Quý, Giáp Lộc, thiếu nhân tri" → `60-phu/giap-quy-giap-loc-thieu-nhan-tri.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Khôi hay Thiên Việt tọa thủ, tất là con trưởng, nếu không sau cũng đoạt trưởng, lại có vẻ mặt thanh tú, khỏi ngô, mắt sáng, tính tình cao thượng và rất thông minh" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23)

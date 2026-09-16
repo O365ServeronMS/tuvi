@@ -38,11 +38,11 @@ chunks:
 - [TĐ] Thiên Lương là sao tốt của số, hình dáng bệ vệ ôn lương, gặp thêm Tả Hữu, Xương Khúc thì làm quan, phú quý; nhưng gặp Hỏa Tinh nơi nhàn cư, bị Đà Sát thì gây hung họa, tật bệnh, hao tán, phá nghiệp, phải đi làm thuê làm mướn.
 
 ## Phú liên quan
-- "Thiên Lương thủ chiếu, cát tương phùng" → miếu vượng đắc địa tọa thủ hay chiếu, gặp nhiều sao sáng sủa thì hưởng phúc, sống lâu.
-- "Thiên Lương cư Ngọ vị, quan tư thanh hiển triều đình" → tại Ngọ rất rực rỡ; tuổi Đinh, Kỷ, Quý phú quý đến tột bậc, uy quyền hiển hách.
-- "Lương phùng Hao Sát tại cung đao nghiệp hình thương" → tại Tỵ gặp Song Hao, Sát tinh thì khó tránh tai họa đao thương súng đạn.
-- "Thiên Lương, Thiên Mã ví nhân phiêu đãng vô nghi" / "Thiên Lương ngộ Mã, nữ Mệnh tiên nhi thả dâm" → tại Tý, Hợi gặp Mã đồng cung hay xung chiếu là người phiêu đãng, thích chơi bời; nữ mệnh hạ tiện, dâm dật.
-- "Thiên Lương, Văn Xương, cư Miếu, Vượng vị chi công khanh" → miếu địa gặp Xương đồng cung thì rất quý hiển.
+- "Thiên Lương thủ chiếu, cát tương phùng" → `60-phu/thien-luong-thu-chieu-cat-tuong-phung.md`
+- "Thiên Lương cư Ngọ vị, quan tư thanh hiển triều đình" → `60-phu/thien-luong-cu-ngo-vi-quan-tu-thanh-hien-trieu-dinh.md`
+- "Lương phùng Hao Sát tại cung đao nghiệp hình thương" → `60-phu/luong-phung-hao-sat-tai-cung-dao-thuong-hinh-thuong.md`
+- "Thiên Lương, Thiên Mã ví nhân phiêu đãng vô nghi" → `60-phu/thien-luong-thien-ma-vi-nhan-phieu-dang-vo-nghi.md`; "Thiên Lương ngộ Mã, nữ Mệnh tiên nhi thả dâm" → `60-phu/thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam.md`
+- "Thiên Lương, Văn Xương, cư Miếu, Vượng vị chi công khanh" → `60-phu/thien-luong-van-xuong-cu-mieu-vuong-vi-chi-cong-khanh.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Lương tọa thủ, nên thân hình thon và cao, da trắng, vẻ mặt thanh tú khôi ngô, tính khoan hòa, được hưởng tuổi thọ lâu dài" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p17)

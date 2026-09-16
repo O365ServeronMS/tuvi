@@ -31,16 +31,16 @@ chunks:
 - [TĐ] Thiên Phủ thủ Mệnh hội cùng Quyền Lộc và Xương, Khôi, Tả Hữu thì được dựa kẻ quyền quý mà có chức tước; nhưng bị Hỏa Linh Dương Đà vây hãm là người gian trá, cuộc đời lận đận; bị Kiếp Không phá thì chỉ có thể hưởng phúc ở chốn thiền môn.
 
 ## Phú liên quan
-- "Thiên Phủ ôn lương" → tọa thủ là người khoan hòa, nhân hậu, có lòng từ thiện.
-- "Nam Thiên Phủ, giao long vãng uyên" → đàn ông có Phủ thủ Mệnh là người cẩn thận, chín chắn, biết suy nghĩ sâu xa.
-- "Thiên Phủ lâm Tuất hữu tinh phù, phú quý song toàn" → tại Tuất gặp nhiều sao sáng sủa thì giàu sang trọn đời.
-- "Thiên Phủ Tuất cung vô Sát tấu, Giáp, Kỷ nhân hoạnh phát danh tài" → tại Tuất không bị Sát tinh xâm phạm, tuổi Giáp, Kỷ thì hoạnh phát công danh, phú quý.
-- "Dần Mộc, Phủ, Vi hữu hội Tam Kỳ, Kình, Bật" → tại Dần đồng cung với sao "Vi" (chưa rõ, có thể là lỗi OCR) gặp Khoa Quyền Lộc cùng Kình, Bật thì có văn chức kiêm quân sự, uy quyền lớn; gặp Tuần Triệt hay Không Kiếp thì không còn kể.
-- "Thiên Phủ cư Ngọ, Tuất, Thiên Tướng lai triều, Giáp nhân nhất phẩm chi quý" → tại Ngọ, Tuất gặp Tướng hợp chiếu thì có quan chức, giàu sang; tuổi Giáp rất quý hiển.
-- "Thiên Phủ, Thiên Tướng, Thiên Lương đồng, quân thần khánh hội" → Phủ gặp Tướng chiếu nhị hợp có Lương thì rất rực rỡ, được giàu sang.
-- "Thiên Phủ, Xương, Khúc, Tả, Hữu, cao đệ ân vinh" → gặp Xương, Khúc, Tả, Hữu hội hợp thì vinh hiển, có danh giá hơn người.
-- "Thiên Phủ, Xương, Khúc, Lộc Tồn, cự vạn chi tứ" → gặp Xương, Khúc, Lộc hội hợp thì rất giàu có.
-- "Phủ, Tướng đồng lai hội Mệnh cung toàn gia thực lộc" → Phủ, Tướng hội chiếu thì rất sung túc.
+- "Thiên Phủ ôn lương" → `60-phu/thien-phu-on-luong.md`
+- "Nam Thiên Phủ, giao long vãng uyên" → `60-phu/nam-thien-phu-giao-long-vang-uyen.md`
+- "Thiên Phủ lâm Tuất hữu tinh phù, phú quý song toàn" → `60-phu/thien-phu-lam-tuat-huu-tinh-phu-phu-quy-song-toan.md`
+- "Thiên Phủ Tuất cung vô Sát tấu, Giáp, Kỷ nhân hoạnh phát danh tài" → `60-phu/thien-phu-tuat-cung-vo-sat-tau-giap-ky-nhan-hoanh-phat-danh-tai.md`
+- "Dần Mộc, Phủ, Vi hữu hội Tam Kỳ, Kình, Bật" → `60-phu/dan-moc-phu-vi-huu-hoi-tam-ky-kinh-bat-cu-lai-an-ngu.md`
+- "Thiên Phủ cư Ngọ, Tuất, Thiên Tướng lai triều, Giáp nhân nhất phẩm chi quý" → `60-phu/thien-phu-cu-ngo-tuat-thien-tuong-lai-trieu-giap-nhan-nhat-pham-chi-quy.md`
+- "Thiên Phủ, Thiên Tướng, Thiên Lương đồng, quân thần khánh hội" → `60-phu/thien-phu-thien-tuong-thien-luong-dong-quan-than-khanh-hoi.md`
+- "Thiên Phủ, Xương, Khúc, Tả, Hữu, cao đệ ân vinh" → `60-phu/thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh.md`
+- "Thiên Phủ, Xương, Khúc, Lộc Tồn, cự vạn chi tứ" → `60-phu/thien-phu-xuong-khuc-loc-ton-cu-van-chi-tu.md`
+- "Phủ, Tướng đồng lai hội Mệnh cung toàn gia thực lộc" → `60-phu/phu-tuong-dong-lai-hoi-menh-cung-toan-gia-thuc-loc.md`
 
 ## Nguyên văn
 > "Cung Mệnh có Thiên Phủ tọa thủ, nên thân hình đầy đặn, da trắng, vẻ mặt thanh tú, đều và đẹp, tính khoan hồng nhân hậu, ưa việc từ thiện, biết suy tính và có nhiều mưu cơ để giải quyết những công việc khó khăn" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p10)
