@@ -2,7 +2,7 @@
 id: phu:duong-da-giap-ky-vi-bai-cuc
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [kinh-duong, da-la, hoa-ky, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26
@@ -25,3 +25,6 @@ Sao: Hóa Kỵ, Kình Dương, Đà La (giáp cung Mệnh). Cung: Mệnh.
 > "Dương, Đà giáp Kỵ vi bại cục Cung Mệnh có Kỵ tọa thủ, lại giáp Kình, giáp Đà nên suốt đời nghèo túng, khổ sở, và hay mắc tai họa." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26)
 
 > "Chí có sớm xa gia đình may ra mới được an thân và no cơm ấm áo" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Dương Đà hiệp Kị vi bại cục", giải: "Mệnh có Hoá Kị lại giáp Kình giáp Đà La là số thuộc loại bại cục." (td#0035-sao-kinh-duong)

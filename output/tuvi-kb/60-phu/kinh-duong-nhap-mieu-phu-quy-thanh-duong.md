@@ -2,7 +2,7 @@
 id: phu:kinh-duong-nhap-mieu-phu-quy-thanh-duong
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [kinh-duong, menh, tu-mo]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26
@@ -25,3 +25,6 @@ Sao: Kình Dương. Cung: Mệnh, tại Tứ Mộ.
 > "Kình, Dương nhập Miếu, phú quý thanh dương Cung Mệnh an tại Tứ Mộ, có Kình tọa thủ, lại gặp thêm nhiều sao sáng sủa tốt đẹp hội hợp, nên được hưởng phú quý và có danh tếing lừng lẫy." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26)
 
 > "Tuổi Thìn, Tuất, Sửu, Mùi có cách này ạli càng quý hiển." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Kình Dương nhập miếu phú quí thanh dương", giải: "Vào miếu địa phú quí danh vang." (td#0035-sao-kinh-duong)
