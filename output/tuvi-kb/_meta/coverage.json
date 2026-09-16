@@ -955,7 +955,18 @@
    "phu:song-loc-trung-phung-chung-than-phu-quy"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p25": [
-   "palace:menh-than:ta-phu+huu-bat"
+   "palace:menh-than:ta-phu+huu-bat",
+   "phu:huu-bat-thien-tuong-phuc-lai-lam",
+   "phu:mo-phung-ta-huu-ton-cu-bat-toa-chi-quy",
+   "phu:phu-bat-ai-nhap-mo-cung-nhuoc-phung-de-vuong-van-doan-vo-cach",
+   "phu:phu-bat-giap-de-phuc-lai-lam",
+   "phu:ta-huu-don-thu-chieu-menh-ly-tong-thu-xuat",
+   "phu:ta-huu-dong-cung-phi-la-y-tu",
+   "phu:ta-huu-dong-cung-ton-cu-van-thua",
+   "phu:ta-huu-giap-menh-vi-quy-cach-tb",
+   "phu:ta-huu-khoi-viet-u-phuc-tho",
+   "phu:ta-huu-kinh-duong-tao-hinh-luc",
+   "phu:ta-phu-huu-bat-chung-than-phuc-hau"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26": [
    "palace:menh-than:kinh-duong"
