@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 54,
+   "referenced": 57,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -320,10 +320,7 @@
     "tl#0081-cuc-vi-dau-tro-thanh-phan-quan-trong-cua-so",
     "tl#0082-tren-dia-ban-toan-so",
     "tl#0086-khuc",
-    "tl#0087-di-mot-luc-luong-phai-de-y-1",
-    "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can",
     "tl#0091-dau-la-ngoi-vi-chinh-xac-cua-thien-at-qui-nhan",
-    "tl#0092-dinh-y-gi-dat-nam-tuoi-o-mo-cung-doi-xung-voi",
     "tl#0094-nghich-ly-am-duong-la-muc",
     "tl#0095-nhung-net-dac-khoan-cua-bon-tuoi-at-mau-tan-nham",
     "tl#0096-giap-liem-pha-vu-duong-don-tat-ca-khoa-quyen",
@@ -337,7 +334,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 51.9
+   "coverage_percent": 54.8
   },
   "td": {
    "chunks": 122,
@@ -2089,12 +2086,21 @@
   "tl#0085-nang-luc-quan-trong-cua-nhi-hop": [
    "rule:nhi-hop-bo-khuyet-noi-tam-14-chinh-tinh"
   ],
+  "tl#0087-di-mot-luc-luong-phai-de-y-1": [
+   "rule:menh-di-cung-phai-hanh-sao-quyet-thang-bai"
+  ],
   "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan": [
    "combo:co-nguyet-dong-luong",
    "combo:cu-nhat"
   ],
+  "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can": [
+   "rule:thien-tuong-that-sat-khong-nhan-tu-hoa"
+  ],
   "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao": [
    "combo:tam-hoa-lien-chau"
+  ],
+  "tl#0092-dinh-y-gi-dat-nam-tuoi-o-mo-cung-doi-xung-voi": [
+   "rule:nam-tuoi-o-mo-cung-la-thu-thach-phai-phan-dau"
   ],
   "tl#0093-nghia-vu-bo-tam-minh-ra-sao-ma-thien-hi-lai": [
    "star:dao-hoa",
