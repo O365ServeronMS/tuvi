@@ -748,7 +748,13 @@
    "phu:thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11": [
-   "palace:menh-than:thai-am"
+   "palace:menh-than:thai-am",
+   "phu:nguyet-dieu-thien-luong-nu-dam-ban",
+   "phu:nguyet-lang-thien-mon-u-hoi-dia-dang-van-chap-chuong-dai-quyen",
+   "phu:thai-am-cu-ty-binh-dinh-phu-quy-trung-luong",
+   "phu:thai-am-cu-ty-thuy-dang-que-ngac-dac-thanh-yeu-chi-chuc",
+   "phu:thai-am-duong-da-tat-chu-nhan-ly-tai-tan",
+   "phu:thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12": [
    "palace:menh-than:tham-lang",
