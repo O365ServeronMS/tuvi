@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 42,
+   "referenced": 44,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -299,7 +299,6 @@
     "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban",
     "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
-    "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
     "tl#0050-giay-lien-lac-bao-voi-no",
     "tl#0051-menh-o-ngo-co-tu-vi-bao-o-ty-co-thien-co-dac",
@@ -308,7 +307,6 @@
     "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la",
     "tl#0055-giau-nho-ban-sang-vi-vo",
     "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh",
-    "tl#0059-triet-ly-chinh-danh-trong-tu-vi",
     "tl#0060-mot-ngoi-troi-dat-nguoi",
     "tl#0061-doi-benh-thai-thinh-suy-hoan-luong-4-quan-tu",
     "tl#0062-ngam-hay-muon-su-tai-troi-troi-kia-da-bat-lam",
@@ -349,7 +347,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 40.4
+   "coverage_percent": 42.3
   },
   "td": {
    "chunks": 122,
@@ -2030,9 +2028,13 @@
    "rule:ngu-hanh-thang-thu-thai-bo-sung-tu-tru"
   ],
   "tl#0047-ban-the-thuc-chat-cua-thai-tue": [
+   "rule:tam-hop-thai-tue-la-chinh-danh-trach-nhiem",
    "star:bach-ho",
    "star:quan-phu",
    "star:thai-tue"
+  ],
+  "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc": [
+   "rule:bon-tam-hop-cuc-manh-yeu-khac-nhau"
   ],
   "tl#0057-an-han-nen-tinh-the-nao": [
    "han:dai-han-tieu-han-lien-he",
@@ -2040,6 +2042,10 @@
   ],
   "tl#0058-the-nao-la-van-hoi-tot": [
    "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
+  ],
+  "tl#0059-triet-ly-chinh-danh-trong-tu-vi": [
+   "rule:tam-hoa-lien-chau-can-dung-tuoi-chinh-danh",
+   "rule:tam-hoa-lien-chau-quy-hon-tam-hoa-nhap-tam-hop"
   ],
   "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi": [
    "combo:vo-chinh-dieu"
