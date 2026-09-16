@@ -2,7 +2,7 @@
 id: phu:ta-huu-kinh-duong-tao-hinh-luc
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [ta-phu, huu-bat, kinh-duong, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p25
@@ -23,3 +23,6 @@ Sao: Tả Phụ, Hữu Bật, Kình Dương. Cung: Mệnh.
 
 ## Nguyên văn
 > "Tả, Hữu, Kình Dương, tao hình lục Cung Mệnh сó Tả, Hữu tọa thủ, lại gặp Kình Dương hội hợp, nên hay mắc tù tội và suốt đời chẳng mấy khi được xứng ý toại lòng." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p25)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự về Xương Khúc Tả Hữu "Xương Khúc Tả Hữu hội Dương Đà sinh dị chí", giải: "Cùng với Tả Hữu gặp Kình Dương Đà La có nốt ruồi lạ trên thân thể." (td#0028-sao-van-khuc)

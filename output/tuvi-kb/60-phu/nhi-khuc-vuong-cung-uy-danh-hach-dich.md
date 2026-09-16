@@ -2,7 +2,7 @@
 id: phu:nhi-khuc-vuong-cung-uy-danh-hach-dich
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [van-khuc, vu-khuc, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22
@@ -23,3 +23,6 @@ Sao: Văn Khúc, Vũ Khúc. Cung: Mệnh (đắc địa).
 
 ## Nguyên văn
 > "Nhị Khúc vượng cung, uy danh hách dịch Cung Mệnh, có Khúc đắc địa tọa thủ, gặp Vũ đồng cung, là người có tài kiêm văn võ và có uy quyền hiến hách" (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Nhị Khúc vượng cung uy danh hách hách", giải: "Văn Khúc, Vũ Khúc ở vượng địa thủ mệnh tăm tiếng lẫy lừng." (td#0028-sao-van-khuc)

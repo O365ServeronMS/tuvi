@@ -2,7 +2,7 @@
 id: phu:nhi-khuc-trieu-vien-phung-ta-huu-tuong-tuong-chi-tai
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [van-khuc, vu-khuc, ta-phu, huu-bat, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22
@@ -23,3 +23,6 @@ Sao: Văn Khúc, Vũ Khúc, Tả Phụ, Hữu Bật. Cung: Mệnh.
 
 ## Nguyên văn
 > "Nhị Khúc triều viên phùng, Tả, Hữu tướng tướng chi tài Cung Mệnh sáng sủa tốt đẹp, có Khúc, Vũ hội chiếu và Tả, Hữu hội hợp, là người có tài kiêm văn võ, nhưng hiển đạt về võ nghiệp và được hưởng phú quý song toàn." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Nhị Khúc miếu viên phùng Tả Hữu tướng tướng chi tài", giải: "Văn Khúc, Vũ Khúc miếu địa ở mệnh viên gặp Tả Phụ Hữu Bật tài kiêm văn võ." (td#0028-sao-van-khuc)
