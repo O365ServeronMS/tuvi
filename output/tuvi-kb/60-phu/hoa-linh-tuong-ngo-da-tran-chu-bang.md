@@ -2,7 +2,7 @@
 id: phu:hoa-linh-tuong-ngo-da-tran-chu-bang
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [hoa-tinh, linh-tinh, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27
@@ -23,3 +23,6 @@ Sao: Hỏa Tinh, Linh Tinh. Cung: Mệnh (đắc địa).
 
 ## Nguyên văn
 > "Cung Mệnh có Hỏa đắc địa tọa thủ, gặp Linh chiếu hay có Linh đắc địa tọa thủ, gặp Hỏa chiếu, hay có Hỏa, Linh đắc địa tọa thủ đồng cung, là người có tài ba xuất chúng, thường hiển đạt về võ nghiệp và có uy quyền danh tiếng lừng lẫy." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Hoả Linh tương ngộ danh chấn chư bang", giải: "Hoả Tinh gặp Linh Tinh ở Mệnh, tiếng tăm vang dội tới nước ngoài." (td#0037-sao-hoa-tinh)
