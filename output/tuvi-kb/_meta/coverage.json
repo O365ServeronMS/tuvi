@@ -998,7 +998,17 @@
    "phu:linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p28": [
-   "palace:menh-than:dia-khong+dia-kiep"
+   "palace:menh-than:dia-khong+dia-kiep",
+   "phu:dan-than-kiep-khong-nhi-ngo-quy-tinh-thang-tram-vo-do",
+   "phu:dia-kiep-doc-thu-thi-ky-phi-nhan",
+   "phu:kiep-co-ngo-hoa-tat-ngo-hoa-tai",
+   "phu:kiep-khong-giap-menh-vi-bai-cuc-chu-ban-tien",
+   "phu:kiep-khong-ha-hiem-ty-hoi-tuong-ma-dong-cu-chi-hoi-khoa-tinh",
+   "phu:kiep-khong-ty-hoi-dong-vi-tao-dat-cong-danh",
+   "phu:kiep-phu-khoc-khach-mac-ngo-cu-duong-chung-than-da-le",
+   "phu:menh-trung-ngo-kiep-tham-do-nhu-lang-ly-hanh-thuyen",
+   "phu:nhan-hoi-yeu-tu-do-huu-kiep-khong-dao-hong-da-linh-thu-menh",
+   "phu:sinh-su-kiep-khong-do-nhu-ban-thien-chiet-si"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p29": [
    "palace:menh-than:hoa-khoa",
