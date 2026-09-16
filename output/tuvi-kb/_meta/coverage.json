@@ -969,7 +969,22 @@
    "phu:ta-phu-huu-bat-chung-than-phuc-hau"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p26": [
-   "palace:menh-than:kinh-duong"
+   "palace:menh-than:kinh-duong",
+   "phu:duong-da-giap-ky-vi-bai-cuc",
+   "phu:duong-da-hoa-linh-phung-phat-tai-hung-tac-ky",
+   "phu:giap-duong-giap-da-vi-khat-cai",
+   "phu:kinh-da-linh-hoa-thu-than-menh-yeu-da-boi-khuc-chi-nhan",
+   "phu:kinh-duong-dong-am-nhi-phung-phuong-giai-nhat-the-uy-danh",
+   "phu:kinh-duong-hoa-tinh-oai-quyen-xuat-chung",
+   "phu:kinh-duong-nhap-mieu-phu-quy-thanh-duong",
+   "phu:kinh-duong-phung-luc-si-ly-quang-nan-phong",
+   "phu:kinh-duong-ty-ngo-mao-dau-phi-yeu-chiet-nhi-hinh-thuong",
+   "phu:kinh-hu-tue-khach-gia-lam-man-the-da-phung-tang-su",
+   "phu:kinh-tu-giap-an-hinh-truong-nan-dao",
+   "phu:ly-quang-suc-dich-van-nhan",
+   "phu:ma-dau-doi-kiem-phi-yeu-chiet-nhi-chu-hinh-thuong",
+   "phu:ma-dau-doi-kiem-tran-ngu-bien-cuong",
+   "phu:menh-duong-da-gia-kiep-tho-giam"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27": [
    "palace:menh-than:da-la",
