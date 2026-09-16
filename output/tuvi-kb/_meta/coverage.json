@@ -257,7 +257,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 142,
+   "referenced": 143,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -279,7 +279,6 @@
     "tb#0106-vat-dung-bieu-tuong-bang-cac-sao",
     "tb#0107-co-the-trong-nguoi-bieu-tuong-bang-sao",
     "tb#0108-ket-hop-nhan-dinh",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13",
     "tb#0113-luu-thai-tue-luu-tang-mon-luu-bach-ho",
     "tb#0114-luu-thien-khoc-luu-thien-hu",
     "tb#0115-luu-thien-ma",
@@ -289,7 +288,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 83.0
+   "coverage_percent": 83.6
   },
   "tl": {
    "chunks": 107,
@@ -1268,6 +1267,7 @@
    "han:dai-han-tieu-han-lien-he",
    "han:dao-hoa-nhap-han",
    "han:duong-phu-nhap-han",
+   "han:giai-than-nhap-han",
    "han:hoa-khoa-nhap-han",
    "han:hoa-ky-nhap-han",
    "han:hoa-loc-nhap-han",
@@ -1289,19 +1289,25 @@
    "han:ta-huu-nhap-han",
    "han:tang-mon-nhap-han",
    "han:thai-am-nhap-han",
+   "han:thai-cao-nhap-han",
    "han:thai-duong-nhap-han",
    "han:thai-toa-nhap-han",
    "han:tham-lang-nhap-han",
    "han:that-sat-nhap-han",
    "han:thien-co-nhap-han",
    "han:thien-dong-nhap-han",
+   "han:thien-giai-dia-giai-nhap-han",
    "han:thien-hu-nhap-han",
    "han:thien-khoc-nhap-han",
+   "han:thien-khong-nhap-han",
    "han:thien-luong-nhap-han",
+   "han:thien-ma-nhap-han",
    "han:thien-phu-nhap-han",
    "han:thien-tuong-nhap-han",
    "han:thien-viet-nhap-han",
+   "han:triet-nhap-han",
    "han:tu-vi-nhap-han",
+   "han:tuan-nhap-han",
    "han:tuong-quan-nhap-han",
    "han:vu-khuc-nhap-han",
    "han:xuong-khuc-nhap-han"
@@ -1375,6 +1381,15 @@
    "han:quoc-an-nhap-han",
    "han:thai-toa-nhap-han",
    "han:tuong-quan-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13": [
+   "han:giai-than-nhap-han",
+   "han:thai-cao-nhap-han",
+   "han:thien-giai-dia-giai-nhap-han",
+   "han:thien-khong-nhap-han",
+   "han:thien-ma-nhap-han",
+   "han:triet-nhap-han",
+   "han:tuan-nhap-han"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
