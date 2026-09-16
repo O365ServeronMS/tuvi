@@ -3,7 +3,7 @@
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 5,
+   "referenced": 7,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -14,9 +14,7 @@
     "npl#0007-con-nguoi-trong-khoa-tu-vi-p02",
     "npl#0007-con-nguoi-trong-khoa-tu-vi-p03",
     "npl#0008-nguoi-chet",
-    "npl#0009-c-nhung-gioi-han-cua-khoa-tu-vi",
     "npl#0010-quyen-larousse-medical-illustre-1924-trang-760",
-    "npl#0011-pham-vi-ap-dung-khoa-tu-vi",
     "npl#0013-dai-phan-tich-macro-analyse-p01",
     "npl#0013-dai-phan-tich-macro-analyse-p02",
     "npl#0013-dai-phan-tich-macro-analyse-p03",
@@ -249,7 +247,7 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 2.0
+   "coverage_percent": 2.8
   },
   "tb": {
    "chunks": 184,
@@ -401,6 +399,12 @@
   }
  },
  "chunk_refs": {
+  "npl#0009-c-nhung-gioi-han-cua-khoa-tu-vi": [
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
+  "npl#0011-pham-vi-ap-dung-khoa-tu-vi": [
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
   "npl#0055-cach-cua-chinh-tinh": [
    "combo:co-nguyet-dong-luong",
    "combo:cu-nhat",
@@ -2012,7 +2016,8 @@
   ],
   "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh": [
    "rule:am-duong-tuoi-gio-cung-quyet-dinh-thu-bac-gia-dinh",
-   "rule:gio-sinh-sai-lech-chi-co-the-giua-hai-gio-lien-ke"
+   "rule:gio-sinh-sai-lech-chi-co-the-giua-hai-gio-lien-ke",
+   "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
   ],
   "tl#0042-trong-tu-vi-vong-trang-sinh-co-y-nghia-gi": [
    "rule:vong-trang-sinh-chia-hai-phe-doi-lap-y-nghia",
