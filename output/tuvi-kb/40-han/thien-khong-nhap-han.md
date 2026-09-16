@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [td]
 chunks:
   - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13
   - tb#0110-lien-he-giua-menh-than-va-han
+  - td#0070-cung-menh-xau-co-the-bi-bao-benh-chet
 ---
 # Thiên Không nhập hạn
 
@@ -27,7 +28,7 @@ chunks:
 - [TB] Mệnh tốt không bằng Thân tốt, Thân tốt không bằng Hạn tốt; Mệnh, Thân tốt mà Hạn xấu (như Thiên Không nhập hạn) cũng đỡ lo ngại vì Mệnh Thân có thể giải trừ bớt sự chẳng lành.
 
 ## Đối chứng
-Sách Trần Đoàn không bàn riêng cách Thiên Không nhập hạn trong đoạn khảo được.
+- [TĐ] Sao Thiên Không nhập hạn phá hết của cải, khắc thê hại tử, còn phải lo đến sự sống chết của bản thân — khớp với hướng luận hung của Tân Biên (cơ nghiệp sa sút, mắc lừa, mất của), tuy Trần Đoàn nhấn nặng hơn về mức độ nguy hiểm tính mạng.
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -35,3 +36,5 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Mưu sự chẳng được toại lòng, cơ nghiệp sa sút, mắc lừa, mất của, kinh doanh thất bại, buôn bán thua lỗ, nếu không cũng mắc tù tội." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13)
 
 > "Đang đau yếu, gặp Hạn có Thiên Không, chắc chắn là qua khỏi." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13)
+
+> "Sao Thiên Không nhập hạn phá hết của cải, khắc thê hại tử, còn phải lo chính đến sự sống chết của bản thân" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)

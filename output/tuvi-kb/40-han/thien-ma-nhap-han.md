@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [td]
 chunks:
   - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13
   - tb#0110-lien-he-giua-menh-than-va-han
+  - td#0070-cung-menh-xau-co-the-bi-bao-benh-chet
 ---
 # Thiên Mã nhập hạn
 
@@ -31,7 +32,7 @@ chunks:
 - [TB] Mệnh tốt không bằng Thân tốt, Thân tốt không bằng Hạn tốt; Mệnh, Thân dù mờ ám nhưng Hạn rực rỡ (như Thiên Mã gặp Tử, Phủ) vẫn phát đạt, ngược lại Mệnh, Thân tốt mà Hạn xấu (như Thiên Mã gặp Không, Kiếp, Tuế) cũng đỡ lo ngại vì Mệnh Thân có thể giải trừ bớt sự chẳng lành.
 
 ## Đối chứng
-Sách Trần Đoàn không bàn riêng cách Thiên Mã nhập hạn trong đoạn khảo được.
+- [TĐ] Hạn đến Thiên Mã tốt lắm nếu gặp Tử Phủ và Lộc Tồn, người chức tước càng hiển đạt, kẻ học trò sẽ danh chiếm bảng vàng; nhưng Thiên Mã hãm địa lại rất sợ Kiếp Không, nếu bị thêm Thái Tuế nữa là hạn vào tử lộ — khớp với Tân Biên về việc Thiên Mã tốt khi gặp Tử, Phủ và xấu khi gặp Không, Kiếp, Tuế.
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -39,3 +40,7 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Thay đổi chỗ ở hay công việc, nếu không, cũng phải xa nhà." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13)
 
 > "Không, Kiếp, Tuế: đau yếu nặng, nếu không cũng mắc tai nạn khủng khiếp." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p13)
+
+> "Thiên Mã làm hạn tối vi lương" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)
+
+> "Hạn đến Thiên Mã tốt lắm nếu gặp Tứ Phủ và Lộc Tồn, người chức tước càng hiển đạt, kẻ học trò sẽ danh chiếm bảng vàng." (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)

@@ -361,7 +361,7 @@
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 55,
+   "referenced": 57,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -382,8 +382,6 @@
     "td#0060-ngu-phu-the-cung",
     "td#0065-thap-tat-ach-cung",
     "td#0066-luc-dat-chang-qua-nho-van-menh",
-    "td#0067-b-mot-phai-can-cu-vao-chinh-thu",
-    "td#0070-cung-menh-xau-co-the-bi-bao-benh-chet",
     "td#0071-luan-ve-nu-menh-p01",
     "td#0071-luan-ve-nu-menh-p02",
     "td#0071-luan-ve-nu-menh-p03",
@@ -430,7 +428,7 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 45.5
+   "coverage_percent": 47.1
   }
  },
  "chunk_refs": {
@@ -1735,6 +1733,10 @@
    "palace:dien-trach:van-xuong+van-khuc",
    "palace:dien-trach:vu-khuc"
   ],
+  "td#0067-b-mot-phai-can-cu-vao-chinh-thu": [
+   "han:thien-co-nhap-han",
+   "han:tu-vi-nhap-han"
+  ],
   "td#0068-sao-thai-duong-nhap-han-neu-o-ham-dia-bi-ac": [
    "han:cu-mon-nhap-han",
    "han:liem-trinh-nhap-han",
@@ -1753,6 +1755,18 @@
    "han:that-sat-nhap-han",
    "han:thien-luong-nhap-han",
    "han:thien-tuong-nhap-han"
+  ],
+  "td#0070-cung-menh-xau-co-the-bi-bao-benh-chet": [
+   "han:da-la-nhap-han",
+   "han:hoa-khoa-nhap-han",
+   "han:hoa-ky-nhap-han",
+   "han:hoa-loc-nhap-han",
+   "han:hoa-quyen-nhap-han",
+   "han:hoa-tinh-nhap-han",
+   "han:khong-kiep-nhap-han",
+   "han:linh-tinh-nhap-han",
+   "han:thien-khong-nhap-han",
+   "han:thien-ma-nhap-han"
   ],
   "td#0086-cach-cuc": [
    "combo:khoa-quyen-loc-quy-cuc",

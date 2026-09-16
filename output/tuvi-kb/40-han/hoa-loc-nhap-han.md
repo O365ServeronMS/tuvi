@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [td]
 chunks:
   - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09
   - tb#0110-lien-he-giua-menh-than-va-han
+  - td#0070-cung-menh-xau-co-the-bi-bao-benh-chet
 ---
 # Hóa Lộc nhập hạn
 
@@ -28,7 +29,7 @@ Tân Biên không nêu mục xấu riêng cho Hóa Lộc nhập hạn; bản ch�
 - [TB] Mệnh tốt không bằng Thân tốt, Thân tốt không bằng Hạn tốt; Hạn gặp Hóa Lộc vốn chủ giải trừ tai họa, nên dù Mệnh, Thân mờ ám mà Hạn rực rỡ vẫn có thể phát đạt ví như lúa non gặp mưa thuận gió hòa.
 
 ## Đối chứng
-Sách Trần Đoàn không bàn riêng cách Hóa Lộc nhập hạn trong đoạn khảo được.
+- [TĐ] Hạn đến Hóa Lộc, dễ có tước vị, người thường cũng trở thành cao sang, tiền bạc tự nhiên súc tích, làm ăn phát đạt — khớp với hướng luận tốt thuần túy của Tân Biên (giải trừ tai họa, tài lộc phong túc).
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -36,3 +37,7 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Giải trừ tai họa." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
 
 > "Tài lộc phong túc: nếu có ốm đau cũng chóng qua khỏi, nếu có quan chức, tất được cao thăng." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
+
+> "Hạn trung nhược ngộ Lộc lai lâm" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)
+
+> "Hạn đến Hoá Lộc, dễ có tước vị, người thường cũng trở thành cao sang, tiền bạc tự nhiên súc tích làm ăn phát đạt" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)

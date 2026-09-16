@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [td]
 chunks:
   - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09
   - tb#0110-lien-he-giua-menh-than-va-han
+  - td#0070-cung-menh-xau-co-the-bi-bao-benh-chet
 ---
 # Hóa Kỵ nhập hạn
 
@@ -32,7 +33,7 @@ chunks:
 - [TB] Mệnh tốt không bằng Thân tốt, Thân tốt không bằng Hạn tốt; Mệnh, Thân dù mờ ám nhưng Hạn rực rỡ (như Hóa Kỵ sáng sủa tốt đẹp) vẫn phát đạt, còn Mệnh, Thân tốt mà Hạn mờ ám xấu xa (như Hóa Kỵ hãm địa) cũng đỡ lo ngại vì Mệnh Thân có thể giải trừ bớt sự chẳng lành.
 
 ## Đối chứng
-Sách Trần Đoàn không bàn riêng cách Hóa Kỵ nhập hạn trong đoạn khảo được.
+- [TĐ] Hóa Kỵ nhập miếu lại thành hay, dù có quan tai cũng chẳng sao, chỉ hiềm sự việc tấn thoái vô thường công danh bất toại; nhưng Hóa Kỵ lạc hãm thêm ác sát tinh thì tài tán người lìa, đa bệnh tật, thoái chức, tang ma — khớp với Tân Biên về việc Hóa Kỵ sáng sủa vẫn có mặt tốt (dù kém sức khỏe) còn mờ ám xấu xa thì họa hại liên miên.
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -40,3 +41,9 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Sáng sủa tốt đẹp: mưu sự được toại lòng, danh tài hưng vượng, nhưng kém sức khỏe và hay mắc thi phi." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
 
 > "Mờ ám xấu xa: đau yếu liên miên, có tang thương, mất của, mắc thị phi, kiện cáo, nếu có quan chức, tất bị truất giáng." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
+
+> "Kị tinh nhập miếu phản vi giai" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)
+
+> "Hoá Kị nhập miếu lại thành hay, dù có quan tai cũng chẳng sao chỉ hiềm sự việc tấn thoái vô thường công danh bất toại." (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)
+
+> "Kị tinh lạc hãm tại nhân cung Ác Sát gia lâm tác hoạ hung Tài tán nhân ly đa tật khổ Thương quan thoái chức hiếu trùng phùng" (td#0070-cung-menh-xau-co-the-bi-bao-benh-chet)
