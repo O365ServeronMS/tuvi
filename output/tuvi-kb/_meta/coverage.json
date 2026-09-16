@@ -900,9 +900,19 @@
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21": [
    "palace:menh-than:pha-quan",
    "palace:menh-than:van-xuong+van-khuc",
+   "phu:duong-phi-hao-sac-thi-khuc-xuong",
+   "phu:nu-nhan-xuong-khuc-thong-minh-phu-quy-chi-da-dam",
    "phu:pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the",
    "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
-   "phu:pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong"
+   "phu:pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong",
+   "phu:ty-hoi-toa-que-hoa-phi-vinh-tac-phu",
+   "phu:van-que-van-hoa-cuu-trung-quy-hien",
+   "phu:van-xuong-van-khuc-vi-nhan-da-hoc-da-nang-phu",
+   "phu:xuong-khuc-co-loc-thanh-tu-xao",
+   "phu:xuong-khuc-liem-trinh-u-ty-hoi-vi-nhan-bat-thien-tao-hinh",
+   "phu:xuong-khuc-luong-tinh-vi-chi-thai-cuong",
+   "phu:xuong-khuc-pha-quan-lam-ho-tho-sat-duong-xung-pha-bon-ba",
+   "phu:xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22": [
    "palace:menh-than:van-xuong+van-khuc"
