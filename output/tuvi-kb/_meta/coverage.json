@@ -287,7 +287,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 37,
+   "referenced": 38,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -314,7 +314,6 @@
     "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la",
     "tl#0055-giau-nho-ban-sang-vi-vo",
     "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh",
-    "tl#0058-the-nao-la-van-hoi-tot",
     "tl#0059-triet-ly-chinh-danh-trong-tu-vi",
     "tl#0060-mot-ngoi-troi-dat-nguoi",
     "tl#0061-doi-benh-thai-thinh-suy-hoan-luong-4-quan-tu",
@@ -357,7 +356,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 35.6
+   "coverage_percent": 36.5
   },
   "td": {
    "chunks": 122,
@@ -1823,6 +1822,7 @@
    "star:quoc-an"
   ],
   "tl#0014-cho-nen-coi-thuong-quyen-uy-cua-dau-quan": [
+   "han:dau-quan-tieu-van",
    "star:dao-hoa",
    "star:dau-quan",
    "star:pha-toai"
@@ -2007,6 +2007,9 @@
   "tl#0057-an-han-nen-tinh-the-nao": [
    "han:dai-han-tieu-han-lien-he",
    "han:nam-tuoi-nam-xung"
+  ],
+  "tl#0058-the-nao-la-van-hoi-tot": [
+   "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
   ],
   "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi": [
    "combo:vo-chinh-dieu"
