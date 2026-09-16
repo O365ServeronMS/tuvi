@@ -254,16 +254,14 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 149,
+   "referenced": 151,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
     "tb#0016-ngu-hanh",
     "tb#0017-phan-am-duong",
     "tb#0018-ngay-va-gio",
-    "tb#0019-tuong-hop-tuong-pha",
     "tb#0020-chinh-tinh-cac-cung",
-    "tb#0038-cac-nhan-dinh",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
     "tb#0092-thuan-mua-sinh",
     "tb#0093-thuong-cach",
@@ -279,7 +277,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 87.1
+   "coverage_percent": 88.3
   },
   "tl": {
    "chunks": 107,
@@ -430,6 +428,12 @@
    "star:thien-khong",
    "star:triet",
    "star:tuan"
+  ],
+  "tb#0013-tam-chieu": [
+   "rule:xem-mot-cung-phai-xem-ca-tam-hop-xung-chieu-nhi-hop"
+  ],
+  "tb#0019-tuong-hop-tuong-pha": [
+   "rule:ban-menh-sinh-cuc-tot-hon-cuc-sinh-ban-menh"
   ],
   "tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh": [
    "star:liem-trinh",
@@ -585,6 +589,12 @@
    "star:thai",
    "star:tu",
    "star:tuyet"
+  ],
+  "tb#0038-cac-nhan-dinh": [
+   "rule:menh-khong-than-kiep-doi-lap-menh-kiep-than-khong",
+   "rule:menh-o-sinh-vuong-bai-tuyet-dia-theo-ban-menh",
+   "rule:menh-tuan-than-triet-doi-lap-menh-triet-than-tuan",
+   "rule:menh-vo-chinh-dieu-dac-diem-va-cuu-giai"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p01": [
    "palace:menh-than:tu-vi",
