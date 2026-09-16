@@ -915,7 +915,19 @@
    "phu:xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22": [
-   "palace:menh-than:van-xuong+van-khuc"
+   "palace:menh-than:van-xuong+van-khuc",
+   "phu:nhi-khuc-trieu-vien-phung-ta-huu-tuong-tuong-chi-tai",
+   "phu:nhi-khuc-vuong-cung-uy-danh-hach-dich",
+   "phu:van-tinh-cung-chieu-gia-nghi-nien-thieu-dang-khoa",
+   "phu:van-xuong-hoi-liem-trinh-chi-tang-menh-thien-nien",
+   "phu:van-xuong-ta-phu-vi-chi-tam-thai",
+   "phu:van-xuong-vu-khuc-u-menh-than-van-vu-kiem-bi",
+   "phu:xuong-khuc-giap-menh-toi-vi-ky",
+   "phu:xuong-khuc-giap-menh-xuat-ngoai-da-can-quy-nhan",
+   "phu:xuong-khuc-giap-nhat-quy-nhi-tha-hien",
+   "phu:xuong-khuc-loc-ton-do-vi-ky-thi",
+   "phu:xuong-khuc-suu-mui-giap-nhan-duong-nu-kiem-phung-hong-loc",
+   "phu:xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23": [
    "palace:menh-than:thien-khoi+thien-viet"
