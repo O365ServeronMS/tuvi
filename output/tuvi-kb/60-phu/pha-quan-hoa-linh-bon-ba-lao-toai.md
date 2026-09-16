@@ -2,7 +2,7 @@
 id: phu:pha-quan-hoa-linh-bon-ba-lao-toai
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [pha-quan, hoa-tinh, linh-tinh, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20
@@ -23,3 +23,6 @@ Sao: Phá Quân, Hỏa Tinh, Linh Tinh. Cung: Mệnh.
 
 ## Nguyên văn
 > "Phá Quân, Hỏa, Linh, bôn ba lao toái Cung Mệnh có Phá tọa thủ, gặp Hỏa, Linh hội hợp, nên suốt đời phải bôn ba lao khổ." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Phá Quân, Hoả Linh bôn ba lao bác", giải: "Đi với Hoả Linh vất vả lao đao." (td#0026-sao-pha-quan)

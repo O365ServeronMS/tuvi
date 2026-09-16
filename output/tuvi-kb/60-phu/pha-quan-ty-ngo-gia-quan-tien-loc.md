@@ -2,7 +2,7 @@
 id: phu:pha-quan-ty-ngo-gia-quan-tien-loc
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [pha-quan, menh, ty, ngo]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20
@@ -23,3 +23,6 @@ Sao: Phá Quân. Cung: Mệnh, tại Tý hoặc Ngọ.
 
 ## Nguyên văn
 > "Phá Quân, tý, Ngọ, gia quan tiến lộc Cung Mệnh an tại Tý, Ngọ có Phá tọa thủ, tất được hưởng phú quý song toàn." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Phá Quân Tí Ngọ cung, vô sát quan tư thanh hiền chí tam công", giải: "Đóng ở cung Tí Ngọ miếu địa không gặp hung sát, số đàn ông Phá Quân thủ mệnh làm tới vị tam công. Rất hợp với người tuổi Giáp và Quí." (td#0026-sao-pha-quan)
