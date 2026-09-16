@@ -257,7 +257,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 136,
+   "referenced": 137,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -279,7 +279,6 @@
     "tb#0106-vat-dung-bieu-tuong-bang-cac-sao",
     "tb#0107-co-the-trong-nguoi-bieu-tuong-bang-sao",
     "tb#0108-ket-hop-nhan-dinh",
-    "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p07",
     "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p08",
     "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09",
     "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p10",
@@ -295,7 +294,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 79.5
+   "coverage_percent": 80.1
   },
   "tl": {
    "chunks": 107,
@@ -1271,8 +1270,11 @@
    "han:cu-mon-nhap-han",
    "han:da-la-nhap-han",
    "han:dai-han-tieu-han-lien-he",
+   "han:hoa-tinh-nhap-han",
+   "han:khong-kiep-nhap-han",
    "han:kinh-duong-nhap-han",
    "han:liem-trinh-nhap-han",
+   "han:linh-tinh-nhap-han",
    "han:menh-than-han-lien-he",
    "han:pha-quan-nhap-han",
    "han:thai-am-nhap-han",
@@ -1317,6 +1319,11 @@
   "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p06": [
    "han:da-la-nhap-han",
    "han:kinh-duong-nhap-han"
+  ],
+  "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p07": [
+   "han:hoa-tinh-nhap-han",
+   "han:khong-kiep-nhap-han",
+   "han:linh-tinh-nhap-han"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
