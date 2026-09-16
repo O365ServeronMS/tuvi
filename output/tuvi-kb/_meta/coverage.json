@@ -865,10 +865,25 @@
    "palace:menh-than:that-sat+liem-trinh",
    "palace:menh-than:thien-luong",
    "palace:menh-than:tu-vi+that-sat",
+   "phu:sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu",
+   "phu:sat-liem-suu-mui-at-ky-am-nam-anh-hung-tri-dung",
+   "phu:sat-pha-tham-tai-nu-menh-nhi-ngo-van-xuong-tan-dinh-tue-suong-phu-chi-nhan",
+   "phu:sat-tu-ton-cung-de-hue-bao-kiem",
+   "phu:that-sat-dan-than-ty-ngo-nhat-sinh-tuoc-loc-vinh-xuong",
+   "phu:that-sat-liem-trinh-dong-vi-lo-thuong-mai-thi",
+   "phu:that-sat-pha-quan-nghi-xuat-ngoai-chu-ban-thu-nghe-bat-nang-tinh",
+   "phu:that-sat-trung-phung-tu-sat-yeu-da-boi-khuc-tran-trung-vong",
    "phu:thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p19": [
-   "palace:menh-than:that-sat"
+   "palace:menh-than:that-sat",
+   "phu:sat-cu-ly-kham-nam-nhan-the-hien-da-hoi",
+   "phu:sat-hinh-hoi-long-than-dinh-giang",
+   "phu:sat-hinh-toa-cung-liem-truc-vo-tu",
+   "phu:sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu",
+   "phu:sat-lam-tuyet-dia-hoi-duong-da-nhan-hoi-yeu-chiet",
+   "phu:that-sat-hoa-duong-ban-tha-tien-do-te-chi-nhan",
+   "phu:that-sat-lam-than-chung-thi-yeu"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20": [
    "palace:menh-than:pha-quan"
