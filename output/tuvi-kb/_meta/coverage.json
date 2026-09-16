@@ -254,7 +254,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 151,
+   "referenced": 155,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -263,13 +263,9 @@
     "tb#0018-ngay-va-gio",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0092-thuan-mua-sinh",
     "tb#0093-thuong-cach",
     "tb#0094-ha-cach",
     "tb#0095-tieu-luan",
-    "tb#0102-tinh-gio-sinh",
-    "tb#0103-nhan-xet-cung-menh-va-cung-phuc-duc",
-    "tb#0104-phu-luan-ban-menh-thuoc-ngu-hanh",
     "tb#0106-vat-dung-bieu-tuong-bang-cac-sao",
     "tb#0107-co-the-trong-nguoi-bieu-tuong-bang-sao",
     "tb#0117-tai-bach",
@@ -277,7 +273,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 88.3
+   "coverage_percent": 90.6
   },
   "tl": {
    "chunks": 107,
@@ -1208,6 +1204,9 @@
    "palace:huynh-de:van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+loc-ton+hoa-quyen+hoa-khoa+hoa-ky",
    "palace:huynh-de:vu-khuc"
   ],
+  "tb#0092-thuan-mua-sinh": [
+   "rule:thuan-mua-sinh-gio-sinh-menh-vuong-tuong"
+  ],
   "tb#0096-quy-cuc-co-danh-chuc-quyen-quy": [
    "combo:khoa-quyen-loc-quy-cuc",
    "combo:loc-ma-hinh-an-cach",
@@ -1241,6 +1240,15 @@
   "tb#0101-chuyen-ve-ky-nghe": [
    "combo:bien-tai-van-nghe-ky-nghe",
    "combo:tu-hanh-trom-cuop"
+  ],
+  "tb#0102-tinh-gio-sinh": [
+   "rule:gio-xau-tieu-nhi-can-menh-phuc-duc-sang-de-cuu-giai"
+  ],
+  "tb#0103-nhan-xet-cung-menh-va-cung-phuc-duc": [
+   "rule:gio-xau-tieu-nhi-can-menh-phuc-duc-sang-de-cuu-giai"
+  ],
+  "tb#0104-phu-luan-ban-menh-thuoc-ngu-hanh": [
+   "rule:nguyen-the-ban-menh-khac-nhau-du-cung-hanh"
   ],
   "tb#0105-luan-doan-van-han": [
    "han:han-tuong-sinh-tuong-khac-ban-menh"
