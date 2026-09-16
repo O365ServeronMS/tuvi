@@ -257,7 +257,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 121,
+   "referenced": 124,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -272,9 +272,6 @@
     "tb#0093-thuong-cach",
     "tb#0094-ha-cach",
     "tb#0095-tieu-luan",
-    "tb#0096-quy-cuc-co-danh-chuc-quyen-quy",
-    "tb#0097-ban-tien-cuc-ngheo-hen",
-    "tb#0098-phu-luan",
     "tb#0099-ban-tien",
     "tb#0100-biet-tai-ve-van-nghe",
     "tb#0101-chuyen-ve-ky-nghe",
@@ -310,7 +307,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 70.8
+   "coverage_percent": 72.5
   },
   "tl": {
    "chunks": 107,
@@ -391,7 +388,7 @@
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 52,
+   "referenced": 53,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -436,7 +433,6 @@
     "td#0083-hinh-dang-va-tinh-tinh",
     "td#0084-tham-lang-mieu-vuong-chi-cung-mieu-thoi-nguoi",
     "td#0085-tinh-cuong-chang-co-ai-ua",
-    "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach",
     "td#0088-sao-cu-mon-linh-tinh-toa-thu-do-la-pha-cach-vi",
     "td#0089-tat-yeu-j-tang-dao",
     "td#0090-dau-so-cot-tuy-phu-chu-giai",
@@ -463,7 +459,7 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 43.0
+   "coverage_percent": 43.8
   }
  },
  "chunk_refs": {
@@ -1249,6 +1245,26 @@
    "palace:huynh-de:van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+loc-ton+hoa-quyen+hoa-khoa+hoa-ky",
    "palace:huynh-de:vu-khuc"
   ],
+  "tb#0096-quy-cuc-co-danh-chuc-quyen-quy": [
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:that-sat-tham-hoa-cach",
+   "combo:tu-vi-phu-ta-cach",
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "tb#0097-ban-tien-cuc-ngheo-hen": [
+   "combo:ban-tien-cuc"
+  ],
+  "tb#0098-phu-luan": [
+   "combo:ban-tien-cuc",
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:that-sat-tham-hoa-cach",
+   "combo:tu-vi-phu-ta-cach",
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
   ],
@@ -1571,8 +1587,16 @@
    "palace:dien-trach:vu-khuc"
   ],
   "td#0086-cach-cuc": [
+   "combo:khoa-quyen-loc-quy-cuc",
+   "combo:loc-ma-hinh-an-cach",
+   "combo:nhat-nguyet-quy-cuc",
+   "combo:that-sat-tham-hoa-cach",
    "combo:that-sat-trieu-nguong-dau",
-   "combo:tu-phu-vu-tuong"
+   "combo:tu-phu-vu-tuong",
+   "combo:tu-vi-phu-ta-cach"
+  ],
+  "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach": [
+   "combo:ban-tien-cuc"
   ],
   "tl#0008-nen-rat-chat-che": [
    "star:bac-sy",
