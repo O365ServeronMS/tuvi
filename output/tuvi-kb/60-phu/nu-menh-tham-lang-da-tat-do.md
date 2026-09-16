@@ -2,7 +2,7 @@
 id: phu:nu-menh-tham-lang-da-tat-do
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [tham-lang, menh, nu-menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12
@@ -23,3 +23,6 @@ Sao: Tham Lang. Cung: Mệnh (nữ mệnh).
 
 ## Nguyên văn
 > "Nữ Mệnh Tham Lang đa tật đố Đàn bà mà cung Mệnh có Tham tọa thủ là hay ghen tuông. Nếu Tham hãm địa, lại có thêm tính hiểm độc." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Nữ mệnh Tham Lang đa tật đố", giải: "Đàn bà Tham Lang thủ mệnh, tính tình hay ghen ghét, tị nạnh." (td#0019-sao-tham-lang)

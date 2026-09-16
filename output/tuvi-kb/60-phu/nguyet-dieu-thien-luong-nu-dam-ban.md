@@ -2,7 +2,7 @@
 id: phu:nguyet-dieu-thien-luong-nu-dam-ban
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thai-am, thien-luong, menh, ham-dia, nu-menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11
@@ -23,3 +23,6 @@ Sao: Thái Âm (hãm địa), Thiên Lương. Cung: Mệnh (nữ mệnh).
 
 ## Nguyên văn
 > "Nguyệt diệu Thiên Lương, nữ dâm bần Đàn bà mà cung Mệnh có Nguyệt hãm địa tọa thủ, gặp Lương chiếu, là người dâm đãng, nghèo hèn." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Nguyệt diệu Thiên Lương nữ dâm bần", giải theo bối cảnh Thái Âm ở Dần Thân Tị: "Số đàn bà thường đa dâm, nghèo khổ, dễ rơi vào kiếp lẽ mọn, nàng hầu." (td#0018-sao-thai-am)

@@ -2,7 +2,7 @@
 id: phu:thai-am-duong-da-tat-chu-nhan-ly-tai-tan
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thai-am, kinh-duong, da-la, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11
@@ -25,3 +25,6 @@ Sao: Thái Âm, Kình Dương, Đà La. Cung: Mệnh.
 > "Thái Âm, Dương, Đà tất chủ nhân ly tài tán. Cung Mệnh có Nguyệt miếu, vượng hay đắc địa tọa thủ, gặp Kình, Đà hội hợp, tất phải ly tổ, tiền tài bị hao tán." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11)
 
 > "Nếu cung Mệnh có Nguyệt hãm địa tọa thủ, gặp Kình, Đà hội hợp, thật là suốt đời cùng khổ, thường phải lang thang phiêu bạt và rất nghèo túng." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Thái Âm, Dương Đà tất chủ nhân ly tài sản", giải: "Sao Thái Âm ngộ Dương Đà thì người xa của mất." (td#0018-sao-thai-am)

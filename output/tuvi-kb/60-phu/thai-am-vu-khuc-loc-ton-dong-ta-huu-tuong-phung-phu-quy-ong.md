@@ -2,7 +2,7 @@
 id: phu:thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thai-am, vu-khuc, loc-ton, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11
@@ -23,3 +23,6 @@ Sao: Thái Âm, Vũ Khúc, Lộc Tồn. Cung: Mệnh.
 
 ## Nguyên văn
 > "Cung Mệnh có Nguyệt miếu, vượng hay đắc địa tọa thủ, (hay có Vũ miếu, vượng hay đắc địa tọa thủ) gặp Lộc đồng cung, gặp Tả Hữu hội hợp, là bậc triệu phú." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Thái Âm, Vũ Khúc, Lộc Tồn đồng Tả Hữu tương phùng, phú quí ông", giải: "Gặp Vũ Khúc, Lộc Tồn, Tả Hữu là người giàu sang." (td#0018-sao-thai-am)

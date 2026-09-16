@@ -2,7 +2,7 @@
 id: phu:cu-co-mao-dau-at-tan-ky-binh-chi-cong-khanh
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [cu-mon, thien-co, menh, mao, dau]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15
@@ -23,3 +23,6 @@ Sao: Cự Môn, Thiên Cơ. Cung: Mệnh, tại Mão hoặc Dậu.
 
 ## Nguyên văn
 > "Tuổi Ất, Tân, Kỷ, Bính mà cung Mệnh an tại Mão, Dậu, có, Cự, Cơ tọa thủ đồng cung, tất có quyền cao chức trọng. Các tuổi khác mà cung Mệnh an tại Mão, Dậu, có Cơ, Cự tọa thủ đồng cung, cũng hiển đạt khá giả, nhưng không được toàn mỹ như tuổi Ất, Tân, Kỷ, Bính." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Cự Cơ cư Mão, Ất, Tân, Kỷ, Bính chí công khanh", giải: "Hai sao Cự Môn, Thiên Cơ đi cặp đóng cung Mão người tuổi Ất, Tân, Kỷ, Bính có thể làm tới công khanh." (td#0020-sao-cu-mon)

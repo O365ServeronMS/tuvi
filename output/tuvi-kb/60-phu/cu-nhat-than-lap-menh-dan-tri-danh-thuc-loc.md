@@ -2,7 +2,7 @@
 id: phu:cu-nhat-than-lap-menh-dan-tri-danh-thuc-loc
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [cu-mon, thai-duong, menh, than-cung, dan]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15
@@ -23,3 +23,6 @@ Sao: Cự Môn, Thái Dương. Cung: Mệnh, tại Dần (Cự Nhật tại Thâ
 
 ## Nguyên văn
 > "Cự, Nhật, Thân, lập Mệnh Dần, trì danh thực lộc Cung Mệnh an tại Dần, có Cự, Nhật tọa thủ đồng cung tại Thân, xung chiếu, cũng được hưởng giàu sang." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Cự Nhật Thân, lập mệnh Dần trì danh thực lộc", giải: "Cự Môn, Thái Dương ở cung Thân mà mệnh lập Dần cũng một nghĩa như trên." (td#0020-sao-cu-mon)
