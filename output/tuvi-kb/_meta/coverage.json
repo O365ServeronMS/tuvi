@@ -600,13 +600,29 @@
    "palace:menh-than:tu-vi",
    "palace:menh-than:tu-vi+tham-lang",
    "palace:menh-than:tu-vi+that-sat",
-   "palace:menh-than:tu-vi+thien-phu"
+   "palace:menh-than:tu-vi+thien-phu",
+   "phu:de-toa-la-vong-hoan-vi-phi-nghia-chi-nhan",
+   "phu:tu-vi-cu-ngo-vo-hinh-ky-giap-dinh-ky-vi-chi-cong-khanh",
+   "phu:tu-vi-nam-hoi-nu-dan-cung-nham-giap-sinh-nhan-phu-quy-dong",
+   "phu:tu-vi-thien-tuong-than-phung-pha-kiem-ngo-vuong-kinh-da-muu-yem-tra",
+   "phu:tu-vi-trung-hau"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p02": [
    "palace:menh-than:tu-vi",
    "palace:menh-than:tu-vi+pha-quan",
    "palace:menh-than:tu-vi+tham-lang",
-   "palace:menh-than:tu-vi+that-sat"
+   "palace:menh-than:tu-vi+that-sat",
+   "phu:tu-loc-dong-cung-phu-bat-chieu-quy-bat-kha-ngon",
+   "phu:tu-phu-giap-menh-vi-quy-cach",
+   "phu:tu-phu-trieu-vien-thuc-loc-van-chung",
+   "phu:tu-vi-cu-ty-ngo-khoa-quyen-loc-chieu-toi-vi-ky",
+   "phu:tu-vi-mac-phung-kiep-khong-hong-dao-nhap-menh-giam-tho",
+   "phu:tu-vi-phu-bat-dong-cung-nhat-ho-ba-nac-cu-thuong-pham",
+   "phu:tu-vi-quyen-loc-ngo-duong-da-tuy-my-cat-nhi-vo-dao",
+   "phu:tu-vi-tai-nang",
+   "phu:tu-vi-tu-can-tam-hoa-nhuoc-phung-tu-sat-phong-bai-ha-hoa",
+   "phu:tu-vi-vu-khuc-pha-quan-hoi-duong-da-khi-cong-danh-chi-nghi-kinh-thuong",
+   "phu:tu-vi-xuong-khuc-phu-quy-kha-ky"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p03": [
    "palace:menh-than:liem-trinh"
