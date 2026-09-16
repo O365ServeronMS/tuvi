@@ -846,13 +846,26 @@
    "palace:menh-than:thien-dong+thien-luong",
    "palace:menh-than:thien-luong",
    "palace:menh-than:thien-luong+thai-am",
-   "palace:menh-than:thien-luong+thai-duong"
+   "palace:menh-than:thien-luong+thai-duong",
+   "phu:am-phuc-tai-menh-an-ngu-bat-phung-tai-uong",
+   "phu:luong-dong-co-nguyet-dan-than-vi-nhat-sinh-loi-nghiep-thong-minh",
+   "phu:luong-dong-ty-hoi-nam-da-lang-dang-nu-da-dam",
+   "phu:luong-nhat-mao-cung-nhat-xuat-phu-tang-dung-mao-phuong-vien",
+   "phu:luong-phung-hao-sat-tai-cung-dao-thuong-hinh-thuong",
+   "phu:luong-tu-am-linh-nghi-ta-dong-luong-chi-khach",
+   "phu:thien-luong-cu-ngo-vi-quan-tu-thanh-hien-trieu-dinh",
+   "phu:thien-luong-thai-am-khuoc-tac-phieu-bong-chi-khach",
+   "phu:thien-luong-thai-duong-xuong-loc-hoi-lo-truyen-de-nhat-danh",
+   "phu:thien-luong-thien-ma-vi-nhan-phieu-dang-vo-nghi",
+   "phu:thien-luong-thu-chieu-cat-tuong-phung",
+   "phu:thien-luong-van-xuong-cu-mieu-vuong-vi-chi-cong-khanh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p18": [
    "palace:menh-than:that-sat",
    "palace:menh-than:that-sat+liem-trinh",
    "palace:menh-than:thien-luong",
-   "palace:menh-than:tu-vi+that-sat"
+   "palace:menh-than:tu-vi+that-sat",
+   "phu:thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p19": [
    "palace:menh-than:that-sat"
