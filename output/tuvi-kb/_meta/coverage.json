@@ -886,11 +886,23 @@
    "phu:that-sat-lam-than-chung-thi-yeu"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p20": [
-   "palace:menh-than:pha-quan"
+   "palace:menh-than:pha-quan",
+   "phu:dan-than-pha-hoa-viet-lam-u-tan-dinh-tue-co-xao-tai-hanh",
+   "phu:pha-kinh-mao-dau-nhi-phung-phu-bat-khoi-nguy-hoang-sao",
+   "phu:pha-quan-hoa-linh-bon-ba-lao-toai",
+   "phu:pha-quan-kham-ly-co-than-doc-anh",
+   "phu:pha-quan-nhat-dieu-tinh-nan-minh",
+   "phu:pha-quan-tham-lang-phung-loc-ma-nam-da-lang-dang-nu-da-dam",
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:pha-quan-ty-ngo-gia-quan-tien-loc",
+   "phu:pha-sat-khung-phung-hoa-hao-mac-ngo-viet-hinh-lao-han"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p21": [
    "palace:menh-than:pha-quan",
-   "palace:menh-than:van-xuong+van-khuc"
+   "palace:menh-than:van-xuong+van-khuc",
+   "phu:pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the",
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p22": [
    "palace:menh-than:van-xuong+van-khuc"
