@@ -657,11 +657,28 @@
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p05": [
    "palace:menh-than:vu-khuc",
    "palace:menh-than:vu-khuc+pha-quan",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung",
+   "phu:vu-khuc-cu-can-thuong-toi-pha-thai-am-phung-tham-lang",
+   "phu:vu-khuc-mieu-vien-uy-danh-bach-hien",
+   "phu:vu-khuc-nhan-cung-da-thu-nghe",
+   "phu:vu-khuc-pha-quan-pha-gia-lao-luc",
+   "phu:vu-khuc-vi-qua-tu",
+   "phu:vu-pha-tuong-ngo-xuong-khuc-thong-minh-co-xao",
+   "phu:vu-pha-ty-hoi-tham-lan-bat-luong",
+   "phu:vu-phung-pha-dieu-nan-bao-di-lai-san-nghiep"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p06": [
    "palace:menh-than:vu-khuc",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:mao-cu-vu-sat-pha-liem-phong-moc-ap-loi-kinh",
+   "phu:tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung",
+   "phu:vu-khuc-dan-than-nhi-ngo-loc-quyen-phu-gia-vuong-khai",
+   "phu:vu-khuc-duong-da-kiem-qua-tu-vi-tien-nhan-nguy",
+   "phu:vu-khuc-khoi-viet-cu-mieu-vuong-tai-chuc-chi-quan",
+   "phu:vu-khuc-kiep-sat-hoi-kinh-duong-sat-nhan-bat-hieu-nhon",
+   "phu:vu-khuc-loc-ma-giao-tri-phat-tai-vien-quan",
+   "phu:vu-khuc-van-khuc-vi-nhan-da-hoc-da-nang"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p07": [
    "palace:menh-than:thai-duong"
