@@ -930,7 +930,16 @@
    "phu:xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23": [
-   "palace:menh-than:thien-khoi+thien-viet"
+   "palace:menh-than:thien-khoi+thien-viet",
+   "phu:giap-quy-giap-loc-thieu-nhan-tri",
+   "phu:khoi-tinh-giap-menh-vi-ky-cach",
+   "phu:khoi-tinh-lam-menh-vi-chi-tam-thai",
+   "phu:khoi-viet-phu-tinh-vi-phuc-tho",
+   "phu:khoi-viet-tai-menh-than-nhu-chiet-que",
+   "phu:khoi-viet-tai-menh-than-vi-truong-tu",
+   "phu:khoi-viet-trung-phung-sat-co-tat-vuu-da",
+   "phu:khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy",
+   "phu:thien-khoi-thien-viet-tai-the-van-chuong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24": [
    "palace:menh-than:loc-ton"
