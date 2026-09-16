@@ -798,13 +798,27 @@
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14": [
    "palace:menh-than:cu-mon",
-   "palace:menh-than:thai-duong+cu-mon"
+   "palace:menh-than:thai-duong+cu-mon",
+   "phu:cu-mon-thin-tuat-vi-ham-dia-tan-nhan-hoa-cat-loc-tranh-vinh",
+   "phu:cu-nhat-dong-cung-quan-phong-tam-dai",
+   "phu:cu-nhat-menh-cung-dan-vi-thuc-loc-tri-danh",
+   "phu:cu-nhat-menh-lap-than-cung-diec-dieu",
+   "phu:thin-tuat-ung-hiem-ham-cu-mon"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p15": [
    "palace:menh-than:cu-mon",
    "palace:menh-than:cu-mon+thien-co",
    "palace:menh-than:cu-mon+thien-dong",
-   "palace:menh-than:thai-duong+cu-mon"
+   "palace:menh-than:thai-duong+cu-mon",
+   "phu:cu-co-dan-cung-vi-pha-dang",
+   "phu:cu-co-dau-thuong-hoa-cat-gia-tung-huu-tai-quan-da-bat-chung",
+   "phu:cu-co-dong-cung-cong-khanh-chi-vi",
+   "phu:cu-co-mao-dau-at-tan-ky-binh-chi-cong-khanh",
+   "phu:cu-hinh-cung-chieu-diec-vi-ky",
+   "phu:cu-nhat-dan-cung-lap-menh-than-tien-tri-danh-nhi-thuc-loc",
+   "phu:cu-nhat-dan-than-thien-mon-nhat-lang-ky-ngo-loc-ton",
+   "phu:cu-nhat-menh-lap-than-cung-diec-dieu",
+   "phu:cu-nhat-than-lap-menh-dan-tri-danh-thuc-loc"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16": [
    "palace:menh-than:thien-tuong"
