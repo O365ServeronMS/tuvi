@@ -642,7 +642,17 @@
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p04": [
    "palace:menh-than:thien-dong",
    "palace:menh-than:thien-dong+thai-am",
-   "palace:menh-than:thien-dong+thien-luong"
+   "palace:menh-than:thien-dong+thien-luong",
+   "phu:dan-than-toi-hy-dong-luong-hoi",
+   "phu:dong-am-tai-ty-nguyet-lang-thien-mon-dung-nhan-my-ai",
+   "phu:dong-luong-vien-ngo-khoi-quyen-tang-phung-linh-ky-giao-lai-song-loc",
+   "phu:dong-nguyet-duong-cu-ngo-vi-binh-mau-tran-ngu-bien-cuong",
+   "phu:dong-nguyet-ham-cung-gia-sat-trong-ky-nghe-doanh-thuong",
+   "phu:phuc-dieu-phung-viet-dieu-dinh-thi-hai-ha-duc-tu",
+   "phu:thien-dong-hoi-cat-tho-nguyen-thoi",
+   "phu:thien-dong-nhap-menh-hoan-cai-vo-thuong",
+   "phu:thien-dong-tuat-cung-hoa-ky-dinh-nhan-menh-ngo-phai-vi-giai",
+   "phu:thien-dong-tuat-cung-vi-phan-boi-dinh-nhan-hoa-cat-chu-dai-quy"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p05": [
    "palace:menh-than:vu-khuc",
