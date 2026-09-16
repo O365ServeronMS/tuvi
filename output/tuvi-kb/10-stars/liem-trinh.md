@@ -4,12 +4,13 @@ type: star-card
 stars: [liem-trinh]
 tags: [tu-tinh, quan-loc, hinh-nguc, dao-hoa-thu-hai]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - tl#0022-a-liem-sat-suu-mui
   - td#0016-sao-liem-trinh-dong-cung-voi-sao-tham-lang-tai
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Liêm Trinh (Bắc Đẩu tinh, Âm Hỏa, Tù tinh)
 
@@ -37,6 +38,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: miếu Dần Thân Tí Ngọ, bình thường Thìn Tuất Sửu Mùi, hãm Tị Hợi Dậu Mão.
 - [TĐ] Đồng ý là Đào Hoa thứ hai tại Thân Mệnh, và hoá khí thành tù khi không miếu vượng lại phạm Quan Phù; bổ sung: gặp Bạch Hổ thường tù tội, gặp Hoả Tinh hãm ở đất Không Vong thì đầu hà tự ải.
 - [TĐ] Nữ mệnh: tuổi Canh, Giáp, Kỷ, Quý an Mệnh ở Thân Dậu Hợi Tí, hoặc tuổi Bính Tân Ất Mậu ở Dần Mão Tị Ngọ có Liêm Trinh thủ Mệnh thì trinh thảo thủ tiết; an Mệnh ở Tuất Sửu Mùi lại hạ tiện.
+- [NPL] Xếp Liêm Trinh vào hai nhóm cùng lúc: "đào hoa tinh" và "hung tinh" (cùng Tham Lang, Phá Quân) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ quan lộc, hình ngục - Miếu địa: Thìn, Tuất" (tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh)
@@ -52,3 +54,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Liêm Trinh miếu địa Dần Thân, Tí Ngọ bình thường Thìn, Tuất, Sửu, Mùi hãm địa Tị, Hợi, Dậu, Mão." (td#0016-sao-liem-trinh-dong-cung-voi-sao-tham-lang-tai)
 
 > "gặp sao Bạch Hổ thường tù tội, gặp Hoả Tinh hãm vào đất Không Vong thì đầu hà tự ải." (td#0016-sao-liem-trinh-dong-cung-voi-sao-tham-lang-tai)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

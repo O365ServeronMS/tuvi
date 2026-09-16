@@ -4,12 +4,13 @@ type: star-card
 stars: [vu-khuc]
 tags: [tai-tinh, tai-loc, cuong-nghi, co-doc]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0013-sao-vu-khuc
   - td#0014-trich-tu-vi-ao-bi-cua-viet-viem-tu
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Vũ Khúc (Bắc Đẩu tinh, Âm Kim, Tài tinh)
 
@@ -34,6 +35,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: miếu Sửu Mùi Tuất, vượng Tí Ngọ, bình thường Tị Hợi (Tân Biên coi Tỵ Hợi là hãm).
 - [TĐ] Bổ sung xấu: hãm địa cặp Tham Lang thành người khó chơi, tham lam, bủn xỉn; hội Phá Quân tiền đến tay là hết; đồng cung Thất Sát, Hoả Tinh vì tiền mà bị hại; ngộ Dương Đà thì cô khắc.
 - [TĐ] Nam nữ: thủ Mệnh là người cương cường quả đoán, tuổi Giáp Kỷ phúc hậu xuất tướng nhập tướng; nữ mệnh nhiều cát tinh là mệnh phụ, bị xung phá tất cô khắc.
+- [NPL] Xếp Vũ Khúc vào nhóm "tài tinh" (cùng Thiên Phủ) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ tài lộc" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -51,3 +53,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Vũ Khúc thủ mệnh là người cương cường quả đoán, tuổi Giáp, tuổi Kỷ phúc hậu, xuất tướng nhập tướng. Nữ mệnh có nhiều cát tinh là mệnh phụ, bị xung phá tất cô khắc" (td#0013-sao-vu-khuc)
 
 > "Vũ Khúc miếu địa Sửu, Mùi, Tuất, vượng Tí Ngọ, bình thường Tị Hợi." (td#0014-trich-tu-vi-ao-bi-cua-viet-viem-tu)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

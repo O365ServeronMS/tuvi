@@ -4,12 +4,13 @@ type: star-card
 stars: [pha-quan]
 tags: [hung-tinh, hao-tinh, phu-the, hao-tan, bat-khuat]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - tl#0022-a-liem-sat-suu-mui
   - td#0026-sao-pha-quan
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Phá Quân (Bắc Đẩu tinh, Âm Thủy, Hung tinh, Hao tinh)
 
@@ -35,6 +36,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý về hung bạo, hao tán; bổ sung: tính gian hoạt khó hợp với ai, coi lục thân như kẻ thù; đứng cạnh Tử Vi làm Tử Vi mất uy quyền; chỉ Thiên Lương chế được tính ác, Lộc Tồn giải được tính điên của Phá Quân.
 - [TĐ] Miếu hãm gần giống: miếu Tí Ngọ, vượng Thìn Tuất Sửu Mùi, hãm Tị Hợi Dần Thân Mão Dậu.
 - [TĐ] Nam nữ: nữ mệnh bị xung phá thì dâm đãng, thường theo trai táng tiết; nam mệnh thủ Mệnh Thân Tí Ngọ có Tham Lang, Thất Sát củng chiếu làm nên chức lớn, thực tốt với tuổi Canh, Quý.
+- [NPL] Xếp Phá Quân vào nhóm "hung tinh" (cùng Tham Lang, Liêm Trinh) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ phu thê, hao tán" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -50,3 +52,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Chỉ có sao Thiên Lương chế tính ác của Phá Quân, sao Lộc Tồn giải cứu tính điên của Phá Quân. Nữ mệnh Phá Quân thường theo trai, táng tiết phong lưu." (td#0026-sao-pha-quan)
 
 > "Phá Quân miếu Tí Ngọ, vượng Thìn, Tuất, Sửu, Mùi, hãm Tị Hợi Dần Thân Mão Dậu." (td#0026-sao-pha-quan)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

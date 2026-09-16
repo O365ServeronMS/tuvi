@@ -4,11 +4,12 @@ type: star-card
 stars: [thien-dong]
 tags: [phuc-tinh, phuc-tho, canh-cai]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0015-cung-nao-giang-phuc-cho-cung-ay
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thiên Đồng (Nam Đẩu tinh, Dương Thủy, Phúc tinh)
 
@@ -31,6 +32,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý là phúc tinh, giáng phúc cho cung nó đóng; bổ sung tính liêm khiết, thâm trầm, không sợ Tứ Sát phá phách.
 - [TĐ] Khác về miếu hãm: miếu Tị Hợi, vượng Tí Thân, hãm Ngọ Sửu Mùi Dậu (Tân Biên xếp Dần Thân là miếu, Tỵ Hợi chỉ đắc).
 - [TĐ] Nữ mệnh: "Nữ mệnh Thiên Đồng tắt thị hiền"; hãm địa có Tứ Sát xung phá thì hình phu khắc tử; hội Thiên Lương có Thái Âm chiếu thì làm lẽ hoặc đi tu.
+- [NPL] Xếp Thiên Đồng vào nhóm "phúc tinh" (cùng Thiên Lương) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ phúc thọ" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -44,3 +46,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "tính tình liêm khiết, mặt mũi thanh sáng, bình thản thâm trầm nên không sợ Tứ Sát phá phách." (td#0015-cung-nao-giang-phuc-cho-cung-ay)
 
 > "Thiên Đồng miếu địa, Tị, Hợi vượng Tí Thân, hãm địa Ngọ, Sửu, Mùi, Dậu." (td#0015-cung-nao-giang-phuc-cho-cung-ay)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

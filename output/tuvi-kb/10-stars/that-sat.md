@@ -4,12 +4,13 @@ type: star-card
 stars: [that-sat]
 tags: [quyen-tinh, dung-tinh, uy-vu, sat-phat]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0024-sao-that-sat
   - td#0025-sao-that-sat-dong-cac-cung-dan-than-ti-ngo-ma
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thất Sát (Nam Đẩu tinh, Dương Kim, Quyền tinh, Dũng tinh)
 
@@ -34,6 +35,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: phú chữ ghi miếu Dần Thân Tí Ngọ, bình thường Mão Dậu Sửu Mùi Tị Hợi và "vô hãm địa"; Trần Đoàn tự ghi nhận mâu thuẫn với lời Hi Di nói có hãm địa.
 - [TĐ] Bổ sung phú: "Thất Sát lâm thân chung thị yếu"; Sát lâm tuyệt địa gặp Dương Đà thì yểu; gặp Hoả Tinh Kình Dương làm đồ tể.
 - [TĐ] Nữ mệnh: vượng địa tiền bạc vô kể, oai quyền chí cao hơn con trai; bị tứ hung xung phá thì phiêu đãng; đơn thủ Phúc Đức là hạ tiện cách cho đàn bà.
+- [NPL] Xếp Thất Sát vào nhóm "thiện tinh" (cùng Thiên Phủ, Thiên Tướng) trong 10 loại chính tinh — khác hẳn cách nhìn quen thuộc coi Thất Sát là sát tinh/hung tinh.
 
 ## Nguyên văn
 > "Chủ uy vũ, sát phạt - Miếu địa: Dần, Thân, Tý, Ngọ" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -49,3 +51,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Nữ mệnh Thất Sát thủ mệnh nơi vương địa, tiền bạc vô kể, có oai quyền chí cao hơn con trai. Bị tứ hung xung phá phiêu đãng" (td#0024-sao-that-sat)
 
 > "Thất Sát miếu địa Dần, Thân, Tí, Ngọ bình thường Mão, Dậu, Sửu, Mùi, Tị, Hợi vô hãm địa." (td#0025-sao-that-sat-dong-cac-cung-dan-than-ti-ngo-ma)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

@@ -4,12 +4,13 @@ type: star-card
 stars: [thai-am]
 tags: [phu-tinh, dien-trach, me, vo, nhat-nguyet]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh
   - tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day
   - tl#0037-nhat-nguyet-o-12-vi-tri-su-thiet-yeu-bao-gio
   - td#0018-sao-thai-am
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thái Âm (Bắc Đẩu tinh, Âm Thủy, Phú tinh)
 
@@ -39,6 +40,7 @@ chunks:
 - [TĐ] Đồng ý: tinh hoa của Thuỷ, chủ Điền Trạch, hoá khí thành phú; đắc địa thông minh tuấn tú, đoan nhã thuần lương.
 - [TĐ] Miếu hãm gần giống: miếu Dậu Hợi Tuất, vượng Tí Sửu, hãm Ngọ Dần Thìn Tị Mão (Tân Biên xếp Sửu là đắc, Thân là vượng).
 - [TĐ] Bổ sung: rất sợ Dương Đà đồng cung; Thái Âm ngộ Dương Đà thì người xa của mất; ở Tật Ách hãm gặp Kình Đà có mục tật; "Nguyệt diệu Thiên Lương nữ dâm bần"; Thái Âm ở Hợi là cách Nguyệt lãng Thiên Môn nắm quyền lớn.
+- [NPL] Xếp Thái Âm đứng thứ hai (sau Thiên Phủ) trong thứ tự các sao mạnh về tài lộc.
 
 ## Nguyên văn
 > "Chủ điền trạch - Biểu tượng của mặt trăng, của mẹ, của bà nội và của vợ" (tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh)
@@ -54,3 +56,5 @@ chunks:
 > "Thái Âm miếu địa Dậu, Hợi, Tuất vượng địa Tí, Sửu, hãm địa Ngọ, Dần, Thìn, Tị, Mão." (td#0018-sao-thai-am)
 
 > "Rất sợ Dương Đà đồng cung, sợ Liêm Trinh phạm Thất Sát xung phá dễ bị tàn tật." (td#0018-sao-thai-am)
+
+> "Về tài lộc: Phủ, Âm, Vủ, Tồn, Lộc, Sinh, Vượng." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

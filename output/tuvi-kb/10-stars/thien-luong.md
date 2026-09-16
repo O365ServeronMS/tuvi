@@ -4,12 +4,13 @@ type: star-card
 stars: [thien-luong]
 tags: [tho-tinh, am-tinh, phu-mau, phuc-tho, nhan-hau, giai-benh]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0022-sao-thien-luong
   - td#0023-sao-thien-luong-thuoc-tho-nam-dau-tinh-hao-khi
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thiên Lương (Nam Đẩu tinh, Âm Mộc, Thọ tinh, Ấm tinh)
 
@@ -35,6 +36,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về hành: Trần Đoàn ghi thuộc thổ, Tân Biên ghi Âm Mộc.
 - [TĐ] Miếu hãm gần giống: miếu Tuất Thìn Ngọ, vượng Sửu Mùi Tí Mão Dần Thân, hãm Tị Hợi Dậu.
 - [TĐ] Nữ mệnh: miếu địa vượng phu ích tử, hội Xương Khúc Tả Hữu là mệnh phụ, rất kỵ Dương Đà xung phá gây tiếng xấu; phú "Nguyệt diệu Thiên Lương nữ dâm bần" khi Thái Âm hãm.
+- [NPL] Xếp Thiên Lương vào nhóm "phúc tinh" (cùng Thiên Đồng) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ phụ mẫu, phúc thọ" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -52,3 +54,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Nữ mệnh Thiên Lương miếu địa vượng phu ích tử, hội Xương Khúc Tả Hữu là mệnh phụ. Rất kị Dương Đà xung phá gây tiếng xấu" (td#0022-sao-thien-luong)
 
 > "Thiên Lương miếu địa Tuất, Thìn, Ngọ, vượng địa Sửu, Mùi, Tí, Mão, Dần, Thân, hãm Tị, Hợi, Dậu." (td#0023-sao-thien-luong-thuoc-tho-nam-dau-tinh-hao-khi)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

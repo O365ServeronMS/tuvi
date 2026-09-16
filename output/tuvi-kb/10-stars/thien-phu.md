@@ -4,11 +4,12 @@ type: star-card
 stars: [thien-phu]
 tags: [tai-tinh, quyen-tinh, kho-tang, giai-hung]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0017-sao-thien-phu
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thiên Phủ (Nam Đẩu tinh, Âm Thổ, Tài tinh, Quyền tinh)
 
@@ -33,6 +34,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý: thần của y lộc, tài bạch, điền trạch, phụ tá Tử Vi, chế phục Kình Đà, cải hoá Hoả Linh; rơi vào Không Vong, Tứ Sát thành kẻ bị cô lập.
 - [TĐ] Khác về miếu hãm: miếu Tí Sửu Dần Mùi, vượng Ngọ Mão Thìn Tuất, bình thường Dậu Tị Thân Hợi.
 - [TĐ] Nữ mệnh: vẻ người thanh thoát, vượng phu ích tử, tháo vát thông minh, dù gặp xung phá cũng không đến nỗi trôi giạt.
+- [NPL] Xếp Thiên Phủ vào hai nhóm cùng lúc: "thiện tinh" (cùng Thiên Tướng, Thất Sát) và "tài tinh" (cùng Vũ Khúc) trong 10 loại chính tinh.
 
 ## Nguyên văn
 > "Chủ tài lộc, uy quyền - Miếu địa: Dần, Thân, Tý, Ngọ" (tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh)
@@ -46,3 +48,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Thiên Phủ miếu địa Tí, Sửu, Dần, Mùi vượng địa Ngọ, Mão, Thìn, Tuất bình thường Dậu, Tị,Thân, Hợi." (td#0017-sao-thien-phu)
 
 > "Nữ mệnh được Thiên Phủ thủ mệnh, vẻ người thanh thoát vượng phu ích tử, tháo vát, thông minh, dù gặp Xung Phá cũng không đến nỗi trôi giạt" (td#0017-sao-thien-phu)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
