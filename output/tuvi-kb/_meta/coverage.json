@@ -3,7 +3,7 @@
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 2,
+   "referenced": 5,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -68,10 +68,7 @@
     "npl#0057-nhung-cung-cuong-cua-phai-nam",
     "npl#0058-nhung-cung-cuong-cua-phai-nu",
     "npl#0059-thoi-gian-hieu-luc-cua-cac-sao",
-    "npl#0060-nhung-cung-dung-de-xem-han",
     "npl#0061-van-de-cua-thang-nhuan",
-    "npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi",
-    "npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han",
     "npl#0064-ban-menh-la-can-ban",
     "npl#0065-nhieu-cach-phu-tinh-hop-vi-la-can-ban",
     "npl#0066-hoan-canh-giai-cap-va-moi-truong-sinh-hoat",
@@ -252,7 +249,7 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 0.8
+   "coverage_percent": 2.0
   },
   "tb": {
    "chunks": 184,
@@ -438,6 +435,15 @@
    "combo:sat-pha-liem-tham",
    "combo:tu-phu-vu-tuong",
    "combo:vo-chinh-dieu"
+  ],
+  "npl#0060-nhung-cung-dung-de-xem-han": [
+   "han:dai-han-tieu-han-lien-he"
+  ],
+  "npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi": [
+   "han:han-tuong-sinh-tuong-khac-ban-menh"
+  ],
+  "npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han": [
+   "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
   ],
   "npl#0204-cac-sao-thien-can": [
    "palace:menh-than:tu-vi+tham-lang"

@@ -6,9 +6,10 @@ positions: []
 gender: any
 tags: [phuong-phap]
 primary: [tl]
-cross: []
+cross: [npl]
 chunks:
   - tl#0058-the-nao-la-van-hoi-tot
+  - npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han
 ---
 # Thế nào là vận hội tốt: Thiên thời, Nhân hòa, Địa lợi
 
@@ -30,7 +31,9 @@ chunks:
 ## Đối chứng
 Sách Tân Biên không trình bày phương pháp phân tầng ưu tiên Thiên thời/Nhân hòa/Địa lợi này khi luận vận hội; Tân Biên thiên về liệt kê ảnh hưởng riêng lẻ của từng sao nhập hạn hơn là khung lý luận tổng quát kiểu Thiên Lương.
 
-Sách Trần Đoàn không bàn riêng về khung Thiên thời/Nhân hòa/Địa lợi này trong đoạn khảo được; chưa đối chiếu Nguyễn Phát Lộc.
+Sách Trần Đoàn không bàn riêng về khung Thiên thời/Nhân hòa/Địa lợi này trong đoạn khảo được.
+
+- [NPL] Nguyễn Phát Lộc ghi nhận cụ Thiên Lương có sáng chế thêm quy tắc Thiên thời dựa trên sinh khắc ngũ hành giữa tam hợp tuổi và tam hợp đại hạn, là điều mới lạ chưa sách nào đề cập; nhưng phê bình rằng cụ Thiên Lương không đặt ưu tiên rõ rệt giữa ba yếu tố Thiên thời, Địa lợi, Nhân hòa trong lý thuyết gốc, khiến người đọc dễ ngộ nhận thứ tự ưu tiên — trong khi thẻ này (dựa trên tl#0058) lại nêu rõ thứ tự Thiên thời trước, Nhân hòa sau, Địa lợi chỉ cần đủ an thân; đây có thể là một diễn giải hoặc bổ sung của Thiên Lương ở nơi khác so với đoạn NPL tham chiếu.
 
 ## Nguyên văn
 > "Phải cân nhắc trên 3 phương diện Thiên thời, Nhân hòa, địa lợi." (tl#0058-the-nao-la-van-hoi-tot)
@@ -38,3 +41,5 @@ Sách Trần Đoàn không bàn riêng về khung Thiên thời/Nhân hòa/Đị
 > "Thiên thời là thế tam hợp Thái Tuế. Thái Tuế là ngôi vị của những người thắng cuộc, thì khi vận chuyển đến tam hợp Thái Tuế tức là được Thiên thời là thế cờ may nhất." (tl#0058-the-nao-la-van-hoi-tot)
 
 > "Vậy điều kiện ưu tiên là phải có thiên thời, rồi đến nhân hoà, còn địa lợi là yếu tố chỉ cần an thân." (tl#0058-the-nao-la-van-hoi-tot)
+
+> "Cụ Thiên Lương không đặt ưu tiên quan trọng giữa 3 yếu tố thiên thời, địa lợi và nhân hoà. Thành thử, không rõ được cái nào ưu thế, cái nào kém thế." (npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han)

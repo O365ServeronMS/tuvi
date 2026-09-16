@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: [phuong-phap]
 primary: [tb]
-cross: []
+cross: [npl]
 chunks:
   - tb#0105-luan-doan-van-han
   - tb#0108-ket-hop-nhan-dinh
+  - npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi
 ---
 # Luận đoán vận hạn theo Bản Mệnh (tương sinh, tương khắc nạp âm)
 
@@ -28,7 +29,7 @@ chunks:
 ## Đối chứng
 Sách Trần Đoàn không bàn riêng cách luận đoán vận hạn theo nạp âm Bản Mệnh này trong đoạn khảo được.
 
-Chưa đối chiếu Nguyễn Phát Lộc.
+- [NPL] Nguyễn Phát Lộc dẫn quy tắc sinh khắc song phương giữa Bản Mệnh và hành của cung tiểu hạn theo Thái Thứ Lang: ví dụ Kim Mệnh gặp hạn đến cung Tý (hành Thủy) là Kim sinh Thủy, ví như vàng chảy ra nước nên Bản Mệnh bị hao tổn, thường mắc tai ương; hay Hỏa Mệnh gặp hạn đến cung Dậu (hành Kim) là Hỏa khắc Kim, ví như lửa nung vàng nóng chảy nên Bản Mệnh bị nguy khốn — cùng hướng với nguyên tắc của Tân Biên rằng cần xét sinh khắc cụ thể theo đặc tính từng loại nạp âm chứ không dừng ở ngũ hành thô sơ; tuy nhiên Nguyễn Phát Lộc cũng phê bình quy tắc song phương này của Thái Thứ Lang có thể mâu thuẫn với quy tắc sinh khắc tam phương (cung hạn – chính tinh – Bản Mệnh), và đề nghị chỉ nên "dung nạp để chờ chứng nghiệm" chứ chưa xem là định luận chắc chắn.
 
 ## Nguyên văn
 > "Cần biết rõ sự tương sinh hay tương khắc giữa Bản Mệnh và cung nhập hạn. Sau đó phải suy luận về đặc tính của hành mà Bản Mệnh tùy thuộc để cân nhắc sự sinh." (tb#0105-luan-doan-van-han)
@@ -36,3 +37,7 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Thiên Thượng Hỏa, Mệnh ở trên trời gặp hạn đến cung Dần thuộc Mộc. Như vậy có sự tương sinh giữa Hỏa Mệnh và cung nhập hạn lại được thêm lợi ích vì cung nhập hạn thuộc Mộc sinh được Hỏa Mệnh." (tb#0105-luan-doan-van-han)
 
 > "Giản Hạ Thủy, Mệnh nước dưới khe nhỏ gặp hạn đến cung Sửu thuộc Thổ. Như vậy có sự tương khắc giữa Thủy Mệnh và cung nhập hạn." (tb#0105-luan-doan-van-han)
+
+> "Kim Mệnh: Hạn đến cung Tý, thuộc quẻ Khảm, thuộc hành Thủy – Kim sinh Thủy, ví như vàng chảy ra nước – nên Bản Mệnh bị hao tổn. Bởi vậy, thường mắc tai ương rất đáng lo ngại." (npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi)
+
+> "Hoả Mệnh: Hạn đến cung Dậu, thuộc quẻ Đoài, thuộc hành Kim – Hoả khắc Kim, ví như lửa nung vàng nóng chảy – nên Bản Mên bị nguy khốn. Bởi vậy, khó mà tránh thoát được những tai ương khủng khiếp." (npl#0062-phai-xet-sinh-khac-ngu-hanh-giua-cung-han-voi)
