@@ -834,7 +834,13 @@
    "phu:tan-nhan-toi-ai-cu-mon-nhuoc-lam-tu-mo-hanh-phuc-cuu-menh-chi-tinh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p16": [
-   "palace:menh-than:thien-tuong"
+   "palace:menh-than:thien-tuong",
+   "phu:nu-tuong-tinh-tuong-can-nhu-manh-hung",
+   "phu:thien-tuong-chi-tinh-nu-menh-trieu-tat-duong-tu-quy-cap-phu-hien",
+   "phu:thien-tuong-liem-trinh-kinh-duong-giap-hinh-truong-nan-dao",
+   "phu:thien-tuong-thin-tuat-khoi-thi-cong-danh",
+   "phu:tuong-hong-nu-menh-quy-nhan-hao-phoi",
+   "phu:tuong-ngo-khuc-moc-cai-dao-thuan-tuoc-dam-phong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p17": [
    "palace:menh-than:thien-dong+thien-luong",
