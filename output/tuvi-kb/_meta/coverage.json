@@ -1014,12 +1014,36 @@
    "palace:menh-than:hoa-khoa",
    "palace:menh-than:hoa-ky",
    "palace:menh-than:hoa-loc",
-   "palace:menh-than:hoa-quyen"
+   "palace:menh-than:hoa-quyen",
+   "phu:hoa-loc-cung-loc-dinh-vi-van-vo-toan-tai",
+   "phu:hoa-loc-dac-dia-dan-mao-co-thu-tham-tai",
+   "phu:hoa-loc-hoan-vi-hao-huu-huong-mo-trung-tang",
+   "phu:hoa-loc-ty-ngo-phu-tu-van-chuong-quan-the",
+   "phu:loc-phung-luong-mieu-bao-tu-tai-ich-du-tha-nhan",
+   "phu:luong-loc-ngo-dan-nhi-phung-tu-vu-dinh-ky-am-nam-phu-da-danh-tho",
+   "phu:menh-vo-chinh-dieu-hoan-ngo-tam-khong-huu-song-loc-phu-quy-kha-ky",
+   "phu:quyen-loc-menh-phung-kiem-hop-cat-uy-danh-lung-lay-quyen-ap-chung",
+   "phu:quyen-loc-trung-phung-sat-thau-hu-du-chi-long",
+   "phu:quyen-loc-trung-phung-tai-quan-song-my",
+   "phu:song-loc-cu-nhi-ngo-co-luong-phu-gia-dich-quoc"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p30": [
    "palace:menh-than:hoa-khoa",
    "palace:menh-than:hoa-ky",
-   "palace:menh-than:hoa-quyen"
+   "palace:menh-than:hoa-quyen",
+   "phu:hoa-ky-ty-cung-khoa-luong-phu-chieu-dac-quan-dan-sung-ai",
+   "phu:hoa-ky-van-nhan-bat-nai",
+   "phu:khoa-danh-ham-u-hung-than-mieu-nhi-bat-tu",
+   "phu:khoa-loc-giap-vi-quy-cach",
+   "phu:khoa-loc-tuan-phung-chu-bot-than-nhien-nhap-tuong",
+   "phu:khoa-menh-quyen-trieu-dang-chung-giap-de",
+   "phu:khoa-minh-loc-am-liet-vi-tam-thai",
+   "phu:khoa-quyen-loc-hop-phu-quy-song-toan",
+   "phu:khoa-quyen-loc-vong-danh-du-chieu-truong",
+   "phu:ky-ngo-khoa-tinh-cu-hoi-ty",
+   "phu:quyen-khoc-dong-cung-minh-danh-vu-the",
+   "phu:quyen-loc-trung-phung-sat-thau-hu-du-chi-long",
+   "phu:tam-ky-giao-hoi-mac-ngo-ky-kinh-giang-lo-thanh-van"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31": [
    "palace:menh-than:dai-hao+tieu-hao",
