@@ -717,15 +717,24 @@
    "palace:menh-than:thai-duong",
    "palace:menh-than:thien-co",
    "palace:menh-than:thien-co+thien-luong",
+   "phu:co-luong-hoi-hop-thien-dam-binh-cu-tuat-diec-vi-my-luan",
+   "phu:co-luong-thu-menh-gia-cat-dieu-phu-quy-song-toan",
+   "phu:co-luong-tu-sat-tuong-quan-xung-vu-khach-tang-luu",
+   "phu:co-nguyet-can-khon-nhi-hoi-xuong-rieu-thi-tu-dam-tang",
+   "phu:co-vien-phu-tinh-tu-tam",
    "phu:nhat-cu-hoi-dia-nhat-tram-thuy-de",
    "phu:nhat-ham-xung-phung-ac-sat-lao-luc-bon-ba",
    "phu:nhat-tai-ty-cung-nhat-my-huy-thien-kiem-lai-loc-ma",
-   "phu:thai-duong-hoa-ky-huu-muc-hoan-thuong"
+   "phu:thai-duong-hoa-ky-huu-muc-hoan-thuong",
+   "phu:thien-am-trieu-cuong-nhan-tu-chi-truong",
+   "phu:thien-co-gia-ac-sat-dong-cung-can-than-thu-thiet"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p10": [
    "palace:menh-than:thien-co+thien-luong",
    "palace:menh-than:thien-phu",
-   "palace:menh-than:thien-phu+vu-khuc"
+   "palace:menh-than:thien-phu+vu-khuc",
+   "phu:co-luong-dong-chieu-menh-than-khong-vi-tang-dao",
+   "phu:co-nguyet-dong-luong-tac-lai-nhan"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11": [
    "palace:menh-than:thai-am"
