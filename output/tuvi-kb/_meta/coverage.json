@@ -276,13 +276,12 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 60,
+   "referenced": 61,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
     "tl#0005-cua-60-hoa-giap",
     "tl#0006-kim-chung-khac-moc-lau",
-    "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung",
     "tl#0012-nhung-hanh-tinh",
     "tl#0026-lan-thu-thuy-net-xuan-son",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
@@ -323,7 +322,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 57.7
+   "coverage_percent": 58.7
   },
   "td": {
    "chunks": 122,
@@ -2116,6 +2115,10 @@
   ],
   "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach": [
    "combo:ban-tien-cuc"
+  ],
+  "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung": [
+   "phu:pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong",
+   "phu:tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh"
   ],
   "tl#0008-nen-rat-chat-che": [
    "star:bac-sy",
