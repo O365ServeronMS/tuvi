@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 44,
+   "referenced": 47,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -294,9 +294,6 @@
     "tl#0012-nhung-hanh-tinh",
     "tl#0026-lan-thu-thuy-net-xuan-son",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
-    "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh",
-    "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than",
-    "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban",
     "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
@@ -347,7 +344,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 42.3
+   "coverage_percent": 45.2
   },
   "td": {
    "chunks": 122,
@@ -1950,6 +1947,17 @@
   "tl#0030-khoi-viet-thien-at-qui-nhan": [
    "star:thien-khoi",
    "star:thien-viet"
+  ],
+  "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh": [
+   "rule:menh-than-tu-sinh-tu-chinh-tu-mo-anh-huong-suc-khoe",
+   "rule:tu-moi-tai-thai-tue-van-la-di-nhan-ky-tai"
+  ],
+  "tl#0033-phai-minh-sat-than-trong-phuc-duc-menh-than": [
+   "rule:phuc-duc-khong-hoan-toan-chi-phoi-menh-than",
+   "rule:thuyet-menh-khong-bang-than-khong-vung-ly"
+  ],
+  "tl#0034-khu-dat-phi-nhieu-trong-12-cung-dia-ban": [
+   "rule:duong-cung-la-dat-phi-nhieu-am-cung-bat-on"
   ],
   "tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day": [
    "star:thai-am",
