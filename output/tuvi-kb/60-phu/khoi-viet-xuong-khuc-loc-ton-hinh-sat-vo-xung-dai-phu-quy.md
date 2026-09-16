@@ -2,7 +2,7 @@
 id: phu:khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thien-khoi, thien-viet, van-xuong, van-khuc, loc-ton, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23
@@ -23,3 +23,6 @@ Sao: Thiên Khôi, Thiên Việt, Văn Xương, Văn Khúc, Lộc Tồn. Cung: M
 
 ## Nguyên văn
 > "Khôi, Việt, Cương, Khúc, Lộc Tồn, Hình, Sát vô xung đại phú quý Cung Mệnh có Khôi, Việt tọa thủ, gặp Xương, Khúc, Lộc hội hợp, may mắn lại không bị Sát tinh hay Kỵ, Hình xâm phạm, nên được hưởng phú quý đến cực độ và sống lâu." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Khôi Việt, Xương Khúc, Lộc Tồn phù, Hình Sát vô xung đài phú quí", giải: "Mệnh Thân có Khôi Việt, Xương Khúc, Lộc Tồn không gặp Hình Sát xung quí đến bậc đại thần." (td#0030-sao-thien-khoi-thien-viet)

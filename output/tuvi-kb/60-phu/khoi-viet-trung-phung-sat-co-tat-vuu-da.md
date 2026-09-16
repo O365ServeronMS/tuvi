@@ -2,7 +2,7 @@
 id: phu:khoi-viet-trung-phung-sat-co-tat-vuu-da
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [thien-khoi, thien-viet, menh]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23
@@ -23,3 +23,6 @@ Sao: Thiên Khôi, Thiên Việt. Cung: Mệnh, gặp Sát tinh.
 
 ## Nguyên văn
 > "Khôi, Việt trùng phùng Sát, cố tật vưu đa Cung Mệnh có Khôi, Việt tọa thủ, gặp Sát nên có nhiều bệnh tật không thế chữa khỏi được." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p23)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi cùng câu "Khôi Việt trùng phùng sát tấu cố tật vưu đa", giải: "Gặp Dương Đà, Linh Hoả, Không Kiếp thường có tật." (td#0030-sao-thien-khoi-thien-viet)

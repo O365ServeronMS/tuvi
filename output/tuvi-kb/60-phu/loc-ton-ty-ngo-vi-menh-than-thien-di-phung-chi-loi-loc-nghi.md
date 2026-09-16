@@ -2,7 +2,7 @@
 id: phu:loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi
 type: phu-card
 primary: [tb]
-cross: []
+cross: [td]
 tags: [loc-ton, menh, than-cung, thien-di, ty, ngo]
 chunks:
   - tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24
@@ -23,3 +23,6 @@ Sao: Lộc Tồn. Cung: Mệnh, Thân hoặc Thiên Di, tại Tý hoặc Ngọ.
 
 ## Nguyên văn
 > "Cung Mệnh, Thân hay Thiên Di an tại Tý, Ngọ, có Lộc tọa thủ, gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên rất giàu sang, tiền của chất đống lên trong kho lẫm." (tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p24)
+
+## Đối chứng
+- [TĐ] Trần Đoàn ghi câu tương tự "Lộc Tồn Tí Ngọ Thiên Di Thân Mệnh phùng chỉ lợi lộc nghi", giải: "Ở Tí Ngọ cung Thiên Di hay Thân Mệnh có Lộc Tồn lợi lộc vô số." (td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la)
