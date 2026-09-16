@@ -734,7 +734,18 @@
    "palace:menh-than:thien-phu",
    "palace:menh-than:thien-phu+vu-khuc",
    "phu:co-luong-dong-chieu-menh-than-khong-vi-tang-dao",
-   "phu:co-nguyet-dong-luong-tac-lai-nhan"
+   "phu:co-nguyet-dong-luong-tac-lai-nhan",
+   "phu:dan-moc-phu-vi-huu-hoi-tam-ky-kinh-bat-cu-lai-an-ngu",
+   "phu:nam-thien-phu-giao-long-vang-uyen",
+   "phu:phu-tuong-dong-lai-hoi-menh-cung-toan-gia-thuc-loc",
+   "phu:phu-vu-ty-cung-giap-dinh-nhan-toa-phuc-vuong-danh-ba",
+   "phu:thien-phu-cu-ngo-tuat-thien-tuong-lai-trieu-giap-nhan-nhat-pham-chi-quy",
+   "phu:thien-phu-lam-tuat-huu-tinh-phu-phu-quy-song-toan",
+   "phu:thien-phu-on-luong",
+   "phu:thien-phu-thien-tuong-thien-luong-dong-quan-than-khanh-hoi",
+   "phu:thien-phu-tuat-cung-vo-sat-tau-giap-ky-nhan-hoanh-phat-danh-tai",
+   "phu:thien-phu-xuong-khuc-loc-ton-cu-van-chi-tu",
+   "phu:thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p11": [
    "palace:menh-than:thai-am"
