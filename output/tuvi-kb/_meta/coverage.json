@@ -988,7 +988,14 @@
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p27": [
    "palace:menh-than:da-la",
-   "palace:menh-than:hoa-tinh+linh-tinh"
+   "palace:menh-than:hoa-tinh+linh-tinh",
+   "phu:hoa-dieu-phung-tuyet-tai-hoi-cung-nhi-ngo-tham-hinh",
+   "phu:hoa-linh-giap-menh-vi-bai-cuc",
+   "phu:hoa-linh-kinh-duong-vi-ha-cach",
+   "phu:hoa-linh-suu-mui-viet-tham-vu-ung-ngo-lai-phung-kiep-dieu",
+   "phu:hoa-linh-tuong-ngo-da-tran-chu-bang",
+   "phu:hoa-tinh-linh-tinh-chuyen-tac-hoa",
+   "phu:linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p28": [
    "palace:menh-than:dia-khong+dia-kiep"
