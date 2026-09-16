@@ -774,7 +774,27 @@
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p13": [
    "palace:menh-than:tham-lang",
-   "palace:menh-than:tham-lang+liem-trinh"
+   "palace:menh-than:tham-lang+liem-trinh",
+   "phu:dan-than-nhi-hoi-tham-liem-ngo-van-xuong-nhap-lao-quan-trong",
+   "phu:tham-cu-doai-chan-thoat-tuc-vi-tang",
+   "phu:tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh",
+   "phu:tham-dao-tai-nhan-cung-nu-menh-doc-phu-chi-nhan",
+   "phu:tham-lang-da-la-tai-dan-cung-phong-luu-thai-trong",
+   "phu:tham-lang-gia-cat-toa-trang-sinh-tho-khao-vinh-nhu-banh-to",
+   "phu:tham-lang-gia-sat-dong-cung-nu-thau-huong-nam-thu-thiet",
+   "phu:tham-lang-hoa-tinh-cu-mieu-vuong-danh-tran-chu-bang",
+   "phu:tham-lang-hoi-sat-vo-cat-dieu-do-te-chi-nhan",
+   "phu:tham-lang-hoi-ty-hanh-phung-quyen-vuong-bien-hu-thanh-thuc",
+   "phu:tham-lang-ky-ngo-sat-tinh-uu-am-khong-kiep",
+   "phu:tham-lang-liem-trinh-dong-do-nam-lang-dang-nu-da-dam",
+   "phu:tham-lang-ngo-hoa-linh-tu-mo-cung-hao-phu-gia-tu",
+   "phu:tham-liem-can-thuong-van-lap-vo-phong",
+   "phu:tham-linh-tinh-thu-tuong-tuong-chi-danh",
+   "phu:tham-ngo-duong-da-cu-hoi-ty-danh-vi-phiem-thuy-dao-hoa",
+   "phu:tham-sat-ngo-dan-kiem-ngo-ho-tang-loi-thu-nan-de",
+   "phu:tham-toa-thuy-cung-giap-bien-tu-sat-ban-kho-chung-than",
+   "phu:tham-tu-toa-nhi-phung-hoa-ky-dao-ngoai-hanh-thuong",
+   "phu:tham-xuong-cu-menh-phan-cot-tuy-si"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p14": [
    "palace:menh-than:cu-mon",
