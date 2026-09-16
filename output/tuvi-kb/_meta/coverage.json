@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 57,
+   "referenced": 60,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -321,10 +321,7 @@
     "tl#0082-tren-dia-ban-toan-so",
     "tl#0086-khuc",
     "tl#0091-dau-la-ngoi-vi-chinh-xac-cua-thien-at-qui-nhan",
-    "tl#0094-nghich-ly-am-duong-la-muc",
     "tl#0095-nhung-net-dac-khoan-cua-bon-tuoi-at-mau-tan-nham",
-    "tl#0096-giap-liem-pha-vu-duong-don-tat-ca-khoa-quyen",
-    "tl#0097-tan-thuoc-am-ma-thai-duong-cam-quyen-tuc-la-the",
     "tl#0098-truoc-cong-nguyen",
     "tl#0099-sau-cong-nguyen",
     "tl#0100-thai-cuc-2-luong-nghi",
@@ -334,7 +331,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 54.8
+   "coverage_percent": 57.7
   },
   "td": {
    "chunks": 122,
@@ -2094,7 +2091,7 @@
    "combo:cu-nhat"
   ],
   "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can": [
-   "rule:thien-tuong-that-sat-khong-nhan-tu-hoa"
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
   ],
   "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao": [
    "combo:tam-hoa-lien-chau"
@@ -2112,6 +2109,15 @@
    "star:truc-phu",
    "star:tu-phu",
    "star:tue-pha"
+  ],
+  "tl#0094-nghich-ly-am-duong-la-muc": [
+   "rule:nghich-ly-am-duong-di-kem-phuc-tinh-cuu-vot"
+  ],
+  "tl#0096-giap-liem-pha-vu-duong-don-tat-ca-khoa-quyen": [
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
+  ],
+  "tl#0097-tan-thuoc-am-ma-thai-duong-cam-quyen-tuc-la-the": [
+   "rule:thien-phu-thien-tuong-that-sat-khong-nhan-tu-hoa"
   ]
  }
 }
