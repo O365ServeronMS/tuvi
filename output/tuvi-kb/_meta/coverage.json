@@ -1048,7 +1048,14 @@
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p31": [
    "palace:menh-than:dai-hao+tieu-hao",
    "palace:menh-than:tang-mon+bach-ho",
-   "palace:menh-than:thien-khoc+thien-hu"
+   "palace:menh-than:thien-khoc+thien-hu",
+   "phu:hao-ngo-tham-lang-tang-dam-tinh-u-tinh-de",
+   "phu:hu-kinh-tue-khach-gia-lam-man-the-da-phung-tang-su",
+   "phu:khoc-hu-ty-ngo-tien-ban-hau-phu",
+   "phu:khoc-khach-kiep-phu-mac-ngo-cu-duong-chung-than-da-le",
+   "phu:nam-nhan-tang-ho-huu-tai-uyen-bac",
+   "phu:nu-menh-ho-rieu-da-su-qua-uu",
+   "phu:song-hao-mao-dau-chung-thuy-trieu-dong-toi-hiem-hoa-loc-ai-ngo-cu-co"
   ],
   "tb#0040-anh-huong-cua-nhat-nhat-tai-cac-vi-tri-tren-ban": [
    "palace:phu-mau:thai-am",
