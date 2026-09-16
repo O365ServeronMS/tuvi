@@ -3,7 +3,7 @@
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 1,
+   "referenced": 2,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -64,7 +64,6 @@
     "npl#0052-nhung-yeu-to-can-phai-cuu-xet",
     "npl#0053-yeu-to-am-duong",
     "npl#0054-a-ban-menh",
-    "npl#0055-cach-cua-chinh-tinh",
     "npl#0056-yeu-to-cuc",
     "npl#0057-nhung-cung-cuong-cua-phai-nam",
     "npl#0058-nhung-cung-cuong-cua-phai-nu",
@@ -253,7 +252,7 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 0.4
+   "coverage_percent": 0.8
   },
   "tb": {
    "chunks": 184,
@@ -316,7 +315,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 30,
+   "referenced": 36,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -324,7 +323,6 @@
     "tl#0006-kim-chung-khac-moc-lau",
     "tl#0007-nhung-cau-phu-nen-than-trong-ap-dung",
     "tl#0012-nhung-hanh-tinh",
-    "tl#0025-thien-phu-thai-am-tham-lang-cu-mon-thien-tuong",
     "tl#0026-lan-thu-thuy-net-xuan-son",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
     "tl#0032-tinh-than-va-the-xac-khac-bie-ttuy-theo-menh",
@@ -355,7 +353,6 @@
     "tl#0065-tu-giap-ti-buoc-qua-giap-tuat-tu-giap-tuat-sang",
     "tl#0066-can-khon-nhat-hi-truong-nhan-sinh-thi-bi-kich",
     "tl#0067-can-khon-nhat-hi-truong-nhan-sinh-thi-bi-kich",
-    "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi",
     "tl#0069-khuc",
     "tl#0070-thien",
     "tl#0071-khuc",
@@ -370,14 +367,10 @@
     "tl#0080-nguoi-thuoc-tho-ngu-cuc-trang-sinh-xuat-phat-tu",
     "tl#0081-cuc-vi-dau-tro-thanh-phan-quan-trong-cua-so",
     "tl#0082-tren-dia-ban-toan-so",
-    "tl#0083-pham-cach-giua-tu-vi-va-pha-quan",
-    "tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan",
     "tl#0085-nang-luc-quan-trong-cua-nhi-hop",
     "tl#0086-khuc",
     "tl#0087-di-mot-luc-luong-phai-de-y-1",
-    "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan",
     "tl#0089-tu-hoa-dem-lai-sac-thai-gi-trong-10-can",
-    "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao",
     "tl#0091-dau-la-ngoi-vi-chinh-xac-cua-thien-at-qui-nhan",
     "tl#0092-dinh-y-gi-dat-nam-tuoi-o-mo-cung-doi-xung-voi",
     "tl#0094-nghich-ly-am-duong-la-muc",
@@ -393,12 +386,12 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 28.8
+   "coverage_percent": 34.6
   },
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 51,
+   "referenced": 52,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -443,7 +436,6 @@
     "td#0083-hinh-dang-va-tinh-tinh",
     "td#0084-tham-lang-mieu-vuong-chi-cung-mieu-thoi-nguoi",
     "td#0085-tinh-cuong-chang-co-ai-ua",
-    "td#0086-cach-cuc",
     "td#0087-a-hop-cach-cua-cac-sao-tai-12-cung-b-pha-cach",
     "td#0088-sao-cu-mon-linh-tinh-toa-thu-do-la-pha-cach-vi",
     "td#0089-tat-yeu-j-tang-dao",
@@ -471,10 +463,17 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 42.1
+   "coverage_percent": 43.0
   }
  },
  "chunk_refs": {
+  "npl#0055-cach-cua-chinh-tinh": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat",
+   "combo:sat-pha-liem-tham",
+   "combo:tu-phu-vu-tuong",
+   "combo:vo-chinh-dieu"
+  ],
   "npl#0204-cac-sao-thien-can": [
    "palace:menh-than:tu-vi+tham-lang"
   ],
@@ -1571,6 +1570,10 @@
    "palace:dien-trach:van-xuong+van-khuc",
    "palace:dien-trach:vu-khuc"
   ],
+  "td#0086-cach-cuc": [
+   "combo:that-sat-trieu-nguong-dau",
+   "combo:tu-phu-vu-tuong"
+  ],
   "tl#0008-nen-rat-chat-che": [
    "star:bac-sy",
    "star:hoa-loc",
@@ -1694,6 +1697,7 @@
    "star:van-xuong"
   ],
   "tl#0022-a-liem-sat-suu-mui": [
+   "combo:liem-tham-ty-hoi-liem-sat-suu-mui",
    "star:liem-trinh",
    "star:pha-quan",
    "star:thien-tho"
@@ -1707,6 +1711,10 @@
   "tl#0024-nhung-truong-hop-ngoai-le-cua-bai-luc-tinh": [
    "star:dieu-khach",
    "star:tang-mon"
+  ],
+  "tl#0025-thien-phu-thai-am-tham-lang-cu-mon-thien-tuong": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat"
   ],
   "tl#0027-thien-can-o-tai-long-ta": [
    "star:thien-tai",
@@ -1747,6 +1755,10 @@
    "star:thai-duong"
   ],
   "tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat",
+   "combo:sat-pha-liem-tham",
+   "combo:tu-phu-vu-tuong",
    "star:cu-mon",
    "star:liem-trinh",
    "star:pha-quan",
@@ -1797,6 +1809,24 @@
    "star:bach-ho",
    "star:quan-phu",
    "star:thai-tue"
+  ],
+  "tl#0068-vo-chinh-dieu-dac-tam-khong-2-co-tam-hon-tu-bi": [
+   "combo:vo-chinh-dieu"
+  ],
+  "tl#0083-pham-cach-giua-tu-vi-va-pha-quan": [
+   "combo:tu-vi-pha-quan-pham-cach"
+  ],
+  "tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan": [
+   "combo:sat-pha-liem-tham",
+   "combo:that-sat-trieu-nguong-dau",
+   "combo:tu-phu-vu-tuong"
+  ],
+  "tl#0088-luong-nguyet-dong-co-cu-nhat-mot-khoi-dong-tan": [
+   "combo:co-nguyet-dong-luong",
+   "combo:cu-nhat"
+  ],
+  "tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao": [
+   "combo:tam-hoa-lien-chau"
   ],
   "tl#0093-nghia-vu-bo-tam-minh-ra-sao-ma-thien-hi-lai": [
    "star:dao-hoa",
