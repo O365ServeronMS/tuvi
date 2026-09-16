@@ -1,0 +1,331 @@
+# Tra cứu thẻ tuvi-kb — Phú (60-phu) theo tag
+
+Sinh tự động bởi `scripts/build_lookup.py` từ frontmatter mọi thẻ trong `10-stars/` đến `60-phu/`. Không sửa tay; chạy lại script sau khi thêm hoặc sửa thẻ.
+
+## Phú (60-phu) theo tag
+
+- `nu-menh-ho-rieu-da-su-qua-uu` (bach-ho, thien-rieu, menh, nu-menh) → `60-phu/nu-menh-ho-rieu-da-su-qua-uu.md`
+- `cu-co-chinh-huong-hanh-ngo-song-hao-uy-quyen-quan-the` (cu-mon, thien-co, menh, mao, dau) → `60-phu/cu-co-chinh-huong-hanh-ngo-song-hao-uy-quyen-quan-the.md`
+- `cu-co-dan-cung-vi-pha-dang` (cu-mon, thien-co, menh, dan) → `60-phu/cu-co-dan-cung-vi-pha-dang.md`
+- `cu-co-dau-thuong-hoa-cat-gia-tung-huu-tai-quan-da-bat-chung` (cu-mon, thien-co, menh, dau) → `60-phu/cu-co-dau-thuong-hoa-cat-gia-tung-huu-tai-quan-da-bat-chung.md`
+- `cu-co-dong-cung-cong-khanh-chi-vi` (cu-mon, thien-co, menh, dan) → `60-phu/cu-co-dong-cung-cong-khanh-chi-vi.md`
+- `cu-co-mao-dau-at-tan-ky-binh-chi-cong-khanh` (cu-mon, thien-co, menh, mao, dau) → `60-phu/cu-co-mao-dau-at-tan-ky-binh-chi-cong-khanh.md`
+- `cu-co-nhi-ngo-loc-ton-ngon-ngu-bat-can` (cu-mon, thien-co, loc-ton, menh, mao, dau) → `60-phu/cu-co-nhi-ngo-loc-ton-ngon-ngu-bat-can.md`
+- `cu-dong-nhap-mo-nhi-hoi-ky-kinh-nan-phong-thuy-nan` (cu-mon, thien-dong, menh, tu-mo, hoa-ky, kinh-duong) → `60-phu/cu-dong-nhap-mo-nhi-hoi-ky-kinh-nan-phong-thuy-nan.md`
+- `cu-dong-nhi-phung-la-vong-ngo-khoa-tinh-thoai-thuyet-lich-sinh` (cu-mon, thien-dong, menh, thin, tuat, hoa-khoa) → `60-phu/cu-dong-nhi-phung-la-vong-ngo-khoa-tinh-thoai-thuyet-lich-sinh.md`
+- `cu-hinh-cung-chieu-diec-vi-ky` (cu-mon, thai-duong, menh) → `60-phu/cu-hinh-cung-chieu-diec-vi-ky.md`
+- `cu-hoa-kinh-duong-da-la-phung-ac-dieu-ai-tu-dau-ha` (cu-mon, hoa-tinh, kinh-duong, da-la, menh) → `60-phu/cu-hoa-kinh-duong-da-la-phung-ac-dieu-ai-tu-dau-ha.md`
+- `cu-hoa-linh-phung-ac-han-tu-thuat-ngoai-dao` (cu-mon, hoa-tinh, linh-tinh, menh) → `60-phu/cu-hoa-linh-phung-ac-han-tu-thuat-ngoai-dao.md`
+- `cu-mon-da-la-tat-sinh-di-chi` (cu-mon, da-la, menh, than-cung, ham-dia) → `60-phu/cu-mon-da-la-tat-sinh-di-chi.md`
+- `cu-mon-hoi-ty-ky-ngo-loc-ton-nhi-phung-quyen-loc` (cu-mon, loc-ton, hoa-quyen, hoa-loc, menh, hoi, ty) → `60-phu/cu-mon-hoi-ty-ky-ngo-loc-ton-nhi-phung-quyen-loc.md`
+- `cu-mon-thin-cung-hoa-ky-tan-nhan-menh-ngo-phan-vi-giai` (cu-mon, hoa-ky, menh, thin) → `60-phu/cu-mon-thin-cung-hoa-ky-tan-nhan-menh-ngo-phan-vi-giai.md`
+- `cu-mon-thin-tuat-vi-ham-dia-tan-nhan-hoa-cat-loc-tranh-vinh` (cu-mon, menh, thin, tuat) → `60-phu/cu-mon-thin-tuat-vi-ham-dia-tan-nhan-hoa-cat-loc-tranh-vinh.md`
+- `cu-mon-tu-sat-ham-nhi-hung` (cu-mon, menh) → `60-phu/cu-mon-tu-sat-ham-nhi-hung.md`
+- `cu-mon-ty-ngo-khoa-quyen-loc-thach-trung-can-ngoc` (cu-mon, hoa-khoa, hoa-quyen, hoa-loc, menh, ty, ngo) → `60-phu/cu-mon-ty-ngo-khoa-quyen-loc-thach-trung-can-ngoc.md`
+- `cu-nhat-dan-cung-lap-menh-than-tien-tri-danh-nhi-thuc-loc` (cu-mon, thai-duong, menh, than-cung, dan) → `60-phu/cu-nhat-dan-cung-lap-menh-than-tien-tri-danh-nhi-thuc-loc.md`
+- `cu-nhat-dan-than-thien-mon-nhat-lang-ky-ngo-loc-ton` (cu-mon, thai-duong, loc-ton, menh, dan, than-cung) → `60-phu/cu-nhat-dan-than-thien-mon-nhat-lang-ky-ngo-loc-ton.md`
+- `cu-nhat-dong-cung-quan-phong-tam-dai` (cu-mon, thai-duong, menh) → `60-phu/cu-nhat-dong-cung-quan-phong-tam-dai.md`
+- `cu-nhat-menh-cung-dan-vi-thuc-loc-tri-danh` (cu-mon, thai-duong, menh, dan) → `60-phu/cu-nhat-menh-cung-dan-vi-thuc-loc-tri-danh.md`
+- `cu-nhat-menh-lap-than-cung-diec-dieu` (cu-mon, thai-duong, menh, than-cung) → `60-phu/cu-nhat-menh-lap-than-cung-diec-dieu.md`
+- `cu-nhat-than-lap-menh-dan-tri-danh-thuc-loc` (cu-mon, thai-duong, menh, than-cung, dan) → `60-phu/cu-nhat-than-lap-menh-dan-tri-danh-thuc-loc.md`
+- `mao-dau-cu-co-at-tan-am-nu-vuong-phu-ich-tu` (cu-mon, thien-co, menh, mao, dau, nu-menh, tuan-triet) → `60-phu/mao-dau-cu-co-at-tan-am-nu-vuong-phu-ich-tu.md`
+- `tan-nhan-toi-ai-cu-mon-nhuoc-lam-tu-mo-hanh-phuc-cuu-menh-chi-tinh` (cu-mon, menh, tu-mo) → `60-phu/tan-nhan-toi-ai-cu-mon-nhuoc-lam-tu-mo-hanh-phuc-cuu-menh-chi-tinh.md`
+- `thin-tuat-ung-hiem-ham-cu-mon` (cu-mon, menh, thin, tuat) → `60-phu/thin-tuat-ung-hiem-ham-cu-mon.md`
+- `hao-ngo-tham-lang-tang-dam-tinh-u-tinh-de` (dai-hao, tieu-hao, tham-lang, menh) → `60-phu/hao-ngo-tham-lang-tang-dam-tinh-u-tinh-de.md`
+- `song-hao-mao-dau-chung-thuy-trieu-dong-toi-hiem-hoa-loc-ai-ngo-cu-co` (dai-hao, tieu-hao, cu-mon, thien-co, hoa-loc, mao, dau, menh) → `60-phu/song-hao-mao-dau-chung-thuy-trieu-dong-toi-hiem-hoa-loc-ai-ngo-cu-co.md`
+- `dan-than-kiep-khong-nhi-ngo-quy-tinh-thang-tram-vo-do` (dia-kiep, dia-khong, menh, dan, than-cung) → `60-phu/dan-than-kiep-khong-nhi-ngo-quy-tinh-thang-tram-vo-do.md`
+- `dia-kiep-doc-thu-thi-ky-phi-nhan` (dia-kiep, menh) → `60-phu/dia-kiep-doc-thu-thi-ky-phi-nhan.md`
+- `kiep-co-ngo-hoa-tat-ngo-hoa-tai` (dia-kiep, thien-co, hoa-tinh, menh) → `60-phu/kiep-co-ngo-hoa-tat-ngo-hoa-tai.md`
+- `kiep-khong-giap-menh-vi-bai-cuc-chu-ban-tien` (dia-kiep, dia-khong, menh, ty, hoi) → `60-phu/kiep-khong-giap-menh-vi-bai-cuc-chu-ban-tien.md`
+- `kiep-khong-ha-hiem-ty-hoi-tuong-ma-dong-cu-chi-hoi-khoa-tinh` (dia-kiep, dia-khong, thien-tuong, thien-ma, hoa-khoa, menh, ty, hoi) → `60-phu/kiep-khong-ha-hiem-ty-hoi-tuong-ma-dong-cu-chi-hoi-khoa-tinh.md`
+- `kiep-khong-ty-hoi-dong-vi-tao-dat-cong-danh` (dia-kiep, dia-khong, menh, ty, hoi) → `60-phu/kiep-khong-ty-hoi-dong-vi-tao-dat-cong-danh.md`
+- `kiep-phu-khoc-khach-mac-ngo-cu-duong-chung-than-da-le` (dia-kiep, thien-phu, cu-mon, thai-duong, menh) → `60-phu/kiep-phu-khoc-khach-mac-ngo-cu-duong-chung-than-da-le.md`
+- `menh-trung-ngo-kiep-tham-do-nhu-lang-ly-hanh-thuyen` (dia-kiep, tham-lang, menh) → `60-phu/menh-trung-ngo-kiep-tham-do-nhu-lang-ly-hanh-thuyen.md`
+- `nhan-hoi-yeu-tu-do-huu-kiep-khong-dao-hong-da-linh-thu-menh` (dia-kiep, dia-khong, dao-hoa, da-la, linh-tinh, menh) → `60-phu/nhan-hoi-yeu-tu-do-huu-kiep-khong-dao-hong-da-linh-thu-menh.md`
+- `sinh-su-kiep-khong-do-nhu-ban-thien-chiet-si` (dia-kiep, dia-khong, menh, tu-sinh, ham-dia) → `60-phu/sinh-su-kiep-khong-do-nhu-ban-thien-chiet-si.md`
+- `khoa-danh-ham-u-hung-than-mieu-nhi-bat-tu` (hoa-khoa, sat-tinh, menh) → `60-phu/khoa-danh-ham-u-hung-than-mieu-nhi-bat-tu.md`
+- `khoa-loc-giap-vi-quy-cach` (hoa-khoa, hoa-loc, menh) → `60-phu/khoa-loc-giap-vi-quy-cach.md`
+- `khoa-loc-tuan-phung-chu-bot-than-nhien-nhap-tuong` (hoa-khoa, hoa-loc, menh) → `60-phu/khoa-loc-tuan-phung-chu-bot-than-nhien-nhap-tuong.md`
+- `khoa-menh-quyen-trieu-dang-chung-giap-de` (hoa-khoa, hoa-quyen, menh) → `60-phu/khoa-menh-quyen-trieu-dang-chung-giap-de.md`
+- `khoa-minh-loc-am-liet-vi-tam-thai` (hoa-khoa, hoa-loc, menh) → `60-phu/khoa-minh-loc-am-liet-vi-tam-thai.md`
+- `khoa-quyen-loc-hop-phu-quy-song-toan` (hoa-khoa, hoa-quyen, hoa-loc, menh) → `60-phu/khoa-quyen-loc-hop-phu-quy-song-toan.md`
+- `khoa-quyen-loc-vong-danh-du-chieu-truong` (hoa-khoa, hoa-quyen, hoa-loc, menh) → `60-phu/khoa-quyen-loc-vong-danh-du-chieu-truong.md`
+- `tam-ky-giao-hoi-mac-ngo-ky-kinh-giang-lo-thanh-van` (hoa-khoa, hoa-quyen, hoa-loc, hoa-ky, kinh-duong, menh) → `60-phu/tam-ky-giao-hoi-mac-ngo-ky-kinh-giang-lo-thanh-van.md`
+- `hoa-ky-ty-cung-khoa-luong-phu-chieu-dac-quan-dan-sung-ai` (hoa-ky, hoa-khoa, thien-luong, ty, menh) → `60-phu/hoa-ky-ty-cung-khoa-luong-phu-chieu-dac-quan-dan-sung-ai.md`
+- `hoa-ky-van-nhan-bat-nai` (hoa-ky, van-xuong, van-khuc, thien-khoi, thien-viet, menh) → `60-phu/hoa-ky-van-nhan-bat-nai.md`
+- `ky-ngo-khoa-tinh-cu-hoi-ty` (hoa-ky, hoa-khoa, hoi, ty, menh) → `60-phu/ky-ngo-khoa-tinh-cu-hoi-ty.md`
+- `hoa-loc-cung-loc-dinh-vi-van-vo-toan-tai` (hoa-loc, loc-ton, liem-trinh, menh) → `60-phu/hoa-loc-cung-loc-dinh-vi-van-vo-toan-tai.md`
+- `hoa-loc-dac-dia-dan-mao-co-thu-tham-tai` (hoa-loc, dan, mao, menh) → `60-phu/hoa-loc-dac-dia-dan-mao-co-thu-tham-tai.md`
+- `hoa-loc-hoan-vi-hao-huu-huong-mo-trung-tang` (hoa-loc, tham-lang, vu-khuc, menh, tu-mo) → `60-phu/hoa-loc-hoan-vi-hao-huu-huong-mo-trung-tang.md`
+- `hoa-loc-ty-ngo-phu-tu-van-chuong-quan-the` (hoa-loc, thien-luong, loc-ton, ty, ngo, menh) → `60-phu/hoa-loc-ty-ngo-phu-tu-van-chuong-quan-the.md`
+- `loc-phung-luong-mieu-bao-tu-tai-ich-du-tha-nhan` (hoa-loc, thien-luong, menh) → `60-phu/loc-phung-luong-mieu-bao-tu-tai-ich-du-tha-nhan.md`
+- `luong-loc-ngo-dan-nhi-phung-tu-vu-dinh-ky-am-nam-phu-da-danh-tho` (hoa-loc, loc-ton, tu-vi, vu-khuc, ty, ngo, menh) → `60-phu/luong-loc-ngo-dan-nhi-phung-tu-vu-dinh-ky-am-nam-phu-da-danh-tho.md`
+- `menh-vo-chinh-dieu-hoan-ngo-tam-khong-huu-song-loc-phu-quy-kha-ky` (hoa-loc, loc-ton, tuan, triet, dia-khong, thien-khong, vo-chinh-dieu, menh) → `60-phu/menh-vo-chinh-dieu-hoan-ngo-tam-khong-huu-song-loc-phu-quy-kha-ky.md`
+- `song-loc-cu-nhi-ngo-co-luong-phu-gia-dich-quoc` (hoa-loc, loc-ton, thien-co, thien-luong, dan, than-cung, menh) → `60-phu/song-loc-cu-nhi-ngo-co-luong-phu-gia-dich-quoc.md`
+- `quyen-khoc-dong-cung-minh-danh-vu-the` (hoa-quyen, thien-khoc, ty, ngo, menh) → `60-phu/quyen-khoc-dong-cung-minh-danh-vu-the.md`
+- `quyen-loc-menh-phung-kiem-hop-cat-uy-danh-lung-lay-quyen-ap-chung` (hoa-quyen, hoa-loc, menh) → `60-phu/quyen-loc-menh-phung-kiem-hop-cat-uy-danh-lung-lay-quyen-ap-chung.md`
+- `quyen-loc-trung-phung-sat-thau-hu-du-chi-long` (hoa-quyen, hoa-loc, sat-tinh, menh) → `60-phu/quyen-loc-trung-phung-sat-thau-hu-du-chi-long.md`
+- `quyen-loc-trung-phung-tai-quan-song-my` (hoa-quyen, hoa-loc, menh) → `60-phu/quyen-loc-trung-phung-tai-quan-song-my.md`
+- `hoa-dieu-phung-tuyet-tai-hoi-cung-nhi-ngo-tham-hinh` (hoa-tinh, tham-lang, thien-hinh, menh, hoi) → `60-phu/hoa-dieu-phung-tuyet-tai-hoi-cung-nhi-ngo-tham-hinh.md`
+- `hoa-linh-giap-menh-vi-bai-cuc` (hoa-tinh, linh-tinh, menh) → `60-phu/hoa-linh-giap-menh-vi-bai-cuc.md`
+- `hoa-linh-kinh-duong-vi-ha-cach` (hoa-tinh, linh-tinh, kinh-duong, menh) → `60-phu/hoa-linh-kinh-duong-vi-ha-cach.md`
+- `hoa-linh-suu-mui-viet-tham-vu-ung-ngo-lai-phung-kiep-dieu` (hoa-tinh, linh-tinh, thien-viet, tham-lang, vu-khuc, menh, suu, mui) → `60-phu/hoa-linh-suu-mui-viet-tham-vu-ung-ngo-lai-phung-kiep-dieu.md`
+- `hoa-linh-tuong-ngo-da-tran-chu-bang` (hoa-tinh, linh-tinh, menh) → `60-phu/hoa-linh-tuong-ngo-da-tran-chu-bang.md`
+- `hoa-tinh-linh-tinh-chuyen-tac-hoa` (hoa-tinh, linh-tinh, menh) → `60-phu/hoa-tinh-linh-tinh-chuyen-tac-hoa.md`
+- `huu-bat-thien-tuong-phuc-lai-lam` (huu-bat, thien-tuong, menh, ty, hoi, mao, dau) → `60-phu/huu-bat-thien-tuong-phuc-lai-lam.md`
+- `duong-da-giap-ky-vi-bai-cuc` (kinh-duong, da-la, hoa-ky, menh) → `60-phu/duong-da-giap-ky-vi-bai-cuc.md`
+- `duong-da-hoa-linh-phung-phat-tai-hung-tac-ky` (kinh-duong, da-la, hoa-tinh, linh-tinh, menh) → `60-phu/duong-da-hoa-linh-phung-phat-tai-hung-tac-ky.md`
+- `giap-duong-giap-da-vi-khat-cai` (kinh-duong, da-la, menh) → `60-phu/giap-duong-giap-da-vi-khat-cai.md`
+- `kinh-da-linh-hoa-thu-than-menh-yeu-da-boi-khuc-chi-nhan` (kinh-duong, da-la, linh-tinh, hoa-tinh, menh, than-cung) → `60-phu/kinh-da-linh-hoa-thu-than-menh-yeu-da-boi-khuc-chi-nhan.md`
+- `kinh-duong-dong-am-nhi-phung-phuong-giai-nhat-the-uy-danh` (kinh-duong, thien-dong, thai-am, menh, ngo, ty) → `60-phu/kinh-duong-dong-am-nhi-phung-phuong-giai-nhat-the-uy-danh.md`
+- `kinh-duong-hoa-tinh-oai-quyen-xuat-chung` (kinh-duong, hoa-tinh, tham-lang, vu-khuc, menh, tu-mo) → `60-phu/kinh-duong-hoa-tinh-oai-quyen-xuat-chung.md`
+- `kinh-duong-nhap-mieu-phu-quy-thanh-duong` (kinh-duong, menh, tu-mo) → `60-phu/kinh-duong-nhap-mieu-phu-quy-thanh-duong.md`
+- `kinh-duong-phung-luc-si-ly-quang-nan-phong` (kinh-duong, luc-si, menh) → `60-phu/kinh-duong-phung-luc-si-ly-quang-nan-phong.md`
+- `kinh-duong-ty-ngo-mao-dau-phi-yeu-chiet-nhi-hinh-thuong` (kinh-duong, menh, ty, ngo, mao, dau) → `60-phu/kinh-duong-ty-ngo-mao-dau-phi-yeu-chiet-nhi-hinh-thuong.md`
+- `kinh-hu-tue-khach-gia-lam-man-the-da-phung-tang-su` (kinh-duong, menh) → `60-phu/kinh-hu-tue-khach-gia-lam-man-the-da-phung-tang-su.md`
+- `kinh-tu-giap-an-hinh-truong-nan-dao` (kinh-duong, tu-vi, liem-trinh, thien-tuong, menh) → `60-phu/kinh-tu-giap-an-hinh-truong-nan-dao.md`
+- `ly-quang-suc-dich-van-nhan` (kinh-duong, luc-si, menh) → `60-phu/ly-quang-suc-dich-van-nhan.md`
+- `ma-dau-doi-kiem-phi-yeu-chiet-nhi-chu-hinh-thuong` (kinh-duong, menh, ngo) → `60-phu/ma-dau-doi-kiem-phi-yeu-chiet-nhi-chu-hinh-thuong.md`
+- `ma-dau-doi-kiem-tran-ngu-bien-cuong` (kinh-duong, loc-ton, thien-ma, thien-khoi, hoa-quyen, menh, ngo) → `60-phu/ma-dau-doi-kiem-tran-ngu-bien-cuong.md`
+- `menh-duong-da-gia-kiep-tho-giam` (kinh-duong, da-la, menh) → `60-phu/menh-duong-da-gia-kiep-tho-giam.md`
+- `liem-trinh-bach-ho-hinh-nguc-nan-dao` (liem-trinh, bach-ho, menh) → `60-phu/liem-trinh-bach-ho-hinh-nguc-nan-dao.md`
+- `liem-trinh-chu-ha-tien-co-han` (liem-trinh, menh) → `60-phu/liem-trinh-chu-ha-tien-co-han.md`
+- `liem-trinh-mao-dau-gia-sat-cong-tu-vo-dien-quan-nhan` (liem-trinh, mao, dau, menh) → `60-phu/liem-trinh-mao-dau-gia-sat-cong-tu-vo-dien-quan-nhan.md`
+- `liem-trinh-mao-dau-mac-ngo-kiep-kinh-tu-phong-hinh-nguc` (liem-trinh, dia-kiep, mao, dau, menh) → `60-phu/liem-trinh-mao-dau-mac-ngo-kiep-kinh-tu-phong-hinh-nguc.md`
+- `liem-trinh-nhap-mieu-hoi-tuong-quan-trong-do-uy-manh` (liem-trinh, thien-tuong, menh) → `60-phu/liem-trinh-nhap-mieu-hoi-tuong-quan-trong-do-uy-manh.md`
+- `liem-trinh-pha-quan-hoa-tinh-cu-ham-dia-tu-ai-dau-ha` (liem-trinh, pha-quan, hoa-tinh, menh) → `60-phu/liem-trinh-pha-quan-hoa-tinh-cu-ham-dia-tu-ai-dau-ha.md`
+- `liem-trinh-phung-van-que-canh-bon-ba` (liem-trinh, van-khuc, menh) → `60-phu/liem-trinh-phung-van-que-canh-bon-ba.md`
+- `liem-trinh-sat-tinh-cu-ty-hoi-luu-dang-thien-thai` (liem-trinh, ty, hoi, menh) → `60-phu/liem-trinh-sat-tinh-cu-ty-hoi-luu-dang-thien-thai.md`
+- `liem-trinh-than-mui-cung-vo-sat-phu-quy-thanh-duong-phieu-vien-danh` (liem-trinh, menh, than, mui) → `60-phu/liem-trinh-than-mui-cung-vo-sat-phu-quy-thanh-duong-phieu-vien-danh.md`
+- `liem-trinh-thanh-bach-nang-tuong-thu` (liem-trinh, menh) → `60-phu/liem-trinh-thanh-bach-nang-tuong-thu.md`
+- `liem-trinh-tu-sat-tao-hinh-luc` (liem-trinh, kinh-duong, da-la, hoa-tinh, linh-tinh, menh) → `60-phu/liem-trinh-tu-sat-tao-hinh-luc.md`
+- `tu-ngo-kinh-da-hoa-linh-huu-gia-toa-that-coc-chi-uu` (liem-trinh, kinh-duong, da-la, hoa-tinh, linh-tinh, menh) → `60-phu/tu-ngo-kinh-da-hoa-linh-huu-gia-toa-that-coc-chi-uu.md`
+- `linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi` (linh-tinh, thien-ma, kinh-duong, da-la, menh) → `60-phu/linh-phung-ma-nhi-ngo-duong-da-huu-tat-tu-chi.md`
+- `loc-dao-ma-dao-ky-kiep-khong-tue` (loc-ton, thien-ma, menh) → `60-phu/loc-dao-ma-dao-ky-kiep-khong-tue.md`
+- `loc-ma-toi-hy-giao-tri-chung-nhan-sung-ai` (loc-ton, thien-ma, menh) → `60-phu/loc-ma-toi-hy-giao-tri-chung-nhan-sung-ai.md`
+- `loc-phung-xung-pha-cat-da-thanh-hung` (loc-ton, pha-quan, menh) → `60-phu/loc-phung-xung-pha-cat-da-thanh-hung.md`
+- `loc-ton-hau-trong-da-y-thuc` (loc-ton, menh, hoi) → `60-phu/loc-ton-hau-trong-da-y-thuc.md`
+- `loc-ton-tai-vien-chi-tu-to-nghiep` (loc-ton, menh) → `60-phu/loc-ton-tai-vien-chi-tu-to-nghiep.md`
+- `loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi` (loc-ton, menh, than-cung, thien-di, ty, ngo) → `60-phu/loc-ton-ty-ngo-vi-menh-than-thien-di-phung-chi-loi-loc-nghi.md`
+- `loc-trieu-vien-than-vinh-quy-hien` (loc-ton, menh) → `60-phu/loc-trieu-vien-than-vinh-quy-hien.md`
+- `minh-loc-am-loc-vi-chi-cong-khanh` (loc-ton, hoa-loc, menh) → `60-phu/minh-loc-am-loc-vi-chi-cong-khanh.md`
+- `song-loc-thu-menh-la-hau-chuyen-quyen` (loc-ton, hoa-loc, menh) → `60-phu/song-loc-thu-menh-la-hau-chuyen-quyen.md`
+- `song-loc-trung-phung-chung-than-phu-quy` (loc-ton, hoa-loc, menh) → `60-phu/song-loc-trung-phung-chung-than-phu-quy.md`
+- `dan-than-pha-hoa-viet-lam-u-tan-dinh-tue-co-xao-tai-hanh` (pha-quan, hoa-tinh, thien-viet, menh, dan, than-cung) → `60-phu/dan-than-pha-hoa-viet-lam-u-tan-dinh-tue-co-xao-tai-hanh.md`
+- `pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the` (pha-quan, thien-hinh, loc-ton, menh, tu-mo) → `60-phu/pha-cu-mo-cuong-qua-chi-nhan-phung-thoi-loan-the.md`
+- `pha-kinh-mao-dau-nhi-phung-phu-bat-khoi-nguy-hoang-sao` (pha-quan, kinh-duong, ta-phu, huu-bat, menh, mao, dau) → `60-phu/pha-kinh-mao-dau-nhi-phung-phu-bat-khoi-nguy-hoang-sao.md`
+- `pha-quan-hoa-linh-bon-ba-lao-toai` (pha-quan, hoa-tinh, linh-tinh, menh) → `60-phu/pha-quan-hoa-linh-bon-ba-lao-toai.md`
+- `pha-quan-kham-ly-co-than-doc-anh` (pha-quan, menh, ty, ngo) → `60-phu/pha-quan-kham-ly-co-than-doc-anh.md`
+- `pha-quan-nhat-dieu-tinh-nan-minh` (pha-quan, menh, ty, ngo, thin, tuat, dan, than-cung) → `60-phu/pha-quan-nhat-dieu-tinh-nan-minh.md`
+- `pha-quan-tham-lang-phung-loc-ma-nam-da-lang-dang-nu-da-dam` (pha-quan, tham-lang, loc-ton, thien-ma, menh) → `60-phu/pha-quan-tham-lang-phung-loc-ma-nam-da-lang-dang-nu-da-dam.md`
+- `pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong` (pha-quan, hoa-khoa, menh, thin, tuat, tuan-triet) → `60-phu/pha-quan-thin-tuat-nhi-ngo-khoa-tuan-cai-at-vi-luong.md`
+- `pha-quan-ty-ngo-gia-quan-tien-loc` (pha-quan, menh, ty, ngo) → `60-phu/pha-quan-ty-ngo-gia-quan-tien-loc.md`
+- `pha-sat-khung-phung-hoa-hao-mac-ngo-viet-hinh-lao-han` (pha-quan, that-sat, hoa-tinh, menh) → `60-phu/pha-sat-khung-phung-hoa-hao-mac-ngo-viet-hinh-lao-han.md`
+- `pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong` (pha-quan, loc-ton, thieu-duong, menh, ngo) → `60-phu/pha-toa-ly-ngon-ngu-tho-bao-phung-loc-duong-nan-giai-xuong-cuong.md`
+- `mo-phung-ta-huu-ton-cu-bat-toa-chi-quy` (ta-phu, huu-bat, menh, tu-mo) → `60-phu/mo-phung-ta-huu-ton-cu-bat-toa-chi-quy.md`
+- `phu-bat-ai-nhap-mo-cung-nhuoc-phung-de-vuong-van-doan-vo-cach` (ta-phu, huu-bat, tu-vi, menh, tu-mo) → `60-phu/phu-bat-ai-nhap-mo-cung-nhuoc-phung-de-vuong-van-doan-vo-cach.md`
+- `phu-bat-giap-de-phuc-lai-lam` (ta-phu, huu-bat, tu-vi, menh) → `60-phu/phu-bat-giap-de-phuc-lai-lam.md`
+- `ta-huu-don-thu-chieu-menh-ly-tong-thu-xuat` (ta-phu, huu-bat, menh) → `60-phu/ta-huu-don-thu-chieu-menh-ly-tong-thu-xuat.md`
+- `ta-huu-dong-cung-phi-la-y-tu` (ta-phu, huu-bat, menh, suu, mui) → `60-phu/ta-huu-dong-cung-phi-la-y-tu.md`
+- `ta-huu-dong-cung-ton-cu-van-thua` (ta-phu, huu-bat, menh, tuat) → `60-phu/ta-huu-dong-cung-ton-cu-van-thua.md`
+- `ta-huu-giap-menh-vi-quy-cach-tb` (ta-phu, huu-bat, menh) → `60-phu/ta-huu-giap-menh-vi-quy-cach-tb.md`
+- `ta-huu-khoi-viet-u-phuc-tho` (ta-phu, huu-bat, thien-khoi, thien-viet, menh) → `60-phu/ta-huu-khoi-viet-u-phuc-tho.md`
+- `ta-huu-kinh-duong-tao-hinh-luc` (ta-phu, huu-bat, kinh-duong, menh) → `60-phu/ta-huu-kinh-duong-tao-hinh-luc.md`
+- `ta-phu-huu-bat-chung-than-phuc-hau` (ta-phu, huu-bat, menh) → `60-phu/ta-phu-huu-bat-chung-than-phuc-hau.md`
+- `nam-nhan-tang-ho-huu-tai-uyen-bac` (tang-mon, bach-ho, menh, nam-menh) → `60-phu/nam-nhan-tang-ho-huu-tai-uyen-bac.md`
+- `nguyet-dieu-thien-luong-nu-dam-ban` (thai-am, thien-luong, menh, ham-dia, nu-menh) → `60-phu/nguyet-dieu-thien-luong-nu-dam-ban.md`
+- `nguyet-lang-thien-mon-u-hoi-dia-dang-van-chap-chuong-dai-quyen` (thai-am, menh, hoi) → `60-phu/nguyet-lang-thien-mon-u-hoi-dia-dang-van-chap-chuong-dai-quyen.md`
+- `thai-am-cu-ty-binh-dinh-phu-quy-trung-luong` (thai-am, menh, ty) → `60-phu/thai-am-cu-ty-binh-dinh-phu-quy-trung-luong.md`
+- `thai-am-cu-ty-thuy-dang-que-ngac-dac-thanh-yeu-chi-chuc` (thai-am, menh, ty) → `60-phu/thai-am-cu-ty-thuy-dang-que-ngac-dac-thanh-yeu-chi-chuc.md`
+- `thai-am-duong-da-tat-chu-nhan-ly-tai-tan` (thai-am, kinh-duong, da-la, menh) → `60-phu/thai-am-duong-da-tat-chu-nhan-ly-tai-tan.md`
+- `thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong` (thai-am, vu-khuc, loc-ton, menh) → `60-phu/thai-am-vu-khuc-loc-ton-dong-ta-huu-tuong-phung-phu-quy-ong.md`
+- `cu-tai-hoi-cung-nhat-menh-ty-thuc-loc-tri-danh` (thai-duong, cu-mon, menh, ty, hoi) → `60-phu/cu-tai-hoi-cung-nhat-menh-ty-thuc-loc-tri-danh.md`
+- `cu-tai-ty-cung-nhat-menh-hoi-phan-vi-bat-gia` (thai-duong, cu-mon, menh, hoi, ty) → `60-phu/cu-tai-ty-cung-nhat-menh-hoi-phan-vi-bat-gia.md`
+- `duong-am-thin-tuat-nhat-nguyet-bach-cung-nhuoc-vo-minh` (thai-duong, thai-am, menh, thin, tuat, tuan-triet) → `60-phu/duong-am-thin-tuat-nhat-nguyet-bach-cung-nhuoc-vo-minh.md`
+- `nguyet-nhat-dong-mui-menh-an-suu-hau-ba-chi-tai` (thai-duong, thai-am, menh, suu, mui) → `60-phu/nguyet-nhat-dong-mui-menh-an-suu-hau-ba-chi-tai.md`
+- `nhat-cu-hoi-dia-nhat-tram-thuy-de` (thai-duong, menh, hoi) → `60-phu/nhat-cu-hoi-dia-nhat-tram-thuy-de.md`
+- `nhat-ham-xung-phung-ac-sat-lao-luc-bon-ba` (thai-duong, menh, ham-dia) → `60-phu/nhat-ham-xung-phung-ac-sat-lao-luc-bon-ba.md`
+- `nhat-lac-nhan-cung-sac-thieu-xuan-dung` (thai-duong, menh) → `60-phu/nhat-lac-nhan-cung-sac-thieu-xuan-dung.md`
+- `nhat-mao-nguyet-hoi-mui-cung-menh-da-chiet-que` (thai-duong, thai-am, menh, mui, mao, hoi) → `60-phu/nhat-mao-nguyet-hoi-mui-cung-menh-da-chiet-que.md`
+- `nhat-nguyet-giap-menh-bat-quyen-tac-phu` (thai-duong, thai-am, menh, suu, mui) → `60-phu/nhat-nguyet-giap-menh-bat-quyen-tac-phu.md`
+- `nhat-nguyet-khoa-loc-suu-cung-dinh-thi-cong-khanh` (thai-duong, thai-am, menh, suu) → `60-phu/nhat-nguyet-khoa-loc-suu-cung-dinh-thi-cong-khanh.md`
+- `nhat-nguyet-menh-than-cu-suu-mui-tam-phuong-vo-cat-phan-vi-hung` (thai-duong, thai-am, menh, than-cung, suu, mui) → `60-phu/nhat-nguyet-menh-than-cu-suu-mui-tam-phuong-vo-cat-phan-vi-hung.md`
+- `nhat-nguyet-nhi-chieu-hu-khong-hoc-nhat-nhi-thap` (thai-duong, thai-am, menh, vo-chinh-dieu) → `60-phu/nhat-nguyet-nhi-chieu-hu-khong-hoc-nhat-nhi-thap.md`
+- `nhat-nguyet-sat-hoi-nam-da-gian-dao-nu-da-dam` (thai-duong, thai-am, menh, ham-dia) → `60-phu/nhat-nguyet-sat-hoi-nam-da-gian-dao-nu-da-dam.md`
+- `nhat-nguyet-suu-mui-ai-ngo-tuan-khong-van-tat-thuong-cach` (thai-duong, thai-am, menh, suu, mui, tuan-triet) → `60-phu/nhat-nguyet-suu-mui-ai-ngo-tuan-khong-van-tat-thuong-cach.md`
+- `nhat-nguyet-suu-mui-am-duong-hon-hop-tu-giam-quang-huy` (thai-duong, thai-am, menh, suu, mui) → `60-phu/nhat-nguyet-suu-mui-am-duong-hon-hop-tu-giam-quang-huy.md`
+- `nhat-nguyet-thu-menh-bat-nhu-chieu-hop-tinh-minh` (thai-duong, thai-am, menh, suu, mui, ty, dau, hoi) → `60-phu/nhat-nguyet-thu-menh-bat-nhu-chieu-hop-tinh-minh.md`
+- `nhat-nguyet-tinh-minh-ta-cuu-trung-kim-dien` (thai-duong, thai-am, menh, suu, mao, hoi) → `60-phu/nhat-nguyet-tinh-minh-ta-cuu-trung-kim-dien.md`
+- `nhat-nguyet-tinh-tranh-quang-quyen-loc-phi-tan` (thai-duong, thai-am, menh, thin, tuat) → `60-phu/nhat-nguyet-tinh-tranh-quang-quyen-loc-phi-tan.md`
+- `nhat-nguyet-vo-minh-nhi-phung-rieu-da-ky-kiep-kinh-tat-nguyen-luong-muc` (thai-duong, thai-am, menh, ham-dia) → `60-phu/nhat-nguyet-vo-minh-nhi-phung-rieu-da-ky-kiep-kinh-tat-nguyen-luong-muc.md`
+- `nhat-tai-mui-than-menh-vi-vi-nhan-tien-can-hau-lan` (thai-duong, mui, than, menh) → `60-phu/nhat-tai-mui-than-menh-vi-vi-nhan-tien-can-hau-lan.md`
+- `nhat-tai-ty-cung-nhat-my-huy-thien-kiem-lai-loc-ma` (thai-duong, menh, ty) → `60-phu/nhat-tai-ty-cung-nhat-my-huy-thien-kiem-lai-loc-ma.md`
+- `nhat-ty-nguyet-suu-cung-menh-bo-thiem-cung` (thai-duong, thai-am, menh, suu, ty, dau) → `60-phu/nhat-ty-nguyet-suu-cung-menh-bo-thiem-cung.md`
+- `nhat-xuat-loi-mon-phu-quy-vinh-hoa` (thai-duong, mao, menh) → `60-phu/nhat-xuat-loi-mon-phu-quy-vinh-hoa.md`
+- `nu-menh-doan-chinh-thai-duong-tinh-tao-ngo-hien-phu` (thai-duong, menh, nu-menh) → `60-phu/nu-menh-doan-chinh-thai-duong-tinh-tao-ngo-hien-phu.md`
+- `tam-hop-minh-chau-sinh-vuong-dia-an-bo-thiem-cung` (thai-duong, thai-am, menh) → `60-phu/tam-hop-minh-chau-sinh-vuong-dia-an-bo-thiem-cung.md`
+- `thai-duong-cu-ngo-canh-tan-dinh-ky-nhan-phu-quy-song-toan` (thai-duong, ngo, menh) → `60-phu/thai-duong-cu-ngo-canh-tan-dinh-ky-nhan-phu-quy-song-toan.md`
+- `thai-duong-cu-ngo-nhat-le-trung-thien` (thai-duong, ngo, menh) → `60-phu/thai-duong-cu-ngo-nhat-le-trung-thien.md`
+- `thai-duong-cu-ty-binh-dinh-phu-quy-trung-luong` (thai-duong, ty, menh) → `60-phu/thai-duong-cu-ty-binh-dinh-phu-quy-trung-luong.md`
+- `thai-duong-hoa-ky-huu-muc-hoan-thuong` (thai-duong, hoa-ky, menh) → `60-phu/thai-duong-hoa-ky-huu-muc-hoan-thuong.md`
+- `dan-than-nhi-hoi-tham-liem-ngo-van-xuong-nhap-lao-quan-trong` (tham-lang, liem-trinh, van-xuong, menh, dan, than-cung) → `60-phu/dan-than-nhi-hoi-tham-liem-ngo-van-xuong-nhap-lao-quan-trong.md`
+- `nu-menh-tham-lang-da-tat-do` (tham-lang, menh, nu-menh) → `60-phu/nu-menh-tham-lang-da-tat-do.md`
+- `tham-cu-doai-chan-thoat-tuc-vi-tang` (tham-lang, menh, dau, mao) → `60-phu/tham-cu-doai-chan-thoat-tuc-vi-tang.md`
+- `tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh` (tham-lang, menh, ty, tuan-triet) → `60-phu/tham-cu-ty-thu-thiet-vo-nghi-ngo-tuan-triet-tat-vi-doan-chinh.md`
+- `tham-dao-tai-nhan-cung-nu-menh-doc-phu-chi-nhan` (tham-lang, dao-hoa, menh, nu-menh, tuan-triet, ham-dia) → `60-phu/tham-dao-tai-nhan-cung-nu-menh-doc-phu-chi-nhan.md`
+- `tham-lang-da-la-tai-dan-cung-phong-luu-thai-trong` (tham-lang, da-la, menh, dan) → `60-phu/tham-lang-da-la-tai-dan-cung-phong-luu-thai-trong.md`
+- `tham-lang-gia-cat-toa-trang-sinh-tho-khao-vinh-nhu-banh-to` (tham-lang, menh, dan, than-cung) → `60-phu/tham-lang-gia-cat-toa-trang-sinh-tho-khao-vinh-nhu-banh-to.md`
+- `tham-lang-gia-sat-dong-cung-nu-thau-huong-nam-thu-thiet` (tham-lang, menh, ham-dia) → `60-phu/tham-lang-gia-sat-dong-cung-nu-thau-huong-nam-thu-thiet.md`
+- `tham-lang-ham-dia-tac-tru-nhan` (tham-lang, menh, ham-dia) → `60-phu/tham-lang-ham-dia-tac-tru-nhan.md`
+- `tham-lang-hoa-tinh-cu-mieu-vuong-danh-tran-chu-bang` (tham-lang, hoa-tinh, menh) → `60-phu/tham-lang-hoa-tinh-cu-mieu-vuong-danh-tran-chu-bang.md`
+- `tham-lang-hoi-sat-vo-cat-dieu-do-te-chi-nhan` (tham-lang, menh, ham-dia) → `60-phu/tham-lang-hoi-sat-vo-cat-dieu-do-te-chi-nhan.md`
+- `tham-lang-hoi-ty-hanh-phung-quyen-vuong-bien-hu-thanh-thuc` (tham-lang, hoa-quyen, menh, hoi, ty) → `60-phu/tham-lang-hoi-ty-hanh-phung-quyen-vuong-bien-hu-thanh-thuc.md`
+- `tham-lang-ky-ngo-sat-tinh-uu-am-khong-kiep` (tham-lang, hoa-ky, menh) → `60-phu/tham-lang-ky-ngo-sat-tinh-uu-am-khong-kiep.md`
+- `tham-lang-liem-trinh-dong-do-nam-lang-dang-nu-da-dam` (tham-lang, liem-trinh, menh) → `60-phu/tham-lang-liem-trinh-dong-do-nam-lang-dang-nu-da-dam.md`
+- `tham-lang-ngo-hoa-linh-tu-mo-cung-hao-phu-gia-tu` (tham-lang, hoa-tinh, linh-tinh, menh, tu-mo) → `60-phu/tham-lang-ngo-hoa-linh-tu-mo-cung-hao-phu-gia-tu.md`
+- `tham-lang-nhap-mieu-tho-nguyen-thoi` (tham-lang, menh) → `60-phu/tham-lang-nhap-mieu-tho-nguyen-thoi.md`
+- `tham-lang-ty-hoi-bat-vi-do-thi-diec-tao-hinh` (tham-lang, menh, ty, hoi) → `60-phu/tham-lang-ty-hoi-bat-vi-do-thi-diec-tao-hinh.md`
+- `tham-lang-ty-ngo-mao-dau-thu-thiet-cau-than` (tham-lang, menh, ty, ngo, mao, dau) → `60-phu/tham-lang-ty-ngo-mao-dau-thu-thiet-cau-than.md`
+- `tham-lang-vu-khuc-dong-thu-than-vo-cat-menh-phan-bat-tuong` (tham-lang, vu-khuc, menh, suu, mui) → `60-phu/tham-lang-vu-khuc-dong-thu-than-vo-cat-menh-phan-bat-tuong.md`
+- `tham-liem-can-thuong-van-lap-vo-phong` (tham-lang, liem-trinh, menh, hoi) → `60-phu/tham-liem-can-thuong-van-lap-vo-phong.md`
+- `tham-linh-tinh-thu-tuong-tuong-chi-danh` (tham-lang, linh-tinh, menh) → `60-phu/tham-linh-tinh-thu-tuong-tuong-chi-danh.md`
+- `tham-ngo-duong-da-cu-hoi-ty-danh-vi-phiem-thuy-dao-hoa` (tham-lang, kinh-duong, da-la, menh, hoi, ty) → `60-phu/tham-ngo-duong-da-cu-hoi-ty-danh-vi-phiem-thuy-dao-hoa.md`
+- `tham-sat-ngo-dan-kiem-ngo-ho-tang-loi-thu-nan-de` (tham-lang, menh, ngo, dan) → `60-phu/tham-sat-ngo-dan-kiem-ngo-ho-tang-loi-thu-nan-de.md`
+- `tham-toa-thuy-cung-giap-bien-tu-sat-ban-kho-chung-than` (tham-lang, menh, hoi, ty) → `60-phu/tham-toa-thuy-cung-giap-bien-tu-sat-ban-kho-chung-than.md`
+- `tham-tu-toa-nhi-phung-hoa-ky-dao-ngoai-hanh-thuong` (tham-lang, hoa-ky, menh) → `60-phu/tham-tu-toa-nhi-phung-hoa-ky-dao-ngoai-hanh-thuong.md`
+- `tham-vu-dong-hanh-van-canh-bien-di-than-phuc` (tham-lang, vu-khuc, menh, suu, mui) → `60-phu/tham-vu-dong-hanh-van-canh-bien-di-than-phuc.md`
+- `tham-vu-mo-trung-cu-tam-thap-tong-phat-phuc` (tham-lang, vu-khuc, menh, tu-mo) → `60-phu/tham-vu-mo-trung-cu-tam-thap-tong-phat-phuc.md`
+- `tham-vu-pha-quan-vo-cat-dieu-me-luyen-tuu-sac-di-vong-than` (tham-lang, vu-khuc, pha-quan, menh) → `60-phu/tham-vu-pha-quan-vo-cat-dieu-me-luyen-tuu-sac-di-vong-than.md`
+- `tham-vu-than-cung-vi-ha-cach` (tham-lang, vu-khuc, than-cung, tu-mo) → `60-phu/tham-vu-than-cung-vi-ha-cach.md`
+- `tham-vu-tien-ban-nhi-hau-phu` (tham-lang, vu-khuc, menh, suu, mui) → `60-phu/tham-vu-tien-ban-nhi-hau-phu.md`
+- `tham-vu-tu-sinh-tu-mo-cung-pha-quan-ky-sat-tinh-bach-cong-thong` (tham-lang, vu-khuc, pha-quan, menh, tu-sinh, tu-mo) → `60-phu/tham-vu-tu-sinh-tu-mo-cung-pha-quan-ky-sat-tinh-bach-cong-thong.md`
+- `tham-xuong-cu-menh-phan-cot-tuy-si` (tham-lang, van-xuong, menh) → `60-phu/tham-xuong-cu-menh-phan-cot-tuy-si.md`
+- `sat-cu-ly-kham-nam-nhan-the-hien-da-hoi` (that-sat, menh, ngo, ty) → `60-phu/sat-cu-ly-kham-nam-nhan-the-hien-da-hoi.md`
+- `sat-hinh-hoi-long-than-dinh-giang` (that-sat, thien-hinh, menh) → `60-phu/sat-hinh-hoi-long-than-dinh-giang.md`
+- `sat-hinh-toa-cung-liem-truc-vo-tu` (that-sat, thien-hinh, menh) → `60-phu/sat-hinh-toa-cung-liem-truc-vo-tu.md`
+- `sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu` (that-sat, kinh-duong, menh, ngo) → `60-phu/sat-kinh-tai-ngo-ma-dau-doi-kiem-tuong-giao-sat-dieu.md`
+- `sat-lam-tuyet-dia-hoi-duong-da-nhan-hoi-yeu-chiet` (that-sat, kinh-duong, da-la, menh) → `60-phu/sat-lam-tuyet-dia-hoi-duong-da-nhan-hoi-yeu-chiet.md`
+- `sat-liem-suu-mui-at-ky-am-nam-anh-hung-tri-dung` (that-sat, liem-trinh, menh, suu, mui) → `60-phu/sat-liem-suu-mui-at-ky-am-nam-anh-hung-tri-dung.md`
+- `sat-pha-tham-tai-nu-menh-nhi-ngo-van-xuong-tan-dinh-tue-suong-phu-chi-nhan` (that-sat, pha-quan, tham-lang, van-xuong, menh, nu-menh) → `60-phu/sat-pha-tham-tai-nu-menh-nhi-ngo-van-xuong-tan-dinh-tue-suong-phu-chi-nhan.md`
+- `sat-tu-ton-cung-de-hue-bao-kiem` (that-sat, tu-vi, menh, ty) → `60-phu/sat-tu-ton-cung-de-hue-bao-kiem.md`
+- `that-sat-dan-than-ty-ngo-nhat-sinh-tuoc-loc-vinh-xuong` (that-sat, menh, dan, than-cung, ty, ngo) → `60-phu/that-sat-dan-than-ty-ngo-nhat-sinh-tuoc-loc-vinh-xuong.md`
+- `that-sat-hoa-duong-ban-tha-tien-do-te-chi-nhan` (that-sat, hoa-tinh, kinh-duong, menh, ham-dia) → `60-phu/that-sat-hoa-duong-ban-tha-tien-do-te-chi-nhan.md`
+- `that-sat-lam-than-chung-thi-yeu` (that-sat, than-cung) → `60-phu/that-sat-lam-than-chung-thi-yeu.md`
+- `that-sat-liem-trinh-dong-vi-lo-thuong-mai-thi` (that-sat, liem-trinh, menh, suu, mui) → `60-phu/that-sat-liem-trinh-dong-vi-lo-thuong-mai-thi.md`
+- `that-sat-pha-quan-nghi-xuat-ngoai-chu-ban-thu-nghe-bat-nang-tinh` (that-sat, pha-quan, menh, ham-dia) → `60-phu/that-sat-pha-quan-nghi-xuat-ngoai-chu-ban-thu-nghe-bat-nang-tinh.md`
+- `that-sat-trung-phung-tu-sat-yeu-da-boi-khuc-tran-trung-vong` (that-sat, menh) → `60-phu/that-sat-trung-phung-tu-sat-yeu-da-boi-khuc-tran-trung-vong.md`
+- `co-luong-dong-chieu-menh-than-khong-vi-tang-dao` (thien-co, thien-luong, menh, than-cung, tuan-triet) → `60-phu/co-luong-dong-chieu-menh-than-khong-vi-tang-dao.md`
+- `co-luong-hoi-hop-thien-dam-binh-cu-tuat-diec-vi-my-luan` (thien-co, thien-luong, menh, thin, tuat) → `60-phu/co-luong-hoi-hop-thien-dam-binh-cu-tuat-diec-vi-my-luan.md`
+- `co-luong-thu-menh-gia-cat-dieu-phu-quy-song-toan` (thien-co, thien-luong, menh, thin, tuat) → `60-phu/co-luong-thu-menh-gia-cat-dieu-phu-quy-song-toan.md`
+- `co-luong-tu-sat-tuong-quan-xung-vu-khach-tang-luu` (thien-co, thien-luong, menh, thin, tuat) → `60-phu/co-luong-tu-sat-tuong-quan-xung-vu-khach-tang-luu.md`
+- `co-nguyet-can-khon-nhi-hoi-xuong-rieu-thi-tu-dam-tang` (thien-co, thai-am, menh, dan, than) → `60-phu/co-nguyet-can-khon-nhi-hoi-xuong-rieu-thi-tu-dam-tang.md`
+- `co-nguyet-dong-luong-tac-lai-nhan` (thien-co, thai-am, thien-dong, thien-luong, menh) → `60-phu/co-nguyet-dong-luong-tac-lai-nhan.md`
+- `co-vien-phu-tinh-tu-tam` (thien-co, menh) → `60-phu/co-vien-phu-tinh-tu-tam.md`
+- `thien-am-trieu-cuong-nhan-tu-chi-truong` (thien-co, thien-luong, menh, thin, tuat) → `60-phu/thien-am-trieu-cuong-nhan-tu-chi-truong.md`
+- `thien-co-gia-ac-sat-dong-cung-can-than-thu-thiet` (thien-co, menh) → `60-phu/thien-co-gia-ac-sat-dong-cung-can-than-thu-thiet.md`
+- `dan-than-toi-hy-dong-luong-hoi` (thien-dong, thien-luong, dan, than, menh) → `60-phu/dan-than-toi-hy-dong-luong-hoi.md`
+- `dong-am-tai-ty-nguyet-lang-thien-mon-dung-nhan-my-ai` (thien-dong, thai-am, bach-ho, thien-khoc, thien-rieu, tang-mon, ty, menh) → `60-phu/dong-am-tai-ty-nguyet-lang-thien-mon-dung-nhan-my-ai.md`
+- `dong-luong-vien-ngo-khoi-quyen-tang-phung-linh-ky-giao-lai-song-loc` (thien-dong, thien-luong, thien-khoi, hoa-quyen, linh-tinh, hoa-ky, loc-ton, hoa-loc, menh) → `60-phu/dong-luong-vien-ngo-khoi-quyen-tang-phung-linh-ky-giao-lai-song-loc.md`
+- `dong-nguyet-duong-cu-ngo-vi-binh-mau-tran-ngu-bien-cuong` (thien-dong, thai-am, kinh-duong, ngo, menh) → `60-phu/dong-nguyet-duong-cu-ngo-vi-binh-mau-tran-ngu-bien-cuong.md`
+- `dong-nguyet-ham-cung-gia-sat-trong-ky-nghe-doanh-thuong` (thien-dong, thai-am, ngo, menh) → `60-phu/dong-nguyet-ham-cung-gia-sat-trong-ky-nghe-doanh-thuong.md`
+- `phuc-dieu-phung-viet-dieu-dinh-thi-hai-ha-duc-tu` (thien-dong, thien-viet, menh) → `60-phu/phuc-dieu-phung-viet-dieu-dinh-thi-hai-ha-duc-tu.md`
+- `thien-dong-hoi-cat-tho-nguyen-thoi` (thien-dong, menh) → `60-phu/thien-dong-hoi-cat-tho-nguyen-thoi.md`
+- `thien-dong-nhap-menh-hoan-cai-vo-thuong` (thien-dong, menh) → `60-phu/thien-dong-nhap-menh-hoan-cai-vo-thuong.md`
+- `thien-dong-tuat-cung-hoa-ky-dinh-nhan-menh-ngo-phai-vi-giai` (thien-dong, hoa-ky, tuat, menh) → `60-phu/thien-dong-tuat-cung-hoa-ky-dinh-nhan-menh-ngo-phai-vi-giai.md`
+- `thien-dong-tuat-cung-vi-phan-boi-dinh-nhan-hoa-cat-chu-dai-quy` (thien-dong, tuat, menh) → `60-phu/thien-dong-tuat-cung-vi-phan-boi-dinh-nhan-hoa-cat-chu-dai-quy.md`
+- `hu-kinh-tue-khach-gia-lam-man-the-da-phung-tang-su` (thien-hu, kinh-duong, thai-tue, thien-khach, menh) → `60-phu/hu-kinh-tue-khach-gia-lam-man-the-da-phung-tang-su.md`
+- `khoc-hu-ty-ngo-tien-ban-hau-phu` (thien-khoc, thien-hu, ty, ngo, menh) → `60-phu/khoc-hu-ty-ngo-tien-ban-hau-phu.md`
+- `khoc-khach-kiep-phu-mac-ngo-cu-duong-chung-than-da-le` (thien-khoc, thien-khach, dia-kiep, thien-phu, cu-mon, thai-duong, menh) → `60-phu/khoc-khach-kiep-phu-mac-ngo-cu-duong-chung-than-da-le.md`
+- `giap-quy-giap-loc-thieu-nhan-tri` (thien-khoi, thien-viet, loc-ton, menh) → `60-phu/giap-quy-giap-loc-thieu-nhan-tri.md`
+- `khoi-tinh-giap-menh-vi-ky-cach` (thien-khoi, thien-viet, menh) → `60-phu/khoi-tinh-giap-menh-vi-ky-cach.md`
+- `khoi-tinh-lam-menh-vi-chi-tam-thai` (thien-khoi, tu-vi, menh, ngo) → `60-phu/khoi-tinh-lam-menh-vi-chi-tam-thai.md`
+- `khoi-viet-phu-tinh-vi-phuc-tho` (thien-khoi, thien-viet, menh) → `60-phu/khoi-viet-phu-tinh-vi-phuc-tho.md`
+- `khoi-viet-tai-menh-than-nhu-chiet-que` (thien-khoi, thien-viet, menh, than-cung) → `60-phu/khoi-viet-tai-menh-than-nhu-chiet-que.md`
+- `khoi-viet-tai-menh-than-vi-truong-tu` (thien-khoi, thien-viet, menh, than-cung) → `60-phu/khoi-viet-tai-menh-than-vi-truong-tu.md`
+- `khoi-viet-trung-phung-sat-co-tat-vuu-da` (thien-khoi, thien-viet, menh) → `60-phu/khoi-viet-trung-phung-sat-co-tat-vuu-da.md`
+- `khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy` (thien-khoi, thien-viet, van-xuong, van-khuc, loc-ton, menh) → `60-phu/khoi-viet-xuong-khuc-loc-ton-hinh-sat-vo-xung-dai-phu-quy.md`
+- `thien-khoi-thien-viet-tai-the-van-chuong` (thien-khoi, thien-viet, menh) → `60-phu/thien-khoi-thien-viet-tai-the-van-chuong.md`
+- `am-phuc-tai-menh-an-ngu-bat-phung-tai-uong` (thien-luong, thien-dong, menh, than-cung) → `60-phu/am-phuc-tai-menh-an-ngu-bat-phung-tai-uong.md`
+- `luong-dong-co-nguyet-dan-than-vi-nhat-sinh-loi-nghiep-thong-minh` (thien-luong, thien-dong, thien-co, thai-am, menh, dan, than-cung) → `60-phu/luong-dong-co-nguyet-dan-than-vi-nhat-sinh-loi-nghiep-thong-minh.md`
+- `luong-dong-ty-hoi-nam-da-lang-dang-nu-da-dam` (thien-luong, thien-dong, menh, ty, hoi) → `60-phu/luong-dong-ty-hoi-nam-da-lang-dang-nu-da-dam.md`
+- `luong-nhat-mao-cung-nhat-xuat-phu-tang-dung-mao-phuong-vien` (thien-luong, thai-duong, menh, mao) → `60-phu/luong-nhat-mao-cung-nhat-xuat-phu-tang-dung-mao-phuong-vien.md`
+- `luong-phung-hao-sat-tai-cung-dao-thuong-hinh-thuong` (thien-luong, menh, ty) → `60-phu/luong-phung-hao-sat-tai-cung-dao-thuong-hinh-thuong.md`
+- `luong-tu-am-linh-nghi-ta-dong-luong-chi-khach` (thien-luong, thai-am, linh-tinh, menh) → `60-phu/luong-tu-am-linh-nghi-ta-dong-luong-chi-khach.md`
+- `thien-luong-cu-ngo-vi-quan-tu-thanh-hien-trieu-dinh` (thien-luong, menh, ngo) → `60-phu/thien-luong-cu-ngo-vi-quan-tu-thanh-hien-trieu-dinh.md`
+- `thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam` (thien-luong, thien-ma, menh, ty, hoi, nu-menh) → `60-phu/thien-luong-ngo-ma-nu-menh-tien-nhi-thu-dam.md`
+- `thien-luong-thai-am-khuoc-tac-phieu-bong-chi-khach` (thien-luong, thai-am, menh, ham-dia) → `60-phu/thien-luong-thai-am-khuoc-tac-phieu-bong-chi-khach.md`
+- `thien-luong-thai-duong-xuong-loc-hoi-lo-truyen-de-nhat-danh` (thien-luong, thai-duong, van-xuong, loc-ton, menh, ty, ngo) → `60-phu/thien-luong-thai-duong-xuong-loc-hoi-lo-truyen-de-nhat-danh.md`
+- `thien-luong-thien-ma-vi-nhan-phieu-dang-vo-nghi` (thien-luong, thien-ma, menh, ty, hoi) → `60-phu/thien-luong-thien-ma-vi-nhan-phieu-dang-vo-nghi.md`
+- `thien-luong-thu-chieu-cat-tuong-phung` (thien-luong, menh) → `60-phu/thien-luong-thu-chieu-cat-tuong-phung.md`
+- `thien-luong-van-xuong-cu-mieu-vuong-vi-chi-cong-khanh` (thien-luong, van-xuong, menh) → `60-phu/thien-luong-van-xuong-cu-mieu-vuong-vi-chi-cong-khanh.md`
+- `dan-moc-phu-vi-huu-hoi-tam-ky-kinh-bat-cu-lai-an-ngu` (thien-phu, thien-tuong, menh, than-cung, dan) → `60-phu/dan-moc-phu-vi-huu-hoi-tam-ky-kinh-bat-cu-lai-an-ngu.md`
+- `nam-thien-phu-giao-long-vang-uyen` (thien-phu, menh, nam-menh) → `60-phu/nam-thien-phu-giao-long-vang-uyen.md`
+- `phu-tuong-dong-lai-hoi-menh-cung-toan-gia-thuc-loc` (thien-phu, thien-tuong, menh) → `60-phu/phu-tuong-dong-lai-hoi-menh-cung-toan-gia-thuc-loc.md`
+- `phu-vu-ty-cung-giap-dinh-nhan-toa-phuc-vuong-danh-ba` (thien-phu, vu-khuc, menh, ty) → `60-phu/phu-vu-ty-cung-giap-dinh-nhan-toa-phuc-vuong-danh-ba.md`
+- `thien-phu-cu-ngo-tuat-thien-tuong-lai-trieu-giap-nhan-nhat-pham-chi-quy` (thien-phu, thien-tuong, menh, ngo, tuat) → `60-phu/thien-phu-cu-ngo-tuat-thien-tuong-lai-trieu-giap-nhan-nhat-pham-chi-quy.md`
+- `thien-phu-lam-tuat-huu-tinh-phu-phu-quy-song-toan` (thien-phu, menh, tuat) → `60-phu/thien-phu-lam-tuat-huu-tinh-phu-phu-quy-song-toan.md`
+- `thien-phu-on-luong` (thien-phu, menh) → `60-phu/thien-phu-on-luong.md`
+- `thien-phu-thien-tuong-thien-luong-dong-quan-than-khanh-hoi` (thien-phu, thien-tuong, thien-luong, menh) → `60-phu/thien-phu-thien-tuong-thien-luong-dong-quan-than-khanh-hoi.md`
+- `thien-phu-tuat-cung-vo-sat-tau-giap-ky-nhan-hoanh-phat-danh-tai` (thien-phu, menh, tuat) → `60-phu/thien-phu-tuat-cung-vo-sat-tau-giap-ky-nhan-hoanh-phat-danh-tai.md`
+- `thien-phu-xuong-khuc-loc-ton-cu-van-chi-tu` (thien-phu, loc-ton, menh) → `60-phu/thien-phu-xuong-khuc-loc-ton-cu-van-chi-tu.md`
+- `thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh` (thien-phu, menh) → `60-phu/thien-phu-xuong-khuc-ta-huu-cao-de-an-vinh.md`
+- `nu-tuong-tinh-tuong-can-nhu-manh-hung` (thien-tuong, menh, nu-menh) → `60-phu/nu-tuong-tinh-tuong-can-nhu-manh-hung.md`
+- `thien-tuong-chi-tinh-nu-menh-trieu-tat-duong-tu-quy-cap-phu-hien` (thien-tuong, menh, nu-menh) → `60-phu/thien-tuong-chi-tinh-nu-menh-trieu-tat-duong-tu-quy-cap-phu-hien.md`
+- `thien-tuong-liem-trinh-kinh-duong-giap-hinh-truong-nan-dao` (thien-tuong, liem-trinh, kinh-duong, menh, ty, ngo) → `60-phu/thien-tuong-liem-trinh-kinh-duong-giap-hinh-truong-nan-dao.md`
+- `thien-tuong-thin-tuat-khoi-thi-cong-danh` (thien-tuong, menh, thin, tuat) → `60-phu/thien-tuong-thin-tuat-khoi-thi-cong-danh.md`
+- `tuong-hong-nu-menh-quy-nhan-hao-phoi` (thien-tuong, dao-hoa, menh, nu-menh) → `60-phu/tuong-hong-nu-menh-quy-nhan-hao-phoi.md`
+- `tuong-ngo-khuc-moc-cai-dao-thuan-tuoc-dam-phong` (thien-tuong, dao-hoa, menh, nu-menh) → `60-phu/tuong-ngo-khuc-moc-cai-dao-thuan-tuoc-dam-phong.md`
+- `de-toa-la-vong-hoan-vi-phi-nghia-chi-nhan` (tu-vi, menh, thin, tuat) → `60-phu/de-toa-la-vong-hoan-vi-phi-nghia-chi-nhan.md`
+- `tu-loc-dong-cung-phu-bat-chieu-quy-bat-kha-ngon` (tu-vi, loc-ton, ta-phu, huu-bat, menh) → `60-phu/tu-loc-dong-cung-phu-bat-chieu-quy-bat-kha-ngon.md`
+- `tu-phu-giap-menh-vi-quy-cach` (tu-vi, thien-phu, menh) → `60-phu/tu-phu-giap-menh-vi-quy-cach.md`
+- `tu-phu-trieu-vien-thuc-loc-van-chung` (tu-vi, thien-phu, menh) → `60-phu/tu-phu-trieu-vien-thuc-loc-van-chung.md`
+- `tu-vi-cu-ngo-vo-hinh-ky-giap-dinh-ky-vi-chi-cong-khanh` (tu-vi, menh, ngo) → `60-phu/tu-vi-cu-ngo-vo-hinh-ky-giap-dinh-ky-vi-chi-cong-khanh.md`
+- `tu-vi-cu-ty-ngo-khoa-quyen-loc-chieu-toi-vi-ky` (tu-vi, tu-hoa, ty, ngo, menh) → `60-phu/tu-vi-cu-ty-ngo-khoa-quyen-loc-chieu-toi-vi-ky.md`
+- `tu-vi-mac-phung-kiep-khong-hong-dao-nhap-menh-giam-tho` (tu-vi, dia-kiep, dia-khong, hong-loan, dao-hoa, menh) → `60-phu/tu-vi-mac-phung-kiep-khong-hong-dao-nhap-menh-giam-tho.md`
+- `tu-vi-nam-hoi-nu-dan-cung-nham-giap-sinh-nhan-phu-quy-dong` (tu-vi, menh, hoi, dan) → `60-phu/tu-vi-nam-hoi-nu-dan-cung-nham-giap-sinh-nhan-phu-quy-dong.md`
+- `tu-vi-phu-bat-dong-cung-nhat-ho-ba-nac-cu-thuong-pham` (tu-vi, ta-phu, huu-bat, menh) → `60-phu/tu-vi-phu-bat-dong-cung-nhat-ho-ba-nac-cu-thuong-pham.md`
+- `tu-vi-quyen-loc-ngo-duong-da-tuy-my-cat-nhi-vo-dao` (tu-vi, tu-hoa, kinh-duong, da-la, menh) → `60-phu/tu-vi-quyen-loc-ngo-duong-da-tuy-my-cat-nhi-vo-dao.md`
+- `tu-vi-tai-nang` (tu-vi, vu-khuc, menh) → `60-phu/tu-vi-tai-nang.md`
+- `tu-vi-thien-tuong-than-phung-pha-kiem-ngo-vuong-kinh-da-muu-yem-tra` (tu-vi, thien-tuong, pha-quan, menh, than) → `60-phu/tu-vi-thien-tuong-than-phung-pha-kiem-ngo-vuong-kinh-da-muu-yem-tra.md`
+- `tu-vi-trung-hau` (tu-vi, menh) → `60-phu/tu-vi-trung-hau.md`
+- `tu-vi-tu-can-tam-hoa-nhuoc-phung-tu-sat-phong-bai-ha-hoa` (tu-vi, tu-hoa, kinh-duong, da-la, dia-khong, dia-kiep, menh) → `60-phu/tu-vi-tu-can-tam-hoa-nhuoc-phung-tu-sat-phong-bai-ha-hoa.md`
+- `tu-vi-vu-khuc-pha-quan-hoi-duong-da-khi-cong-danh-chi-nghi-kinh-thuong` (tu-vi, vu-khuc, pha-quan, kinh-duong, da-la, menh) → `60-phu/tu-vi-vu-khuc-pha-quan-hoi-duong-da-khi-cong-danh-chi-nghi-kinh-thuong.md`
+- `tu-vi-xuong-khuc-phu-quy-kha-ky` (tu-vi, van-xuong, van-khuc, menh) → `60-phu/tu-vi-xuong-khuc-phu-quy-kha-ky.md`
+- `nhi-khuc-trieu-vien-phung-ta-huu-tuong-tuong-chi-tai` (van-khuc, vu-khuc, ta-phu, huu-bat, menh) → `60-phu/nhi-khuc-trieu-vien-phung-ta-huu-tuong-tuong-chi-tai.md`
+- `nhi-khuc-vuong-cung-uy-danh-hach-dich` (van-khuc, vu-khuc, menh) → `60-phu/nhi-khuc-vuong-cung-uy-danh-hach-dich.md`
+- `duong-phi-hao-sac-thi-khuc-xuong` (van-xuong, van-khuc, menh, nu-menh) → `60-phu/duong-phi-hao-sac-thi-khuc-xuong.md`
+- `nu-nhan-xuong-khuc-thong-minh-phu-quy-chi-da-dam` (van-xuong, van-khuc, menh, nu-menh) → `60-phu/nu-nhan-xuong-khuc-thong-minh-phu-quy-chi-da-dam.md`
+- `ty-hoi-toa-que-hoa-phi-vinh-tac-phu` (van-xuong, van-khuc, menh, ty, hoi) → `60-phu/ty-hoi-toa-que-hoa-phi-vinh-tac-phu.md`
+- `van-que-van-hoa-cuu-trung-quy-hien` (van-xuong, van-khuc, menh) → `60-phu/van-que-van-hoa-cuu-trung-quy-hien.md`
+- `van-tinh-cung-chieu-gia-nghi-nien-thieu-dang-khoa` (van-xuong, van-khuc, khoi-viet, menh) → `60-phu/van-tinh-cung-chieu-gia-nghi-nien-thieu-dang-khoa.md`
+- `van-xuong-hoi-liem-trinh-chi-tang-menh-thien-nien` (van-xuong, liem-trinh, menh, suu, mui, ty, hoi, mao, dau) → `60-phu/van-xuong-hoi-liem-trinh-chi-tang-menh-thien-nien.md`
+- `van-xuong-ta-phu-vi-chi-tam-thai` (van-xuong, ta-phu, menh) → `60-phu/van-xuong-ta-phu-vi-chi-tam-thai.md`
+- `van-xuong-van-khuc-vi-nhan-da-hoc-da-nang-phu` (van-xuong, van-khuc, menh) → `60-phu/van-xuong-van-khuc-vi-nhan-da-hoc-da-nang-phu.md`
+- `van-xuong-vu-khuc-u-menh-than-van-vu-kiem-bi` (van-xuong, vu-khuc, menh, than-cung) → `60-phu/van-xuong-vu-khuc-u-menh-than-van-vu-kiem-bi.md`
+- `xuong-khuc-co-loc-thanh-tu-xao` (van-xuong, van-khuc, thien-co, loc-ton, menh) → `60-phu/xuong-khuc-co-loc-thanh-tu-xao.md`
+- `xuong-khuc-giap-menh-toi-vi-ky` (van-xuong, van-khuc, menh) → `60-phu/xuong-khuc-giap-menh-toi-vi-ky.md`
+- `xuong-khuc-giap-menh-xuat-ngoai-da-can-quy-nhan` (van-xuong, van-khuc, menh) → `60-phu/xuong-khuc-giap-menh-xuat-ngoai-da-can-quy-nhan.md`
+- `xuong-khuc-giap-nhat-quy-nhi-tha-hien` (van-xuong, van-khuc, thai-duong, menh) → `60-phu/xuong-khuc-giap-nhat-quy-nhi-tha-hien.md`
+- `xuong-khuc-liem-trinh-u-ty-hoi-vi-nhan-bat-thien-tao-hinh` (van-xuong, van-khuc, liem-trinh, menh, ty, hoi) → `60-phu/xuong-khuc-liem-trinh-u-ty-hoi-vi-nhan-bat-thien-tao-hinh.md`
+- `xuong-khuc-loc-ton-do-vi-ky-thi` (van-xuong, van-khuc, loc-ton, menh) → `60-phu/xuong-khuc-loc-ton-do-vi-ky-thi.md`
+- `xuong-khuc-luong-tinh-vi-chi-thai-cuong` (van-xuong, van-khuc, thien-luong, menh) → `60-phu/xuong-khuc-luong-tinh-vi-chi-thai-cuong.md`
+- `xuong-khuc-pha-quan-lam-ho-tho-sat-duong-xung-pha-bon-ba` (van-xuong, van-khuc, pha-quan, kinh-duong, menh, dan, mao) → `60-phu/xuong-khuc-pha-quan-lam-ho-tho-sat-duong-xung-pha-bon-ba.md`
+- `xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai` (van-xuong, van-khuc, pha-quan, menh) → `60-phu/xuong-khuc-pha-quan-phung-hinh-khac-da-lao-toai.md`
+- `xuong-khuc-suu-mui-giap-nhan-duong-nu-kiem-phung-hong-loc` (van-xuong, van-khuc, dao-hoa, loc-ton, menh, suu, mui, nu-menh) → `60-phu/xuong-khuc-suu-mui-giap-nhan-duong-nu-kiem-phung-hong-loc.md`
+- `xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi` (van-xuong, van-khuc, ta-phu, huu-bat, kinh-duong, da-la, menh) → `60-phu/xuong-khuc-ta-huu-hoi-duong-da-duong-sinh-di-chi.md`
+- `mao-cu-vu-sat-pha-liem-phong-moc-ap-loi-kinh` (vu-khuc, that-sat, pha-quan, liem-trinh, mao, menh) → `60-phu/mao-cu-vu-sat-pha-liem-phong-moc-ap-loi-kinh.md`
+- `tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung` (vu-khuc, tham-lang, dia-kiep, suu, mui, menh, than) → `60-phu/tien-ban-hau-phu-vu-tham-dong-menh-than-chi-cung.md`
+- `vu-khuc-cu-can-thuong-toi-pha-thai-am-phung-tham-lang` (vu-khuc, pha-quan, thai-am, tham-lang, hoi, menh) → `60-phu/vu-khuc-cu-can-thuong-toi-pha-thai-am-phung-tham-lang.md`
+- `vu-khuc-dan-than-nhi-ngo-loc-quyen-phu-gia-vuong-khai` (vu-khuc, hoa-loc, hoa-quyen, dan, than, menh) → `60-phu/vu-khuc-dan-than-nhi-ngo-loc-quyen-phu-gia-vuong-khai.md`
+- `vu-khuc-duong-da-kiem-qua-tu-vi-tien-nhan-nguy` (vu-khuc, kinh-duong, da-la, menh) → `60-phu/vu-khuc-duong-da-kiem-qua-tu-vi-tien-nhan-nguy.md`
+- `vu-khuc-khoi-viet-cu-mieu-vuong-tai-chuc-chi-quan` (vu-khuc, thien-khoi, thien-viet, menh) → `60-phu/vu-khuc-khoi-viet-cu-mieu-vuong-tai-chuc-chi-quan.md`
+- `vu-khuc-kiep-sat-hoi-kinh-duong-sat-nhan-bat-hieu-nhon` (vu-khuc, dia-kiep, kinh-duong, menh) → `60-phu/vu-khuc-kiep-sat-hoi-kinh-duong-sat-nhan-bat-hieu-nhon.md`
+- `vu-khuc-loc-ma-giao-tri-phat-tai-vien-quan` (vu-khuc, loc-ton, thien-ma, dan, than, menh) → `60-phu/vu-khuc-loc-ma-giao-tri-phat-tai-vien-quan.md`
+- `vu-khuc-mieu-vien-uy-danh-bach-hien` (vu-khuc, menh) → `60-phu/vu-khuc-mieu-vien-uy-danh-bach-hien.md`
+- `vu-khuc-nhan-cung-da-thu-nghe` (vu-khuc, menh) → `60-phu/vu-khuc-nhan-cung-da-thu-nghe.md`
+- `vu-khuc-pha-quan-pha-gia-lao-luc` (vu-khuc, pha-quan, menh) → `60-phu/vu-khuc-pha-quan-pha-gia-lao-luc.md`
+- `vu-khuc-van-khuc-vi-nhan-da-hoc-da-nang` (vu-khuc, van-khuc, menh) → `60-phu/vu-khuc-van-khuc-vi-nhan-da-hoc-da-nang.md`
+- `vu-khuc-vi-qua-tu` (vu-khuc, menh) → `60-phu/vu-khuc-vi-qua-tu.md`
+- `vu-pha-tuong-ngo-xuong-khuc-thong-minh-co-xao` (vu-khuc, pha-quan, van-xuong, van-khuc, menh) → `60-phu/vu-pha-tuong-ngo-xuong-khuc-thong-minh-co-xao.md`
+- `vu-pha-ty-hoi-tham-lan-bat-luong` (vu-khuc, pha-quan, ty, hoi, menh) → `60-phu/vu-pha-ty-hoi-tham-lan-bat-luong.md`
+- `vu-phung-pha-dieu-nan-bao-di-lai-san-nghiep` (vu-khuc, pha-quan, ty, hoi, menh) → `60-phu/vu-phung-pha-dieu-nan-bao-di-lai-san-nghiep.md`
