@@ -625,7 +625,19 @@
    "phu:tu-vi-xuong-khuc-phu-quy-kha-ky"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p03": [
-   "palace:menh-than:liem-trinh"
+   "palace:menh-than:liem-trinh",
+   "phu:liem-trinh-bach-ho-hinh-nguc-nan-dao",
+   "phu:liem-trinh-chu-ha-tien-co-han",
+   "phu:liem-trinh-mao-dau-gia-sat-cong-tu-vo-dien-quan-nhan",
+   "phu:liem-trinh-mao-dau-mac-ngo-kiep-kinh-tu-phong-hinh-nguc",
+   "phu:liem-trinh-nhap-mieu-hoi-tuong-quan-trong-do-uy-manh",
+   "phu:liem-trinh-pha-quan-hoa-tinh-cu-ham-dia-tu-ai-dau-ha",
+   "phu:liem-trinh-phung-van-que-canh-bon-ba",
+   "phu:liem-trinh-sat-tinh-cu-ty-hoi-luu-dang-thien-thai",
+   "phu:liem-trinh-than-mui-cung-vo-sat-phu-quy-thanh-duong-phieu-vien-danh",
+   "phu:liem-trinh-thanh-bach-nang-tuong-thu",
+   "phu:liem-trinh-tu-sat-tao-hinh-luc",
+   "phu:tu-ngo-kinh-da-hoa-linh-huu-gia-toa-that-coc-chi-uu"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p04": [
    "palace:menh-than:thien-dong",
