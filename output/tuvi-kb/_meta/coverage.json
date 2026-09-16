@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 47,
+   "referenced": 53,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -298,12 +298,6 @@
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
     "tl#0050-giay-lien-lac-bao-voi-no",
-    "tl#0051-menh-o-ngo-co-tu-vi-bao-o-ty-co-thien-co-dac",
-    "tl#0052-menh-o-tuat-co-tu-tuong-bao-o-dau-co-cu-co-sinh",
-    "tl#0053-menh-co-nguyet-dong-luong-cu-nhat-ham-dia-kho",
-    "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la",
-    "tl#0055-giau-nho-ban-sang-vi-vo",
-    "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh",
     "tl#0060-mot-ngoi-troi-dat-nguoi",
     "tl#0061-doi-benh-thai-thinh-suy-hoan-luong-4-quan-tu",
     "tl#0062-ngam-hay-muon-su-tai-troi-troi-kia-da-bat-lam",
@@ -344,7 +338,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 45.2
+   "coverage_percent": 51.0
   },
   "td": {
    "chunks": 122,
@@ -2043,6 +2037,25 @@
   ],
   "tl#0048-su-ngang-ngua-giua-bon-tam-hop-cuc": [
    "rule:bon-tam-hop-cuc-manh-yeu-khac-nhau"
+  ],
+  "tl#0051-menh-o-ngo-co-tu-vi-bao-o-ty-co-thien-co-dac": [
+   "rule:bao-no-manh-yeu-theo-menh"
+  ],
+  "tl#0052-menh-o-tuat-co-tu-tuong-bao-o-dau-co-cu-co-sinh": [
+   "rule:bao-no-manh-yeu-theo-menh"
+  ],
+  "tl#0053-menh-co-nguyet-dong-luong-cu-nhat-ham-dia-kho": [
+   "rule:bao-no-manh-yeu-theo-menh",
+   "rule:phu-mau-hien-thi-tat-ach-nang"
+  ],
+  "tl#0054-menh-o-tuat-phu-mau-o-hoi-co-tu-sat-tat-ach-la": [
+   "rule:phu-mau-hien-thi-tat-ach-nang"
+  ],
+  "tl#0055-giau-nho-ban-sang-vi-vo": [
+   "rule:giau-nho-ban-sang-vi-vo-dieu-kien"
+  ],
+  "tl#0056-nguoi-duoi-dung-tren-the-chanh-nghia-ranh-ranh": [
+   "rule:giau-nho-ban-sang-vi-vo-dieu-kien"
   ],
   "tl#0057-an-han-nen-tinh-the-nao": [
    "han:dai-han-tieu-han-lien-he",
