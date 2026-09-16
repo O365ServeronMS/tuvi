@@ -284,7 +284,7 @@
   "tl": {
    "chunks": 107,
    "non_luan": 3,
-   "referenced": 53,
+   "referenced": 54,
    "unreferenced": [
     "tl#0003-nguyen-ly-cua-60-hoa-giap",
     "tl#0004-sinh-chinh-mo-hanh",
@@ -294,7 +294,6 @@
     "tl#0012-nhung-hanh-tinh",
     "tl#0026-lan-thu-thuy-net-xuan-son",
     "tl#0031-truong-hop-nao-la-nguoi-tu-duc",
-    "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh",
     "tl#0046-nguoi-4-tho-1-kim-la-nguoi-qua-u-thanh-thuc-tin",
     "tl#0049-tuoi-ky-mui-sanh-ngay-8-4-gio-thin-4-tuoi-qui",
     "tl#0050-giay-lien-lac-bao-voi-no",
@@ -338,7 +337,7 @@
     "tl#0104-thong-so-acrophase-theo-thuat-ngu-hi-lap-thi",
     "tl#0105-muc-dieu-chinh-m-cai-hay-la-va-cung-phong-phu"
    ],
-   "coverage_percent": 51.0
+   "coverage_percent": 51.9
   },
   "td": {
    "chunks": 122,
@@ -1984,6 +1983,8 @@
    "star:vu-khuc"
   ],
   "tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu": [
+   "rule:tuan-lam-diu-triet-bao-vay-triet-ha-khac-nhau",
+   "rule:tuan-triet-co-loi-khi-che-hoa-sat-tinh-khac-hanh-menh",
    "star:dia-khong",
    "star:luu-ha",
    "star:thanh-long",
@@ -1997,7 +1998,12 @@
    "rule:nhi-hop-luon-la-sinh",
    "rule:xung-chieu-luon-la-khac"
   ],
+  "tl#0041-can-cu-vai-yeu-diem-nao-de-quyet-dinh-gio-sinh": [
+   "rule:am-duong-tuoi-gio-cung-quyet-dinh-thu-bac-gia-dinh",
+   "rule:gio-sinh-sai-lech-chi-co-the-giua-hai-gio-lien-ke"
+  ],
   "tl#0042-trong-tu-vi-vong-trang-sinh-co-y-nghia-gi": [
+   "rule:vong-trang-sinh-chia-hai-phe-doi-lap-y-nghia",
    "star:benh",
    "star:de-vuong",
    "star:duong",
@@ -2012,6 +2018,7 @@
    "star:tuyet"
   ],
   "tl#0043-an-soi-o-thi-khong-ai-tuong-nho-giay-rach-phai": [
+   "rule:vong-trang-sinh-chia-hai-phe-doi-lap-y-nghia",
    "star:bac-sy",
    "star:de-vuong",
    "star:luc-sy",
