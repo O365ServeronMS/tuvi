@@ -9,6 +9,7 @@ primary: [tb]
 cross: []
 chunks:
   - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09
+  - tb#0112-anh-huong-cua-nhung-sao-nhap-han-p11
   - tb#0110-lien-he-giua-menh-than-va-han
 ---
 # Thiên Khốc nhập hạn
@@ -20,6 +21,7 @@ chunks:
 - [TB] Gặp Tử, Phủ, Việt, Xương, Khúc: hoạnh phát danh tài, phú quý đến cực độ, nếu có tranh chấp với ai cũng thắng lợi.
 
 ## Xấu khi
+- [TB] Đau yếu, buồn phiền, mưu sự trước khó sau dễ dàng.
 - [TB] Gặp Hình: có thương tích ở đầu, hoặc bị đánh đập, hoặc mắc tai nạn về đao thương.
 - [TB] Gặp Tuần, Triệt án ngữ: mắc tai nạn khủng khiếp, đầu bị thương rất nặng, nếu có quan chức tất bị bãi truất.
 
@@ -35,3 +37,5 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Tử, Phủ, Việt, Xương, Khúc: hoạnh phái danh tài, phú quý đến cực độ, nếu có tranh chấp với ai cũng thắng lợi." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
 
 > "Tuần, Triệt án ngữ: mắc tai nạn khủng khiếp, đầu bị thương rất nặng, nếu có quan chức tất bị bãi truất." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p09)
+
+> "Đau yếu, buồn phiền, mưu sự trước khó sau dễ dàng." (tb#0112-anh-huong-cua-nhung-sao-nhap-han-p11)

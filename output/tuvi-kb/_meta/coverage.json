@@ -1267,16 +1267,19 @@
    "han:cu-mon-nhap-han",
    "han:da-la-nhap-han",
    "han:dai-han-tieu-han-lien-he",
+   "han:dao-hoa-nhap-han",
    "han:hoa-khoa-nhap-han",
    "han:hoa-ky-nhap-han",
    "han:hoa-loc-nhap-han",
    "han:hoa-quyen-nhap-han",
    "han:hoa-tinh-nhap-han",
+   "han:hong-loan-nhap-han",
    "han:khong-kiep-nhap-han",
    "han:kinh-duong-nhap-han",
    "han:liem-trinh-nhap-han",
    "han:linh-tinh-nhap-han",
    "han:loc-ton-nhap-han",
+   "han:long-phuong-nhap-han",
    "han:menh-than-han-lien-he",
    "han:pha-quan-nhap-han",
    "han:song-hao-nhap-han",
@@ -1288,6 +1291,7 @@
    "han:that-sat-nhap-han",
    "han:thien-co-nhap-han",
    "han:thien-dong-nhap-han",
+   "han:thien-hu-nhap-han",
    "han:thien-khoc-nhap-han",
    "han:thien-luong-nhap-han",
    "han:thien-phu-nhap-han",
@@ -1352,7 +1356,12 @@
    "han:tang-mon-nhap-han"
   ],
   "tb#0112-anh-huong-cua-nhung-sao-nhap-han-p11": [
-   "han:bach-ho-nhap-han"
+   "han:bach-ho-nhap-han",
+   "han:dao-hoa-nhap-han",
+   "han:hong-loan-nhap-han",
+   "han:long-phuong-nhap-han",
+   "han:thien-hu-nhap-han",
+   "han:thien-khoc-nhap-han"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
