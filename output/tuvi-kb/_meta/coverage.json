@@ -758,7 +758,19 @@
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p12": [
    "palace:menh-than:tham-lang",
-   "palace:menh-than:vu-khuc+tham-lang"
+   "palace:menh-than:vu-khuc+tham-lang",
+   "phu:nu-menh-tham-lang-da-tat-do",
+   "phu:tham-lang-ham-dia-tac-tru-nhan",
+   "phu:tham-lang-nhap-mieu-tho-nguyen-thoi",
+   "phu:tham-lang-ty-hoi-bat-vi-do-thi-diec-tao-hinh",
+   "phu:tham-lang-ty-ngo-mao-dau-thu-thiet-cau-than",
+   "phu:tham-lang-vu-khuc-dong-thu-than-vo-cat-menh-phan-bat-tuong",
+   "phu:tham-vu-dong-hanh-van-canh-bien-di-than-phuc",
+   "phu:tham-vu-mo-trung-cu-tam-thap-tong-phat-phuc",
+   "phu:tham-vu-pha-quan-vo-cat-dieu-me-luyen-tuu-sac-di-vong-than",
+   "phu:tham-vu-than-cung-vi-ha-cach",
+   "phu:tham-vu-tien-ban-nhi-hau-phu",
+   "phu:tham-vu-tu-sinh-tu-mo-cung-pha-quan-ky-sat-tinh-bach-cong-thong"
   ],
   "tb#0039-anh-huong-cua-nhung-sao-toa-thu-tai-cung-menh-p13": [
    "palace:menh-than:tham-lang",
