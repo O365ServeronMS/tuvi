@@ -257,7 +257,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 124,
+   "referenced": 127,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -272,9 +272,6 @@
     "tb#0093-thuong-cach",
     "tb#0094-ha-cach",
     "tb#0095-tieu-luan",
-    "tb#0099-ban-tien",
-    "tb#0100-biet-tai-ve-van-nghe",
-    "tb#0101-chuyen-ve-ky-nghe",
     "tb#0102-tinh-gio-sinh",
     "tb#0103-nhan-xet-cung-menh-va-cung-phuc-duc",
     "tb#0104-phu-luan-ban-menh-thuoc-ngu-hanh",
@@ -307,7 +304,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 72.5
+   "coverage_percent": 74.3
   },
   "tl": {
    "chunks": 107,
@@ -1261,9 +1258,23 @@
    "combo:khoa-quyen-loc-quy-cuc",
    "combo:loc-ma-hinh-an-cach",
    "combo:nhat-nguyet-quy-cuc",
+   "combo:phuc-tho-thong-minh-giau-co",
    "combo:that-sat-tham-hoa-cach",
    "combo:tu-vi-phu-ta-cach",
    "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "tb#0099-ban-tien": [
+   "combo:ban-tien-hoang-dang-tan-tat-yeu-tu",
+   "combo:van-chuc-vo-chuc-uy-dung"
+  ],
+  "tb#0100-biet-tai-ve-van-nghe": [
+   "combo:bien-tai-van-nghe-ky-nghe",
+   "combo:buon-ban-cach",
+   "combo:van-chuc-vo-chuc-uy-dung"
+  ],
+  "tb#0101-chuyen-ve-ky-nghe": [
+   "combo:bien-tai-van-nghe-ky-nghe",
+   "combo:tu-hanh-trom-cuop"
   ],
   "td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan": [
    "star:tu-vi"
