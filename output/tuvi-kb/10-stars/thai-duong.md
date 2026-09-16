@@ -4,13 +4,14 @@ type: star-card
 stars: [thai-duong]
 tags: [quy-tinh, quan-loc, cha, chong, nhat-nguyet]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day
   - tl#0036-thai-duong-o-dan-nguoi-duong-duoc-huong-tuong
   - tl#0037-nhat-nguyet-o-12-vi-tri-su-thiet-yeu-bao-gio
   - td#0012-sao-thai-duong
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Thái Dương (Nam Đẩu tinh, Dương Hỏa, Quý tinh)
 
@@ -41,6 +42,7 @@ chunks:
 - [TĐ] Đồng ý là Quan Lộc tinh, quý khí năng văn năng vũ; nữ mệnh lấy Thái Dương làm phu chủ, thêm Thái Âm chiếu thì phú quý toàn mỹ.
 - [TĐ] Khác về miếu hãm: miếu Ngọ Mão, vượng Dần Thìn Tị, hãm Tuất Hợi Tí.
 - [TĐ] Bổ sung: bị Hình Kị dễ hư mắt hoặc khắc phụ mẫu; ghét Cự Môn hãm địa che ánh sáng; ở Thiên Di thường ly tổ đi xa.
+- [NPL] Không xếp Thái Dương cố định vào một trong 10 loại chính tinh như các sao khác; nhận định Thái Dương "vừa là quý tinh vừa là phú tinh" (đa nghĩa).
 
 ## Nguyên văn
 > "Biểu tượng của mặt trời, của cha, của ông nội, đối với đàn bà còn là biểu tượng của chồng - Miếu địa: Tỵ, Ngọ" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -60,3 +62,5 @@ chunks:
 > "Thái Dương miếu địa Ngọ, Mão vượng địa Dần, Thìn, Tị, hãm Tuất, Hợi, Tí." (td#0012-sao-thai-duong)
 
 > "Thái Dương bị Hình Kị dễ hư mắt hoặc khắc phụ mẫu." (td#0012-sao-thai-duong)
+
+> "Thái Dương có thể vừa là quý tinh vừa là phú tinh, Tử-Vi vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

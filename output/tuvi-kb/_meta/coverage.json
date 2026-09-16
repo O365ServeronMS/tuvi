@@ -3,7 +3,7 @@
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 7,
+   "referenced": 9,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -41,12 +41,10 @@
     "npl#0032-doi-voi-nguoi-lon",
     "npl#0033-a-quan-niem-can-co-ve-cac-sao",
     "npl#0034-b-nhan-dinh-ve-y-nghi-cac-sao",
-    "npl#0035-y-nghia-lien-doi-giua-cac-sao",
     "npl#0036-y-nghia-linh-dong-cua-cac-sao",
     "npl#0037-quan-niem-viet-nam",
     "npl#0038-thai-do-lua-chon",
     "npl#0039-phan-biet-theo-chinhh-tinh-va-phu-tinh",
-    "npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao",
     "npl#0041-phan-biet-do-so-theo-cac-sao-theo-muc-hoi-tu",
     "npl#0042-phan-cau-tao-va-dong-luc-thuc-day-su-sinh-hoa",
     "npl#0043-hau-qua-thuc-tien-cua-am-duong-ngu-hanh-cac-sao",
@@ -247,7 +245,7 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 2.8
+   "coverage_percent": 3.6
   },
   "tb": {
    "chunks": 184,
@@ -403,6 +401,24 @@
   ],
   "npl#0011-pham-vi-ap-dung-khoa-tu-vi": [
    "rule:so-luong-la-so-huu-han-nen-trung-lap-la-tat-yeu"
+  ],
+  "npl#0035-y-nghia-lien-doi-giua-cac-sao": [
+   "star:thien-co"
+  ],
+  "npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao": [
+   "star:cu-mon",
+   "star:liem-trinh",
+   "star:pha-quan",
+   "star:thai-am",
+   "star:thai-duong",
+   "star:tham-lang",
+   "star:that-sat",
+   "star:thien-dong",
+   "star:thien-luong",
+   "star:thien-phu",
+   "star:thien-tuong",
+   "star:tu-vi",
+   "star:vu-khuc"
   ],
   "npl#0055-cach-cua-chinh-tinh": [
    "combo:co-nguyet-dong-luong",

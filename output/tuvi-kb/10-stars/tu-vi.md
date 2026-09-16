@@ -4,13 +4,14 @@ type: star-card
 stars: [tu-vi]
 tags: [de-tinh, uy-quyen, tai-loc, phuc-duc, giai-hung]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day
   - td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan
   - td#0009-cung-dau-bi-tu-saut-la-kinh-da-hoa-linh-vay-ham
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
 ---
 # Tử Vi (Nam Bắc Đẩu tinh, Dương Thổ, Đế tinh)
 
@@ -43,6 +44,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: miếu Dần Ngọ, vượng Thân Hợi Thìn Tị Tí Sửu Mùi, bình thường Mão Dậu, và cho rằng Tử Vi không có hãm địa vì tự giải cứu được.
 - [TĐ] Bổ sung: Tử Vi hội Liêm Trinh không thấy Tả Hữu thường làm tiểu lại; Tử Vi ở Tật Ách, Nô Bộc là sái, giảm uy quyền; Tử Phá Thìn Tuất Sửu Mùi là tôi bất trung con bất hiếu.
 - [TĐ] Nữ mệnh: hội nhiều sao tốt lấy chồng sang quý; gặp Đào Hoa thì phiêu lãng phong trần; Tử Vi tại Dần Ngọ Thân vượng phu ích tử.
+- [NPL] Xếp Tử Vi vào nhóm "đế tinh" trong 10 loại chính tinh (đế, phúc, thiện, tài, đào hoa, âm, hung); vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt.
 
 ## Nguyên văn
 > "Chủ uy quyền, tài lộc, phúc đức - Miếu địa: Tỵ, Ngọ, Dần, Thân: thông minh, trung hậu, nghiêm cẩn, uy nghi." (tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh)
@@ -58,3 +60,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Tử Vi miếu ở cung Dần Ngọ, vượng địa ở cung Thân Hợi, Thìn Tị, Tí, Sửu, Mùi, Bình thường Mão Dậu. Sao này không có hãm địa vì nó tự giải cứu được." (td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan)
 
 > "Nữ mệnh Tử Vi tại Dần, Ngọ Thân cung cát quí mỹ vượng phu ích tử, hãm địa bình thường." (td#0009-cung-dau-bi-tu-saut-la-kinh-da-hoa-linh-vay-ham)
+
+> "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "Tử-Vi vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)

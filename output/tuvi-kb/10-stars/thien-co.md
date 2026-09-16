@@ -4,12 +4,13 @@ type: star-card
 stars: [thien-co]
 tags: [thien-tinh, huynh-de, phuc-tho, muu-co]
 primary: [tb, tl]
-cross: [td]
+cross: [td, npl]
 chunks:
   - tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0010-sao-thien-co
   - td#0011-sao-thien-luong-de-chan-tran-tuc-ua-mien-tang
+  - npl#0035-y-nghia-lien-doi-giua-cac-sao
 ---
 # Thiên Cơ (Nam Đẩu tinh, Âm Mộc, Thiện tinh)
 
@@ -33,6 +34,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: miếu Tí Ngọ, bình thường Tị Hợi Thìn Tuất, hãm Sửu Mùi (Tân Biên coi Thìn Tuất Mão Dậu là miếu, Dần Hợi là hãm).
 - [TĐ] Nữ mệnh: gặp hung càng hung, gặp sát càng sát; cặp Thiên Lương là người tháo vát nội trợ giỏi; hãm địa chủ dâm; gặp Kình Đà Hoá Kị xung phá thì khắc phu hại tử.
 - [TĐ] Phú: Cự hãm Thiên Cơ là phá cách; Cơ Nguyệt Đồng Lương không có cát tinh khác chỉ làm công chức quèn.
+- [NPL] Cho ý nghĩa cơ hữu của Thiên Cơ là "ghen tuông"; nếu đồng cung Phục Binh thì tính ghen trở nên quá khích, biểu hiện ra hành động (bắt ghen, rình rập) chứ không chỉ ở nội tâm.
 
 ## Nguyên văn
 > "Chủ huynh đệ, phúc thọ - Miếu địa: Thìn, Tuất, Mão, Dậu" (tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh)
@@ -44,3 +46,5 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Nữ mệnh có sao Thiên Cơ gặp hung càng hung, gặp sát càng sát, nếu đi cặp cùng Thiên Lương là người đàn bà tháo vát khéo léo, nội trợ giỏi." (td#0010-sao-thien-co)
 
 > "Các cung Tí, Ngọ là miếu địa của Thiên Cơ. Bình thường Tị Hợi, Thìn Tuất, hãm địa là Sửu, Mùi" (td#0011-sao-thien-luong-de-chan-tran-tuc-ua-mien-tang)
+
+> "sao Thiên Cơ có nghĩa ghen tuông, đi với sao Phục Binh thì nết ghen đó rất quá khích, chẳng những có trong nội tâm mà còn thể hiện bằng hành động như bắt ghen, rình rập, gây tai tiếng cho chồng vợ." (npl#0035-y-nghia-lien-doi-giua-cac-sao)
