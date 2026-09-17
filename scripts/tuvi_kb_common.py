@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INPUT_DIR = ROOT / "input"
-KB_DIR = ROOT / "output" / "tuvi-kb"
+KB_DIR = ROOT / "output" / "claude" / "tuvi-kb"
 INDEX_DIR = KB_DIR / "00-index"
 SOURCE_DIR = KB_DIR / "90-source"
 META_DIR = KB_DIR / "_meta"
