@@ -1,5 +1,6 @@
 # Cách đọc ảnh lá số Tử Vi (web)
 
+> Dự án hướng dẫn người dùng lập lá số ở **thienluong.net** (xem README).
 > **Chưa có ảnh lá số mẫu trong repo.** Tài liệu này viết theo kinh nghiệm
 > chung về cách các trang lập lá số tiếng Việt (ví dụ tuvi.vn, tuviso.com,
 > lasotuvi.vn...) trình bày lá số, không đối chiếu trực tiếp với một ảnh cụ
@@ -46,8 +47,10 @@ Tuất; hàng dưới (phải→trái) Hợi, Tý, Sửu, Dần; cột trái (d�
 Thìn. Đây là vị trí "bàn cờ" cố định — cung Mệnh của một lá số cụ thể có thể
 rơi vào bất kỳ ô nào trong 12 ô này.
 
-Từ cung Mệnh, 11 cung còn lại xếp theo thứ tự ngược chiều kim đồng hồ quanh
-vòng: Mệnh, Phụ Mẫu, Phúc Đức, Điền Trạch, Quan Lộc, Nô Bộc, Thiên Di, Tật
+Từ cung Mệnh, 11 cung còn lại xếp theo chiều thuận, tức thuận chiều kim
+đồng hồ trên lưới trên (Tân Biên: "Sau khi đã an Mệnh, bắt đầu theo chiều
+thuận", tb#0003; "chiều thuận (thuận chiều kim đồng hồ)", tb#0002):
+Mệnh, Phụ Mẫu, Phúc Đức, Điền Trạch, Quan Lộc, Nô Bộc, Thiên Di, Tật
 Ách, Tài Bạch, Tử Tức, Phu Thê, Huynh Đệ, rồi quay lại Mệnh. Xem id/tên
 chuẩn của 12 cung này tại [`palaces.md`](palaces.md).
 
@@ -80,9 +83,11 @@ như các sao khác. Có trang ghi chữ "Tuần" / "Triệt" nhỏ ở mép ô 
 
 - **Đại Hạn** (10 năm/cung): mỗi ô cung thường ghi một cặp số tuổi (ví dụ
   "3-12", "13-22"...) ở một góc của ô — thường là góc trên hoặc góc ứng với
-  hướng an Đại Hạn (thuận/nghịch theo Âm Dương Nam/Nữ, xem
-  [`50-rules/`](../50-rules/) mục tam hợp/Đại Hạn Tiểu Hạn). Đại Hạn khởi
-  từ cung Mệnh.
+  hướng an Đại Hạn. Tân Biên 10.1 (tb#0013): dương nam, âm nữ đi chiều
+  thuận; âm nam, dương nữ đi chiều nghịch. Cách thường dùng ghi số Cục ở
+  cung Mệnh; cách thứ hai ghi số Cục ở cung kế bên (Phụ Mẫu hoặc Huynh Đệ).
+  **Chép đúng số tuổi trang web in ra**, không tự tính lại; nếu dãy số
+  không đi đều 10 năm một cung thì hỏi lại người dùng.
 - **Tiểu Hạn** (1 năm/cung): nếu trang có hiển thị, thường ghi ở góc khác
   của ô hoặc trong bảng riêng ở 4 ô giữa, không lồng chung với Đại Hạn.
 
