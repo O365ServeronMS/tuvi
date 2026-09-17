@@ -232,6 +232,18 @@ def main_stars(ids, star_group):
     return [s for s in ids if star_group.get(s) == "chinh-tinh"]
 
 
+TUAN_TRIET = {"tuan", "triet"}
+
+
+def gop_tuan_triet(ids, card: bool):
+    """Thẻ ghi "Tuần, Triệt án ngữ" (có cả tuan, triet) chỉ cần cung có một trong hai.
+    Gộp thành một khoá: thẻ phải có đủ cả hai mới gộp; cung có một trong hai là có khoá."""
+    ids = set(ids)
+    if card:
+        return (ids - TUAN_TRIET) | {"tuan-triet"} if TUAN_TRIET <= ids else ids
+    return ids | {"tuan-triet"} if ids & TUAN_TRIET else ids
+
+
 def fmt_stars(ids, stars):
     return ", ".join(stars.get(s, s) for s in ids) or "(không có)"
 
@@ -293,6 +305,7 @@ def report(path: Path) -> int:
         if i == than:
             targets.add("than")
         hits = []
+        dong_k, tp_k = gop_tuan_triet(dong, card=False), gop_tuan_triet(tp, card=False)
         for c in palace_cards:
             if not targets & set(c.get("palace", [])):
                 continue
@@ -300,14 +313,14 @@ def report(path: Path) -> int:
                 continue
             if c.get("gender", "any") not in ("any", gender):
                 continue
-            s = set(c.get("stars", []))
+            s = gop_tuan_triet(c.get("stars", []), card=True)
             if not s:
                 continue
-            if s <= dong:
+            if s <= dong_k:
                 hits.append(("đủ, mượn xung chiếu" if s & borrowed else "đủ", c))
-            elif s <= tp and s & dong:
+            elif s <= tp_k and s & dong_k:
                 hits.append(("hội chiếu", c))
-            elif len(s) >= 3 and s & dong:
+            elif len(s) >= 3 and s & dong_k:
                 hits.append(("một phần", c))
         rank = {"đủ": 0, "đủ, mượn xung chiếu": 0, "hội chiếu": 1, "một phần": 2}
         w("\n**Thẻ cung:**")

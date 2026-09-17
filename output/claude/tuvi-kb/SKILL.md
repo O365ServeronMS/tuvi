@@ -90,6 +90,9 @@ Mức khớp của thẻ cung:
 | hội chiếu | sao của thẻ nằm rải trong cung + tam hợp + xung chiếu | đọc Điều kiện: thẻ viết "đồng cung" thì không dùng |
 | một phần | thẻ gom nhiều sao/dị tượng, lá số chỉ có vài sao | chỉ dùng dòng mà mọi sao trong dòng đều có mặt |
 
+Thẻ cung ghi cả Tuần lẫn Triệt (viết "Tuần, Triệt án ngữ") chỉ cần cung có
+một trong hai là khớp; script đã tính theo cách này.
+
 Phú và cách cục script đưa ra là **ứng viên**: đọc mục Điều kiện thành
 cách/Phá cách (combo) hoặc Giải nghĩa (phú) rồi mới kết luận có thành cách.
 
