@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate tuvi-kb cards against the schema in output/tuvi-kb/_meta/schema.md.
+"""Validate tuvi-kb cards against the schema in output/claude/tuvi-kb/_meta/schema.md.
 
 Checks (E = error, W = warning):
   E frontmatter parses; required keys per card type; id matches path

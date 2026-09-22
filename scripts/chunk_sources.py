@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Cut the four source books into stable, addressable chunks for tuvi-kb.
 
-Output: output/tuvi-kb/90-source/<book>/NNNN-slug[-pNN].md, one chunk per file,
+Output: output/claude/tuvi-kb/90-source/<book>/NNNN-slug[-pNN].md, one chunk per file,
 with YAML frontmatter (id, heading_path, source_lines, detected stars/palaces,
 non_luan flag). Also writes _meta/chunking-report.json and _meta/ocr-joins.json.
 

@@ -6,8 +6,7 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 1. **Luận giải lá số** cho người dùng (việc thường xuyên) — xem mục "Luồng
    luận giải" bên dưới. Việc này giao cho sub-agent `xem-tu-vi`.
 2. **Xây và bảo trì knowledge base** `output/claude/tuvi-kb/` (việc thưa
-   hơn) — quy trình nằm ở [docs/tuvi-kb-runbook.md](docs/tuvi-kb-runbook.md)
-   và [docs/tuvi-kb-proposal.md](docs/tuvi-kb-proposal.md).
+   hơn) — quy trình nằm ở [docs/tuvi-kb-guide.md](docs/tuvi-kb-guide.md).
 
 ## Bố cục
 
@@ -21,11 +20,11 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
 | `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc. Không luận giải. |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
-| `scripts/` | Công cụ xây KB: `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
+| `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
+| `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
 
-Lưu ý đường dẫn: KB nằm ở `output/claude/tuvi-kb/`, không phải `output/tuvi-kb/`.
-Vài tài liệu cũ trong `docs/` còn ghi đường dẫn cũ; `scripts/tuvi_kb_common.py`
-mới là nơi định nghĩa `KB_DIR` thật.
+Lưu ý đường dẫn: KB nằm ở `output/claude/tuvi-kb/`, không phải `output/tuvi-kb/`
+như bố cục cũ. `scripts/tuvi_kb_common.py:18` là nơi định nghĩa `KB_DIR` thật.
 
 ## Luồng luận giải (khi người dùng gửi ảnh lá số)
 
@@ -105,12 +104,13 @@ PYTHONIOENCODING=utf-8 python3 scripts/dump_chunks.py --grep "Tử Tức" # tìm
 
 ## Khi sửa knowledge base
 
-- Đọc `docs/tuvi-kb-runbook.md` mục 2 (luật cứng) và `output/claude/tuvi-kb/_meta/schema.md`
-  trước khi viết thẻ. Validator từ chối thẻ sai nhãn, sai id sao/cung, trích dẫn
-  không khớp nguyên văn, thẻ trùng cặp cung+sao.
+- Đọc `output/claude/tuvi-kb/_meta/schema.md` (quy tắc hình thức validator kiểm)
+  và `docs/tuvi-kb-guide.md` (quy trình, bẫy trích dẫn OCR) trước khi viết thẻ.
+  Validator từ chối thẻ sai nhãn, sai id sao/cung, trích dẫn không khớp nguyên
+  văn, thẻ trùng cặp cung+sao.
 - Thêm hoặc sửa thẻ xong: chạy `validate_kb.py` đến khi `lỗi: 0`, rồi
   `build_lookup.py` nếu frontmatter đổi, rồi `rm -rf scripts/__pycache__` trước
   khi commit.
 - Các quyết định đã chốt (nguồn chính là TB/TL; không viết module an sao; không
-  sửa tầng nguyên văn; quy ước slug và địa chi) nằm ở mục 7 của runbook. Không
-  mở lại.
+  sửa tầng nguyên văn; quy ước slug, địa chi, sao trùng tên) nằm ở mục 4 của
+  `docs/tuvi-kb-guide.md`. Không mở lại.

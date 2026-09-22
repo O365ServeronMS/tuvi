@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sinh output/tuvi-kb/00-index/lookup.md tu frontmatter cua moi the.
+"""Sinh output/claude/tuvi-kb/00-index/lookup.md tu frontmatter cua moi the.
 
 Doc tat ca the trong 10-stars .. 60-phu, xuat:
   - bang sao -> the sao
