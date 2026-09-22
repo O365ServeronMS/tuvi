@@ -15,6 +15,18 @@ KB: `output/claude/tuvi-kb/` (tính từ gốc repo). Quy trình đầy đủ 7 
 `output/claude/tuvi-kb/SKILL.md` — **đọc file đó trước khi bắt đầu**, tài liệu
 này chỉ nói phần khác đi khi bạn chạy với tư cách sub-agent.
 
+Hai chỗ tài liệu này **đè lên** SKILL.md, vì SKILL.md viết cho trường hợp một
+phiên Claude làm hết mọi việc:
+
+- SKILL.md Bước 1 (đọc ảnh, xin xác nhận) **không thuộc về bạn** — phiên chính
+  đã làm xong trước khi gọi bạn.
+- SKILL.md Bước 2 bảo ghi lá số JSON "ở thư mục tạm, không ghi vào kho". Dự án
+  này dùng `output/luan-giai/` — thư mục đó đã có trong `.gitignore`, nên vẫn
+  đúng tinh thần "không vào kho", mà lá số lại còn đó để tra lại về sau.
+
+Các mục đánh số dưới đây là của riêng tài liệu này, **không** trùng với số bước
+của SKILL.md.
+
 ## Bạn nhận gì, trả gì
 
 Phiên chính đã đọc ảnh, in bảng chuẩn hoá và **người dùng đã xác nhận**, rồi ghi
@@ -30,7 +42,7 @@ Kết quả: ghi bài luận ra file markdown ở đường dẫn được giao 
 `output/luan-giai/<tên>-<năm>.md`), rồi báo lại đường dẫn kèm 3–5 dòng tóm tắt.
 Đừng dán cả bài vào báo cáo — phiên chính sẽ đọc file và trả cho người dùng.
 
-## Bước 1 — chạy script tra cứu
+## 1. Chạy script tra cứu
 
 ```bash
 PYTHONIOENCODING=utf-8 python3 output/claude/tuvi-kb/scripts/tra_cuu.py <file-la-so>.json
@@ -55,7 +67,7 @@ Phú và cách cục script đưa ra là **ứng viên**, chưa phải kết lu�
 "Điều kiện thành cách"/"Phá cách" (combo) hoặc "Giải nghĩa" (phú) rồi mới nói
 lá số có thành cách hay không.
 
-## Bước 2 — Mệnh và Thân
+## 2. Mệnh và Thân
 
 Thứ tự đọc: thẻ cung mức đủ → thẻ sao tọa thủ (mục Vị trí miếu hãm, Gặp sao
 khác, Nam nữ) → phú → cách cục. Rồi xét sao hội chiếu theo
@@ -64,19 +76,19 @@ khác, Nam nữ) → phú → cách cục. Rồi xét sao hội chiếu theo
 
 Thẻ trong `20-palaces/menh-than/` áp dụng cho cả cung Thân cư.
 
-## Bước 3 — các cung còn lại
+## 3. Các cung còn lại
 
 Cùng cách làm. Người dùng chỉ hỏi vài cung thì chỉ luận các cung đó, nhưng vẫn
 phải luận Mệnh và Thân làm nền — các cung khác đọc theo Mệnh Thân mới có nghĩa.
 
-## Bước 4 — quy tắc toàn lá số
+## 4. Quy tắc toàn lá số
 
 Từ danh mục `50-rules/` script in ra, chọn thẻ có mục **Điều kiện** khớp lá số
 (âm dương thuận/nghịch lý, Bản Mệnh sinh/khắc Cục, Mệnh ở sinh/vượng/bại/tuyệt
 địa, Tuần Triệt, Vô Chính Diệu, Thái Tuế, nhị hợp...). Đọc mục **Khi nào không
 áp dụng** trước khi dùng — đây là chỗ dễ sai nhất, nhiều quy tắc có ngoại lệ hẹp.
 
-## Bước 5 — hạn
+## 5. Hạn
 
 Đọc thẻ hạn chung trước (`phuong-phap-luan-doan-van-han.md`,
 `menh-than-han-lien-he.md`, `dai-han-tieu-han-lien-he.md`...), rồi thẻ theo sao
@@ -88,7 +100,7 @@ tự chọn. Lưu đại hạn script không tính — đừng tự an.
 Hạn chết, đám tang: chỉ nêu khi người dùng hỏi thẳng, và nêu nguyên điều kiện
 của thẻ. Không phán ngày tháng, không dọa.
 
-## Bước 6 — viết bài
+## 6. Viết bài
 
 Cấu trúc file kết quả: (1) bảng lá số đã xác nhận; (2) Mệnh, Thân; (3) từng cung;
 (4) cách cục thành/phá; (5) hạn năm xem; (6) mục **Nguồn đã dùng** liệt kê đường

@@ -5,8 +5,9 @@ KB đã xây xong (2026-09): 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 t
 dành cho việc **sửa hoặc thêm thẻ** về sau, không phải cho việc xây lại từ đầu.
 
 Lịch sử xây dựng (đề xuất cấu trúc, lộ trình 10 lô) nằm trong git history:
-`git show 3099ef9:docs/tuvi-kb-proposal.md` và các commit của nhánh
-`SteveJobs/tu-vi-output-optimization-61dfc0`.
+`git show 3099ef9:docs/tuvi-kb-proposal.md` và
+`git log --oneline --all -- docs/tuvi-kb-runbook.md` (nhánh làm việc đã xoá sau
+khi merge, nhưng commit còn trên `main`).
 
 Quy tắc hình thức mà validator kiểm — frontmatter, thứ tự mục bắt buộc theo
 từng type, nhãn nguồn, dạng trích dẫn, kích thước — nằm ở
@@ -82,7 +83,7 @@ gạch đầu dòng, nên không cần nhãn) trong mục Đối chứng, ví d�
 - Không sửa tầng nguyên văn `90-source/` (sinh bởi `chunk_sources.py`, id ổn định).
 - Không đổi schema. Nếu schema thiếu, ghi đề xuất vào file này rồi làm theo schema hiện có.
 - Slug tiếng Việt không dấu, chữ thường, gạch nối. Địa chi: `ty, suu, dan, mao,
-  thin, ti` (Tỵ)`, ngo, mui, than, dau, tuat, hoi`.
+  thin, ti, ngo, mui, than, dau, tuat, hoi` — lưu ý `ti` là Tỵ, không phải Tý.
 - Sao trùng tên: Quan Phù vòng Thái Tuế là `quan-phu`; Quan Phủ vòng Lộc Tồn là
   `quan-phu-loc-ton`; sao Phúc Đức là `phuc-duc-tinh` (phân biệt với cung
   `phuc-duc`); Tử vòng Tràng Sinh là `tu`.
