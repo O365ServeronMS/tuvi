@@ -2,8 +2,9 @@
 """Tra thẻ tuvi-kb cho một lá số đã được người dùng xác nhận.
 
 Dùng:
-    python scripts/tra_cuu.py la-so.json            # in danh sách thẻ cần đọc
-    python scripts/tra_cuu.py --self-test           # kiểm quy tắc an sao lưu theo ví dụ Tân Biên
+    python scripts/tra_cuu.py la-so.json                    # in danh sách thẻ cần đọc
+    python scripts/tra_cuu.py --pack la-so.json thư-mục-bài  # sinh gói ngữ cảnh pack/ (G3)
+    python scripts/tra_cuu.py --self-test                   # kiểm quy tắc an sao lưu theo ví dụ Tân Biên
 
 Script chỉ chọn thẻ ứng viên, không luận giải. Mọi thẻ ở mức "một phần"
 phải đọc mục Điều kiện trước khi dùng. Chỉ cần Python 3, không thư viện ngoài.
@@ -12,11 +13,13 @@ phải đọc mục Điều kiện trước khi dùng. Chỉ cần Python 3, kh�
 from __future__ import annotations
 
 import json
+import math
 import re
 import sys
 import unicodedata
 from pathlib import Path
 
+import kb_the
 from kb_the import parse_card  # noqa: E402  (parse_card sống ở kb_the.py từ G1)
 
 KB = Path(__file__).resolve().parent.parent
@@ -68,6 +71,44 @@ def load_registry():
 
 def load_cards(folder: str) -> list[dict]:
     return [parse_card(p) for p in sorted((KB / folder).rglob("*.md"))]
+
+
+def load_mieu(data: dict, star_alias: dict) -> dict[int, dict[str, str]]:
+    """Mã miếu/hãm mỗi sao mỗi cung, theo địa chi (load_chart bỏ mã này nên tính riêng cho G3)."""
+    mieu: dict[int, dict[str, str]] = {}
+    for raw_branch, cell in data.get("cung", {}).items():
+        bi = branch_index(raw_branch)
+        if bi is None:
+            continue
+        d: dict[str, str] = {}
+        for s in cell.get("sao", []):
+            key = fold(s.split(":")[0].split("(")[0])
+            sid = star_alias.get(key)
+            if not sid or key.startswith("luu-") or key.startswith("l-"):
+                continue
+            if ":" in s:
+                d[sid] = s.split(":", 1)[1].strip()
+        mieu[bi] = d
+    return mieu
+
+
+def build_context(path: Path) -> dict:
+    reg = load_registry()
+    stars, star_alias, star_group, palaces, palace_alias = reg
+    data, gender, chart, menh, than = load_chart(path, reg)
+    return {
+        "reg": reg, "stars": stars, "star_group": star_group, "palaces": palaces,
+        "data": data, "gender": gender, "chart": chart, "menh": menh, "than": than,
+        "star_cards": {c["stars"][0]: c for c in load_cards("10-stars")},
+        "palace_cards": load_cards("20-palaces"),
+        "combos": load_cards("30-combos"),
+        "han_cards": load_cards("40-han"),
+        "rules": load_cards("50-rules"),
+        "phu": load_cards("60-phu"),
+        "star_ids": set(stars),
+        "palace_ids": set(palaces) | {"than-cung"},
+        "mieu": load_mieu(data, star_alias),
+    }
 
 
 # ---------- vị trí trên địa bàn ----------
@@ -228,17 +269,90 @@ def fmt_stars(ids, stars):
     return ", ".join(stars.get(s, s) for s in ids) or "(không có)"
 
 
+def select_palace(ctx: dict, i: int) -> dict:
+    """Chọn thẻ ứng viên cho một cung. Dữ liệu có cấu trúc dùng chung cho report() và pack()."""
+    chart, stars, palaces, star_group = ctx["chart"], ctx["stars"], ctx["palaces"], ctx["star_group"]
+    gender, menh, than = ctx["gender"], ctx["menh"], ctx["than"]
+    palace_cards, phu, combos = ctx["palace_cards"], ctx["phu"], ctx["combos"]
+    star_ids, palace_ids = ctx["star_ids"], ctx["palace_ids"]
+
+    def at(k):
+        return set(chart[k]["stars"])
+
+    cell = chart[i]
+    pid = cell["palace"]
+    self_s = at(i)
+    th = tam_hop(i)
+    x = xung(i)
+    tp = self_s | at(th[0]) | at(th[1]) | at(x)
+    n = nhi_hop(i)
+    g = giap(i)
+    around = tp | at(n) | at(g[0]) | at(g[1])
+    borrowed = set()
+    if not main_stars(self_s, star_group):
+        borrowed = set(main_stars(at(x), star_group))
+    dong = self_s | borrowed
+    label = palaces[pid] + (" (Thân cư)" if i == than and i != menh else "")
+    if i == than and i == menh:
+        label = "Mệnh (Thân cư Mệnh)"
+
+    targets = {pid}
+    if i == than:
+        targets.add("than")
+    hits = []
+    dong_k, tp_k = gop_tuan_triet(dong, card=False), gop_tuan_triet(tp, card=False)
+    for c in palace_cards:
+        if not targets & set(c.get("palace", [])):
+            continue
+        if c.get("positions") and BRANCHES[i] not in c["positions"]:
+            continue
+        if c.get("gender", "any") not in ("any", gender):
+            continue
+        s = gop_tuan_triet(c.get("stars", []), card=True)
+        if not s:
+            continue
+        if s <= dong_k:
+            hits.append(("đủ, mượn xung chiếu" if s & borrowed else "đủ", c))
+        elif s <= tp_k and s & dong_k:
+            hits.append(("hội chiếu", c))
+        elif len(s) >= 3 and s & dong_k:
+            hits.append(("một phần", c))
+    rank = {"đủ": 0, "đủ, mượn xung chiếu": 0, "hội chiếu": 1, "một phần": 2}
+    hits.sort(key=lambda h: rank[h[0]])
+
+    ph = []
+    for c in phu:
+        tags = set(c.get("tags", []))
+        p_tags = {("than" if t == "than-cung" else t) for t in tags & palace_ids}
+        b_tags = tags & set(BRANCHES)
+        for grp, members in BRANCH_GROUPS.items():
+            if grp in tags:
+                b_tags |= members
+        s = tags & star_ids
+        if not s or (p_tags and not p_tags & targets) or (b_tags and BRANCHES[i] not in b_tags):
+            continue
+        if s <= around and s & dong:
+            ph.append(c)
+
+    cb = []
+    if i in (menh, than):
+        cb = [c for c in combos if len(set(c["stars"]) & tp) >= 2 and set(c["stars"]) & dong]
+
+    quanh = self_s | at(th[0]) | at(th[1]) | at(x) | at(n) | at(g[0]) | at(g[1]) | borrowed
+
+    return {
+        "i": i, "pid": pid, "label": label, "cell": cell, "self_s": self_s,
+        "tam_hop": th, "xung": x, "nhi_hop": n, "giap": g, "borrowed": borrowed,
+        "dong": dong, "tp": tp, "around": around, "quanh": quanh,
+        "hits": hits, "phu": ph, "combos": cb,
+    }
+
+
 def report(path: Path) -> int:
-    reg = load_registry()
-    stars, _, star_group, palaces, _ = reg
-    data, gender, chart, menh, than = load_chart(path, reg)
-    star_cards = {c["stars"][0]: c for c in load_cards("10-stars")}
-    palace_cards = load_cards("20-palaces")
-    combos = load_cards("30-combos")
-    han_cards = load_cards("40-han")
-    rules = load_cards("50-rules")
-    phu = load_cards("60-phu")
-    star_ids, palace_ids = set(stars), set(palaces) | {"than-cung"}
+    ctx = build_context(path)
+    stars, palaces = ctx["stars"], ctx["palaces"]
+    star_cards, han_cards, rules = ctx["star_cards"], ctx["han_cards"], ctx["rules"]
+    data, gender, chart, menh, than = ctx["data"], ctx["gender"], ctx["chart"], ctx["menh"], ctx["than"]
 
     def at(i):
         return set(chart[i]["stars"])
@@ -252,21 +366,10 @@ def report(path: Path) -> int:
 
     order = [menh] + ([than] if than != menh else []) + [(menh + k) % 12 for k in range(1, 12) if (menh + k) % 12 != than]
     for i in order:
-        cell = chart[i]
-        pid = cell["palace"]
-        self_s = at(i)
-        th = tam_hop(i)
-        x = xung(i)
-        tp = self_s | at(th[0]) | at(th[1]) | at(x)
-        around = tp | at(nhi_hop(i)) | at(giap(i)[0]) | at(giap(i)[1])
-        borrowed = set()
-        if not main_stars(self_s, star_group):
-            borrowed = set(main_stars(at(x), star_group))
-        dong = self_s | borrowed
-        label = palaces[pid] + (" (Thân cư)" if i == than and i != menh else "")
-        if i == than and i == menh:
-            label = "Mệnh (Thân cư Mệnh)"
-        w(f"\n## {label} — cung {BRANCH_NAMES[i]}\n")
+        sel = select_palace(ctx, i)
+        cell, th, x, n, g = sel["cell"], sel["tam_hop"], sel["xung"], sel["nhi_hop"], sel["giap"]
+        borrowed = sel["borrowed"]
+        w(f"\n## {sel['label']} — cung {BRANCH_NAMES[i]}\n")
         w(f"- Tọa thủ: {fmt_stars(cell['stars'], stars)}")
         if borrowed:
             w(f"- **Vô Chính Diệu** — mượn chính tinh xung chiếu: {fmt_stars(sorted(borrowed), stars)} "
@@ -274,65 +377,26 @@ def report(path: Path) -> int:
         w(f"- Tam hợp: {BRANCH_NAMES[th[0]]} ({palaces[chart[th[0]]['palace']]}): {fmt_stars(chart[th[0]]['stars'], stars)}"
           f" | {BRANCH_NAMES[th[1]]} ({palaces[chart[th[1]]['palace']]}): {fmt_stars(chart[th[1]]['stars'], stars)}")
         w(f"- Xung chiếu: {BRANCH_NAMES[x]} ({palaces[chart[x]['palace']]}): {fmt_stars(chart[x]['stars'], stars)}")
-        n = nhi_hop(i)
         w(f"- Nhị hợp: {BRANCH_NAMES[n]} ({palaces[chart[n]['palace']]}): {fmt_stars(chart[n]['stars'], stars)}")
-        g = giap(i)
         w(f"- Giáp: {BRANCH_NAMES[g[0]]}: {fmt_stars(chart[g[0]]['stars'], stars)} | {BRANCH_NAMES[g[1]]}: {fmt_stars(chart[g[1]]['stars'], stars)}")
 
         w("\n**Thẻ sao (tọa thủ):** " + ", ".join(f"`{star_cards[s]['path']}`" for s in cell["stars"] if s in star_cards))
 
-        targets = {pid}
-        if i == than:
-            targets.add("than")
-        hits = []
-        dong_k, tp_k = gop_tuan_triet(dong, card=False), gop_tuan_triet(tp, card=False)
-        for c in palace_cards:
-            if not targets & set(c.get("palace", [])):
-                continue
-            if c.get("positions") and BRANCHES[i] not in c["positions"]:
-                continue
-            if c.get("gender", "any") not in ("any", gender):
-                continue
-            s = gop_tuan_triet(c.get("stars", []), card=True)
-            if not s:
-                continue
-            if s <= dong_k:
-                hits.append(("đủ, mượn xung chiếu" if s & borrowed else "đủ", c))
-            elif s <= tp_k and s & dong_k:
-                hits.append(("hội chiếu", c))
-            elif len(s) >= 3 and s & dong_k:
-                hits.append(("một phần", c))
-        rank = {"đủ": 0, "đủ, mượn xung chiếu": 0, "hội chiếu": 1, "một phần": 2}
         w("\n**Thẻ cung:**")
-        for lvl, c in sorted(hits, key=lambda h: rank[h[0]]):
+        for lvl, c in sel["hits"]:
             w(f"- [{lvl}] `{c['path']}` — {c['title']}")
-        if not hits:
+        if not sel["hits"]:
             w("- (không có thẻ cung khớp; chỉ dùng thẻ sao, ghi rõ trong bài là sách không có đoạn riêng)")
 
-        ph = []
-        for c in phu:
-            tags = set(c.get("tags", []))
-            p_tags = {("than" if t == "than-cung" else t) for t in tags & palace_ids}
-            b_tags = tags & set(BRANCHES)
-            for grp, members in BRANCH_GROUPS.items():
-                if grp in tags:
-                    b_tags |= members
-            s = tags & star_ids
-            if not s or (p_tags and not p_tags & targets) or (b_tags and BRANCHES[i] not in b_tags):
-                continue
-            if s <= around and s & dong:
-                ph.append(c)
-        if ph:
+        if sel["phu"]:
             w("\n**Phú (ứng viên — kiểm câu phú khớp vị trí/sao thật):**")
-            for c in ph:
+            for c in sel["phu"]:
                 w(f"- `{c['path']}` — {c['title']}")
 
-        if i in (menh, than):
-            cb = [c for c in combos if len(set(c["stars"]) & tp) >= 2 and set(c["stars"]) & dong]
-            if cb:
-                w("\n**Cách cục (ứng viên — đối chiếu mục Điều kiện thành cách và Phá cách):**")
-                for c in cb:
-                    w(f"- `{c['path']}` — {c['title']} (sao có mặt: {fmt_stars(sorted(set(c['stars']) & tp), stars)})")
+        if sel["combos"]:
+            w("\n**Cách cục (ứng viên — đối chiếu mục Điều kiện thành cách và Phá cách):**")
+            for c in sel["combos"]:
+                w(f"- `{c['path']}` — {c['title']} (sao có mặt: {fmt_stars(sorted(set(c['stars']) & sel['tp']), stars)})")
 
     # ---------- hạn ----------
     w("\n## Hạn\n")
@@ -377,12 +441,325 @@ def report(path: Path) -> int:
     return 0
 
 
+# ================================================================= G3: --pack
+
+DROP_SECTIONS = {
+    "palace-card": {"Nguyên văn", "Phú liên quan"},
+    "star-card": {"Nguyên văn"},
+    "phu-card": {"Nguyên văn", "Nguồn giải"},
+    "combo-card": {"Nguyên văn"},
+    "han-card": {"Nguyên văn"},
+    "rule-card": {"Nguyên văn", "Ví dụ trong sách"},
+}
+
+
+def _short_khuc(khuc: str) -> str:
+    return khuc.split("-", 1)[0]
+
+
+def _truncate(text: str, n: int = 80) -> str:
+    text = " ".join(text.split())
+    if len(text) <= n:
+        return text
+    cut = text[:n]
+    sp = cut.rfind(" ")
+    if sp > 20:
+        cut = cut[:sp]
+    return cut + "…"
+
+
+def fmt_stars_mieu(ctx: dict, i: int, ids) -> str:
+    stars, mieu = ctx["stars"], ctx["mieu"].get(i, {})
+    parts = []
+    for sid in ids:
+        name = stars.get(sid, sid)
+        code = mieu.get(sid)
+        parts.append(f"{name} ({code})" if code else name)
+    return ", ".join(parts) if parts else "(không có)"
+
+
+def render_the(rel_path: str, level: str | None, ctx_the: dict | None, trich_all: dict,
+                loc_bo_rows: list, seen: set) -> list[str]:
+    """In một thẻ theo quy cách gói (G3). ctx_the=None: không lọc (combo/han/rule)."""
+    if rel_path in seen:
+        return []
+    the = kb_the.doc_the(KB / rel_path)
+    ctype = the.meta.get("type")
+    all_dong = kb_the.sections_dong(the)
+    if ctype in ("star-card", "palace-card", "phu-card") and ctx_the is not None:
+        kept, removed = kb_the.filter_the(the, ctx_the)
+        loc_bo_rows.extend(removed)
+        if ctype == "phu-card" and not kept:
+            return []  # bỏ cả thẻ (P1/P2)
+    else:
+        kept = all_dong
+    seen.add(rel_path)
+    drop = DROP_SECTIONS.get(ctype, {"Nguyên văn"})
+
+    lines = [f"### `{rel_path}` — {the.title}" + (f" [{level}]" if level else "")]
+    for name, sec_lines in the.sections:
+        if name in drop or name == "(trước mục đầu)":
+            continue
+        lines.append(f"#### {name}")
+        pre = all_dong.get(name, [])
+        post = kept.get(name, [])
+        if not pre:
+            body = [l for l in sec_lines if l.strip()]
+            lines.extend(body if body else ["(trống)"])
+        elif not post:
+            lines.append("(các dòng của mục này không khớp lá số — xem loc-bo.md)")
+        else:
+            lines.extend(f"- {d.raw}" for d in post)
+    if the.trich:
+        q_lines = []
+        for tr in the.trich:
+            qid = f"{rel_path[:-3]}#{tr.n}"
+            trich_all[qid] = {"the": rel_path, "khuc": tr.khuc, "van": tr.van}
+            q_lines.append(f"{{Q:{qid}}} {_short_khuc(tr.khuc)} «{_truncate(tr.van)}»")
+        lines.append("Trích: " + q_lines[0])
+        lines.extend("       " + q for q in q_lines[1:])
+    return lines
+
+
+def build_palace_file(ctx: dict, sel: dict, trich_all: dict, loc_bo_rows: list) -> str:
+    i = sel["i"]
+    lines: list[str] = []
+    seen: set = set()
+    if i == ctx["than"] and i != ctx["menh"]:
+        lines.append("(Thân cư cung này.)\n")
+    lines.append(f"# {sel['label']} — cung {BRANCH_NAMES[i]}\n")
+    lines.append(f"- Tọa thủ: {fmt_stars_mieu(ctx, i, sel['cell']['stars'])}")
+    if sel["borrowed"]:
+        lines.append(f"- Vô Chính Diệu — mượn chính tinh xung chiếu: {fmt_stars(sorted(sel['borrowed']), ctx['stars'])}")
+    lines.append("")
+
+    def ctx_the(level: str | None) -> dict:
+        muc_khop = "đủ" if level and level.startswith("đủ") else level
+        return {"gioi": ctx["gender"], "chi": i, "mieu": ctx["mieu"].get(i, {}),
+                "quanh": sel["quanh"], "muc_khop": muc_khop}
+
+    for star_id in sel["cell"]["stars"]:
+        card = ctx["star_cards"].get(star_id)
+        if not card:
+            continue
+        lines.extend(render_the(card["path"], "đủ", ctx_the("đủ"), trich_all, loc_bo_rows, seen))
+        lines.append("")
+
+    for lvl, c in sel["hits"]:
+        lines.extend(render_the(c["path"], lvl, ctx_the(lvl), trich_all, loc_bo_rows, seen))
+        lines.append("")
+
+    if sel["phu"]:
+        lines.append("**Phú ứng viên (sau lọc P1, P2):**\n")
+        for c in sel["phu"]:
+            lines.extend(render_the(c["path"], None, ctx_the(None), trich_all, loc_bo_rows, seen))
+            lines.append("")
+
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def build_00_nen(path: Path, ctx: dict) -> str:
+    data, gender, chart, menh, than = ctx["data"], ctx["gender"], ctx["chart"], ctx["menh"], ctx["than"]
+    stars = ctx["stars"]
+    lines = [f"# Nền — lá số `{path.name}`\n"]
+    lines.append(f"- Giới tính: {gender}")
+    birth, year = data.get("nam_sinh"), data.get("nam_xem")
+    if isinstance(birth, int):
+        bs, bb = can_chi(birth)
+        lines.append(f"- Năm sinh (âm lịch): {STEM_NAMES[STEMS.index(bs)]} {BRANCH_NAMES[BRANCHES.index(bb)]} ({birth})")
+    if isinstance(birth, int) and isinstance(year, int):
+        ys, yb = can_chi(year)
+        lines.append(f"- Năm xem hạn: {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]} ({year}); "
+                      f"tuổi âm {year - birth + 1}")
+    lines.append(f"- Mệnh tại {BRANCH_NAMES[menh]}; Thân tại {BRANCH_NAMES[than]}" +
+                 (" (Thân cư Mệnh)" if than == menh else ""))
+    lines.append("")
+    lines.append("## Bảng 12 cung\n")
+    lines.append("| Chi | Cung | Đại hạn | Tọa thủ (miếu/hãm) | Tam hợp | Xung chiếu | Nhị hợp | Giáp | Vô Chính Diệu |")
+    lines.append("|---|---|---|---|---|---|---|---|---|")
+    for k in range(12):
+        i = (menh + k) % 12
+        sel = select_palace(ctx, i)
+        cell, th, x, n, g = sel["cell"], sel["tam_hop"], sel["xung"], sel["nhi_hop"], sel["giap"]
+        dh = cell["dai_han"]
+        vcd = fmt_stars(sorted(sel["borrowed"]), stars) if sel["borrowed"] else "—"
+        lines.append(
+            f"| {BRANCH_NAMES[i]} | {sel['label']} | {dh if dh is not None else '—'} | "
+            f"{fmt_stars_mieu(ctx, i, cell['stars'])} | "
+            f"{BRANCH_NAMES[th[0]]}: {fmt_stars(chart[th[0]]['stars'], stars)}; "
+            f"{BRANCH_NAMES[th[1]]}: {fmt_stars(chart[th[1]]['stars'], stars)} | "
+            f"{BRANCH_NAMES[x]}: {fmt_stars(chart[x]['stars'], stars)} | "
+            f"{BRANCH_NAMES[n]}: {fmt_stars(chart[n]['stars'], stars)} | "
+            f"{BRANCH_NAMES[g[0]]}: {fmt_stars(chart[g[0]]['stars'], stars)}; "
+            f"{BRANCH_NAMES[g[1]]}: {fmt_stars(chart[g[1]]['stars'], stars)} | {vcd} |")
+    lines.append("")
+    lines.append("## Mức khớp\n")
+    lines.append("**đủ** = mọi sao của thẻ tọa thủ đồng cung; **hội chiếu** = mọi sao có mặt trong "
+                  "cung + tam hợp + xung chiếu; **một phần** = thẻ liệt kê nhiều sao, chỉ một số có mặt — "
+                  "PHẢI đọc mục Điều kiện, chỉ dùng gạch đầu dòng có điều kiện thật sự thỏa.\n")
+    lines.append("## Mã trích {Q:...}\n")
+    lines.append("Gói đã lọc bớt dòng chắc chắn không khớp lá số, nhưng KHÔNG tự trích nguyên văn. "
+                  "Muốn trích nguyên văn, viết một dòng riêng `{Q:<mã>}` (mã lấy từ dòng `Trích:` sau mỗi thẻ "
+                  "trong gói); script `chen_trich.py` sẽ thay bằng câu trích thật kèm id khúc. "
+                  "Không tự gõ câu trích trong ngoặc kép.\n")
+    return "\n".join(lines) + "\n"
+
+
+def build_cach_cuc(sel_menh: dict, sel_than: dict, trich_all: dict, loc_bo_rows: list) -> str:
+    lines = ["# Cách cục ứng viên (Mệnh, Thân)\n"]
+    seen: set = set()
+    combos_all = list(sel_menh["combos"])
+    seen_paths = {c["path"] for c in combos_all}
+    if sel_than is not sel_menh:
+        for c in sel_than["combos"]:
+            if c["path"] not in seen_paths:
+                combos_all.append(c)
+                seen_paths.add(c["path"])
+    if not combos_all:
+        lines.append("(không có cách cục ứng viên)")
+    for c in combos_all:
+        lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def build_quy_tac(ctx: dict, trich_all: dict, loc_bo_rows: list) -> str:
+    lines = ["# Quy tắc toàn lá số (50-rules)\n"]
+    seen: set = set()
+    for c in ctx["rules"]:
+        lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def build_han(ctx: dict, trich_all: dict, loc_bo_rows: list) -> tuple[str, int] | tuple[None, None]:
+    data, gender, chart, palaces = ctx["data"], ctx["gender"], ctx["chart"], ctx["palaces"]
+    stars, han_cards = ctx["stars"], ctx["han_cards"]
+    birth, year = data.get("nam_sinh"), data.get("nam_xem")
+    if not (isinstance(birth, int) and isinstance(year, int)):
+        return None, None
+    age = year - birth + 1
+    bs, bb = can_chi(birth)
+    ys, yb = can_chi(year)
+    lines = ["# Hạn\n"]
+    lines.append(f"- Sinh năm {STEM_NAMES[STEMS.index(bs)]} {BRANCH_NAMES[BRANCHES.index(bb)]}; "
+                 f"xem năm {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]}; tuổi âm {age}.")
+    dh = next((i for i in range(12) if isinstance(chart[i]["dai_han"], int)
+               and chart[i]["dai_han"] <= age < chart[i]["dai_han"] + 10), None)
+    th_i = tieu_han(bb, gender, yb)
+    luu = luu_stars(ys, yb)
+    lines.append("- Đại hạn: " + (f"cung {BRANCH_NAMES[dh]} ({palaces[chart[dh]['palace']]})" if dh is not None
+                                  else "không xác định"))
+    lines.append(f"- Tiểu hạn: cung {BRANCH_NAMES[th_i]} ({palaces[chart[th_i]['palace']]})")
+    lines.append("- Sao lưu: " + "; ".join(f"{k} ở {BRANCH_NAMES[v]}" for k, v in luu.items()))
+    seen: set = set()
+    spots = [("Đại hạn", dh), ("Tiểu hạn", th_i), ("Lưu Thái Tuế", luu["luu-thai-tue"])]
+    for name, i in spots:
+        if i is None:
+            continue
+        present = set(chart[i]["stars"]) | {k for k, v in luu.items() if v == i}
+        cards = [c for c in han_cards if set(c.get("stars", [])) & present]
+        lines.append(f"\n## {name} — cung {BRANCH_NAMES[i]} ({palaces[chart[i]['palace']]}), "
+                     f"sao: {fmt_stars(sorted(present), stars)}\n")
+        for c in cards:
+            lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+            lines.append("")
+    lines.append("\n## Thẻ hạn chung\n")
+    for c in han_cards:
+        if not c.get("stars"):
+            lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+            lines.append("")
+    return "\n".join(lines).rstrip() + "\n", year
+
+
+def build_phan_cong(ctx: dict, con_lai_pids: list[str], year: int | None) -> dict:
+    half = math.ceil(len(con_lai_pids) / 2)
+    b_ids, c_ids = con_lai_pids[:half], con_lai_pids[half:]
+    doc_a = ["00-nen.md", "menh.md"]
+    if ctx["than"] != ctx["menh"]:
+        doc_a.append("than.md")
+    doc_a += ["quy-tac.md", "cach-cuc.md"]
+    phan_cong = {
+        "A": {"doc": doc_a, "ghi": ["phan-a.md", "phan-a-cach-cuc.md", "tom-tat-a.md"]},
+        "B": {"doc": ["00-nen.md", "../tom-tat-a.md"] + [f"cung-{pid}.md" for pid in b_ids],
+              "ghi": ["phan-b.md"], "so_bat_dau": 1},
+        "C": {"doc": ["00-nen.md", "../tom-tat-a.md"] + [f"cung-{pid}.md" for pid in c_ids],
+              "ghi": ["phan-c.md"], "so_bat_dau": half + 1},
+    }
+    if year is not None:
+        phan_cong["D"] = {"doc": ["00-nen.md", "../tom-tat-a.md", f"han-{year}.md"], "ghi": ["phan-d.md"]}
+    return phan_cong
+
+
+def write_loc_bo(path: Path, rows: list) -> None:
+    lines = ["# Dòng bị lọc (không giao cho lượt nào đọc)\n", "| Thẻ | Mục | Lý do | Nội dung |", "|---|---|---|---|"]
+    for r in rows:
+        content = r.line.replace("|", "\\|").replace("\n", " ")
+        lines.append(f"| `{r.the}` | {r.section} | {r.reason} | {content[:200]} |")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def print_pack_report(pack_dir: Path, phan_cong: dict) -> None:
+    sizes = {p.name: p.stat().st_size for p in sorted(pack_dir.glob("*.md"))}
+    print("| File | Byte | Token ước tính |")
+    print("|---|---|---|")
+    for name, b in sizes.items():
+        print(f"| {name} | {b} | {round(b / 1.9)} |")
+    print()
+    for luot, info in phan_cong.items():
+        total = sum(sizes.get(d.split("/")[-1], 0) for d in info["doc"])
+        tok = round(total / 1.9)
+        warn = "  CẢNH BÁO: vượt 110 nghìn token ước tính" if tok > 110_000 else ""
+        print(f"Lượt {luot}: {total} byte, ~{tok} token ước tính{warn}")
+
+
+def pack(path: Path, out_dir: Path) -> int:
+    ctx = build_context(path)
+    pack_dir = out_dir / "pack"
+    pack_dir.mkdir(parents=True, exist_ok=True)
+    trich_all: dict[str, dict] = {}
+    loc_bo_rows: list = []
+
+    menh, than = ctx["menh"], ctx["than"]
+    sel_menh = select_palace(ctx, menh)
+    sel_than = select_palace(ctx, than) if than != menh else sel_menh
+
+    (pack_dir / "00-nen.md").write_text(build_00_nen(path, ctx), encoding="utf-8")
+    (pack_dir / "menh.md").write_text(build_palace_file(ctx, sel_menh, trich_all, loc_bo_rows), encoding="utf-8")
+    if than != menh:
+        (pack_dir / "than.md").write_text(build_palace_file(ctx, sel_than, trich_all, loc_bo_rows), encoding="utf-8")
+
+    than_pid = ctx["chart"][than]["palace"]
+    con_lai_pids = [pid for pid in PALACE_ORDER[1:] if pid != than_pid]
+    for pid in con_lai_pids:
+        i = (menh + PALACE_ORDER.index(pid)) % 12
+        sel = select_palace(ctx, i)
+        (pack_dir / f"cung-{pid}.md").write_text(build_palace_file(ctx, sel, trich_all, loc_bo_rows), encoding="utf-8")
+
+    (pack_dir / "cach-cuc.md").write_text(build_cach_cuc(sel_menh, sel_than, trich_all, loc_bo_rows), encoding="utf-8")
+    (pack_dir / "quy-tac.md").write_text(build_quy_tac(ctx, trich_all, loc_bo_rows), encoding="utf-8")
+
+    han_text, year = build_han(ctx, trich_all, loc_bo_rows)
+    if han_text is not None:
+        (pack_dir / f"han-{year}.md").write_text(han_text, encoding="utf-8")
+
+    (pack_dir / "trich.json").write_text(json.dumps(trich_all, ensure_ascii=False, indent=1), encoding="utf-8")
+    phan_cong = build_phan_cong(ctx, con_lai_pids, year)
+    (pack_dir / "phan-cong.json").write_text(json.dumps(phan_cong, ensure_ascii=False, indent=1), encoding="utf-8")
+    write_loc_bo(pack_dir / "loc-bo.md", loc_bo_rows)
+
+    print_pack_report(pack_dir, phan_cong)
+    return 0
+
+
 def main(argv: list[str]) -> int:
     for stream in (sys.stdout, sys.stderr):
         if hasattr(stream, "reconfigure"):
             stream.reconfigure(encoding="utf-8")
     if argv == ["--self-test"]:
         return self_test()
+    if len(argv) == 3 and argv[0] == "--pack":
+        return pack(Path(argv[1]), Path(argv[2]))
     if len(argv) != 1:
         print(__doc__)
         return 2

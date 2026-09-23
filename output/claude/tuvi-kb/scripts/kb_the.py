@@ -525,6 +525,14 @@ class LocBoEntry:
     reason: str
 
 
+def sections_dong(the: The) -> dict[str, list[Dong]]:
+    """Nhóm the.dong theo mục, không lọc gì (dùng cho combo/han/rule — G2 không lọc các loại này)."""
+    out: dict[str, list[Dong]] = {}
+    for d in the.dong:
+        out.setdefault(d.section, []).append(d)
+    return out
+
+
 def filter_the(the: The, ctx: dict) -> tuple[dict[str, list[Dong]], list[LocBoEntry]]:
     """Lọc một thẻ theo ctx. Với phu-card trả cả thẻ (rỗng nếu bị bỏ)."""
     if the.meta.get("type") == "phu-card":
