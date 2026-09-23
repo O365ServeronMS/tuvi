@@ -84,6 +84,9 @@ BULLET_START_RE = re.compile(r"^[-+*]\s+(.*)$")
 LABEL_RE = re.compile(r"^\[(TB|TL|TĐ|NPL)\]\s*(.*)$")
 QUOTE_RE = re.compile(r'^["“](.+)["”]\s*\(([^()\s]+)\)\s*$', re.S)
 ELLIPSIS_SPLIT_RE = re.compile(r"\s*(?:\[\.\.\.\]|\[…\]|\.\.\.|…)\s*")
+CARD_DIRS = ("10-stars", "20-palaces", "30-combos", "40-han", "50-rules", "60-phu")
+CARD_PATH_RE = re.compile(r"(?:10-stars|20-palaces|30-combos|40-han|50-rules|60-phu)/[^` ]+\.md")
+Q_LINE_RE = re.compile(r"^\{Q:([^{}\s]+)\}$")
 
 
 @dataclass
