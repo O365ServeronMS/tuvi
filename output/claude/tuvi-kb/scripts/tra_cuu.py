@@ -17,6 +17,8 @@ import sys
 import unicodedata
 from pathlib import Path
 
+from kb_the import parse_card  # noqa: E402  (parse_card sống ở kb_the.py từ G1)
+
 KB = Path(__file__).resolve().parent.parent
 
 BRANCHES = ["ty", "suu", "dan", "mao", "thin", "ti", "ngo", "mui", "than", "dau", "tuat", "hoi"]
@@ -62,28 +64,6 @@ def load_registry():
             if a.strip():
                 palace_alias.setdefault(fold(a), pid)
     return stars, star_alias, star_group, palaces, palace_alias
-
-
-def parse_card(path: Path) -> dict:
-    text = path.read_text(encoding="utf-8")
-    _, fm, body = text.split("---", 2)
-    meta, key = {}, None
-    for line in fm.splitlines():
-        m = re.match(r"^([a-z_]+):\s*(.*)$", line)
-        if m:
-            key, val = m.group(1), m.group(2).strip()
-            if val.startswith("["):
-                meta[key] = [v.strip().strip('"') for v in val[1:-1].split(",") if v.strip()]
-            elif val:
-                meta[key] = val.strip('"')
-            else:
-                meta[key] = []
-        elif key and line.strip().startswith("- "):
-            meta[key].append(line.strip()[2:].strip().strip('"'))
-    title = next((l[2:].strip() for l in body.splitlines() if l.startswith("# ")), path.stem)
-    meta["title"] = title
-    meta["path"] = path.relative_to(KB).as_posix()
-    return meta
 
 
 def load_cards(folder: str) -> list[dict]:
