@@ -142,3 +142,42 @@ Cấu trúc: (1) bảng lá số đã xác nhận; (2) Mệnh, Thân; (3) từng
 đường dẫn thẻ. Mọi câu nhận định theo đúng 5 ràng buộc ở đầu. Khi người
 dùng hỏi "sách viết nguyên văn thế nào", trích từ mục Nguyên văn của thẻ
 (có id khúc), không trích từ trí nhớ.
+
+## Chế độ gói ngữ cảnh (khuyên dùng)
+
+7 bước trên dành cho trường hợp một phiên làm hết. Khi luận đủ 12 cung, nên
+dựng **gói ngữ cảnh** rồi chia việc thành 4 lượt: script gom sẵn các thẻ cần
+đọc, bỏ những dòng chắc chắn không khớp lá số, và giao việc trích nguyên văn
+cho script. Độ chi tiết bài luận giữ nguyên; chỉ phần đọc lặp lại là bớt đi.
+
+1. **Dựng gói** (sau Bước 2, thay cho việc tự đọc thẻ):
+   ```bash
+   python3 scripts/tra_cuu.py --pack <file-la-so>.json <thư-mục-bài>/
+   python3 scripts/tra_cuu.py --kiem-pack <file-la-so>.json <thư-mục-bài>/   # tuỳ chọn: gói có đủ thẻ không
+   ```
+   Kết quả nằm trong `<thư-mục-bài>/pack/`: `00-nen.md` (bảng 12 cung, vị trí
+   tam hợp/xung chiếu/giáp, chú giải), `menh.md`, `than.md`, `cung-*.md`,
+   `quy-tac.md`, `cach-cuc.md`, `han-<năm>.md`, `trich.json` (câu trích theo
+   mã), `phan-cong.json` (lượt nào đọc file nào, ghi file nào), `loc-bo.md`
+   (dòng đã lọc và lý do). Có `CẢNH BÁO` ngân sách thì báo người dùng.
+2. **Viết theo lượt**, theo `phan-cong.json`: **A** (Mệnh, Thân, nền chung,
+   cách cục, `tom-tat-a.md`) trước; **B**, **C** (các cung còn lại, mục 5.x)
+   và **D** (hạn) sau, đọc `tom-tat-a.md` làm nền. Mỗi lượt chỉ đọc file trong
+   gói, không mở thẻ gốc. Dòng còn lại trong gói vẫn phải kiểm điều kiện theo
+   ràng buộc 4.
+3. **Mã Q thay cho câu trích:** muốn trích nguyên văn thì viết một dòng riêng
+   chỉ gồm `{Q:<mã>}` (mã lấy từ dòng `Trích:` sau mỗi thẻ trong gói); không tự
+   gõ câu trích. Dẫn thẻ bằng đường dẫn đầy đủ trong backtick. Không viết mục
+   "Nguồn đã dùng".
+4. **Kiểm từng phần:** `python3 scripts/kiem_bai.py <phần>.md --pack <thư-mục-bài>/pack --nhap`.
+5. **Ghép, chèn trích, kiểm cả bài:**
+   ```bash
+   python3 scripts/ghep_bai.py <thư-mục-bài> <thư-mục-bài>/nhap.md       # tự sinh mục 8. Nguồn đã dùng
+   python3 scripts/chen_trich.py <thư-mục-bài>/nhap.md <thư-mục-bài>/pack -o <bài>.md
+   python3 scripts/kiem_bai.py <bài>.md --pack <thư-mục-bài>/pack
+   ```
+   `kiem_bai.py` kiểm: không còn mã Q (E1), câu trích khớp nguyên văn khúc
+   (E2), đường dẫn thẻ có thật và có trong gói (E3), có mục Nguồn đã dùng (E4);
+   cảnh báo gạch đầu dòng thiếu nhãn nguồn (W1). Exit 1 nếu có lỗi.
+
+Luôn đặt `PYTHONIOENCODING=utf-8` khi chạy các script trên.

@@ -18,7 +18,8 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/10-stars/` … `60-phu/` | 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 thẻ hạn, 39 quy tắc, 325 thẻ phú. |
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
-| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc. Không luận giải. |
+| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho 4 lượt sub-agent. Không luận giải. |
+| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `chen_trich.py`, `kiem_bai.py` | Ghép các phần bài, thay mã `{Q:…}` bằng câu trích nguyên văn, kiểm bài (trích khớp sách, thẻ có thật, nhãn nguồn). `kb_the.py` là thư viện chung. |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
 | `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
@@ -46,16 +47,34 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
    `output/claude/tuvi-kb/SKILL.md`, đặt tại `output/luan-giai/<tên>-<năm>.json`
    (thư mục này đã gitignore vì chứa dữ liệu cá nhân).
 
-### Bước B — giao cho sub-agent `xem-tu-vi`
+### Bước B — dựng gói ngữ cảnh, giao 4 lượt cho sub-agent `xem-tu-vi`
 
-Gọi Agent với `subagent_type: "xem-tu-vi"` (đã cấu hình Opus, effort high tại
-`.claude/agents/xem-tu-vi.md`), prompt gồm: đường dẫn file JSON, năm xem hạn,
-người dùng muốn luận cung nào (mặc định: đủ 12 cung), và đường dẫn file kết quả
-mong muốn.
+Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
+`.claude/agents/xem-tu-vi.md`. Đặt `S=output/claude/tuvi-kb/scripts`,
+`D=output/luan-giai/<tên>-<năm>`.
 
-Sub-agent ghi bài luận ra `output/luan-giai/<tên>-<năm>.md` rồi báo lại đường
-dẫn. **Phiên chính đọc file đó và trả nguyên văn cho người dùng** — báo cáo của
-sub-agent không tự hiện ra với người dùng.
+1. Dựng gói: `python3 $S/tra_cuu.py --pack <file.json> $D/` (sinh `$D/pack/`).
+   Nếu script in `CẢNH BÁO` ngân sách thì báo người dùng.
+2. Gọi `xem-tu-vi` cho **lượt A** và **chờ xong**. Prompt gồm: tên lượt, đường
+   dẫn `$D/pack/`, danh sách file đọc và file ghi lấy từ `$D/pack/phan-cong.json`.
+3. Gọi **B, C, D cùng một lúc** (nhiều lệnh Agent trong cùng một message, chạy
+   nền), prompt như trên, B và C kèm `so_bat_dau`. Người dùng không hỏi hạn thì
+   bỏ D.
+4. Ghép, chèn trích, kiểm:
+   ```bash
+   python3 $S/ghep_bai.py $D $D/nhap.md
+   python3 $S/chen_trich.py $D/nhap.md $D/pack -o output/luan-giai/<tên>-<năm>.md
+   python3 $S/kiem_bai.py output/luan-giai/<tên>-<năm>.md --pack $D/pack
+   ```
+   `kiem_bai.py` báo lỗi thì `SendMessage` cho đúng agent của phần có lỗi để nó
+   sửa rồi chạy lại chuỗi lệnh. Không tự sửa nội dung luận giải.
+5. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
+   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md` và báo cáo của các
+   lượt. **Không** đọc cả bài rồi dán lại vào chat — bài nằm trong file .md,
+   độ dài không giới hạn.
+6. Người dùng chỉ hỏi vài cung: chạy A, cộng một lượt B gồm đúng các cung được
+   hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ C),
+   cộng D nếu có hỏi hạn.
 
 Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu
@@ -93,6 +112,16 @@ Luôn đặt `PYTHONIOENCODING=utf-8`. Chỉ cần Python 3, không thư viện 
 # Tra thẻ cho một lá số đã xác nhận
 PYTHONIOENCODING=utf-8 python3 output/claude/tuvi-kb/scripts/tra_cuu.py output/luan-giai/la-so.json
 PYTHONIOENCODING=utf-8 python3 output/claude/tuvi-kb/scripts/tra_cuu.py --self-test
+
+# Luận giải theo gói ngữ cảnh (xem Bước B)
+S=output/claude/tuvi-kb/scripts; D=output/luan-giai/la-so-2026
+PYTHONIOENCODING=utf-8 python3 $S/tra_cuu.py --pack output/luan-giai/la-so.json $D/      # dựng gói
+PYTHONIOENCODING=utf-8 python3 $S/tra_cuu.py --kiem-pack output/luan-giai/la-so.json $D/ # gói đủ thẻ chưa
+PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py $D/phan-a.md --pack $D/pack --nhap        # kiểm một phần
+PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D $D/nhap.md
+PYTHONIOENCODING=utf-8 python3 $S/chen_trich.py $D/nhap.md $D/pack -o output/luan-giai/la-so-2026.md
+PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py output/luan-giai/la-so-2026.md --pack $D/pack
+# Mỗi script trên đều có --self-test
 
 # Bảo trì KB
 PYTHONIOENCODING=utf-8 python3 scripts/validate_kb.py                 # kiểm toàn bộ, exit 1 nếu lỗi
