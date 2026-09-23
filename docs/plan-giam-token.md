@@ -320,11 +320,15 @@ cũ) và `pack()` cùng gọi. **Không** viết lại logic chọn thẻ theo c
 - [TB] ...
 #### Đối chứng
 - [TĐ] ...
-Trích: {Q:20-palaces/menh-than/tham-lang#1} tb#0039 «Cung Mệnh có Tham Lang miếu, vượng hay đắc địa tọa thủ, nên thân…»
-       {Q:20-palaces/menh-than/tham-lang#2} tb#0039 «Tham miếu địa, lúc thiếu thời vất vả…»
+Trích: {Q:20-palaces/menh-than/tham-lang#1} tb#0039
+       {Q:20-palaces/menh-than/tham-lang#2} tb#0039
 ```
 - Không in frontmatter. Không in mục `Nguyên văn`; thay bằng dòng `Trích:`
-  với mã Q, id khúc rút gọn và khoảng 80 ký tự đầu của câu trích.
+  với mã Q và id khúc rút gọn.
+- *Sửa 2026-09-23 (người dùng duyệt):* bản đầu in thêm khoảng 80 ký tự đầu
+  của câu trích; phần xem trước đó chiếm ~35% gói và đẩy lượt A lên ~124k token
+  ước tính. Đã bỏ vì nó chỉ lặp lại chữ đã có trong `trich.json`; không bỏ gạch
+  đầu dòng nào của thẻ, bài luận vẫn không giới hạn độ chi tiết.
 - Mục bị bỏ theo loại thẻ:
 
   | Loại | Mục bỏ |
@@ -358,7 +362,10 @@ Trích: {Q:20-palaces/menh-than/tham-lang#1} tb#0039 «Cung Mệnh có Tham Lang
 **Phân công (`phan-cong.json`):**
 - Gọi `con_lai` là các cung theo thứ tự `PALACE_ORDER` tính từ Mệnh, trừ Mệnh
   và cung Thân cư.
-- `B` = `ceil(len/2)` cung đầu của `con_lai`; `C` = phần còn lại.
+- `B` = đoạn đầu của `con_lai`, `C` = phần còn lại; điểm cắt chọn theo dung
+  lượng file `cung-*.md` sao cho lượt lớn hơn là nhỏ nhất (hoà thì lấy điểm gần
+  giữa nhất). *Sửa 2026-09-23 (người dùng duyệt):* bản đầu cắt ở `ceil(len/2)`
+  làm C ~117k còn B ~80k.
 - Thêm `so_bat_dau` cho C = `len(B) + 1`, dùng để đánh số mục 5.x.
 
 ```json

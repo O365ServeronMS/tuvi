@@ -4,6 +4,7 @@
 Dùng:
     python scripts/tra_cuu.py la-so.json                    # in danh sách thẻ cần đọc
     python scripts/tra_cuu.py --pack la-so.json thư-mục-bài  # sinh gói ngữ cảnh pack/ (G3)
+    python scripts/tra_cuu.py --kiem-pack la-so.json thư-mục-bài  # so tập thẻ gói với report()
     python scripts/tra_cuu.py --self-test                   # kiểm quy tắc an sao lưu theo ví dụ Tân Biên
 
 Script chỉ chọn thẻ ứng viên, không luận giải. Mọi thẻ ở mức "một phần"
@@ -12,8 +13,9 @@ phải đọc mục Điều kiện trước khi dùng. Chỉ cần Python 3, kh�
 """
 from __future__ import annotations
 
+import contextlib
+import io
 import json
-import math
 import re
 import sys
 import unicodedata
@@ -457,17 +459,6 @@ def _short_khuc(khuc: str) -> str:
     return khuc.split("-", 1)[0]
 
 
-def _truncate(text: str, n: int = 80) -> str:
-    text = " ".join(text.split())
-    if len(text) <= n:
-        return text
-    cut = text[:n]
-    sp = cut.rfind(" ")
-    if sp > 20:
-        cut = cut[:sp]
-    return cut + "…"
-
-
 def fmt_stars_mieu(ctx: dict, i: int, ids) -> str:
     stars, mieu = ctx["stars"], ctx["mieu"].get(i, {})
     parts = []
@@ -515,7 +506,7 @@ def render_the(rel_path: str, level: str | None, ctx_the: dict | None, trich_all
         for tr in the.trich:
             qid = f"{rel_path[:-3]}#{tr.n}"
             trich_all[qid] = {"the": rel_path, "khuc": tr.khuc, "van": tr.van}
-            q_lines.append(f"{{Q:{qid}}} {_short_khuc(tr.khuc)} «{_truncate(tr.van)}»")
+            q_lines.append(f"{{Q:{qid}}} {_short_khuc(tr.khuc)}")
         lines.append("Trích: " + q_lines[0])
         lines.extend("       " + q for q in q_lines[1:])
     return lines
@@ -672,8 +663,16 @@ def build_han(ctx: dict, trich_all: dict, loc_bo_rows: list) -> tuple[str, int] 
     return "\n".join(lines).rstrip() + "\n", year
 
 
-def build_phan_cong(ctx: dict, con_lai_pids: list[str], year: int | None) -> dict:
-    half = math.ceil(len(con_lai_pids) / 2)
+def diem_cat(sizes: list[int]) -> int:
+    """Điểm cắt liên tục sao cho lượt lớn hơn là nhỏ nhất; hoà thì lấy điểm gần giữa nhất."""
+    n = len(sizes)
+    if n < 2:
+        return n
+    return min(range(1, n), key=lambda k: (max(sum(sizes[:k]), sum(sizes[k:])), abs(2 * k - n)))
+
+
+def build_phan_cong(ctx: dict, con_lai_pids: list[str], year: int | None, cung_sizes: list[int]) -> dict:
+    half = diem_cat(cung_sizes)
     b_ids, c_ids = con_lai_pids[:half], con_lai_pids[half:]
     doc_a = ["00-nen.md", "menh.md"]
     if ctx["than"] != ctx["menh"]:
@@ -744,12 +743,45 @@ def pack(path: Path, out_dir: Path) -> int:
         (pack_dir / f"han-{year}.md").write_text(han_text, encoding="utf-8")
 
     (pack_dir / "trich.json").write_text(json.dumps(trich_all, ensure_ascii=False, indent=1), encoding="utf-8")
-    phan_cong = build_phan_cong(ctx, con_lai_pids, year)
+    cung_sizes = [(pack_dir / f"cung-{pid}.md").stat().st_size for pid in con_lai_pids]
+    phan_cong = build_phan_cong(ctx, con_lai_pids, year, cung_sizes)
     (pack_dir / "phan-cong.json").write_text(json.dumps(phan_cong, ensure_ascii=False, indent=1), encoding="utf-8")
     write_loc_bo(pack_dir / "loc-bo.md", loc_bo_rows)
 
     print_pack_report(pack_dir, phan_cong)
     return 0
+
+
+CARD_REF_RE = re.compile(r"`((?:10-stars|20-palaces|30-combos|40-han|50-rules|60-phu)/[^`]+\.md)`")
+Q_RE = re.compile(r"\{Q:([0-9]{2}-[^}]+)\}")
+
+
+def kiem_pack(path: Path, out_dir: Path) -> int:
+    """So tập thẻ report() với gói; mọi thẻ thiếu phải là phú đã ghi loc-bo.md; mọi mã Q có trong trich.json."""
+    pack_dir = out_dir / "pack"
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        report(path)
+    report_paths = set(CARD_REF_RE.findall(buf.getvalue()))
+    pack_text = "\n".join(p.read_text(encoding="utf-8") for p in pack_dir.glob("*.md") if p.name != "loc-bo.md")
+    pack_paths = set(CARD_REF_RE.findall(pack_text))
+    loc_bo = (pack_dir / "loc-bo.md").read_text(encoding="utf-8")
+    trich = json.loads((pack_dir / "trich.json").read_text(encoding="utf-8"))
+
+    loi = []
+    for p in sorted(report_paths - pack_paths):
+        if not (p.startswith("60-phu/") and f"`{p}`" in loc_bo):
+            loi.append(f"thẻ report() có mà gói thiếu (không phải phú đã lọc): {p}")
+    for p in sorted(pack_paths - report_paths):
+        loi.append(f"thẻ trong gói mà report() không liệt kê: {p}")
+    for q in sorted(set(Q_RE.findall(pack_text)) - set(trich)):
+        loi.append(f"mã Q thiếu trong trich.json: {q}")
+    for l in loi:
+        print("SAI:", l)
+    phu_loc = len([p for p in report_paths - pack_paths if p.startswith("60-phu/")])
+    print(f"thẻ report(): {len(report_paths)}, thẻ gói: {len(pack_paths)}, phú đã lọc: {phu_loc}, "
+          f"mã Q: {len(set(Q_RE.findall(pack_text)))}, lỗi: {len(loi)}")
+    return 1 if loi else 0
 
 
 def main(argv: list[str]) -> int:
@@ -760,6 +792,8 @@ def main(argv: list[str]) -> int:
         return self_test()
     if len(argv) == 3 and argv[0] == "--pack":
         return pack(Path(argv[1]), Path(argv[2]))
+    if len(argv) == 3 and argv[0] == "--kiem-pack":
+        return kiem_pack(Path(argv[1]), Path(argv[2]))
     if len(argv) != 1:
         print(__doc__)
         return 2
