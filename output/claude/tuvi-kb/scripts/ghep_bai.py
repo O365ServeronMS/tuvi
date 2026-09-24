@@ -8,7 +8,8 @@ Dùng:
 Thứ tự ghép (cách nhau bằng `---`): tiêu đề, phan-a.md (Cách đọc, 1, 2, 3),
 phan-r.md (4), `## 5. Các cung còn lại`, phan-b.md, phan-c.md, phan-e.md,
 phan-a-cach-cuc.md (6), phan-d.md (7, một năm) hoặc phan-d-<năm>.md theo năm tăng
-dần (7.1, 7.2…, nhiều năm). Thiếu phần nào thì cảnh báo và ghép phần
+dần (7.1, 7.2…, nhiều năm), rồi phan-t.md (8, hạn tháng một năm) hoặc phan-t-<năm>.md
+(8.1, 8.2…) nếu có. Thiếu phần nào thì cảnh báo và ghép phần
 còn lại. Không sinh mục Nguồn đã dùng: mỗi đơn vị trong bài đã có dòng `Nguồn:`.
 """
 from __future__ import annotations
@@ -18,7 +19,7 @@ import tempfile
 from pathlib import Path
 
 PHAN = ("phan-a.md", "phan-r.md", "@5", "phan-b.md", "phan-c.md", "phan-e.md",
-        "phan-a-cach-cuc.md", "@d")
+        "phan-a-cach-cuc.md", "@d", "@t")
 
 
 def ghep(bai_dir: Path) -> tuple[str, list[str]]:
@@ -28,8 +29,11 @@ def ghep(bai_dir: Path) -> tuple[str, list[str]]:
         if p == "@5":
             khoi.append("## 5. Các cung còn lại")
             continue
-        if p == "@d":
-            han = sorted(bai_dir.glob("phan-d-*.md")) or [bai_dir / "phan-d.md"]
+        if p in ("@d", "@t"):
+            x = p[1]
+            han = sorted(bai_dir.glob(f"phan-{x}-*.md")) or [bai_dir / f"phan-{x}.md"]
+            if x == "t" and not any(f.is_file() for f in han):
+                continue  # hạn tháng không bắt buộc: không xem tháng thì không có phần này
             for f in han:
                 if f.is_file():
                     khoi.append(f.read_text(encoding="utf-8").strip())
@@ -81,6 +85,13 @@ def self_test() -> int:
         text2, _ = ghep(d)
         if not (-1 < text2.find("## 7.1. Hạn năm 2026") < text2.find("## 7.2. Hạn năm 2027")):
             bad.append("ghép nhiều năm hạn sai thứ tự")
+        if any("phan-t" in c for c in cb):
+            bad.append("không xem tháng thì không được cảnh báo thiếu phan-t")
+        (d / "phan-t-2026.md").write_text("## 8.1. Hạn tháng năm 2026\n", encoding="utf-8")
+        text3, _ = ghep(d)
+        if not (-1 < text3.find("## 7.2. Hạn năm 2027") < text3.find("## 8.1. Hạn tháng năm 2026")):
+            bad.append("hạn tháng phải ghép sau hạn năm")
+        (d / "phan-t-2026.md").unlink()
         text = text2
         out = d / "ra.md"
         if run(d, out) != 0 or out.read_text(encoding="utf-8") != text:

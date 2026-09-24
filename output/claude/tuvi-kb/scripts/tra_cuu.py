@@ -7,6 +7,9 @@ Dùng:
     python scripts/tra_cuu.py --kiem-pack la-so.json thư-mục-bài  # so tập thẻ gói với report()
     python scripts/tra_cuu.py --self-test                   # kiểm quy tắc an sao lưu theo ví dụ Tân Biên
 
+Có `thang_xem` trong lá số thì script tính thêm lưu nguyệt hạn (Tân Biên 10.4, Thiên
+Lương) cho các tháng đó và gói thẻ hạn theo sao tại cung nguyệt hạn (`han-thang-<năm>.md`).
+
 Script chỉ chọn thẻ ứng viên, không luận giải. Mọi thẻ ở mức "một phần"
 phải đọc mục Điều kiện trước khi dùng. Chỉ cần Python 3, không thư viện ngoài.
 Định dạng file lá số: xem SKILL.md, mục "Bước 2".
@@ -187,6 +190,61 @@ def tieu_han(birth_branch: str, gender: str, year_branch: str) -> int:
     return (BRANCHES.index(start) + step * diff) % 12
 
 
+# ---------- lưu nguyệt hạn (Tân Biên, Lập thành 10.4; Thiên Lương, "Vận hạn nên tính thế nào") ----------
+
+NGUYET_HAN_CACH = {
+    "tb1": "TB 10.4 cách 1 (sách ghi là cách thường dùng): kể cung tiểu hạn là tháng Giêng, đếm nghịch đến "
+           "tháng sinh được cung giờ Tý, đếm thuận đến giờ sinh được cung tháng Giêng",
+    "tb2": "TB 10.4 cách 2: như cách 1 nhưng đếm thuận đến tháng sinh",
+    "tb3": "TB 10.4 cách 3: cung tiểu hạn là tháng Giêng",
+    "tl": "TL: tháng Giêng luôn ở cung Dần, khác nhau mỗi năm ở hàng Can của tháng",
+}
+NGUYET_HAN_MAC_DINH = ["tb1", "tl"]  # TB cách thường dùng và TL; TB, TL khác nhau thì nêu cả hai
+
+
+def thang_gieng(cach: str, th_i: int, thang_sinh: int | None, gio_i: int | None) -> int:
+    """Cung tháng Giêng của lưu nguyệt hạn; mỗi tháng sau đi thuận một cung."""
+    if cach == "tb1":
+        return (th_i - (thang_sinh - 1) + gio_i) % 12
+    if cach == "tb2":
+        return (th_i + (thang_sinh - 1) + gio_i) % 12
+    if cach == "tb3":
+        return th_i
+    return BRANCHES.index("dan")
+
+
+def can_thang(year_stem: str, thang: int) -> str:
+    """Can của tháng âm lịch: tháng Giêng năm Giáp, Kỷ là Bính Dần, mỗi năm sau lùi hai Can (TL nêu ví dụ)."""
+    return STEMS[(STEMS.index(year_stem) * 2 + 2 + thang - 1) % 10]
+
+
+def thang_xem_list(data: dict, year: int) -> list[int]:
+    """`thang_xem`: danh sách tháng âm (áp cho mọi năm xem) hoặc {"<năm>": [tháng…]}."""
+    v = data.get("thang_xem")
+    if isinstance(v, dict):
+        v = v.get(str(year))
+    ds = v if isinstance(v, list) else []
+    return sorted({m for m in ds if isinstance(m, int) and not isinstance(m, bool) and 1 <= m <= 12})
+
+
+def nguyet_han(ctx: dict, year: int) -> dict | None:
+    """Cung lưu nguyệt hạn của các tháng xem trong năm, theo từng cách; None nếu không xem tháng."""
+    data = ctx["data"]
+    months = thang_xem_list(data, year)
+    if not months or not isinstance(data.get("nam_sinh"), int):
+        return None
+    cach_list = data.get("nguyet_han_cach") or NGUYET_HAN_MAC_DINH
+    _, bb = can_chi(data["nam_sinh"])
+    ys, yb = can_chi(year)
+    th_i = tieu_han(bb, ctx["gender"], yb)
+    ts = data.get("thang_sinh")
+    gi = branch_index(data["gio_sinh"]) if data.get("gio_sinh") is not None else None
+    rows = [{"thang": m, "can": can_thang(ys, m), "chi": (BRANCHES.index("dan") + m - 1) % 12,
+             "cung": {c: (thang_gieng(c, th_i, ts, gi) + m - 1) % 12 for c in cach_list}} for m in months]
+    cung_xet = list(dict.fromkeys(i for r in rows for i in r["cung"].values()))  # theo thứ tự tháng
+    return {"cach": cach_list, "tieu_han": th_i, "rows": rows, "cung_xet": cung_xet}
+
+
 def self_test() -> int:
     n = lambda x: BRANCH_NAMES[x]
     checks = [
@@ -201,6 +259,11 @@ def self_test() -> int:
         # 10.3: nam sinh Tý khởi Tý ở Tuất, Dần ở Tý; nữ sinh Ngọ khởi Ngọ ở Thìn, Thân ở Dần
         (n(tieu_han("ty", "nam", "dan")), "Tý"),
         (n(tieu_han("ngo", "nu", "than")), "Dần"),
+        # TL: năm Đinh Tỵ tháng Giêng là Nhâm Dần, Mậu Ngọ là Giáp Dần, Kỷ Mùi là Bính Dần
+        ([STEM_NAMES[STEMS.index(can_thang(s, 1))] for s in ("dinh", "mau", "ky")], ["Nhâm", "Giáp", "Bính"]),
+        # 10.4 (sách không có ví dụ số; kiểm theo lời văn): tiểu hạn Thìn, sinh tháng 4 giờ Sửu →
+        # cách 1 nghịch Thìn→Sửu (giờ Tý), thuận đến Sửu → Dần; cách 2 thuận Thìn→Mùi, → Thân; cách 3 Thìn; TL Dần
+        ([n(thang_gieng(c, 4, 4, 1)) for c in ("tb1", "tb2", "tb3", "tl")], ["Dần", "Thân", "Thìn", "Dần"]),
         # 9.1: nhị hợp Sửu-Tý, Dần-Hợi, Tỵ-Thân
         ([n(nhi_hop(1)), n(nhi_hop(2)), n(nhi_hop(5))], ["Tý", "Hợi", "Thân"]),
         # Gói (G7): chia cung thành 3 nhóm liên tục, chia file tại ranh giới thẻ
@@ -260,10 +323,39 @@ def load_chart(path: Path, reg):
                               "(12 cung an theo chiều thuận từ Mệnh) — kiểm lại ảnh")
         if chart[than]["palace"] not in THAN_ALLOWED:
             errors.append(f"Thân ở cung {chart[than]['palace']}: Thân chỉ cư Mệnh, Phu Thê, Quan Lộc, Thiên Di, Tài Bạch, Phúc Đức")
+    errors.extend(kiem_truong_phu(data))
     if errors:
         print("LÁ SỐ CHƯA HỢP LỆ:\n- " + "\n- ".join(errors), file=sys.stderr)
         sys.exit(1)
     return data, gender, chart, menh, than
+
+
+def kiem_truong_phu(data: dict) -> list[str]:
+    """Kiểm các trường không bắt buộc: cuc, ban_menh, thang_sinh, gio_sinh, thang_xem, nguyet_han_cach."""
+    errors = []
+    for k in ("cuc", "ban_menh"):
+        if k in data and not (isinstance(data[k], str) and data[k].strip()):
+            errors.append(f"{k} phải là chuỗi chép từ ảnh lá số (ví dụ \"Thổ Ngũ Cục\", \"Kiếm Phong Kim\")")
+    ts = data.get("thang_sinh")
+    if ts is not None and not (isinstance(ts, int) and not isinstance(ts, bool) and 1 <= ts <= 12):
+        errors.append("thang_sinh phải là tháng âm lịch 1–12")
+    if data.get("gio_sinh") is not None and branch_index(data["gio_sinh"]) is None:
+        errors.append(f"gio_sinh phải là địa chi (dùng: {', '.join(BRANCHES)}; ty=Tý, ti=Tỵ)")
+    cach = data.get("nguyet_han_cach")
+    if cach is not None and not (isinstance(cach, list) and cach and all(c in NGUYET_HAN_CACH for c in cach)):
+        errors.append(f"nguyet_han_cach phải là danh sách lấy từ: {', '.join(NGUYET_HAN_CACH)}")
+    tx = data.get("thang_xem")
+    if tx is not None:
+        gia_tri = [m for v in (tx.values() if isinstance(tx, dict) else [tx]) for m in (v if isinstance(v, list) else [v])]
+        if not isinstance(tx, (list, dict)) or not all(isinstance(m, int) and not isinstance(m, bool) and 1 <= m <= 12
+                                                       for m in gia_tri):
+            errors.append("thang_xem phải là danh sách tháng âm 1–12 hoặc {\"<năm>\": [tháng…]}")
+        if isinstance(tx, dict) and any(not k.isdigit() or int(k) not in nam_xem_list(data) for k in tx):
+            errors.append("khoá của thang_xem phải là năm có trong nam_xem")
+        if set(cach or NGUYET_HAN_MAC_DINH) & {"tb1", "tb2"} and (ts is None or data.get("gio_sinh") is None):
+            errors.append("xem lưu nguyệt hạn theo TB cách 1, 2 cần thang_sinh và gio_sinh "
+                          "(hoặc đặt nguyet_han_cach chỉ gồm tb3, tl)")
+    return errors
 
 
 # ---------- chọn thẻ ----------
@@ -454,6 +546,18 @@ def report(path: Path) -> int:
         for c in han_cards:
             if not c.get("stars"):
                 w(f"- `{c['path']}` — {c['title']}")
+        nh = nguyet_han(ctx, year)
+        if nh:
+            w(f"\n**Lưu nguyệt hạn năm {year}** (TB 10.4, TL; cách: {', '.join(nh['cach'])})")
+            for line in bang_nguyet_han(nh):
+                w(line)
+            for i in nh["cung_xet"]:
+                present = at(i) | {k for k, v in luu.items() if v == i}
+                w(f"\n*Cung nguyệt hạn {BRANCH_NAMES[i]} ({palaces[chart[i]['palace']]})*, sao: "
+                  f"{fmt_stars(sorted(present), stars)}")
+                for c in han_cards:
+                    if set(c.get("stars", [])) & present:
+                        w(f"- `{c['path']}` — {c['title']}")
 
     w("\n## Quy tắc toàn lá số (50-rules) — chọn thẻ có Điều kiện khớp lá số\n")
     for c in rules:
@@ -572,6 +676,12 @@ def build_00_nen(path: Path, ctx: dict) -> str:
     if isinstance(birth, int):
         bs, bb = can_chi(birth)
         lines.append(f"- Năm sinh (âm lịch): {STEM_NAMES[STEMS.index(bs)]} {BRANCH_NAMES[BRANCHES.index(bb)]} ({birth})")
+    if data.get("thang_sinh") is not None:
+        lines.append(f"- Tháng sinh (âm lịch): {data['thang_sinh']}")
+    if data.get("gio_sinh") is not None:
+        lines.append(f"- Giờ sinh: {BRANCH_NAMES[branch_index(data['gio_sinh'])]}")
+    for k, nhan in (("cuc", "Cục"), ("ban_menh", "Bản Mệnh (nạp âm)")):
+        lines.append(f"- {nhan}: " + (data[k] if data.get(k) else "(lá số JSON không ghi — hỏi phiên chính)"))
     for year in nam_xem_list(data) if isinstance(birth, int) else []:
         ys, yb = can_chi(year)
         lines.append(f"- Năm xem hạn: {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]} ({year}); "
@@ -672,6 +782,60 @@ def build_han(ctx: dict, loc_bo_rows: list, year: int) -> str | None:
     return "\n".join(lines).rstrip() + "\n"
 
 
+def bang_nguyet_han(nh: dict) -> list[str]:
+    """Bảng tháng âm | can chi tháng | cung nguyệt hạn theo từng cách."""
+    lines = ["", "| Tháng âm | Can chi tháng | " + " | ".join(nh["cach"]) + " |",
+             "|---|---|" + "---|" * len(nh["cach"])]
+    for r in nh["rows"]:
+        lines.append(f"| {r['thang']} | {STEM_NAMES[STEMS.index(r['can'])]} {BRANCH_NAMES[r['chi']]} | " +
+                     " | ".join(BRANCH_NAMES[r["cung"][c]] for c in nh["cach"]) + " |")
+    return lines
+
+
+def build_han_thang(ctx: dict, loc_bo_rows: list, year: int) -> str | None:
+    """Gói lưu nguyệt hạn một năm: cách tính, bảng tháng → cung, thẻ hạn theo sao tại từng cung nguyệt hạn."""
+    nh = nguyet_han(ctx, year)
+    if nh is None:
+        return None
+    data, gender, chart, palaces = ctx["data"], ctx["gender"], ctx["chart"], ctx["palaces"]
+    stars, han_cards = ctx["stars"], ctx["han_cards"]
+    age = year - data["nam_sinh"] + 1
+    ys, yb = can_chi(year)
+    luu = luu_stars(ys, yb)
+    dh = next((i for i in range(12) if isinstance(chart[i]["dai_han"], int)
+               and chart[i]["dai_han"] <= age < chart[i]["dai_han"] + 10), None)
+    th_i = nh["tieu_han"]
+    lines = [f"# Hạn tháng năm {year}\n"]
+    lines.append(f"- Năm {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]}; tuổi âm {age}.")
+    for name, i in (("Đại hạn", dh), ("Tiểu hạn", th_i)):
+        if i is not None:
+            present = set(chart[i]["stars"]) | {k for k, v in luu.items() if v == i}
+            lines.append(f"- {name}: cung {BRANCH_NAMES[i]} ({palaces[chart[i]['palace']]}), "
+                         f"sao: {fmt_stars(sorted(present), stars)}")
+    lines.append("- Cách tính cung tháng (mỗi tháng sau đi thuận một cung):")
+    lines.extend(f"  - `{c}`: {NGUYET_HAN_CACH[c]}" for c in nh["cach"])
+    lines.append("- Tháng nhuận: script không tính riêng. Sao lưu tháng: sách trong kho không có cách an, "
+                 "script chỉ dùng sao cố định và sao lưu của năm.")
+    lines.extend(bang_nguyet_han(nh))
+    seen: set = set()
+    for i in nh["cung_xet"]:
+        thang = [f"tháng {r['thang']} ({', '.join(c for c in nh['cach'] if r['cung'][c] == i)})"
+                 for r in nh["rows"] if i in r["cung"].values()]
+        present = set(chart[i]["stars"]) | {k for k, v in luu.items() if v == i}
+        lines.append(f"\n## Nguyệt hạn cung {BRANCH_NAMES[i]} ({palaces[chart[i]['palace']]}) — "
+                     f"{'; '.join(thang)}; sao: {fmt_stars(sorted(present), stars)}\n")
+        for c in han_cards:
+            if set(c.get("stars", [])) & present:
+                if c["path"] in seen:
+                    lines.append(f"- `{c['path']}` — {c['title']}: đã in ở cung trước.")
+                else:
+                    lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
+                lines.append("")
+    lines.append("\n## Thẻ hạn chung\n")
+    lines.extend(render_the("40-han/dai-han-tieu-han-lien-he.md", None, None, loc_bo_rows, seen))
+    return "\n".join(lines).rstrip() + "\n"
+
+
 BYTE_MOI_TOKEN = 1.755      # đo thật ở G6 trên output của Read
 NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, agent md)
 TRAN_GOI = 70_000           # token gói tối đa của một lượt (không tính nền)
@@ -728,9 +892,10 @@ def ghi_goi(pack_dir: Path, stem: str, text: str) -> list[str]:
 
 
 def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], years: list[int],
-                    cung_sizes: list[int]) -> dict:
+                    cung_sizes: list[int], years_thang: list[int] | None = None) -> dict:
     """files: stem → tên file đã ghi (sau khi chia). Đợt 1: A, R song song; đợt 2: B, C, E và D (một năm)
-    hoặc D1, D2… (mỗi năm xem một lượt, ghi phan-d-<năm>.md, tiêu đề ## 7.k.)."""
+    hoặc D1, D2… (mỗi năm xem một lượt, ghi phan-d-<năm>.md, tiêu đề ## 7.k.); năm có thang_xem thêm
+    T (một năm, phan-t.md, ## 8.) hoặc T1, T2… (phan-t-<năm>.md, ## 8.k.)."""
     nen = ["00-nen.md"]
     tom_tat = ["../tom-tat-a.md", "../tom-tat-r.md"]
     doc_a = nen + files["menh"] + files.get("than", []) + files["cach-cuc"]
@@ -749,6 +914,14 @@ def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], years:
         else:
             luot, ghi, tieu_de = f"D{k}", f"phan-d-{year}.md", f"## 7.{k}. Hạn năm {year}"
         phan_cong[luot] = {"dot": 2, "doc": nen + tom_tat + files[f"han-{year}"], "ghi": [ghi],
+                           "nam": year, "tieu_de": tieu_de}
+    years_thang = years_thang or []
+    for k, year in enumerate(years_thang, 1):
+        if len(years_thang) == 1:
+            luot, ghi, tieu_de = "T", "phan-t.md", f"## 8. Hạn tháng năm {year}"
+        else:
+            luot, ghi, tieu_de = f"T{k}", f"phan-t-{year}.md", f"## 8.{k}. Hạn tháng năm {year}"
+        phan_cong[luot] = {"dot": 2, "doc": nen + tom_tat + files[f"han-thang-{year}"], "ghi": [ghi],
                            "nam": year, "tieu_de": tieu_de}
     return phan_cong
 
@@ -810,9 +983,12 @@ def pack(path: Path, out_dir: Path) -> int:
     years = nam_xem_list(ctx["data"]) if isinstance(ctx["data"].get("nam_sinh"), int) else []
     for year in years:
         files[f"han-{year}"] = ghi_goi(pack_dir, f"han-{year}", build_han(ctx, loc_bo_rows, year))
+    years_thang = [y for y in years if nguyet_han(ctx, y)]
+    for year in years_thang:
+        files[f"han-thang-{year}"] = ghi_goi(pack_dir, f"han-thang-{year}", build_han_thang(ctx, loc_bo_rows, year))
 
     cung_sizes = [sum((pack_dir / f).stat().st_size for f in files[f"cung-{pid}"]) for pid in con_lai_pids]
-    phan_cong = build_phan_cong(files, con_lai_pids, years, cung_sizes)
+    phan_cong = build_phan_cong(files, con_lai_pids, years, cung_sizes, years_thang)
     (pack_dir / "phan-cong.json").write_text(json.dumps(phan_cong, ensure_ascii=False, indent=1), encoding="utf-8")
     write_loc_bo(pack_dir / "loc-bo.md", loc_bo_rows)
 

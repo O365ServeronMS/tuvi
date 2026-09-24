@@ -48,7 +48,12 @@ Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-
 {
   "gioi_tinh": "nam",
   "nam_sinh": 1984,
+  "thang_sinh": 4,
+  "gio_sinh": "suu",
+  "cuc": "Thổ Ngũ Cục",
+  "ban_menh": "Kiếm Phong Kim",
   "nam_xem": 2026,
+  "thang_xem": [8, 9, 10],
   "menh": "dan",
   "than": "ngo",
   "cung": {
@@ -66,6 +71,18 @@ Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-
 - `nam_sinh`, `nam_xem`: năm âm lịch dạng số (sinh trước Tết thì lấy năm trước).
   Xem hạn nhiều năm thì `nam_xem` là danh sách, ví dụ `[2026, 2027]`: gói có một
   `han-<năm>.md` và một lượt `D1`, `D2`… cho mỗi năm.
+- `thang_sinh` (tháng âm 1–12), `gio_sinh` (địa chi), `cuc`, `ban_menh` (chép
+  nguyên chữ trên ảnh): không bắt buộc nhưng **nên ghi đủ**. Script in chúng ra
+  `00-nen.md`; thiếu thì lượt R phải treo các quy tắc Bản Mệnh–Cục, nạp âm, mùa
+  sinh và giờ sinh, còn lượt hạn không xét được sinh khắc Bản Mệnh.
+- `thang_xem` (không bắt buộc): tháng âm lịch cần xem lưu nguyệt hạn, dạng danh
+  sách (áp cho mọi năm trong `nam_xem`) hoặc `{"2026": [8, 9], "2027": [1]}`.
+  Có `thang_xem` thì gói thêm `han-thang-<năm>.md` và lượt `T` (hoặc `T1`,
+  `T2`…). Tháng dương lịch phải đổi sang tháng âm trước khi ghi.
+- `nguyet_han_cach` (không bắt buộc): cách an cung tháng, mặc định
+  `["tb1", "tl"]`. Tân Biên 10.4 ghi ba cách (`tb1` là cách thường dùng,
+  `tb2`, `tb3`); Thiên Lương cố định tháng Giêng ở Dần (`tl`). `tb1`, `tb2` cần
+  `thang_sinh` và `gio_sinh`.
 
 Chạy (Python 3, không cần thư viện):
 
@@ -133,6 +150,10 @@ Dùng phần Hạn của script:
 - Thẻ theo sao tại cung đại hạn, cung tiểu hạn, cung Lưu Thái Tuế.
 - Tiểu hạn script tính theo Tân Biên 10.3; nếu ảnh lá số ghi khác thì hỏi
   lại, không tự chọn. Lưu đại hạn script không tính.
+- Hạn tháng (có `thang_xem`): cung lưu nguyệt hạn theo từng cách trong
+  `nguyet_han_cach`, thẻ theo sao tại cung đó. Hai cách cho hai cung khác nhau
+  thì nêu cả hai. Theo thẻ `dai-han-tieu-han-lien-he.md`, đại hạn bao trùm tiểu
+  hạn, tiểu hạn bao trùm hạn tháng: kết luận tháng phải đặt dưới kết luận năm.
 - Hạn chết, đám tang: chỉ nêu khi người dùng hỏi thẳng, và nêu nguyên điều
   kiện của thẻ, không phán đoán ngày tháng.
 
@@ -170,7 +191,8 @@ nguyên; chỉ phần đọc lặp lại là bớt đi.
 2. **Viết theo lượt**, theo `phan-cong.json`. Đợt 1: **A** (Mệnh, Thân, cách
    cục, `tom-tat-a.md`) và **R** (quy tắc toàn lá số, `tom-tat-r.md`). Đợt 2:
    **B**, **C**, **E** (các cung còn lại, mục 5.x) và **D** (hạn; nhiều năm thì
-   **D1**, **D2**…, mục 7.1, 7.2…), đọc hai file
+   **D1**, **D2**…, mục 7.1, 7.2…) và **T** nếu có `thang_xem` (hạn tháng;
+   nhiều năm thì **T1**, **T2**…, mục 8, 8.1…), đọc hai file
    tóm tắt làm nền. Mỗi lượt chỉ đọc file trong gói, không mở thẻ gốc. Dòng
    còn lại trong gói vẫn phải kiểm điều kiện theo ràng buộc 4.
 3. **Khuôn viết:** như Bước 7 — ý rút gọn có nhãn, `**[Claude] Tổng kết:**`,

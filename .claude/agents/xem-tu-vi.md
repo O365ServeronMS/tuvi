@@ -19,8 +19,9 @@ của gói.
 
 Một bài luận được chia cho 6 lượt chạy của bạn. Đợt 1: **A** (Mệnh, Thân, cách
 cục) và **R** (quy tắc toàn lá số) chạy song song. Đợt 2, sau khi A và R xong:
-**B**, **C**, **E** (các cung còn lại) và **D** (hạn năm xem; xem nhiều năm thì
-mỗi năm một lượt **D1**, **D2**…). Mỗi lượt chỉ viết
+**B**, **C**, **E** (các cung còn lại), **D** (hạn năm xem; xem nhiều năm thì
+mỗi năm một lượt **D1**, **D2**…) và **T** (hạn tháng, chỉ khi lá số có
+`thang_xem`; nhiều năm thì **T1**, **T2**…). Mỗi lượt chỉ viết
 phần của mình; script `ghep_bai.py` ghép lại.
 
 Các mục đánh số dưới đây là của riêng tài liệu này, **không** trùng với số bước
@@ -31,7 +32,7 @@ của SKILL.md hay số mục trong bài.
 Phiên chính đã đọc ảnh, in bảng chuẩn hoá, **người dùng đã xác nhận**, ghi JSON
 và dựng gói. Bạn nhận:
 
-- tên lượt (`A`, `R`, `B`, `C`, `E`, `D` hoặc `D1`, `D2`…);
+- tên lượt (`A`, `R`, `B`, `C`, `E`, `D` hoặc `D1`, `D2`…, `T` hoặc `T1`, `T2`…);
 - đường dẫn thư mục `pack/`;
 - danh sách file phải đọc và file phải ghi (lấy từ `pack/phan-cong.json`; đường
   dẫn trong đó tính từ `pack/`, nên `../tom-tat-*.md` và các file `phan-*.md`
@@ -93,13 +94,18 @@ lá số có thành cách hay không.
 - **D**, **D1**, **D2**… ghi đúng tiêu đề ở khoá `tieu_de` của lượt trong
   `phan-cong.json` (`## 7. Hạn năm <năm>` khi xem một năm, `## 7.<k>. Hạn năm
   <năm>` khi xem nhiều năm), rồi luận riêng năm ở khoá `nam`.
+- **T**, **T1**, **T2**… ghi đúng tiêu đề ở khoá `tieu_de` (`## 8. Hạn tháng
+  năm <năm>` hoặc `## 8.<k>. …`), luận theo mục 6a.
 
 ## 3. Mệnh và Thân (lượt A)
 
 Thứ tự đọc: thẻ cung mức đủ → thẻ sao tọa thủ (mục Vị trí miếu hãm, Gặp sao
-khác, Nam nữ) → phú → cách cục. Rồi xét sao hội chiếu: một cung phải xem cả tam hợp, xung chiếu, nhị hợp; chính
-tinh tọa thủ mạnh hơn chiếu, chiếu mạnh hơn giáp (hai quy tắc này lượt R luận
-chi tiết ở mục 4, A chỉ dùng làm cách đọc).
+khác, Nam nữ) → phú → cách cục. Rồi xét sao hội chiếu: một cung phải xem cả
+tam hợp, xung chiếu, nhị hợp và giáp. Sức nặng tương đối của tọa thủ, chiếu và
+giáp do thẻ quy tắc quyết định, không có thứ tự mặc định: thẻ
+`chinh-khong-bang-chieu-chieu-khong-bang-giap.md` (TL) xếp giáp mạnh hơn chiếu,
+chiếu mạnh hơn chính, và giáp chỉ mạnh khi Mệnh thuận lý. Lượt R luận quy tắc
+này ở mục 4; A đọc kết luận đó trong `tom-tat-r.md` nếu có, không tự đặt thứ tự.
 
 Thẻ trong `20-palaces/menh-than/` áp dụng cho cả cung Thân cư.
 
@@ -128,6 +134,22 @@ tự chọn. Lưu đại hạn script không tính — đừng tự an.
 
 Hạn chết, đám tang: chỉ nêu khi người dùng hỏi thẳng, và nêu nguyên điều kiện
 của thẻ. Không phán ngày tháng, không dọa.
+
+## 6a. Hạn tháng (lượt T)
+
+`han-thang-<năm>.md` (có thể chia `-1`, `-2`) mở đầu bằng đại hạn, tiểu hạn
+của năm, cách an cung tháng và bảng tháng âm → can chi tháng → cung nguyệt hạn
+theo từng cách; sau đó mỗi cung nguyệt hạn một mục kèm thẻ hạn theo sao tại cung
+đó (thẻ đã in ở cung trước chỉ ghi lại tên).
+
+- Mỗi tháng một đơn vị `### 8.x. Tháng <m> âm (<can chi>) — cung <Chi>`, luận
+  sao tại cung nguyệt hạn theo thẻ trong gói, đủ khuôn ở mục 7.
+- Hai cách an cho hai cung khác nhau (ví dụ TB cách 1 và TL) thì luận cả hai
+  cung, nói rõ cung nào theo cách nào; không chọn thay người dùng.
+- Đặt tháng dưới năm theo thẻ `dai-han-tieu-han-lien-he.md` (hạn năm bao trùm
+  hạn tháng). Kết luận của năm nằm ở lượt D, bạn không đọc được: chỉ nêu điểm
+  tháng, gắn nhãn `[Claude]` cho câu so sánh giữa các tháng.
+- Không đổi tháng âm ra ngày dương, không chọn ngày: gói không có lưu nhật hạn.
 
 ## 7. Viết bài
 

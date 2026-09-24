@@ -18,7 +18,7 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/10-stars/` … `60-phu/` | 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 thẻ hạn, 39 quy tắc, 325 thẻ phú. |
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
-| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho 6 lượt sub-agent. Không luận giải. |
+| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho các lượt sub-agent (A, R, B, C, E, D…, T… nếu xem hạn tháng). Không luận giải. |
 | `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py` | Ghép các phần bài; kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật); lấy mẫu gạch đầu dòng cho `kiem-nguon`. `kb_the.py` là thư viện chung. |
 | `.claude/agents/` | `xem-tu-vi` (Opus high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
@@ -46,7 +46,9 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
    bỏ bước này để "đi cho nhanh".
 4. Sau khi người dùng xác nhận, ghi lá số ra JSON theo mẫu ở mục "Bước 2" của
    `output/claude/tuvi-kb/SKILL.md`, đặt tại `output/luan-giai/<tên>-<năm>.json`
-   (thư mục này đã gitignore vì chứa dữ liệu cá nhân).
+   (thư mục này đã gitignore vì chứa dữ liệu cá nhân). Ghi cả `thang_sinh`,
+   `gio_sinh`, `cuc`, `ban_menh` lấy từ bảng; người dùng hỏi thời điểm theo
+   tháng thì thêm `thang_xem` (tháng **âm lịch**; đổi từ dương lịch trước).
 
 ### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho sub-agent `xem-tu-vi`
 
@@ -63,7 +65,8 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
 3. **Đợt 2:** gọi **B, C, E, D**, hai lượt một lúc (để khỏi chạm hạn mức phiên),
    prompt như trên, B, C, E kèm `so_bat_dau`, lượt hạn kèm `nam` và `tieu_de`.
    Xem nhiều năm (`nam_xem` là danh sách) thì thay D bằng D1, D2… mỗi năm một
-   lượt. Người dùng không hỏi hạn thì không có lượt D.
+   lượt. Người dùng không hỏi hạn thì không có lượt D. Có `thang_xem` thì
+   thêm lượt T (hoặc T1, T2… mỗi năm có tháng xem), prompt kèm `nam`, `tieu_de`.
    Lượt nào bị ngắt (HTTP 429, hết hạn mức) thì `SendMessage` cho đúng agent đó
    chạy tiếp, **không** gọi lại từ đầu.
 4. Ghép, kiểm:
@@ -85,7 +88,7 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    trong file .md, độ dài không giới hạn.
 7. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
    được hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ
-   C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn.
+   C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn, cộng T nếu có hỏi tháng.
 
 Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu
