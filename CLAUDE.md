@@ -18,8 +18,8 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/10-stars/` … `60-phu/` | 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 thẻ hạn, 39 quy tắc, 325 thẻ phú. |
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
-| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho 4 lượt sub-agent. Không luận giải. |
-| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `chen_trich.py`, `kiem_bai.py` | Ghép các phần bài, thay mã `{Q:…}` bằng câu trích nguyên văn, kiểm bài (trích khớp sách, thẻ có thật, nhãn nguồn). `kb_the.py` là thư viện chung. |
+| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho 6 lượt sub-agent. Không luận giải. |
+| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py` | Ghép các phần bài; kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật). `kb_the.py` là thư viện chung. |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
 | `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
@@ -47,7 +47,7 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
    `output/claude/tuvi-kb/SKILL.md`, đặt tại `output/luan-giai/<tên>-<năm>.json`
    (thư mục này đã gitignore vì chứa dữ liệu cá nhân).
 
-### Bước B — dựng gói ngữ cảnh, giao 4 lượt cho sub-agent `xem-tu-vi`
+### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho sub-agent `xem-tu-vi`
 
 Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
 `.claude/agents/xem-tu-vi.md`. Đặt `S=output/claude/tuvi-kb/scripts`,
@@ -55,26 +55,28 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
 
 1. Dựng gói: `python3 $S/tra_cuu.py --pack <file.json> $D/` (sinh `$D/pack/`).
    Nếu script in `CẢNH BÁO` ngân sách thì báo người dùng.
-2. Gọi `xem-tu-vi` cho **lượt A** và **chờ xong**. Prompt gồm: tên lượt, đường
-   dẫn `$D/pack/`, danh sách file đọc và file ghi lấy từ `$D/pack/phan-cong.json`.
-3. Gọi **B, C, D cùng một lúc** (nhiều lệnh Agent trong cùng một message, chạy
-   nền), prompt như trên, B và C kèm `so_bat_dau`. Người dùng không hỏi hạn thì
-   bỏ D.
-4. Ghép, chèn trích, kiểm:
+2. **Đợt 1:** gọi `xem-tu-vi` cho lượt **A** và **R** cùng lúc (hai lệnh Agent
+   trong một message, chạy nền), **chờ cả hai xong**. Prompt gồm: tên lượt,
+   đường dẫn `$D/pack/`, danh sách file đọc và file ghi lấy từ
+   `$D/pack/phan-cong.json`.
+3. **Đợt 2:** gọi **B, C, E, D**, hai lượt một lúc (để khỏi chạm hạn mức phiên),
+   prompt như trên, B, C, E kèm `so_bat_dau`. Người dùng không hỏi hạn thì bỏ D.
+   Lượt nào bị ngắt (HTTP 429, hết hạn mức) thì `SendMessage` cho đúng agent đó
+   chạy tiếp, **không** gọi lại từ đầu.
+4. Ghép, kiểm:
    ```bash
-   python3 $S/ghep_bai.py $D $D/nhap.md
-   python3 $S/chen_trich.py $D/nhap.md $D/pack -o output/luan-giai/<tên>-<năm>.md
+   python3 $S/ghep_bai.py $D output/luan-giai/<tên>-<năm>.md
    python3 $S/kiem_bai.py output/luan-giai/<tên>-<năm>.md --pack $D/pack
    ```
    `kiem_bai.py` báo lỗi thì `SendMessage` cho đúng agent của phần có lỗi để nó
-   sửa rồi chạy lại chuỗi lệnh. Không tự sửa nội dung luận giải.
+   sửa rồi chạy lại hai lệnh. Không tự sửa nội dung luận giải.
 5. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
-   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md` và báo cáo của các
-   lượt. **Không** đọc cả bài rồi dán lại vào chat — bài nằm trong file .md,
-   độ dài không giới hạn.
-6. Người dùng chỉ hỏi vài cung: chạy A, cộng một lượt B gồm đúng các cung được
-   hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ C),
-   cộng D nếu có hỏi hạn.
+   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md`, `$D/tom-tat-r.md`
+   và báo cáo của các lượt. **Không** đọc cả bài rồi dán lại vào chat — bài nằm
+   trong file .md, độ dài không giới hạn.
+6. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
+   được hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ
+   C, E), cộng D nếu có hỏi hạn.
 
 Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu
@@ -94,14 +96,17 @@ một câu trong sách, chứ không phải ở chỗ bài luận nghe hay.
 2. **Mỗi nhận định mang nhãn nguồn**: `[TB]` Tân Biên, `[TL]` Thiên Lương là
    nguồn chính; `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc chỉ đối chứng, lấy từ
    mục **Đối chứng** của thẻ. Ghép hai thẻ hoặc suy ra điều thẻ không viết thì
-   ghi rõ `(suy luận của Claude, không phải nguyên văn sách)`.
+   mang nhãn `[Claude]`. Mỗi sao/cách cục/quy tắc/cung/điểm hạn kết thúc bằng
+   `**[Claude] Tổng kết:**` và dòng `Nguồn:` liệt kê đường dẫn thẻ.
 3. **TB và TL khác nhau thì nêu cả hai**, không chọn thay người dùng. `[TĐ]`,
    `[NPL]` không được dùng để bác TB/TL.
 4. **Chỉ dùng gạch đầu dòng thật sự thỏa lá số**: đúng địa chi, đúng miếu/hãm,
    đúng nam/nữ, đúng sao đồng cung hay hội chiếu như thẻ ghi.
 5. Không có thẻ cho một bộ sao thì nói thẳng "sách trong kho không có đoạn riêng
    cho trường hợp này". Không bịa, không lấp bằng kiến thức chung.
-6. Trích nguyên văn thì lấy từ mục **Nguyên văn** của thẻ (có id khúc), không
+6. Bài luận giải không trích nguyên văn: ghi ý rút gọn có nhãn, truy nguồn qua
+   dòng `Nguồn:` về thẻ, rồi mục **Nguyên văn** của thẻ (có id khúc). Trả lời
+   thẳng trong phiên chính mà cần trích nguyên văn thì lấy từ mục đó, không
    trích từ trí nhớ.
 
 ## Lệnh hay dùng
@@ -117,9 +122,8 @@ PYTHONIOENCODING=utf-8 python3 output/claude/tuvi-kb/scripts/tra_cuu.py --self-t
 S=output/claude/tuvi-kb/scripts; D=output/luan-giai/la-so-2026
 PYTHONIOENCODING=utf-8 python3 $S/tra_cuu.py --pack output/luan-giai/la-so.json $D/      # dựng gói
 PYTHONIOENCODING=utf-8 python3 $S/tra_cuu.py --kiem-pack output/luan-giai/la-so.json $D/ # gói đủ thẻ chưa
-PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py $D/phan-a.md --pack $D/pack --nhap        # kiểm một phần
-PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D $D/nhap.md
-PYTHONIOENCODING=utf-8 python3 $S/chen_trich.py $D/nhap.md $D/pack -o output/luan-giai/la-so-2026.md
+PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py $D/phan-a.md --pack $D/pack               # kiểm một phần
+PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D output/luan-giai/la-so-2026.md
 PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py output/luan-giai/la-so-2026.md --pack $D/pack
 # Mỗi script trên đều có --self-test
 
