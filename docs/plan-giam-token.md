@@ -56,8 +56,8 @@ còn đọc lại cả bài rồi dán nguyên văn cho người dùng.
 | Không dùng DB | Không PostgreSQL, không SQLite. KB vẫn là file markdown. Lý do: token tính theo chữ vào ngữ cảnh, không theo cách lưu. |
 | Giữ Opus-high | Mọi phần luận giải vẫn do `xem-tu-vi` (Opus, effort high) làm. Không chia cho Sonnet hay Haiku, không hạ effort. |
 | Loại việc chính | Luận đủ 12 cung. |
-| Chia 4 lượt | Lượt A: nền, Mệnh, Thân, quy tắc, cách cục. Xong A mới chạy **song song** B (nửa số cung còn lại), C (nửa kia), D (hạn). Script ghép thành một bài. |
-| Trích theo mã | Opus ghi `{Q:...}`, script chèn câu nguyên văn. Opus không tự chép câu trích. |
+| Chia 4 lượt | Lượt A: nền, Mệnh, Thân, quy tắc, cách cục. Xong A mới chạy **song song** B (nửa số cung còn lại), C (nửa kia), D (hạn). Script ghép thành một bài. **Thay bằng 6 lượt ở G7.** |
+| Trích theo mã | Opus ghi `{Q:...}`, script chèn câu nguyên văn. Opus không tự chép câu trích. **Bỏ ở G7** (trích ý ngắn có nhãn thay trích nguyên văn). |
 | Trả bài | Phiên chính **gửi file** kèm tóm tắt khoảng 15 dòng, không đọc rồi dán lại nguyên văn. |
 | Độ dài | Không giới hạn độ dài bài. |
 
@@ -576,6 +576,66 @@ phạm vi plan.
 
 ---
 
+## G7. Trích ý có nhãn thay trích nguyên văn, chia 6 lượt (người dùng duyệt 2026-09-24)
+
+Lý do: G6 chưa rẻ hơn cách cũ (xem `docs/bao-cao-giam-token.md`). Hai nguồn
+tốn chính là gói lượt A quá lớn (quy-tac.md 95 KB, ngữ cảnh 173 nghìn, nén 4
+lần) và việc agent tra `trich.json` để biết mã Q nói gì. Điều kiện người dùng
+đặt: **không giảm chi tiết bài**; được bỏ trích nguyên văn.
+
+### Quyết định mới (thay dòng "Chia 4 lượt" và "Trích theo mã" ở mục 2)
+
+| Quyết định | Nội dung |
+|---|---|
+| Bỏ trích nguyên văn | Bỏ mã `{Q:…}`, `trich.json`, dòng `Trích:` trong gói, `chen_trich.py`. Truy nguồn đi bài → thẻ (đường dẫn trong dòng `Nguồn:`) → mục Nguyên văn của thẻ (id khúc). |
+| Khuôn một đơn vị | Mỗi sao / cách cục / quy tắc / cung / điểm hạn: các gạch đầu dòng ý ngắn, mỗi dòng mở bằng nhãn `[TB]`/`[TL]`/`[TĐ]`/`[NPL]`/`[Claude]`; rồi dòng `**[Claude] Tổng kết:** …` chỉ gom các ý bên trên; rồi dòng `Nguồn:` liệt kê đường dẫn thẻ trong backtick. "Ngắn" là ngắn lời, **không** bớt ý: mọi gạch đầu dòng thẻ khớp lá số vẫn có mặt. |
+| `[Claude]` | Thay cụm "(suy luận của Claude, không phải nguyên văn sách)". |
+| Bỏ "Nguồn đã dùng" | Bài không còn mục 8; dòng `Nguồn:` cuối mỗi đơn vị đã làm việc đó. |
+| Chia 6 lượt | Đợt 1 song song: **A** (Mệnh, Thân, cách cục) và **R** (quy tắc toàn lá số). Đợt 2, chạy hai lượt một lúc: **B**, **C**, **E** (các cung còn lại chia ba theo kích thước), **D** (hạn). |
+
+### Ngân sách gói (`tra_cuu.py --pack`)
+
+- Ước tính token = byte / 1,755 (số đo thật ở G6) cộng 15 nghìn nền của sub-agent.
+- Gói của một lượt ≤ 60 nghìn token (không tính nền); vượt thì in `CẢNH BÁO`.
+- Mỗi file gói ≤ 45 KB (Read cắt file lớn hơn). File dài hơn được chia tại ranh
+  giới thẻ thành `<tên>-1.md`, `<tên>-2.md`…
+- Các cung còn lại chia thành 3 nhóm liên tục (B, C, E) sao cho nhóm lớn nhất
+  nhỏ nhất.
+- `phan-cong.json` thêm khoá `dot` (1 hoặc 2). B, C, E, D đọc cả
+  `../tom-tat-a.md` và `../tom-tat-r.md`.
+
+### Bài ghép (`ghep_bai.py`)
+
+Thứ tự: tiêu đề, `phan-a.md` (Cách đọc, 1, 2, 3), `phan-r.md` (`## 4. Nền
+chung toàn lá số`), `## 5. Các cung còn lại`, `phan-b.md`, `phan-c.md`,
+`phan-e.md`, `phan-a-cach-cuc.md` (`## 6.`), `phan-d.md` (`## 7.`). Không sinh
+mục Nguồn đã dùng.
+
+### Kiểm bài (`kiem_bai.py <bai.md> [--pack <dir>]`)
+
+| Mã | Loại | Kiểm |
+|---|---|---|
+| E2 | lỗi | Giữ làm lưới an toàn: nếu có blockquote `> "…" (id-khúc)` thì phải khớp nguyên văn. |
+| E3 | lỗi | Giữ nguyên: đường dẫn thẻ có trong KB, có `--pack` thì có trong gói. |
+| E5 | lỗi | Gạch đầu dòng ngoài mục "Bảng lá số"/"Cách đọc" không mở bằng nhãn nguồn hay `[Claude]` (trừ dòng nói "không có đoạn riêng"). Thay W1. |
+| E6 | lỗi | Đoạn dưới một tiêu đề có gạch đầu dòng mang nhãn sách mà thiếu dòng `[Claude] Tổng kết`, hoặc thiếu dòng `Nguồn:` có đường dẫn thẻ. |
+
+Bỏ E1 (mã Q), E4 (mục Nguồn đã dùng), cờ `--nhap`.
+
+### Hướng dẫn agent
+
+- Luật kiểm ghi thẳng vào `xem-tu-vi.md` để agent khỏi đọc mã `kiem_bai.py`.
+- Đọc hết file được giao trong lượt gọi đầu; chạy `kiem_bai.py` một lần, chỉ sửa lỗi.
+- `tom-tat-a.md`, `tom-tat-r.md`: mỗi kết luận một dòng, nêu cả nội dung
+  (quy tắc nói gì), không chỉ tên thẻ, để lượt sau khỏi mở `quy-tac-*.md`.
+- Phiên chính: lượt bị 429 thì `SendMessage` cho chạy tiếp, không gọi lại từ đầu.
+
+Kỳ vọng mỗi lượt: 5–8 lượt gọi model, ngữ cảnh lớn nhất 90–110 nghìn.
+Kiểm thử G7 **chỉ bằng script** (self-test, dựng gói lá số mẫu, kiểm bài giả);
+không gọi sub-agent cho đến khi người dùng duyệt chạy thật.
+
+---
+
 ## Bẫy đã biết
 
 - **Tý và Tỵ:** `fold()` biến cả hai thành `ty`. KB dùng `ty` cho Tý và `ti`
@@ -594,6 +654,6 @@ phạm vi plan.
 ## Khi nào dừng và hỏi (ngoài hai điểm ⛔ ở G6)
 
 - Một ca kiểm thử trong bảng G2 không thể đạt mà không làm hỏng ca khác.
-- Lượt A vượt ngân sách 110 nghìn token.
+- Lượt A vượt ngân sách 110 nghìn token (từ G7: gói một lượt vượt 60 nghìn).
 - Thấy cần sửa thẻ trong KB, dù chỉ để "sửa lỗi". Không được sửa; báo lại.
 - Thấy cần đổi một quyết định ở mục 2.
