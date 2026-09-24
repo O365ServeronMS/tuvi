@@ -82,3 +82,8 @@ trong gói trừ 7 thẻ phú nữ mệnh.
   dùng quyết lại, vì đó là quyết định đã duyệt).
 - Ghi luật W1 thẳng vào `xem-tu-vi.md` để agent khỏi đọc mã `kiem_bai.py`.
 - Chạy lại lượt C và truy nguồn 20 dòng khi có hạn mức.
+- Lượt A báo cung Sửu ghi "Quan Phủ" hai lần. Đây là lỗi hiển thị của
+  `tra_cuu.py` (tên "Quan Phủ" bỏ dấu trùng id `quan-phu` của Quan Phù), không
+  phải lỗi đọc ảnh. Một phiên khác đã sửa trong cây làm việc (chưa commit); bản
+  sửa đổi đúng 2 dòng output so với mốc ("Quan Phù, Quan Phủ"), self-test 7/7.
+  Gói `thang-pham-2026-v2` dựng trước bản sửa này.
