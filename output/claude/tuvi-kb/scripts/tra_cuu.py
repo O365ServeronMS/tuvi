@@ -54,11 +54,15 @@ def read_table(path: Path) -> list[list[str]]:
 
 def load_registry():
     stars, star_alias, star_group = {}, {}, {}
-    for r in read_table(KB / "00-index" / "stars.md"):
+    rows = read_table(KB / "00-index" / "stars.md")
+    # id đăng ký trước tên/alias: tên "Quan Phủ" (quan-phu-loc-ton) bỏ dấu trùng id quan-phu (Quan Phù)
+    for r in rows:
+        star_alias[fold(r[0])] = r[0]
+    for r in rows:
         sid, name, aliases, group = r[0], r[1], r[2], r[4]
         stars[sid] = name
         star_group[sid] = group
-        for a in [sid, name, *aliases.split(";")]:
+        for a in [name, *aliases.split(";")]:
             if a.strip():
                 star_alias.setdefault(fold(a), sid)
     palaces, palace_alias = {}, {}
