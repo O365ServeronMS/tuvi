@@ -1,39 +1,40 @@
 #!/usr/bin/env python3
-"""Kiểm bài luận giải: mã Q, trích nguyên văn, đường dẫn thẻ, mục nguồn, nhãn nguồn.
+"""Kiểm bài luận giải (khuôn G7): nhãn nguồn, tổng kết [Claude], dòng Nguồn, đường dẫn thẻ.
 
 Dùng:
-    python3 kiem_bai.py <bai.md> [--pack <pack-dir>] [--nhap]
+    python3 kiem_bai.py <bai.md> [--pack <pack-dir>]
     python3 kiem_bai.py --self-test
 
---nhap: kiểm một phần bài trước khi ghép (cho phép còn {Q:…}, không đòi mục Nguồn đã dùng).
-
-| Mã | Loại | Kiểm |
-| E1 | lỗi | Bài hoàn chỉnh còn `{Q:`; ở --nhap, mã Q không có trong trich.json (cần --pack). |
-| E2 | lỗi | Blockquote `> "…" (id-khúc)` phải khớp nguyên văn khúc. |
-| E3 | lỗi | Đường dẫn thẻ trong backtick phải có trong KB (trừ dòng nói "không có thẻ");
-|    |     | có --pack thì phải có trong gói. |
-| E4 | lỗi | Bài hoàn chỉnh phải có tiêu đề chứa "Nguồn đã dùng". |
-| W1 | cảnh báo | Gạch đầu dòng ngoài mục miễn trừ không có nhãn nguồn/ghi chú suy luận. |
-Exit 1 nếu có lỗi.
+| Mã | Kiểm |
+| E2 | Nếu có blockquote `> "…" (id-khúc)` thì phải khớp nguyên văn khúc. |
+| E3 | Đường dẫn thẻ trong backtick phải có trong KB (trừ dòng nói "không có thẻ");
+|    | có --pack thì phải có trong gói. |
+| E5 | Gạch đầu dòng ngoài mục "Bảng lá số"/"Cách đọc" phải mở bằng nhãn [TB]/[TL]/[TĐ]/[NPL]/[Claude]
+|    | (được bọc backtick hoặc in đậm), trừ dòng nói "không có đoạn riêng". |
+| E6 | Đoạn dưới một tiêu đề có gạch đầu dòng mang nhãn sách phải có dòng "[Claude] Tổng kết"
+|    | và dòng "Nguồn:" có đường dẫn thẻ. |
+Mọi mã đều là lỗi. Exit 1 nếu có lỗi.
 """
 from __future__ import annotations
 
-import json
 import re
 import sys
 import tempfile
 from pathlib import Path
 
-from kb_the import CARD_PATH_RE, KB, QUOTE_RE, Q_LINE_RE, doc_the, khop_nguyen_van
+from kb_the import CARD_PATH_RE, KB, QUOTE_RE, doc_the, khop_nguyen_van
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 BULLET_RE = re.compile(r"^(\s*)[-*+]\s+")
-LABEL_ANY_RE = re.compile(r"\[(?:TB|TL|TĐ|NPL)\]")
-Q_ANY_RE = re.compile(r"\{Q:([^{}\s]*)\}?")
+NHAN_SACH = r"\[(?:TB|TL|TĐ|NPL)\]"
+NHAN_DAU_RE = re.compile(r"^[-*+]\s+[`*]*(?:\[(?:TB|TL|TĐ|NPL|Claude)\])")
+NHAN_SACH_DAU_RE = re.compile(r"^[-*+]\s+[`*]*" + NHAN_SACH)
+TONG_KET = "[Claude] Tổng kết"
+NGUON_RE = re.compile(r"^\**Nguồn:?\**:?\s")
 BACKTICK_RE = re.compile(r"`([^`]+)`")
 KHUC_TAIL_RE = re.compile(r"\(([a-z]+#[^()\s]+)\)\s*$")
-MIEN_TRU = ("Bảng lá số", "Cách đọc", "Nguồn đã dùng")
-MIEN_NHAN = ("suy luận của Claude", "không có đoạn riêng")
+MIEN_TRU = ("Bảng lá số", "Cách đọc")
+MIEN_NHAN = ("không có đoạn riêng",)
 
 
 def the_trong_goi(pack_dir: Path) -> set[str]:
@@ -48,7 +49,7 @@ def the_trong_goi(pack_dir: Path) -> set[str]:
 
 
 def _blockquotes(lines: list[str]) -> list[tuple[int, str]]:
-    """Gom các dòng '>' liền nhau thành khối; dòng '> — thẻ …' do chen_trich thêm thì cắt khối."""
+    """Gom các dòng '>' liền nhau thành khối; dòng '> — thẻ …' hay '>' trống thì cắt khối."""
     groups: list[tuple[int, str]] = []
     start, cur = 0, []
     for n, line in enumerate(lines, 1):
@@ -104,26 +105,24 @@ def _bullets(lines: list[str]) -> list[tuple[int, str, list[str]]]:
     return [tuple(x) for x in out]
 
 
-def kiem(text: str, pack_dir: Path | None, nhap: bool) -> tuple[list[str], list[str]]:
+def _doan(lines: list[str]) -> list[tuple[int, str, list[str]]]:
+    """Chia bài theo tiêu đề: (dòng tiêu đề, tiêu đề, các dòng thân). Bỏ qua khối code."""
+    out: list[tuple[int, str, list[str]]] = [(0, "(đầu bài)", [])]
+    in_code = False
+    for n, line in enumerate(lines, 1):
+        if line.lstrip().startswith("```"):
+            in_code = not in_code
+        h = None if in_code else HEADING_RE.match(line)
+        if h:
+            out.append((n, h.group(2), []))
+        elif not in_code:
+            out[-1][2].append(line)
+    return out
+
+
+def kiem(text: str, pack_dir: Path | None) -> list[str]:
     lines = text.split("\n")
     loi: list[str] = []
-    canh_bao: list[str] = []
-    trich = None
-    if pack_dir is not None:
-        trich = json.loads((pack_dir / "trich.json").read_text(encoding="utf-8"))
-
-    # E1
-    for n, line in enumerate(lines, 1):
-        if "{Q:" not in line:
-            continue
-        if not nhap:
-            loi.append(f"E1 dòng {n}: còn mã Q chưa chèn trích")
-        elif trich is not None:
-            for q in Q_ANY_RE.findall(line):
-                if q not in trich:
-                    loi.append(f"E1 dòng {n}: mã Q không có trong trich.json: {q}")
-            if not Q_LINE_RE.match(line.strip()):
-                loi.append(f"E1 dòng {n}: mã Q phải đứng riêng một dòng")
 
     # E2
     for n, joined in _blockquotes(lines):
@@ -149,27 +148,32 @@ def kiem(text: str, pack_dir: Path | None, nhap: bool) -> tuple[list[str], list[
                 elif goi is not None and p not in goi:
                     loi.append(f"E3 dòng {n}: thẻ không có trong gói: {p}")
 
-    # E4
-    if not nhap and not any(HEADING_RE.match(l) and "Nguồn đã dùng" in l for l in lines):
-        loi.append("E4: thiếu tiêu đề chứa \"Nguồn đã dùng\"")
-
-    # W1
+    # E5
     for n, content, heads in _bullets(lines):
         if any(k in h for h in heads for k in MIEN_TRU):
             continue
-        if LABEL_ANY_RE.search(content) or any(k in content for k in MIEN_NHAN):
+        if NHAN_DAU_RE.match(content) or any(k in content for k in MIEN_NHAN):
             continue
-        canh_bao.append(f"W1 dòng {n}: gạch đầu dòng không có nhãn nguồn: {content[:80]}")
-    return loi, canh_bao
+        loi.append(f"E5 dòng {n}: gạch đầu dòng không mở bằng nhãn nguồn/[Claude]: {content[:80]}")
+
+    # E6
+    for n, tieu_de, than in _doan(lines):
+        if any(k in tieu_de for k in MIEN_TRU):
+            continue
+        if not any(NHAN_SACH_DAU_RE.match(l.strip()) for l in than):
+            continue
+        if not any(TONG_KET in l for l in than):
+            loi.append(f"E6 dòng {n}: mục \"{tieu_de[:60]}\" thiếu dòng **{TONG_KET}:**")
+        if not any(NGUON_RE.match(l.strip()) and CARD_PATH_RE.search(l) for l in than):
+            loi.append(f"E6 dòng {n}: mục \"{tieu_de[:60]}\" thiếu dòng Nguồn: có đường dẫn thẻ")
+    return loi
 
 
-def run(bai: Path, pack_dir: Path | None, nhap: bool) -> int:
-    loi, canh_bao = kiem(bai.read_text(encoding="utf-8"), pack_dir, nhap)
+def run(bai: Path, pack_dir: Path | None) -> int:
+    loi = kiem(bai.read_text(encoding="utf-8"), pack_dir)
     for x in loi:
         print(x)
-    for x in canh_bao:
-        print(x)
-    print(f"lỗi: {len(loi)}, cảnh báo: {len(canh_bao)}")
+    print(f"lỗi: {len(loi)}")
     return 1 if loi else 0
 
 
@@ -181,43 +185,53 @@ def self_test() -> int:
         pack = Path(d) / "pack"
         pack.mkdir()
         (pack / "menh.md").write_text(f"### `{the_that}` — x [đủ]\n", encoding="utf-8")
-        (pack / "trich.json").write_text(json.dumps({"20-palaces/menh-than/tham-lang#1": {
-            "the": the_that, "khuc": tr.khuc, "van": tr.van}}, ensure_ascii=False), encoding="utf-8")
 
-        hoan_chinh = "\n".join([
+        dung = "\n".join([
             "# Bài",
             "## Cách đọc bài này",
             "- chữ thường không nhãn, được miễn",
-            "## 2. Mệnh",
-            f"- `[TB]` Ý có nhãn trong backtick, dẫn `{the_that}`.",
-            "- Ý không nhãn nhưng nối dòng",
-            "  sang dòng sau vẫn không nhãn",
+            "## 2. Cung Mệnh",
+            "### 2.1. Tham Lang",
+            "- `[TB]` Ý có nhãn trong backtick.",
+            "- **[TL]** Ý có nhãn in đậm, nối dòng",
+            "  sang dòng sau.",
+            "- [Claude] Ghép hai ý trên.",
             "- Sách trong kho không có đoạn",
             "  riêng cho trường hợp này.",
             f'> "{tr.van}" ({tr.khuc})',
-            f"> — thẻ `{the_that}`",
-            f'> "Câu bịa không có trong sách." ({tr.khuc})',
-            "- [TL] dẫn thẻ không có `20-palaces/menh-than/khong-co.md`",
-            "- [TB] dẫn thẻ có trong KB nhưng ngoài gói `10-stars/tham-lang.md`",
-            "Kho không có thẻ `20-palaces/menh-than/khong-co.md` — sách không có đoạn riêng.",
-            "## 9. Nguồn đã dùng",
-            f"- `{the_that}`",
+            "",
+            "**[Claude] Tổng kết:** gom ý.",
+            "",
+            f"Nguồn: `{the_that}`",
+            "### 2.2. Tổng kết cung",
+            "- [Claude] Chỉ có suy luận thì không đòi Nguồn.",
         ])
-        loi, cb = kiem(hoan_chinh, Path(pack), nhap=False)
-        ma = sorted(x.split()[0] for x in loi)
-        if ma != ["E2", "E3", "E3"]:
-            bad.append(f"bài hoàn chỉnh: mong E2,E3,E3, được {loi}")
-        if len(cb) != 1 or "dòng 6" not in cb[0]:
-            bad.append(f"W1: mong đúng 1 cảnh báo ở dòng 6, được {cb}")
+        loi = kiem(dung, pack)
+        if loi:
+            bad.append(f"bài đúng khuôn bị báo lỗi: {loi}")
 
-        loi, _ = kiem("# x\n- [TB] a\n{Q:20-palaces/menh-than/tham-lang#1}\n", None, nhap=False)
-        if sorted(x.split()[0] for x in loi) != ["E1", "E4:"]:
-            bad.append(f"thiếu E1/E4: {loi}")
-
-        nhap = "- [TB] a\n{Q:20-palaces/menh-than/tham-lang#1}\n{Q:khong-co#1}\nxem {Q:20-palaces/menh-than/tham-lang#1} nhé\n"
-        loi, _ = kiem(nhap, Path(pack), nhap=True)
-        if len(loi) != 2 or not all(x.startswith("E1") for x in loi):
-            bad.append(f"--nhap: mong 2 lỗi E1 (mã lạ, mã lẫn dòng), được {loi}")
+        sai = "\n".join([
+            "# Bài",                                                                  # 1
+            "## 2. Cung Mệnh",                                                        # 2
+            "- Ý không nhãn",                                                         # 3
+            "- Ý có nhãn ở giữa dòng [TB] vẫn sai",                                   # 4
+            f'> "Câu bịa không có trong sách." ({tr.khuc})',                          # 5
+            "- [TL] dẫn thẻ không có `20-palaces/menh-than/khong-co.md`",             # 6
+            "- [TB] dẫn thẻ có trong KB nhưng ngoài gói `10-stars/tham-lang.md`",     # 7
+            "Kho không có thẻ `20-palaces/menh-than/khong-co.md` — sách không có đoạn riêng.",
+            "### 2.1. Thiếu cả tổng kết lẫn nguồn",                                   # 9
+            "- [TB] ý",
+            "### 2.2. Có tổng kết, dòng Nguồn không có đường dẫn thẻ",                # 11
+            "- [NPL] ý",
+            "**[Claude] Tổng kết:** x",
+            "Nguồn: sách",
+        ])
+        loi = kiem(sai, pack)
+        got = sorted(" ".join(x.split()[:3]) for x in loi)
+        want = sorted(["E5 dòng 3:", "E5 dòng 4:", "E2 dòng 5:", "E3 dòng 6:", "E3 dòng 7:",
+                       "E6 dòng 2:", "E6 dòng 2:", "E6 dòng 9:", "E6 dòng 9:", "E6 dòng 11:"])
+        if got != want:
+            bad.append(f"bài sai khuôn: mong {want}, được {got}")
     for b in bad:
         print("SAI:", b)
     print("self-test:", "đạt" if not bad else f"{len(bad)} lỗi")
@@ -230,8 +244,6 @@ def main(argv: list[str]) -> int:
             stream.reconfigure(encoding="utf-8")
     if argv == ["--self-test"]:
         return self_test()
-    nhap = "--nhap" in argv
-    argv = [a for a in argv if a != "--nhap"]
     pack = None
     if "--pack" in argv:
         k = argv.index("--pack")
@@ -243,7 +255,7 @@ def main(argv: list[str]) -> int:
     if len(argv) != 1:
         print(__doc__)
         return 2
-    return run(Path(argv[0]), pack, nhap)
+    return run(Path(argv[0]), pack)
 
 
 if __name__ == "__main__":

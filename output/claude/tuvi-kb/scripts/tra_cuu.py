@@ -196,6 +196,12 @@ def self_test() -> int:
         (n(tieu_han("ngo", "nu", "than")), "Dần"),
         # 9.1: nhị hợp Sửu-Tý, Dần-Hợi, Tỵ-Thân
         ([n(nhi_hop(1)), n(nhi_hop(2)), n(nhi_hop(5))], ["Tý", "Hợi", "Thân"]),
+        # Gói (G7): chia cung thành 3 nhóm liên tục, chia file tại ranh giới thẻ
+        (chia_nhom([5, 5, 5, 1, 1, 1, 9], 3), [2, 6]),
+        (chia_nhom([4, 4], 3), [1]),
+        ([(len(p.encode()) <= 60, p.count("### `")) for p in
+          chia_file("# T\n" + "".join(f"### `{c}.md`\n" + "z" * 20 + "\n" for c in "abc"), 60)],
+         [(True, 1)] * 3),
     ]
     bad = [(got, want) for got, want in checks if got != want]
     for got, want in bad:
@@ -459,10 +465,6 @@ DROP_SECTIONS = {
 }
 
 
-def _short_khuc(khuc: str) -> str:
-    return khuc.split("-", 1)[0]
-
-
 def fmt_stars_mieu(ctx: dict, i: int, ids) -> str:
     stars, mieu = ctx["stars"], ctx["mieu"].get(i, {})
     parts = []
@@ -473,7 +475,7 @@ def fmt_stars_mieu(ctx: dict, i: int, ids) -> str:
     return ", ".join(parts) if parts else "(không có)"
 
 
-def render_the(rel_path: str, level: str | None, ctx_the: dict | None, trich_all: dict,
+def render_the(rel_path: str, level: str | None, ctx_the: dict | None,
                 loc_bo_rows: list, seen: set) -> list[str]:
     """In một thẻ theo quy cách gói (G3). ctx_the=None: không lọc (combo/han/rule)."""
     if rel_path in seen:
@@ -505,18 +507,10 @@ def render_the(rel_path: str, level: str | None, ctx_the: dict | None, trich_all
             lines.append("(các dòng của mục này không khớp lá số — xem loc-bo.md)")
         else:
             lines.extend(f"- {d.raw}" for d in post)
-    if the.trich:
-        q_lines = []
-        for tr in the.trich:
-            qid = f"{rel_path[:-3]}#{tr.n}"
-            trich_all[qid] = {"the": rel_path, "khuc": tr.khuc, "van": tr.van}
-            q_lines.append(f"{{Q:{qid}}} {_short_khuc(tr.khuc)}")
-        lines.append("Trích: " + q_lines[0])
-        lines.extend("       " + q for q in q_lines[1:])
     return lines
 
 
-def build_palace_file(ctx: dict, sel: dict, trich_all: dict, loc_bo_rows: list) -> str:
+def build_palace_file(ctx: dict, sel: dict, loc_bo_rows: list) -> str:
     i = sel["i"]
     lines: list[str] = []
     seen: set = set()
@@ -537,17 +531,17 @@ def build_palace_file(ctx: dict, sel: dict, trich_all: dict, loc_bo_rows: list) 
         card = ctx["star_cards"].get(star_id)
         if not card:
             continue
-        lines.extend(render_the(card["path"], "đủ", ctx_the("đủ"), trich_all, loc_bo_rows, seen))
+        lines.extend(render_the(card["path"], "đủ", ctx_the("đủ"), loc_bo_rows, seen))
         lines.append("")
 
     for lvl, c in sel["hits"]:
-        lines.extend(render_the(c["path"], lvl, ctx_the(lvl), trich_all, loc_bo_rows, seen))
+        lines.extend(render_the(c["path"], lvl, ctx_the(lvl), loc_bo_rows, seen))
         lines.append("")
 
     if sel["phu"]:
         lines.append("**Phú ứng viên (sau lọc P1, P2):**\n")
         for c in sel["phu"]:
-            lines.extend(render_the(c["path"], None, ctx_the(None), trich_all, loc_bo_rows, seen))
+            lines.extend(render_the(c["path"], None, ctx_the(None), loc_bo_rows, seen))
             lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -592,15 +586,10 @@ def build_00_nen(path: Path, ctx: dict) -> str:
     lines.append("**đủ** = mọi sao của thẻ tọa thủ đồng cung; **hội chiếu** = mọi sao có mặt trong "
                   "cung + tam hợp + xung chiếu; **một phần** = thẻ liệt kê nhiều sao, chỉ một số có mặt — "
                   "PHẢI đọc mục Điều kiện, chỉ dùng gạch đầu dòng có điều kiện thật sự thỏa.\n")
-    lines.append("## Mã trích {Q:...}\n")
-    lines.append("Gói đã lọc bớt dòng chắc chắn không khớp lá số, nhưng KHÔNG tự trích nguyên văn. "
-                  "Muốn trích nguyên văn, viết một dòng riêng `{Q:<mã>}` (mã lấy từ dòng `Trích:` sau mỗi thẻ "
-                  "trong gói); script `chen_trich.py` sẽ thay bằng câu trích thật kèm id khúc. "
-                  "Không tự gõ câu trích trong ngoặc kép.\n")
     return "\n".join(lines) + "\n"
 
 
-def build_cach_cuc(sel_menh: dict, sel_than: dict, trich_all: dict, loc_bo_rows: list) -> str:
+def build_cach_cuc(sel_menh: dict, sel_than: dict, loc_bo_rows: list) -> str:
     lines = ["# Cách cục ứng viên (Mệnh, Thân)\n"]
     seen: set = set()
     combos_all = list(sel_menh["combos"])
@@ -613,21 +602,21 @@ def build_cach_cuc(sel_menh: dict, sel_than: dict, trich_all: dict, loc_bo_rows:
     if not combos_all:
         lines.append("(không có cách cục ứng viên)")
     for c in combos_all:
-        lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+        lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
-def build_quy_tac(ctx: dict, trich_all: dict, loc_bo_rows: list) -> str:
+def build_quy_tac(ctx: dict, loc_bo_rows: list) -> str:
     lines = ["# Quy tắc toàn lá số (50-rules)\n"]
     seen: set = set()
     for c in ctx["rules"]:
-        lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+        lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
-def build_han(ctx: dict, trich_all: dict, loc_bo_rows: list) -> tuple[str, int] | tuple[None, None]:
+def build_han(ctx: dict, loc_bo_rows: list) -> tuple[str, int] | tuple[None, None]:
     data, gender, chart, palaces = ctx["data"], ctx["gender"], ctx["chart"], ctx["palaces"]
     stars, han_cards = ctx["stars"], ctx["han_cards"]
     birth, year = data.get("nam_sinh"), data.get("nam_xem")
@@ -657,40 +646,87 @@ def build_han(ctx: dict, trich_all: dict, loc_bo_rows: list) -> tuple[str, int] 
         lines.append(f"\n## {name} — cung {BRANCH_NAMES[i]} ({palaces[chart[i]['palace']]}), "
                      f"sao: {fmt_stars(sorted(present), stars)}\n")
         for c in cards:
-            lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+            lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
             lines.append("")
     lines.append("\n## Thẻ hạn chung\n")
     for c in han_cards:
         if not c.get("stars"):
-            lines.extend(render_the(c["path"], None, None, trich_all, loc_bo_rows, seen))
+            lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
             lines.append("")
     return "\n".join(lines).rstrip() + "\n", year
 
 
-def diem_cat(sizes: list[int]) -> int:
-    """Điểm cắt liên tục sao cho lượt lớn hơn là nhỏ nhất; hoà thì lấy điểm gần giữa nhất."""
+BYTE_MOI_TOKEN = 1.755      # đo thật ở G6 trên output của Read
+NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, agent md)
+TRAN_GOI = 60_000           # token gói tối đa của một lượt (không tính nền)
+TRAN_FILE = 45_000          # byte tối đa một file gói; Read cắt file lớn hơn
+
+
+def chia_nhom(sizes: list[int], k: int) -> list[int]:
+    """Điểm cắt chia `sizes` thành tối đa k nhóm liên tục, nhóm lớn nhất nhỏ nhất; hoà thì nhóm đều nhất."""
     n = len(sizes)
-    if n < 2:
-        return n
-    return min(range(1, n), key=lambda k: (max(sum(sizes[:k]), sum(sizes[k:])), abs(2 * k - n)))
+    k = max(1, min(k, n))
+    best = None
+    def thu(start: int, con: int, cuts: list[int]):
+        nonlocal best
+        if con == 1:
+            cs = cuts + [n]
+            nhom = [sum(sizes[x:y]) for x, y in zip([0] + cuts, cs)]
+            key = (max(nhom), max(nhom) - min(nhom))
+            if best is None or key < best[0]:
+                best = (key, cuts)
+            return
+        for c in range(start + 1, n - con + 2):
+            thu(c, con - 1, cuts + [c])
+    thu(0, k, [])
+    return best[1] if best else []
 
 
-def build_phan_cong(ctx: dict, con_lai_pids: list[str], year: int | None, cung_sizes: list[int]) -> dict:
-    half = diem_cat(cung_sizes)
-    b_ids, c_ids = con_lai_pids[:half], con_lai_pids[half:]
-    doc_a = ["00-nen.md", "menh.md"]
-    if ctx["than"] != ctx["menh"]:
-        doc_a.append("than.md")
-    doc_a += ["quy-tac.md", "cach-cuc.md"]
+def chia_file(text: str, tran: int = TRAN_FILE) -> list[str]:
+    """Chia text tại ranh giới thẻ (dòng mở bằng "### `") sao cho mỗi phần ≤ tran byte (trừ khi một thẻ đã lớn hơn)."""
+    if len(text.encode("utf-8")) <= tran:
+        return [text]
+    khoi = text.split("\n### `")
+    dau, the_list = khoi[0], ["### `" + t for t in khoi[1:]]
+    tieu_de = dau.strip().split("\n", 1)[0]
+    parts: list[str] = []
+    cur = dau.rstrip() + "\n"
+    for t in the_list:
+        them = "\n" + t.rstrip() + "\n"
+        if len((cur + them).encode("utf-8")) > tran and "### `" in cur:
+            parts.append(cur)
+            cur = f"{tieu_de} (tiếp, phần {len(parts) + 1})\n"
+        cur += them
+    parts.append(cur)
+    return parts
+
+
+def ghi_goi(pack_dir: Path, stem: str, text: str) -> list[str]:
+    """Ghi file gói, chia thành <stem>-1.md, <stem>-2.md… nếu quá TRAN_FILE. Trả tên các file đã ghi."""
+    parts = chia_file(text)
+    names = [f"{stem}.md"] if len(parts) == 1 else [f"{stem}-{k}.md" for k in range(1, len(parts) + 1)]
+    for name, part in zip(names, parts):
+        (pack_dir / name).write_text(part, encoding="utf-8")
+    return names
+
+
+def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], year: int | None,
+                    cung_sizes: list[int]) -> dict:
+    """files: stem → tên file đã ghi (sau khi chia). Đợt 1: A, R song song; đợt 2: B, C, E, D."""
+    nen = ["00-nen.md"]
+    tom_tat = ["../tom-tat-a.md", "../tom-tat-r.md"]
+    doc_a = nen + files["menh"] + files.get("than", []) + files["cach-cuc"]
     phan_cong = {
-        "A": {"doc": doc_a, "ghi": ["phan-a.md", "phan-a-cach-cuc.md", "tom-tat-a.md"]},
-        "B": {"doc": ["00-nen.md", "../tom-tat-a.md"] + [f"cung-{pid}.md" for pid in b_ids],
-              "ghi": ["phan-b.md"], "so_bat_dau": 1},
-        "C": {"doc": ["00-nen.md", "../tom-tat-a.md"] + [f"cung-{pid}.md" for pid in c_ids],
-              "ghi": ["phan-c.md"], "so_bat_dau": half + 1},
+        "A": {"dot": 1, "doc": doc_a, "ghi": ["phan-a.md", "phan-a-cach-cuc.md", "tom-tat-a.md"]},
+        "R": {"dot": 1, "doc": nen + files["quy-tac"], "ghi": ["phan-r.md", "tom-tat-r.md"]},
     }
+    cuts = chia_nhom(cung_sizes, 3)
+    bounds = list(zip([0] + cuts, cuts + [len(con_lai_pids)]))
+    for luot, (x, y) in zip(("B", "C", "E"), bounds):
+        doc = nen + tom_tat + [f for pid in con_lai_pids[x:y] for f in files[f"cung-{pid}"]]
+        phan_cong[luot] = {"dot": 2, "doc": doc, "ghi": [f"phan-{luot.lower()}.md"], "so_bat_dau": x + 1}
     if year is not None:
-        phan_cong["D"] = {"doc": ["00-nen.md", "../tom-tat-a.md", f"han-{year}.md"], "ghi": ["phan-d.md"]}
+        phan_cong["D"] = {"dot": 2, "doc": nen + tom_tat + files[f"han-{year}"], "ghi": ["phan-d.md"]}
     return phan_cong
 
 
@@ -704,51 +740,54 @@ def write_loc_bo(path: Path, rows: list) -> None:
 
 def print_pack_report(pack_dir: Path, phan_cong: dict) -> None:
     sizes = {p.name: p.stat().st_size for p in sorted(pack_dir.glob("*.md"))}
-    print("| File | Byte | Token ước tính |")
+    print(f"| File | Byte | Token ước tính (byte/{BYTE_MOI_TOKEN}) |")
     print("|---|---|---|")
     for name, b in sizes.items():
-        print(f"| {name} | {b} | {round(b / 1.9)} |")
+        warn = f" CẢNH BÁO: file > {TRAN_FILE} byte" if b > TRAN_FILE and name != "loc-bo.md" else ""
+        print(f"| {name} | {b} | {round(b / BYTE_MOI_TOKEN)} |{warn}")
     print()
     for luot, info in phan_cong.items():
         total = sum(sizes.get(d.split("/")[-1], 0) for d in info["doc"])
-        tok = round(total / 1.9)
-        warn = "  CẢNH BÁO: vượt 110 nghìn token ước tính" if tok > 110_000 else ""
-        print(f"Lượt {luot}: {total} byte, ~{tok} token ước tính{warn}")
+        tok = round(total / BYTE_MOI_TOKEN)
+        warn = f"  CẢNH BÁO: gói vượt {TRAN_GOI} token" if tok > TRAN_GOI else ""
+        print(f"Lượt {luot} (đợt {info['dot']}): {total} byte, ~{tok} token gói + {NEN_SUB_AGENT} nền"
+              f" (chưa tính tom-tat){warn}")
 
 
 def pack(path: Path, out_dir: Path) -> int:
     ctx = build_context(path)
     pack_dir = out_dir / "pack"
     pack_dir.mkdir(parents=True, exist_ok=True)
-    trich_all: dict[str, dict] = {}
+    for old in list(pack_dir.glob("*.md")) + list(pack_dir.glob("*.json")):
+        old.unlink()  # gói sinh tự động; xoá bản cũ để khỏi sót file đã đổi tên (quy-tac.md, trich.json)
     loc_bo_rows: list = []
+    files: dict[str, list[str]] = {}
 
     menh, than = ctx["menh"], ctx["than"]
     sel_menh = select_palace(ctx, menh)
     sel_than = select_palace(ctx, than) if than != menh else sel_menh
 
     (pack_dir / "00-nen.md").write_text(build_00_nen(path, ctx), encoding="utf-8")
-    (pack_dir / "menh.md").write_text(build_palace_file(ctx, sel_menh, trich_all, loc_bo_rows), encoding="utf-8")
+    files["menh"] = ghi_goi(pack_dir, "menh", build_palace_file(ctx, sel_menh, loc_bo_rows))
     if than != menh:
-        (pack_dir / "than.md").write_text(build_palace_file(ctx, sel_than, trich_all, loc_bo_rows), encoding="utf-8")
+        files["than"] = ghi_goi(pack_dir, "than", build_palace_file(ctx, sel_than, loc_bo_rows))
 
     than_pid = ctx["chart"][than]["palace"]
     con_lai_pids = [pid for pid in PALACE_ORDER[1:] if pid != than_pid]
     for pid in con_lai_pids:
         i = (menh + PALACE_ORDER.index(pid)) % 12
         sel = select_palace(ctx, i)
-        (pack_dir / f"cung-{pid}.md").write_text(build_palace_file(ctx, sel, trich_all, loc_bo_rows), encoding="utf-8")
+        files[f"cung-{pid}"] = ghi_goi(pack_dir, f"cung-{pid}", build_palace_file(ctx, sel, loc_bo_rows))
 
-    (pack_dir / "cach-cuc.md").write_text(build_cach_cuc(sel_menh, sel_than, trich_all, loc_bo_rows), encoding="utf-8")
-    (pack_dir / "quy-tac.md").write_text(build_quy_tac(ctx, trich_all, loc_bo_rows), encoding="utf-8")
+    files["cach-cuc"] = ghi_goi(pack_dir, "cach-cuc", build_cach_cuc(sel_menh, sel_than, loc_bo_rows))
+    files["quy-tac"] = ghi_goi(pack_dir, "quy-tac", build_quy_tac(ctx, loc_bo_rows))
 
-    han_text, year = build_han(ctx, trich_all, loc_bo_rows)
+    han_text, year = build_han(ctx, loc_bo_rows)
     if han_text is not None:
-        (pack_dir / f"han-{year}.md").write_text(han_text, encoding="utf-8")
+        files[f"han-{year}"] = ghi_goi(pack_dir, f"han-{year}", han_text)
 
-    (pack_dir / "trich.json").write_text(json.dumps(trich_all, ensure_ascii=False, indent=1), encoding="utf-8")
-    cung_sizes = [(pack_dir / f"cung-{pid}.md").stat().st_size for pid in con_lai_pids]
-    phan_cong = build_phan_cong(ctx, con_lai_pids, year, cung_sizes)
+    cung_sizes = [sum((pack_dir / f).stat().st_size for f in files[f"cung-{pid}"]) for pid in con_lai_pids]
+    phan_cong = build_phan_cong(files, con_lai_pids, year, cung_sizes)
     (pack_dir / "phan-cong.json").write_text(json.dumps(phan_cong, ensure_ascii=False, indent=1), encoding="utf-8")
     write_loc_bo(pack_dir / "loc-bo.md", loc_bo_rows)
 
@@ -757,11 +796,10 @@ def pack(path: Path, out_dir: Path) -> int:
 
 
 CARD_REF_RE = re.compile(r"`((?:10-stars|20-palaces|30-combos|40-han|50-rules|60-phu)/[^`]+\.md)`")
-Q_RE = re.compile(r"\{Q:([0-9]{2}-[^}]+)\}")
 
 
 def kiem_pack(path: Path, out_dir: Path) -> int:
-    """So tập thẻ report() với gói; mọi thẻ thiếu phải là phú đã ghi loc-bo.md; mọi mã Q có trong trich.json."""
+    """So tập thẻ report() với gói; mọi thẻ thiếu phải là phú đã ghi loc-bo.md; mọi file phan-cong.json có thật."""
     pack_dir = out_dir / "pack"
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
@@ -770,7 +808,7 @@ def kiem_pack(path: Path, out_dir: Path) -> int:
     pack_text = "\n".join(p.read_text(encoding="utf-8") for p in pack_dir.glob("*.md") if p.name != "loc-bo.md")
     pack_paths = set(CARD_REF_RE.findall(pack_text))
     loc_bo = (pack_dir / "loc-bo.md").read_text(encoding="utf-8")
-    trich = json.loads((pack_dir / "trich.json").read_text(encoding="utf-8"))
+    phan_cong = json.loads((pack_dir / "phan-cong.json").read_text(encoding="utf-8"))
 
     loi = []
     for p in sorted(report_paths - pack_paths):
@@ -778,13 +816,18 @@ def kiem_pack(path: Path, out_dir: Path) -> int:
             loi.append(f"thẻ report() có mà gói thiếu (không phải phú đã lọc): {p}")
     for p in sorted(pack_paths - report_paths):
         loi.append(f"thẻ trong gói mà report() không liệt kê: {p}")
-    for q in sorted(set(Q_RE.findall(pack_text)) - set(trich)):
-        loi.append(f"mã Q thiếu trong trich.json: {q}")
+    for luot, info in phan_cong.items():
+        for d in info["doc"]:
+            if not d.startswith("../") and not (pack_dir / d).is_file():
+                loi.append(f"lượt {luot} được giao file không có: {d}")
+    giao = {d for info in phan_cong.values() for d in info["doc"]}
+    for p in sorted(pack_dir.glob("*.md")):
+        if p.name != "loc-bo.md" and p.name not in giao:
+            loi.append(f"file gói không giao cho lượt nào: {p.name}")
     for l in loi:
         print("SAI:", l)
     phu_loc = len([p for p in report_paths - pack_paths if p.startswith("60-phu/")])
-    print(f"thẻ report(): {len(report_paths)}, thẻ gói: {len(pack_paths)}, phú đã lọc: {phu_loc}, "
-          f"mã Q: {len(set(Q_RE.findall(pack_text)))}, lỗi: {len(loi)}")
+    print(f"thẻ report(): {len(report_paths)}, thẻ gói: {len(pack_paths)}, phú đã lọc: {phu_loc}, lỗi: {len(loi)}")
     return 1 if loi else 0
 
 

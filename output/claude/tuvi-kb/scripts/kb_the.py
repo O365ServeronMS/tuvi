@@ -2,7 +2,7 @@
 """Thư viện đọc thẻ tuvi-kb: parse thẻ thành dữ liệu có cấu trúc, lọc gạch đầu
 dòng chắc chắn không khớp lá số (G2), và kiểm trích nguyên văn.
 
-`tra_cuu.py`, `chen_trich.py`, `kiem_bai.py` đều import module này (cùng thư
+`tra_cuu.py`, `kiem_bai.py` đều import module này (cùng thư
 mục, `sys.path[0]` là thư mục chứa script khi chạy trực tiếp). Không import gì
 từ `scripts/` ở gốc repo, để `output/claude/tuvi-kb/` tự chứa — một số hàm bên
 dưới là bản chép từ `scripts/tuvi_kb_common.py` và `scripts/validate_kb.py`,
@@ -84,9 +84,7 @@ BULLET_START_RE = re.compile(r"^[-+*]\s+(.*)$")
 LABEL_RE = re.compile(r"^\[(TB|TL|TĐ|NPL)\]\s*(.*)$")
 QUOTE_RE = re.compile(r'^["“](.+)["”]\s*\(([^()\s]+)\)\s*$', re.S)
 ELLIPSIS_SPLIT_RE = re.compile(r"\s*(?:\[\.\.\.\]|\[…\]|\.\.\.|…)\s*")
-CARD_DIRS = ("10-stars", "20-palaces", "30-combos", "40-han", "50-rules", "60-phu")
 CARD_PATH_RE = re.compile(r"(?:10-stars|20-palaces|30-combos|40-han|50-rules|60-phu)/[^` ]+\.md")
-Q_LINE_RE = re.compile(r"^\{Q:([^{}\s]+)\}$")
 
 
 @dataclass
