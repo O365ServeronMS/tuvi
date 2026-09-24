@@ -19,7 +19,8 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
 | `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho 6 lượt sub-agent. Không luận giải. |
-| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py` | Ghép các phần bài; kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật). `kb_the.py` là thư viện chung. |
+| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py` | Ghép các phần bài; kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật); lấy mẫu gạch đầu dòng cho `kiem-nguon`. `kb_the.py` là thư viện chung. |
+| `.claude/agents/` | `xem-tu-vi` (Opus high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
 | `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
@@ -70,11 +71,17 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    ```
    `kiem_bai.py` báo lỗi thì `SendMessage` cho đúng agent của phần có lỗi để nó
    sửa rồi chạy lại hai lệnh. Không tự sửa nội dung luận giải.
-5. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
-   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md`, `$D/tom-tat-r.md`
-   và báo cáo của các lượt. **Không** đọc cả bài rồi dán lại vào chat — bài nằm
+5. Kiểm truy nguồn: `kiem_bai.py` ra `lỗi: 0` thì gọi `kiem-nguon` (Sonnet) với
+   đường dẫn bài, `$D/pack/` và số mẫu (mặc định 25). Nó ghi `$D/kiem-nguon.md`
+   và trả danh sách mẫu không khớp. Có mẫu `lệch ý`/`sai nhãn`/`sai điều
+   kiện`/`không thấy` thì `SendMessage` cho lượt `xem-tu-vi` đã viết mục đó (xem
+   số mục 2.x/4.x/5.x/6/7) để sửa, rồi ghép và kiểm lại. Agent đã hết phiên thì
+   báo người dùng kèm danh sách, không tự sửa.
+6. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
+   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md`, `$D/tom-tat-r.md`,
+   báo cáo của các lượt và dòng tổng của `$D/kiem-nguon.md`. **Không** đọc cả bài rồi dán lại vào chat — bài nằm
    trong file .md, độ dài không giới hạn.
-6. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
+7. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
    được hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ
    C, E), cộng D nếu có hỏi hạn.
 
@@ -83,8 +90,11 @@ mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục th�
 thuẫn giữa hai sách thuộc về nó.
 
 Người dùng chỉ hỏi một cung, một câu phú, hay "sao X ở cung Y nghĩa là gì" mà
-không có lá số thì trả lời thẳng trong phiên chính bằng cách đọc thẻ tương ứng
-(tra qua `00-index/lookup.md`), vẫn giữ nguyên các ràng buộc nguồn bên dưới.
+không có lá số thì giao cho sub-agent `tra-the` (Sonnet): prompt là nguyên câu
+hỏi, kèm giới tính/miếu hãm nếu người dùng đã nói. Nó tra `00-index/lookup*.md`,
+đọc thẻ và trả lời có nhãn nguồn; phiên chính chuyển lại câu trả lời, không
+thêm ý ngoài thẻ. Câu hỏi nối tiếp rất ngắn về chính thẻ vừa tra thì phiên
+chính được trả lời thẳng từ câu trả lời đó, vẫn giữ các ràng buộc nguồn bên dưới.
 
 ## Ràng buộc nguồn (áp dụng cho mọi câu nói về Tử Vi trong repo này)
 
@@ -125,6 +135,7 @@ PYTHONIOENCODING=utf-8 python3 $S/tra_cuu.py --kiem-pack output/luan-giai/la-so.
 PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py $D/phan-a.md --pack $D/pack               # kiểm một phần
 PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D output/luan-giai/la-so-2026.md
 PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py output/luan-giai/la-so-2026.md --pack $D/pack
+PYTHONIOENCODING=utf-8 python3 $S/lay_mau_nguon.py output/luan-giai/la-so-2026.md --so 25  # mẫu cho kiem-nguon
 # Mỗi script trên đều có --self-test
 
 # Bảo trì KB

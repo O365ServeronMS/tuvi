@@ -634,6 +634,28 @@ Kỳ vọng mỗi lượt: 5–8 lượt gọi model, ngữ cảnh lớn nhất 
 Kiểm thử G7 **chỉ bằng script** (self-test, dựng gói lá số mẫu, kiểm bài giả);
 không gọi sub-agent cho đến khi người dùng duyệt chạy thật.
 
+## G8. Sub-agent Sonnet cho việc nhẹ (người dùng duyệt 2026-09-24)
+
+Người dùng đã xét lại effort và **chốt giữ `xem-tu-vi` là Opus high cho cả 6
+lượt**. Không hạ effort, không đưa phần luận giải sang Sonnet.
+
+Thêm hai sub-agent Sonnet, effort medium:
+
+| Agent | Việc | Đầu vào → đầu ra |
+|---|---|---|
+| `kiem-nguon` | Kiểm nội dung bài đã ghép: lấy mẫu gạch đầu dòng `[TB]`/`[TL]`, mở thẻ ở dòng `Nguồn:`, xếp loại khớp / lệch ý / sai nhãn / sai điều kiện / không thấy. Chỉ báo cáo. | Bài, `pack/`, số mẫu (25) → `<D>/kiem-nguon.md`, danh sách mẫu không khớp. Thay mục "truy nguồn 20 dòng" G6 còn nợ. |
+| `tra-the` | Câu hỏi lẻ không có lá số (sao ở cung, câu phú, cách cục, quy tắc). | Câu hỏi → trả lời có nhãn, `[Claude] Tổng kết`, dòng `Nguồn:`. Không có tool ghi. |
+
+Script mới `output/claude/tuvi-kb/scripts/lay_mau_nguon.py <bai.md> [--so N]`:
+chọn đều (tất định) các gạch đầu dòng mang nhãn sách, mỗi mục `##` ít nhất một
+mẫu, in kèm thẻ ở dòng `Nguồn:` của đơn vị — để `kiem-nguon` không phải đọc cả
+bài. Tái dùng `_bullets`, `_doan` của `kiem_bai.py`.
+
+`CLAUDE.md` Bước B thêm bước 5 (gọi `kiem-nguon` sau khi `kiem_bai` ra lỗi 0;
+mẫu không khớp thì `SendMessage` cho lượt viết mục đó). Câu hỏi lẻ giao
+`tra-the` thay vì phiên chính tự đọc thẻ. Kiểm thử bằng self-test script,
+không gọi sub-agent.
+
 ---
 
 ## Bẫy đã biết
