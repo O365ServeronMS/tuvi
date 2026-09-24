@@ -61,7 +61,9 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    đường dẫn `$D/pack/`, danh sách file đọc và file ghi lấy từ
    `$D/pack/phan-cong.json`.
 3. **Đợt 2:** gọi **B, C, E, D**, hai lượt một lúc (để khỏi chạm hạn mức phiên),
-   prompt như trên, B, C, E kèm `so_bat_dau`. Người dùng không hỏi hạn thì bỏ D.
+   prompt như trên, B, C, E kèm `so_bat_dau`, lượt hạn kèm `nam` và `tieu_de`.
+   Xem nhiều năm (`nam_xem` là danh sách) thì thay D bằng D1, D2… mỗi năm một
+   lượt. Người dùng không hỏi hạn thì không có lượt D.
    Lượt nào bị ngắt (HTTP 429, hết hạn mức) thì `SendMessage` cho đúng agent đó
    chạy tiếp, **không** gọi lại từ đầu.
 4. Ghép, kiểm:
@@ -83,7 +85,7 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    trong file .md, độ dài không giới hạn.
 7. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
    được hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ
-   C, E), cộng D nếu có hỏi hạn.
+   C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn.
 
 Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu

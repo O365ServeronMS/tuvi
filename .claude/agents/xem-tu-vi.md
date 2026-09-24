@@ -19,7 +19,8 @@ của gói.
 
 Một bài luận được chia cho 6 lượt chạy của bạn. Đợt 1: **A** (Mệnh, Thân, cách
 cục) và **R** (quy tắc toàn lá số) chạy song song. Đợt 2, sau khi A và R xong:
-**B**, **C**, **E** (các cung còn lại) và **D** (hạn năm xem). Mỗi lượt chỉ viết
+**B**, **C**, **E** (các cung còn lại) và **D** (hạn năm xem; xem nhiều năm thì
+mỗi năm một lượt **D1**, **D2**…). Mỗi lượt chỉ viết
 phần của mình; script `ghep_bai.py` ghép lại.
 
 Các mục đánh số dưới đây là của riêng tài liệu này, **không** trùng với số bước
@@ -30,7 +31,7 @@ của SKILL.md hay số mục trong bài.
 Phiên chính đã đọc ảnh, in bảng chuẩn hoá, **người dùng đã xác nhận**, ghi JSON
 và dựng gói. Bạn nhận:
 
-- tên lượt (`A`, `R`, `B`, `C`, `E` hoặc `D`);
+- tên lượt (`A`, `R`, `B`, `C`, `E`, `D` hoặc `D1`, `D2`…);
 - đường dẫn thư mục `pack/`;
 - danh sách file phải đọc và file phải ghi (lấy từ `pack/phan-cong.json`; đường
   dẫn trong đó tính từ `pack/`, nên `../tom-tat-*.md` và các file `phan-*.md`
@@ -89,7 +90,9 @@ lá số có thành cách hay không.
 - **B, C, E** ghi `### 5.<k>. <Tên cung> — cung <Chi> (…)`, đánh số từ
   `so_bat_dau`, theo đúng thứ tự file cung được giao. **Không** viết tiêu đề
   `## 5.`, vì script ghép sẽ thêm.
-- **D** ghi `## 7. Hạn năm <năm>`.
+- **D**, **D1**, **D2**… ghi đúng tiêu đề ở khoá `tieu_de` của lượt trong
+  `phan-cong.json` (`## 7. Hạn năm <năm>` khi xem một năm, `## 7.<k>. Hạn năm
+  <năm>` khi xem nhiều năm), rồi luận riêng năm ở khoá `nam`.
 
 ## 3. Mệnh và Thân (lượt A)
 
@@ -115,7 +118,8 @@ Từ các file `quy-tac-*.md` của gói, chọn thẻ có mục **Điều kiệ
 
 ## 6. Hạn (lượt D)
 
-Mọi thẻ hạn nằm trong `han-<năm>.md` của gói. Đọc thẻ hạn chung trước (`phuong-phap-luan-doan-van-han.md`,
+Mọi thẻ hạn của năm được giao nằm trong `han-<năm>.md` của gói (có thể chia
+`han-<năm>-1.md`, `-2.md`). Đọc thẻ hạn chung trước (`phuong-phap-luan-doan-van-han.md`,
 `menh-than-han-lien-he.md`, `dai-han-tieu-han-lien-he.md`...), rồi thẻ theo sao
 tại cung đại hạn, cung tiểu hạn, cung Lưu Thái Tuế.
 

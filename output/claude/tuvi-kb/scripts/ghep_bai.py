@@ -7,7 +7,8 @@ Dùng:
 
 Thứ tự ghép (cách nhau bằng `---`): tiêu đề, phan-a.md (Cách đọc, 1, 2, 3),
 phan-r.md (4), `## 5. Các cung còn lại`, phan-b.md, phan-c.md, phan-e.md,
-phan-a-cach-cuc.md (6), phan-d.md (7). Thiếu phần nào thì cảnh báo và ghép phần
+phan-a-cach-cuc.md (6), phan-d.md (7, một năm) hoặc phan-d-<năm>.md theo năm tăng
+dần (7.1, 7.2…, nhiều năm). Thiếu phần nào thì cảnh báo và ghép phần
 còn lại. Không sinh mục Nguồn đã dùng: mỗi đơn vị trong bài đã có dòng `Nguồn:`.
 """
 from __future__ import annotations
@@ -17,7 +18,7 @@ import tempfile
 from pathlib import Path
 
 PHAN = ("phan-a.md", "phan-r.md", "@5", "phan-b.md", "phan-c.md", "phan-e.md",
-        "phan-a-cach-cuc.md", "phan-d.md")
+        "phan-a-cach-cuc.md", "@d")
 
 
 def ghep(bai_dir: Path) -> tuple[str, list[str]]:
@@ -26,6 +27,14 @@ def ghep(bai_dir: Path) -> tuple[str, list[str]]:
     for p in PHAN:
         if p == "@5":
             khoi.append("## 5. Các cung còn lại")
+            continue
+        if p == "@d":
+            han = sorted(bai_dir.glob("phan-d-*.md")) or [bai_dir / "phan-d.md"]
+            for f in han:
+                if f.is_file():
+                    khoi.append(f.read_text(encoding="utf-8").strip())
+                else:
+                    canh_bao.append(f"thiếu {f.name} — bỏ qua phần này")
             continue
         f = bai_dir / p
         if not f.is_file():
@@ -66,6 +75,13 @@ def self_test() -> int:
             bad.append(f"số dấu --- sai: {text.count(chr(10) + '---' + chr(10))}")
         if "Nguồn đã dùng" in text:
             bad.append("còn sinh mục Nguồn đã dùng")
+        (d / "phan-d.md").unlink()
+        (d / "phan-d-2027.md").write_text("## 7.2. Hạn năm 2027\n", encoding="utf-8")
+        (d / "phan-d-2026.md").write_text("## 7.1. Hạn năm 2026\n", encoding="utf-8")
+        text2, _ = ghep(d)
+        if not (-1 < text2.find("## 7.1. Hạn năm 2026") < text2.find("## 7.2. Hạn năm 2027")):
+            bad.append("ghép nhiều năm hạn sai thứ tự")
+        text = text2
         out = d / "ra.md"
         if run(d, out) != 0 or out.read_text(encoding="utf-8") != text:
             bad.append("run() ghi file khác ghep()")

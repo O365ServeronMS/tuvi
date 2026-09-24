@@ -173,6 +173,13 @@ def luu_stars(stem: str, branch: str) -> dict[str, int]:
     }
 
 
+def nam_xem_list(data: dict) -> list[int]:
+    """`nam_xem` là một năm (số nguyên) hoặc danh sách năm; trả danh sách năm tăng dần, không trùng."""
+    v = data.get("nam_xem")
+    ds = [v] if isinstance(v, int) else v if isinstance(v, list) else []
+    return sorted({y for y in ds if isinstance(y, int) and not isinstance(y, bool)})
+
+
 def tieu_han(birth_branch: str, gender: str, year_branch: str) -> int:
     start = {0: "tuat", 2: "thin", 1: "mui", 3: "suu"}[BRANCHES.index(birth_branch) % 4]
     step = 1 if gender == "nam" else -1
@@ -412,10 +419,12 @@ def report(path: Path) -> int:
 
     # ---------- hạn ----------
     w("\n## Hạn\n")
-    birth, year = data.get("nam_sinh"), data.get("nam_xem")
-    if not (isinstance(birth, int) and isinstance(year, int)):
-        w("Chưa có `nam_sinh` và `nam_xem` (năm âm lịch, số nguyên) — hỏi người dùng muốn xem hạn năm nào.")
-    else:
+    birth, years = data.get("nam_sinh"), nam_xem_list(data)
+    if not (isinstance(birth, int) and years):
+        w("Chưa có `nam_sinh` và `nam_xem` (năm âm lịch, số nguyên hoặc danh sách) — hỏi người dùng muốn xem hạn năm nào.")
+    for year in years if isinstance(birth, int) else []:
+        if len(years) > 1:
+            w(f"\n### Năm {year}\n")
         age = year - birth + 1
         bs, bb = can_chi(birth)
         ys, yb = can_chi(year)
@@ -559,11 +568,11 @@ def build_00_nen(path: Path, ctx: dict) -> str:
     stars = ctx["stars"]
     lines = [f"# Nền — lá số `{path.name}`\n"]
     lines.append(f"- Giới tính: {gender}")
-    birth, year = data.get("nam_sinh"), data.get("nam_xem")
+    birth = data.get("nam_sinh")
     if isinstance(birth, int):
         bs, bb = can_chi(birth)
         lines.append(f"- Năm sinh (âm lịch): {STEM_NAMES[STEMS.index(bs)]} {BRANCH_NAMES[BRANCHES.index(bb)]} ({birth})")
-    if isinstance(birth, int) and isinstance(year, int):
+    for year in nam_xem_list(data) if isinstance(birth, int) else []:
         ys, yb = can_chi(year)
         lines.append(f"- Năm xem hạn: {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]} ({year}); "
                       f"tuổi âm {year - birth + 1}")
@@ -623,16 +632,16 @@ def build_quy_tac(ctx: dict, loc_bo_rows: list) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def build_han(ctx: dict, loc_bo_rows: list) -> tuple[str, int] | tuple[None, None]:
+def build_han(ctx: dict, loc_bo_rows: list, year: int) -> str | None:
     data, gender, chart, palaces = ctx["data"], ctx["gender"], ctx["chart"], ctx["palaces"]
     stars, han_cards = ctx["stars"], ctx["han_cards"]
-    birth, year = data.get("nam_sinh"), data.get("nam_xem")
-    if not (isinstance(birth, int) and isinstance(year, int)):
-        return None, None
+    birth = data.get("nam_sinh")
+    if not isinstance(birth, int):
+        return None
     age = year - birth + 1
     bs, bb = can_chi(birth)
     ys, yb = can_chi(year)
-    lines = ["# Hạn\n"]
+    lines = [f"# Hạn năm {year}\n"]
     lines.append(f"- Sinh năm {STEM_NAMES[STEMS.index(bs)]} {BRANCH_NAMES[BRANCHES.index(bb)]}; "
                  f"xem năm {STEM_NAMES[STEMS.index(ys)]} {BRANCH_NAMES[BRANCHES.index(yb)]}; tuổi âm {age}.")
     dh = next((i for i in range(12) if isinstance(chart[i]["dai_han"], int)
@@ -660,12 +669,12 @@ def build_han(ctx: dict, loc_bo_rows: list) -> tuple[str, int] | tuple[None, Non
         if not c.get("stars"):
             lines.extend(render_the(c["path"], None, None, loc_bo_rows, seen))
             lines.append("")
-    return "\n".join(lines).rstrip() + "\n", year
+    return "\n".join(lines).rstrip() + "\n"
 
 
 BYTE_MOI_TOKEN = 1.755      # đo thật ở G6 trên output của Read
 NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, agent md)
-TRAN_GOI = 60_000           # token gói tối đa của một lượt (không tính nền)
+TRAN_GOI = 70_000           # token gói tối đa của một lượt (không tính nền)
 TRAN_FILE = 45_000          # byte tối đa một file gói; Read cắt file lớn hơn
 TOM_TAT_UOC = 6_000         # byte ước tính một file tom-tat-*.md (lượt đợt 1 viết, chưa có lúc dựng gói)
 
@@ -718,9 +727,10 @@ def ghi_goi(pack_dir: Path, stem: str, text: str) -> list[str]:
     return names
 
 
-def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], year: int | None,
+def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], years: list[int],
                     cung_sizes: list[int]) -> dict:
-    """files: stem → tên file đã ghi (sau khi chia). Đợt 1: A, R song song; đợt 2: B, C, E, D."""
+    """files: stem → tên file đã ghi (sau khi chia). Đợt 1: A, R song song; đợt 2: B, C, E và D (một năm)
+    hoặc D1, D2… (mỗi năm xem một lượt, ghi phan-d-<năm>.md, tiêu đề ## 7.k.)."""
     nen = ["00-nen.md"]
     tom_tat = ["../tom-tat-a.md", "../tom-tat-r.md"]
     doc_a = nen + files["menh"] + files.get("than", []) + files["cach-cuc"]
@@ -733,8 +743,13 @@ def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], year: 
     for luot, (x, y) in zip(("B", "C", "E"), bounds):
         doc = nen + tom_tat + [f for pid in con_lai_pids[x:y] for f in files[f"cung-{pid}"]]
         phan_cong[luot] = {"dot": 2, "doc": doc, "ghi": [f"phan-{luot.lower()}.md"], "so_bat_dau": x + 1}
-    if year is not None:
-        phan_cong["D"] = {"dot": 2, "doc": nen + tom_tat + files[f"han-{year}"], "ghi": ["phan-d.md"]}
+    for k, year in enumerate(years, 1):
+        if len(years) == 1:
+            luot, ghi, tieu_de = "D", "phan-d.md", f"## 7. Hạn năm {year}"
+        else:
+            luot, ghi, tieu_de = f"D{k}", f"phan-d-{year}.md", f"## 7.{k}. Hạn năm {year}"
+        phan_cong[luot] = {"dot": 2, "doc": nen + tom_tat + files[f"han-{year}"], "ghi": [ghi],
+                           "nam": year, "tieu_de": tieu_de}
     return phan_cong
 
 
@@ -792,12 +807,12 @@ def pack(path: Path, out_dir: Path) -> int:
     files["cach-cuc"] = ghi_goi(pack_dir, "cach-cuc", build_cach_cuc(sel_menh, sel_than, loc_bo_rows))
     files["quy-tac"] = ghi_goi(pack_dir, "quy-tac", build_quy_tac(ctx, loc_bo_rows))
 
-    han_text, year = build_han(ctx, loc_bo_rows)
-    if han_text is not None:
-        files[f"han-{year}"] = ghi_goi(pack_dir, f"han-{year}", han_text)
+    years = nam_xem_list(ctx["data"]) if isinstance(ctx["data"].get("nam_sinh"), int) else []
+    for year in years:
+        files[f"han-{year}"] = ghi_goi(pack_dir, f"han-{year}", build_han(ctx, loc_bo_rows, year))
 
     cung_sizes = [sum((pack_dir / f).stat().st_size for f in files[f"cung-{pid}"]) for pid in con_lai_pids]
-    phan_cong = build_phan_cong(files, con_lai_pids, year, cung_sizes)
+    phan_cong = build_phan_cong(files, con_lai_pids, years, cung_sizes)
     (pack_dir / "phan-cong.json").write_text(json.dumps(phan_cong, ensure_ascii=False, indent=1), encoding="utf-8")
     write_loc_bo(pack_dir / "loc-bo.md", loc_bo_rows)
 

@@ -64,6 +64,8 @@ Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-
   đủ); miếu/hãm ghi sau dấu `:`. Tuần/Triệt ghi `tuan`/`triet` ở **cả hai**
   cung bị án. Không ghi sao lưu (script tự an theo `nam_xem`).
 - `nam_sinh`, `nam_xem`: năm âm lịch dạng số (sinh trước Tết thì lấy năm trước).
+  Xem hạn nhiều năm thì `nam_xem` là danh sách, ví dụ `[2026, 2027]`: gói có một
+  `han-<năm>.md` và một lượt `D1`, `D2`… cho mỗi năm.
 
 Chạy (Python 3, không cần thư viện):
 
@@ -163,10 +165,12 @@ nguyên; chỉ phần đọc lặp lại là bớt đi.
    `quy-tac-*.md`, `cach-cuc.md`, `han-<năm>.md`, `phan-cong.json` (lượt nào
    đọc file nào, ghi file nào, đợt mấy), `loc-bo.md` (dòng đã lọc và lý do).
    File nào quá 45 KB được chia tại ranh giới thẻ thành `-1`, `-2`…. Có
-   `CẢNH BÁO` ngân sách (gói một lượt quá 60 nghìn token) thì báo người dùng.
+   `CẢNH BÁO` ngân sách (gói một lượt quá 70 nghìn token, đã tính hai file
+   tóm tắt) thì báo người dùng.
 2. **Viết theo lượt**, theo `phan-cong.json`. Đợt 1: **A** (Mệnh, Thân, cách
    cục, `tom-tat-a.md`) và **R** (quy tắc toàn lá số, `tom-tat-r.md`). Đợt 2:
-   **B**, **C**, **E** (các cung còn lại, mục 5.x) và **D** (hạn), đọc hai file
+   **B**, **C**, **E** (các cung còn lại, mục 5.x) và **D** (hạn; nhiều năm thì
+   **D1**, **D2**…, mục 7.1, 7.2…), đọc hai file
    tóm tắt làm nền. Mỗi lượt chỉ đọc file trong gói, không mở thẻ gốc. Dòng
    còn lại trong gói vẫn phải kiểm điều kiện theo ràng buộc 4.
 3. **Khuôn viết:** như Bước 7 — ý rút gọn có nhãn, `**[Claude] Tổng kết:**`,

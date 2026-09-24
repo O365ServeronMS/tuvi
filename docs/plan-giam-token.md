@@ -597,6 +597,10 @@ lần) và việc agent tra `trich.json` để biết mã Q nói gì. Điều ki
 
 - Ước tính token = byte / 1,755 (số đo thật ở G6) cộng 15 nghìn nền của sub-agent.
 - Gói của một lượt ≤ 60 nghìn token (không tính nền); vượt thì in `CẢNH BÁO`.
+  Sau audit luồng (2026-09-24): tính cả hai file tóm tắt (ước 6 KB/file), trần
+  nâng lên 70 nghìn; `nam_xem` nhận danh sách năm, mỗi năm một lượt D1, D2…
+  ghi `phan-d-<năm>.md`, tiêu đề `## 7.<k>.`; cung Vô Chính Diệu kèm thẻ
+  `30-combos/vo-chinh-dieu.md`.
 - Mỗi file gói ≤ 45 KB (Read cắt file lớn hơn). File dài hơn được chia tại ranh
   giới thẻ thành `<tên>-1.md`, `<tên>-2.md`…
 - Các cung còn lại chia thành 3 nhóm liên tục (B, C, E) sao cho nhóm lớn nhất
@@ -676,6 +680,6 @@ không gọi sub-agent.
 ## Khi nào dừng và hỏi (ngoài hai điểm ⛔ ở G6)
 
 - Một ca kiểm thử trong bảng G2 không thể đạt mà không làm hỏng ca khác.
-- Lượt A vượt ngân sách 110 nghìn token (từ G7: gói một lượt vượt 60 nghìn).
+- Lượt A vượt ngân sách 110 nghìn token (từ G7: gói một lượt vượt 60 nghìn; sau audit: 70 nghìn).
 - Thấy cần sửa thẻ trong KB, dù chỉ để "sửa lỗi". Không được sửa; báo lại.
 - Thấy cần đổi một quyết định ở mục 2.
