@@ -510,6 +510,9 @@ def render_the(rel_path: str, level: str | None, ctx_the: dict | None,
     return lines
 
 
+VCD_CARD = "30-combos/vo-chinh-dieu.md"
+
+
 def build_palace_file(ctx: dict, sel: dict, loc_bo_rows: list) -> str:
     i = sel["i"]
     lines: list[str] = []
@@ -536,6 +539,10 @@ def build_palace_file(ctx: dict, sel: dict, loc_bo_rows: list) -> str:
 
     for lvl, c in sel["hits"]:
         lines.extend(render_the(c["path"], lvl, ctx_the(lvl), loc_bo_rows, seen))
+        lines.append("")
+
+    if sel["borrowed"]:  # report() bảo đọc thẻ này cho mọi cung Vô Chính Diệu, không chỉ khi nó là cách cục Mệnh/Thân
+        lines.extend(render_the(VCD_CARD, None, None, loc_bo_rows, seen))
         lines.append("")
 
     if sel["phu"]:
@@ -660,6 +667,7 @@ BYTE_MOI_TOKEN = 1.755      # đo thật ở G6 trên output của Read
 NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, agent md)
 TRAN_GOI = 60_000           # token gói tối đa của một lượt (không tính nền)
 TRAN_FILE = 45_000          # byte tối đa một file gói; Read cắt file lớn hơn
+TOM_TAT_UOC = 6_000         # byte ước tính một file tom-tat-*.md (lượt đợt 1 viết, chưa có lúc dựng gói)
 
 
 def chia_nhom(sizes: list[int], k: int) -> list[int]:
@@ -747,11 +755,13 @@ def print_pack_report(pack_dir: Path, phan_cong: dict) -> None:
         print(f"| {name} | {b} | {round(b / BYTE_MOI_TOKEN)} |{warn}")
     print()
     for luot, info in phan_cong.items():
-        total = sum(sizes.get(d.split("/")[-1], 0) for d in info["doc"])
+        total = sum(TOM_TAT_UOC if d.startswith("../") else sizes.get(d, 0) for d in info["doc"])
         tok = round(total / BYTE_MOI_TOKEN)
         warn = f"  CẢNH BÁO: gói vượt {TRAN_GOI} token" if tok > TRAN_GOI else ""
+        n_tt = sum(d.startswith("../") for d in info["doc"])
+        ghi_chu = f" (gồm {n_tt} tom-tat ước {TOM_TAT_UOC} byte/file)" if n_tt else ""
         print(f"Lượt {luot} (đợt {info['dot']}): {total} byte, ~{tok} token gói + {NEN_SUB_AGENT} nền"
-              f" (chưa tính tom-tat){warn}")
+              f"{ghi_chu}{warn}")
 
 
 def pack(path: Path, out_dir: Path) -> int:

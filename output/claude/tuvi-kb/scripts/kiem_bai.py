@@ -25,10 +25,11 @@ from pathlib import Path
 from kb_the import CARD_PATH_RE, KB, QUOTE_RE, doc_the, khop_nguyen_van
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
-BULLET_RE = re.compile(r"^(\s*)[-*+]\s+")
+DAU_DONG = r"(?:[-*+]|\d+[.)])"  # gạch đầu dòng hoặc mục đánh số
+BULLET_RE = re.compile(r"^(\s*)" + DAU_DONG + r"\s+")
 NHAN_SACH = r"\[(?:TB|TL|TĐ|NPL)\]"
-NHAN_DAU_RE = re.compile(r"^[-*+]\s+[`*]*(?:\[(?:TB|TL|TĐ|NPL|Claude)\])")
-NHAN_SACH_DAU_RE = re.compile(r"^[-*+]\s+[`*]*" + NHAN_SACH)
+NHAN_DAU_RE = re.compile(r"^" + DAU_DONG + r"\s+[`*]*(?:\[(?:TB|TL|TĐ|NPL|Claude)\])")
+NHAN_SACH_DAU_RE = re.compile(r"^" + DAU_DONG + r"\s+[`*]*" + NHAN_SACH)
 TONG_KET = "[Claude] Tổng kết"
 NGUON_RE = re.compile(r"^\**Nguồn:?\**:?\s")
 BACKTICK_RE = re.compile(r"`([^`]+)`")

@@ -41,8 +41,8 @@ sai toàn bộ phần sau, nên không được bỏ qua bước xác nhận.
 
 ## Bước 2 — Ghi lá số ra JSON và chạy script tra cứu
 
-Sau khi người dùng xác nhận, ghi file JSON (ở thư mục tạm, không ghi vào
-kho) theo mẫu:
+Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-<năm>.json`
+(thư mục đã gitignore vì chứa dữ liệu cá nhân; không ghi vào KB) theo mẫu:
 
 ```json
 {
