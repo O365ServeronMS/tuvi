@@ -79,7 +79,12 @@ Phân bổ 9.000 ký tự (hướng dẫn, không kiểm máy):
 
 ## 5. Các giai đoạn
 
-### Z1 — `trich_tong_ket.py` (không tốn token model)
+### Z1 — `trich_tong_ket.py` (không tốn token model) ✅ xong
+
+Đã làm khác plan ở ba điểm: ghép bằng `ghep_bai.ghep()` rồi mới rút (cùng thứ
+tự với bài, bỏ qua mục "Tổng luận" nếu đã có); `nhãn mục:` in trên tiêu đề mọi
+mục thay cho `nhãn cung:` trên khối tổng kết; khối "Tổng kết …" có đánh số
+(`### 5.1.9. Tổng kết cung…`) vẫn tính vào mục đang mở.
 
 File mới `output/claude/tuvi-kb/scripts/trich_tong_ket.py`, dùng `kb_the.py` nếu
 có hàm hợp.
@@ -94,11 +99,12 @@ lại), **bỏ** `phan-z.md` nếu đã có. Với mỗi **đơn vị** (một t
 có gạch đầu dòng nhãn), in:
 
 ```markdown
-## 5.3. Tài Bạch — cung Thìn            ← tiêu đề mục chứa đơn vị (giữ số mục)
+## 5.3. Tài Bạch — cung Thìn · nhãn mục: TB, TL, TĐ   ← giữ số mục; hợp nhãn sách mọi đơn vị
 - **Vũ Khúc tọa thủ (miếu)** · nhãn: TB 3, TL 2, TĐ 1
   Tổng kết: <nguyên dòng [Claude] Tổng kết, bỏ tiền tố>
-- **Tổng kết cung Tài Bạch** · nhãn cung: TB, TL   ← hợp các nhãn sách của mọi đơn vị trong cung
-  <nguyên các gạch đầu dòng [Claude] + dòng Tổng kết của khối này>
+- **Tổng kết cung Tài Bạch**
+  - <các gạch đầu dòng [Claude] của khối>
+  Tổng kết: <dòng Tổng kết của khối>
 - Khoảng trống: <dòng có "không có đoạn riêng">
 ```
 
@@ -109,7 +115,7 @@ có gạch đầu dòng nhãn), in:
 - Bỏ hẳn: mục "Cách đọc", mục 1 (bảng lá số), dòng `Nguồn:`, gạch đầu dòng nhãn
   sách (chỉ lấy dòng Tổng kết, đã đủ ý).
 - Vượt `--tran` (mặc định 30.000 byte): bỏ dần Tổng kết từng sao **trong mục 5**
-  (giữ khối "Tổng kết cung" và nhãn cung), in `CẢNH BÁO` kèm số byte trước/sau.
+  (giữ khối "Tổng kết cung" và nhãn mục), in `CẢNH BÁO` kèm số byte trước/sau.
   Vẫn vượt thì in `CẢNH BÁO` và ghi nguyên, không cắt thêm.
 
 Self-test: bài giả 3 mục (Mệnh, một cung có khối Tổng kết cung, một năm hạn),
@@ -144,8 +150,8 @@ chi tiết và đường dẫn thẻ nằm ở các mục cùng tên phía dư�
 ### Sách chưa có đoạn riêng
 ```
 
-- Luật: như mục 2 "Hệ quả của quyết định nhãn". Nhãn một ý lấy từ `nhãn:` /
-  `nhãn cung:` của đơn vị gốc, chỉ chọn trong `TB`, `TL`. Không có TB/TL thì bỏ ý.
+- Luật: như mục 2 "Hệ quả của quyết định nhãn". Nhãn một ý lấy từ `nhãn:` của đơn vị hoặc
+  `nhãn mục:` của mục gốc, chỉ chọn trong `TB`, `TL`. Không có TB/TL thì bỏ ý.
 - Mục tiêu 9.000 ký tự, **không vượt 10.000**. Thiếu chỗ thì gộp cung bình
   thường vào một dòng, giữ cung có kết luận mạnh/xấu rõ, giữ đủ mục TB≠TL.
 - Giọng người đọc thường, như `xem-tu-vi.md`. Nhận định xấu nêu kèm điều kiện
@@ -167,7 +173,7 @@ Nhận diện mục 0 bằng tiêu đề `## 0. Tổng luận`. Trong mục 0:
 
 - Mục 0 **miễn E5 và E6** (E8 thay E5; không cần Tổng kết/Nguồn).
 - Cảnh báo **W8** (không chặn): dòng dạng `**<Tên cung>:**` gắn nhãn không có
-  trong `nhãn cung:` của cung đó trong `pack/tong-luan-nguon.md` (có file thì mới kiểm).
+  trong `nhãn mục:` của mục cung đó trong `pack/tong-luan-nguon.md` (có file thì mới kiểm).
 - Mục khác: luật cũ không đổi. Self-test thêm ca mục 0 đạt, vượt trần, nhãn
   `[Claude]` trong mục 0, và ca mục 5 vẫn bị E6 như cũ.
 
