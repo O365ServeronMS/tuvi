@@ -55,19 +55,25 @@ def read_table(path: Path) -> list[list[str]]:
     return rows
 
 
+def exact_key(text: str) -> str:
+    """Khoá giữ dấu: NFC, chữ thường, gộp khoảng trắng."""
+    return " ".join(unicodedata.normalize("NFC", text).lower().split())
+
+
 def load_registry():
-    stars, star_alias, star_group = {}, {}, {}
-    rows = read_table(KB / "00-index" / "stars.md")
-    # id đăng ký trước tên/alias: tên "Quan Phủ" (quan-phu-loc-ton) bỏ dấu trùng id quan-phu (Quan Phù)
-    for r in rows:
-        star_alias[fold(r[0])] = r[0]
-    for r in rows:
+    stars, star_group = {}, {}
+    # star_alias = (exact, folded): exact giữ dấu, tra trước; folded bỏ dấu, khoá trùng nhiều sao
+    # (tên "Quan Phủ" quan-phu-loc-ton và "Quan Phù" quan-phu) mang tuple id để resolve_star báo lỗi.
+    exact, folded = {}, {}
+    for r in read_table(KB / "00-index" / "stars.md"):
         sid, name, aliases, group = r[0], r[1], r[2], r[4]
         stars[sid] = name
         star_group[sid] = group
-        for a in [name, *aliases.split(";")]:
+        for a in [sid, name, *aliases.split(";")]:
             if a.strip():
-                star_alias.setdefault(fold(a), sid)
+                exact.setdefault(exact_key(a), sid)
+                folded.setdefault(fold(a), set()).add(sid)
+    star_alias = (exact, {k: next(iter(v)) if len(v) == 1 else tuple(sorted(v)) for k, v in folded.items()})
     palaces, palace_alias = {}, {}
     for r in read_table(KB / "00-index" / "palaces.md"):
         pid, name, aliases = r[0], r[1], r[2]
@@ -78,11 +84,22 @@ def load_registry():
     return stars, star_alias, star_group, palaces, palace_alias
 
 
+def resolve_star(name: str, star_alias: tuple) -> str | None:
+    """Id sao cho một tên/id trong lá số; None nếu không nhận ra.
+    Khớp đúng tên có dấu trước; bỏ dấu mà trùng nhiều sao thì ValueError, không đoán."""
+    exact, folded = star_alias
+    sid = exact.get(exact_key(name)) or folded.get(fold(name))
+    if isinstance(sid, tuple):
+        raise ValueError(f"'{name.strip()}' bỏ dấu trùng nhiều sao ({', '.join(sid)}): ghi id "
+                         "(hoặc tên đủ dấu đúng như 00-index/stars.md)")
+    return sid
+
+
 def load_cards(folder: str) -> list[dict]:
     return [parse_card(p) for p in sorted((KB / folder).rglob("*.md"))]
 
 
-def load_mieu(data: dict, star_alias: dict) -> dict[int, dict[str, str]]:
+def load_mieu(data: dict, star_alias: tuple) -> dict[int, dict[str, str]]:
     """Mã miếu/hãm mỗi sao mỗi cung, theo địa chi (load_chart bỏ mã này nên tính riêng cho G3)."""
     mieu: dict[int, dict[str, str]] = {}
     for raw_branch, cell in data.get("cung", {}).items():
@@ -91,9 +108,11 @@ def load_mieu(data: dict, star_alias: dict) -> dict[int, dict[str, str]]:
             continue
         d: dict[str, str] = {}
         for s in cell.get("sao", []):
-            key = fold(s.split(":")[0].split("(")[0])
-            sid = star_alias.get(key)
-            if not sid or key.startswith("luu-") or key.startswith("l-"):
+            name = s.split(":")[0].split("(")[0]
+            if fold(name).startswith(("luu-", "l-")):
+                continue
+            sid = resolve_star(name, star_alias)  # load_chart đã chặn tên mơ hồ
+            if not sid:
                 continue
             if ":" in s:
                 d[sid] = s.split(":", 1)[1].strip()
@@ -247,7 +266,21 @@ def nguyet_han(ctx: dict, year: int) -> dict | None:
 
 def self_test() -> int:
     n = lambda x: BRANCH_NAMES[x]
+    star_alias = load_registry()[1]
+
+    def sao(name: str) -> str | None:
+        try:
+            return resolve_star(name, star_alias)
+        except ValueError:
+            return "lỗi"
+
     checks = [
+        # Tên sao: khớp đủ dấu trước (Quan Phủ vòng Lộc Tồn ≠ Quan Phù vòng Thái Tuế); bỏ dấu mà trùng thì báo lỗi
+        ([sao(x) for x in ("Quan Phủ", "quan phủ", unicodedata.normalize("NFD", "Quan Phủ"), "Quan Phù",
+                           "quan-phu-loc-ton", "quan-phu")],
+         ["quan-phu-loc-ton", "quan-phu-loc-ton", "quan-phu-loc-ton", "quan-phu", "quan-phu-loc-ton", "quan-phu"]),
+        ([sao(x) for x in ("Quan Phu", "quan phu")], ["lỗi", "lỗi"]),
+        ([sao(x) for x in ("Tu Vi", "Tử Vi", "Thai Am")], ["tu-vi", "tu-vi", "thai-am"]),
         # Tân Biên 4.1: tiểu hạn năm Mùi → Lưu Thái Tuế Mùi, Tang Môn Dậu, Bạch Hổ Mão
         ([n(luu_stars("at", "mui")[k]) for k in ("luu-thai-tue", "luu-tang-mon", "luu-bach-ho")], ["Mùi", "Dậu", "Mão"]),
         # 4.2: năm Mùi → Lưu Khốc Hợi, Lưu Hư Sửu
@@ -300,10 +333,14 @@ def load_chart(path: Path, reg):
             errors.append(f"cung {raw_branch}: tên cung '{cell.get('ten')}' không có trong palaces.md")
         sids = []
         for s in cell.get("sao", []):
-            key = fold(s.split(":")[0].split("(")[0])
-            sid = star_alias.get(key)
-            if key.startswith("luu-") or key.startswith("l-"):
+            name = s.split(":")[0].split("(")[0]
+            if fold(name).startswith(("luu-", "l-")):
                 continue  # sao lưu do script tự an theo năm xem
+            try:
+                sid = resolve_star(name, star_alias)
+            except ValueError as e:
+                errors.append(f"cung {raw_branch}: {e}")
+                continue
             if not sid:
                 errors.append(f"cung {raw_branch}: không nhận ra sao '{s}' (tra 00-index/stars.md, ghi id)")
             else:

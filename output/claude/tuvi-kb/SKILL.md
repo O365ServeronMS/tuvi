@@ -66,7 +66,8 @@ Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-
 - Đủ 12 cung. Khoá địa chi: `ty`=Tý, `suu`, `dan`, `mao`, `thin`, `ti`=Tỵ,
   `ngo`, `mui`, `than`, `dau`, `tuat`, `hoi` (hoặc tên có dấu).
 - `sao`: id trong [`00-index/stars.md`](00-index/stars.md) (hoặc tên đầy
-  đủ); miếu/hãm ghi sau dấu `:`. Tuần/Triệt ghi `tuan`/`triet` ở **cả hai**
+  đủ, có dấu: "Quan Phủ" và "Quan Phù" là hai sao khác nhau, viết không dấu
+  thì script báo lỗi và đòi id); miếu/hãm ghi sau dấu `:`. Tuần/Triệt ghi `tuan`/`triet` ở **cả hai**
   cung bị án. Không ghi sao lưu (script tự an theo `nam_xem`).
 - `nam_sinh`, `nam_xem`: năm âm lịch dạng số (sinh trước Tết thì lấy năm trước).
   Xem hạn nhiều năm thì `nam_xem` là danh sách, ví dụ `[2026, 2027]`: gói có một
