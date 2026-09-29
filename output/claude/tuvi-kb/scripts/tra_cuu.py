@@ -93,7 +93,7 @@ def load_mieu(data: dict, star_alias: dict) -> dict[int, dict[str, str]]:
         for s in cell.get("sao", []):
             key = fold(s.split(":")[0].split("(")[0])
             sid = star_alias.get(key)
-            if not sid or key.startswith("luu-") or key.startswith("l-"):
+            if bo_qua_sao_luu(key, sid) or not sid:
                 continue
             if ":" in s:
                 d[sid] = s.split(":", 1)[1].strip()
@@ -245,6 +245,12 @@ def nguyet_han(ctx: dict, year: int) -> dict | None:
     return {"cach": cach_list, "tieu_han": th_i, "rows": rows, "cung_xet": cung_xet}
 
 
+def bo_qua_sao_luu(key: str, sid: str | None) -> bool:
+    """Sao lưu theo năm (Lưu Thái Tuế, Lưu Kình…) script tự an nên bỏ qua khi đọc lá số. Nhưng Lưu Hà,
+    Lưu Niên Văn Tinh là sao cố định có trong stars.md: tên bắt đầu bằng "Lưu" mà có id thì giữ."""
+    return sid is None and (key.startswith("luu-") or key.startswith("l-"))
+
+
 def self_test() -> int:
     n = lambda x: BRANCH_NAMES[x]
     checks = [
@@ -288,6 +294,11 @@ def self_test() -> int:
     dung_goi()["Z"]["doc"].append("x")
     checks.append((LUOT_Z["doc"], ["tong-luan-nguon.md"]))  # build_phan_cong không được dùng chung list với LUOT_Z
 
+    # Lưu Hà, Lưu Niên Văn Tinh là sao cố định (có id), không bị bỏ như sao lưu theo năm
+    alias = load_registry()[1]
+    giu = [(k, bo_qua_sao_luu(fold(k), alias.get(fold(k)))) for k in ("Lưu Hà", "luu-nien-van-tinh", "Lưu Thái Tuế")]
+    checks.append((giu, [("Lưu Hà", False), ("luu-nien-van-tinh", False), ("Lưu Thái Tuế", True)]))
+
     bad = [(got, want) for got, want in checks if got != want]
     for got, want in bad:
         print(f"SAI: được {got}, sách ghi {want}")
@@ -317,7 +328,7 @@ def load_chart(path: Path, reg):
         for s in cell.get("sao", []):
             key = fold(s.split(":")[0].split("(")[0])
             sid = star_alias.get(key)
-            if key.startswith("luu-") or key.startswith("l-"):
+            if bo_qua_sao_luu(key, sid):
                 continue  # sao lưu do script tự an theo năm xem
             if not sid:
                 errors.append(f"cung {raw_branch}: không nhận ra sao '{s}' (tra 00-index/stars.md, ghi id)")
