@@ -85,12 +85,24 @@ def _tinh_nhan_muc(muc: list[Muc]) -> None:
     mục cùng cha (2.x), vì khối đó gom cả nhóm."""
     def ho(tien_to: str) -> set[str]:
         return set().union(*(m.nhan_rieng for m in muc if m.so == tien_to or m.so.startswith(tien_to + ".")))
+    ten_muc = {m.so: m.ten for m in muc}
     for m in muc:
         nhan = ho(m.so)
         cha = m.so.rpartition(".")[0]
-        if cha and not nhan & {"TB", "TL"} and any(d.la_khoi_tong_ket for d in m.don_vi):
+        khoi = [d.ten for d in m.don_vi if d.la_khoi_tong_ket]
+        if cha and khoi and (not nhan & {"TB", "TL"} or any(_cua_muc_cha(k, m.ten, ten_muc.get(cha, "")) for k in khoi)):
             nhan = ho(cha)
         m.nhan_muc = [s for s in SACH if s in nhan]
+
+
+def _cua_muc_cha(ten_khoi: str, ten_muc: str, ten_cha: str) -> bool:
+    """Khối "Tổng kết cung Mệnh" đặt ở 2.4 "Câu phú ứng với Mệnh" gom cả mục 2 "Cung Mệnh — …": tên sau
+    "Tổng kết (cung)" có trong tiêu đề mục cha, còn tiêu đề mục đang chứa khối không mở đầu bằng tên đó
+    (mục 5.1 "Phụ Mẫu — cung Mùi" mở đầu bằng "Phụ Mẫu" nên khối "Tổng kết cung Phụ Mẫu" là của chính 5.1)."""
+    x = ten_khoi.split("Tổng kết", 1)[-1].strip()
+    x = x[5:].strip() if x.lower().startswith("cung ") else x
+    rieng = ten_muc.startswith(x) or ten_muc.lower().startswith("cung " + x.lower())
+    return bool(x) and x in ten_cha and not rieng
 
 
 def _sach_dong(dong: str) -> str:
@@ -387,6 +399,13 @@ def self_test() -> int:
     hc = rut("## 2. Mệnh\n\n### 2.1. Sao\n\n#### A\n\n- [TL] x\n\n**[Claude] Tổng kết:** y\n\n"
              "### 2.3. Hội chiếu\n\nĐoạn.\n\n**[Claude] Tổng kết:** v\n\n#### Tổng kết cung Mệnh\n\n- [Claude] z\n\n"
              "**[Claude] Tổng kết:** w\n\n## 4. Nền\n\n### 4.9. Quy tắc không áp dụng\n\n**[Claude] Tổng kết:** k\n")
+    hc2 = rut("## 2. Cung Mệnh — cung Ngọ\n\n### 2.2. Sao\n\n#### A\n\n- [TL] x\n\n**[Claude] Tổng kết:** y\n\n"
+              "### 2.4. Câu phú ứng với Mệnh\n\n#### B\n\n- [TB] p\n\n**[Claude] Tổng kết:** q\n\n#### Tổng kết cung Mệnh\n\n"
+              "**[Claude] Tổng kết:** w\n\n## 5. Các cung còn lại\n\n### 5.1. Phụ Mẫu — cung Mùi\n\n#### C\n\n"
+              "- [TB] r\n\n**[Claude] Tổng kết:** s\n\n#### Tổng kết cung Phụ Mẫu\n\n**[Claude] Tổng kết:** t\n\n"
+              "### 5.2. Phúc Đức\n\n#### D\n\n- [TL] u\n\n**[Claude] Tổng kết:** v\n")
+    if [(m.so, m.nhan_muc) for m in hc2] != [("2.2", ["TL"]), ("2.4", ["TB", "TL"]), ("5.1", ["TB"]), ("5.2", ["TL"])]:
+        bad.append(f"khối 'Tổng kết cung Mệnh' ở 2.4 phải lấy nhãn cả nhóm 2.x, 5.1 giữ nhãn riêng: {[(m.so, m.nhan_muc) for m in hc2]}")
     if [(m.so, m.nhan_muc) for m in hc] != [("2.1", ["TL"]), ("2.3", ["TL"]), ("4.9", [])]:
         bad.append(f"khối tổng kết ở 2.3 phải lấy nhãn nhóm 2.x, 4.9 không khối thì không: {[(m.so, m.nhan_muc) for m in hc]}")
 
