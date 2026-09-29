@@ -22,7 +22,8 @@ cục) và **R** (quy tắc toàn lá số) chạy song song. Đợt 2, sau khi 
 **B**, **C**, **E** (các cung còn lại), **D** (hạn năm xem; xem nhiều năm thì
 mỗi năm một lượt **D1**, **D2**…) và **T** (hạn tháng, chỉ khi lá số có
 `thang_xem`; nhiều năm thì **T1**, **T2**…). Mỗi lượt chỉ viết
-phần của mình; script `ghep_bai.py` ghép lại.
+phần của mình; script `ghep_bai.py` ghép lại. Lượt **Z** (mục `0. Tổng luận`)
+trong `phan-cong.json` là của sub-agent `tong-luan`, **không** phải của bạn.
 
 Các mục đánh số dưới đây là của riêng tài liệu này, **không** trùng với số bước
 của SKILL.md hay số mục trong bài.
@@ -153,7 +154,8 @@ theo từng cách; sau đó mỗi cung nguyệt hạn một mục kèm thẻ h�
 
 ## 7. Viết bài
 
-Bài ghép xong có thứ tự: Cách đọc; 1. Bảng lá số; 2. Mệnh; 3. Thân; 4. Nền
+Bài ghép xong có thứ tự: Cách đọc; 0. Tổng luận (do `tong-luan` viết sau cùng,
+bạn **không** viết); 1. Bảng lá số; 2. Mệnh; 3. Thân; 4. Nền
 chung; 5. Các cung còn lại; 6. Cách cục; 7. Hạn. **Không có** mục "Nguồn đã
 dùng". Mỗi lượt chỉ viết mục của mình (xem mục 2 ở trên). Độ dài không giới
 hạn: luận đủ chi tiết mọi dòng thẻ khớp lá số.

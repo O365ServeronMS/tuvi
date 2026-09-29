@@ -234,7 +234,17 @@ self-test của `tra_cuu.py` nếu nó so khoá `phan-cong.json`.
 
 **Điều kiện xong:** `tra_cuu.py --self-test` đạt.
 
-### Z6 — Tài liệu
+### Z6 — Tài liệu ✅ xong
+
+Đã làm: `CLAUDE.md` (bảng bố cục; Bước B thêm bước 6 "Đợt 3 — tổng luận", bước 7
+gửi bài kèm nguyên mục 0, dự phòng tóm tắt 15 dòng khi lượt Z hỏng, bước 8 vài cung
+vẫn chạy Z; ngoại lệ nhãn mục 0 ở ràng buộc nguồn 2; lệnh `trich_tong_ket.py`),
+`SKILL.md` (chế độ gói: đợt 3, E7/E8, bước 6 tổng luận), `xem-tu-vi.md` (lượt Z
+không phải của nó; thứ tự bài có mục 0). Thêm ngoài plan: `lay_mau_nguon.py` bỏ
+qua mục 0 khi lấy mẫu cho `kiem-nguon` (mục 0 không có dòng `Nguồn:`), có self-test.
+Self-test: `lay_mau_nguon`, `kiem_bai`, `ghep_bai`, `trich_tong_ket` đạt; `tra_cuu`
+17/17; `kb_the` không đạt **từ trước** vì thiếu `output/luan-giai/thang-pham-2026.json`
+(gitignore, không có trong container). `validate_kb.py`: `lỗi: 0`.
 
 - `CLAUDE.md`, Bước B: thêm bước "Đợt 3 — tổng luận" sau bước 5 (kiem-nguon):
   chạy `trich_tong_ket.py $D`, gọi `tong-luan` với đường dẫn `$D/pack/`, rồi ghép
