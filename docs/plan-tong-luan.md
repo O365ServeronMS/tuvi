@@ -172,7 +172,15 @@ chi tiết và đường dẫn thẻ nằm ở các mục cùng tên phía dư�
 
 **Điều kiện xong:** file agent có frontmatter hợp lệ; nội dung khớp mục 2.
 
-### Z3 — `kiem_bai.py`: luật cho mục 0
+### Z3 — `kiem_bai.py`: luật cho mục 0 ✅ xong
+
+Đã làm: `muc0()` tìm phạm vi mục (từ `## 0. Tổng luận` đến tiêu đề `##` kế tiếp);
+`kiem_muc0()` trả (lỗi, cảnh báo, số ký tự); `kiem()` giữ chữ ký cũ (chỉ trả lỗi).
+Khi có mục 0, `run()` in thêm `mục 0: <n> ký tự …` và `cảnh báo: <m>` trước dòng
+`lỗi:`. E8 miễn dòng "không có đoạn riêng" (theo Z2). W8 so tên in đậm với mục
+nguồn theo tiền tố (`Mệnh` khớp cả `Cung Mệnh — …`), nhiều mục cùng tên thì lấy
+hợp nhãn. Hồi quy: bài không có mục 0 cho output và exit code y như bản cũ. Bảng
+mã đã chép vào `.claude/agents/tong-luan.md` (agent không đọc mã script).
 
 Nhận diện mục 0 bằng tiêu đề `## 0. Tổng luận`. Trong mục 0:
 

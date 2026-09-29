@@ -13,7 +13,14 @@ Dùng:
 |    | (được bọc backtick hoặc in đậm), trừ dòng nói "không có đoạn riêng". |
 | E6 | Đoạn dưới một tiêu đề có gạch đầu dòng mang nhãn sách phải có dòng "[Claude] Tổng kết"
 |    | và dòng "Nguồn:" có đường dẫn thẻ. |
-Mọi mã đều là lỗi. Exit 1 nếu có lỗi.
+
+Mục `## 0. Tổng luận` (lượt Z, sub-agent tong-luan) miễn E5, E6 và kiểm riêng:
+| E7 | Thân mục 0 quá 10.000 ký tự (quá 9.000 là cảnh báo W7). In `mục 0: <n> ký tự`. |
+| E8 | Gạch đầu dòng phải mở bằng [TB], [TL] hoặc [TB][TL]; cấm [Claude]/[TĐ]/[NPL];
+|    | miễn dòng nói "không có đoạn riêng". |
+| W8 | Cảnh báo: dòng `[..] **<Tên>:**` gắn sách không có trong `nhãn mục` của mục
+|    | cùng tên trong `<pack>/tong-luan-nguon.md` (chỉ kiểm khi có file đó). |
+Mã E là lỗi, exit 1 nếu có lỗi. Mã W chỉ cảnh báo.
 """
 from __future__ import annotations
 
@@ -36,6 +43,12 @@ BACKTICK_RE = re.compile(r"`([^`]+)`")
 KHUC_TAIL_RE = re.compile(r"\(([a-z]+#[^()\s]+)\)\s*$")
 MIEN_TRU = ("Bảng lá số", "Cách đọc")
 MIEN_NHAN = ("không có đoạn riêng",)
+MUC0_RE = re.compile(r"^0\.\s+Tổng luận")
+MUC0_MUC_TIEU, MUC0_TRAN = 9_000, 10_000
+_NHAN_Z = r"[`*]*\[(?:TB|TL)\][`*]*"
+NHAN_Z_RE = re.compile(r"^" + DAU_DONG + r"\s+" + _NHAN_Z + r"(?:\s*" + _NHAN_Z + r")?(?!\s*[`*]*\[)")
+NHAN_Z_TEN_RE = re.compile(r"^" + DAU_DONG + r"\s+((?:" + _NHAN_Z + r"\s*)+)\*\*([^*:()]+?)\s*(?:\([^)]*\))?:\*\*")
+NGUON_Z_RE = re.compile(r"^##\s+(\d+(?:\.\d+)*)\.\s+(.*?)\s+·\s+nhãn mục:\s*(.*)$")
 
 
 def the_trong_goi(pack_dir: Path) -> set[str]:
@@ -121,9 +134,91 @@ def _doan(lines: list[str]) -> list[tuple[int, str, list[str]]]:
     return out
 
 
+def muc0(lines: list[str]) -> tuple[int, int] | None:
+    """(dòng tiêu đề, dòng cuối) của mục `## 0. Tổng luận`, tính từ 1; không có thì None."""
+    in_code, dau = False, None
+    for n, line in enumerate(lines, 1):
+        if line.lstrip().startswith("```"):
+            in_code = not in_code
+        h = None if in_code else HEADING_RE.match(line)
+        if not h:
+            continue
+        if dau is None:
+            if len(h.group(1)) == 2 and MUC0_RE.match(h.group(2).strip()):
+                dau = n
+        elif len(h.group(1)) <= 2:
+            return dau, n - 1
+    return (dau, len(lines)) if dau is not None else None
+
+
+def nhan_muc_nguon(pack_dir: Path | None) -> list[tuple[str, set[str]]]:
+    """(tên mục, nhãn mục) đọc từ tong-luan-nguon.md của gói; không có file thì rỗng."""
+    f = pack_dir / "tong-luan-nguon.md" if pack_dir is not None else None
+    if f is None or not f.is_file():
+        return []
+    out = []
+    for line in f.read_text(encoding="utf-8").split("\n"):
+        m = NGUON_Z_RE.match(line)
+        if m:
+            out.append((m.group(2), set(re.findall(r"TB|TL|TĐ|NPL", m.group(3)))))
+    return out
+
+
+def _khop_ten(ten: str, ten_muc: str) -> bool:
+    for goc in (ten, "Cung " + ten):
+        if ten_muc.startswith(goc) and (len(ten_muc) == len(goc) or ten_muc[len(goc)] in " —-(,"):
+            return True
+    return False
+
+
+def kiem_muc0(lines: list[str], pack_dir: Path | None) -> tuple[list[str], list[str], int | None]:
+    """(lỗi, cảnh báo, số ký tự thân mục 0). Không có mục 0 thì ([], [], None)."""
+    r = muc0(lines)
+    if r is None:
+        return [], [], None
+    dau, cuoi = r
+    than = lines[dau:cuoi]
+    while than and than[-1].strip() in ("", "---"):
+        than.pop()
+    n_ky_tu = len("\n".join(than).strip())
+    loi: list[str] = []
+    cb: list[str] = []
+    if n_ky_tu > MUC0_TRAN:
+        loi.append(f"E7 dòng {dau}: mục 0 dài {n_ky_tu} ký tự, quá trần {MUC0_TRAN}")
+    elif n_ky_tu > MUC0_MUC_TIEU:
+        cb.append(f"W7 dòng {dau}: mục 0 dài {n_ky_tu} ký tự, quá mục tiêu {MUC0_MUC_TIEU}")
+    nguon = nhan_muc_nguon(pack_dir)
+    for n, content, _ in _bullets(lines):
+        if not dau < n <= cuoi:
+            continue
+        if any(k in content for k in MIEN_NHAN):
+            continue
+        if not NHAN_Z_RE.match(content):
+            loi.append(f"E8 dòng {n}: mục 0 chỉ được mở bằng [TB], [TL] hoặc [TB][TL]: {content[:80]}")
+            continue
+        m = NHAN_Z_TEN_RE.match(content)
+        if not (m and nguon):
+            continue
+        khop = [nh for ten_muc, nh in nguon if _khop_ten(m.group(2).strip(), ten_muc)]
+        if not khop:
+            continue
+        co = set().union(*khop)
+        thieu = [x for x in re.findall(r"TB|TL", m.group(1)) if x not in co]
+        if thieu:
+            cb.append(f"W8 dòng {n}: \"{m.group(2).strip()}\" gắn [{', '.join(thieu)}] "
+                      f"nhưng nhãn mục trong nguồn chỉ có {', '.join(sorted(co)) or 'không sách nào'}")
+    return loi, cb, n_ky_tu
+
+
 def kiem(text: str, pack_dir: Path | None) -> list[str]:
+    return _kiem(text, pack_dir)[0]
+
+
+def _kiem(text: str, pack_dir: Path | None) -> tuple[list[str], list[str], int | None]:
     lines = text.split("\n")
     loi: list[str] = []
+    r0 = muc0(lines)
+    trong_muc0 = (lambda n: r0[0] <= n <= r0[1]) if r0 else (lambda n: False)
 
     # E2
     for n, joined in _blockquotes(lines):
@@ -151,7 +246,7 @@ def kiem(text: str, pack_dir: Path | None) -> list[str]:
 
     # E5
     for n, content, heads in _bullets(lines):
-        if any(k in h for h in heads for k in MIEN_TRU):
+        if any(k in h for h in heads for k in MIEN_TRU) or trong_muc0(n):
             continue
         if NHAN_DAU_RE.match(content) or any(k in content for k in MIEN_NHAN):
             continue
@@ -159,7 +254,7 @@ def kiem(text: str, pack_dir: Path | None) -> list[str]:
 
     # E6
     for n, tieu_de, than in _doan(lines):
-        if any(k in tieu_de for k in MIEN_TRU):
+        if any(k in tieu_de for k in MIEN_TRU) or trong_muc0(n):
             continue
         if not any(NHAN_SACH_DAU_RE.match(l.strip()) for l in than):
             continue
@@ -167,13 +262,19 @@ def kiem(text: str, pack_dir: Path | None) -> list[str]:
             loi.append(f"E6 dòng {n}: mục \"{tieu_de[:60]}\" thiếu dòng **{TONG_KET}:**")
         if not any(NGUON_RE.match(l.strip()) and CARD_PATH_RE.search(l) for l in than):
             loi.append(f"E6 dòng {n}: mục \"{tieu_de[:60]}\" thiếu dòng Nguồn: có đường dẫn thẻ")
-    return loi
+
+    # E7, E8, W7, W8
+    loi0, cb, n_ky_tu = kiem_muc0(lines, pack_dir)
+    return loi + loi0, cb, n_ky_tu
 
 
 def run(bai: Path, pack_dir: Path | None) -> int:
-    loi = kiem(bai.read_text(encoding="utf-8"), pack_dir)
-    for x in loi:
+    loi, cb, n_ky_tu = _kiem(bai.read_text(encoding="utf-8"), pack_dir)
+    for x in loi + cb:
         print(x)
+    if n_ky_tu is not None:
+        print(f"mục 0: {n_ky_tu} ký tự (mục tiêu {MUC0_MUC_TIEU}, trần {MUC0_TRAN})")
+        print(f"cảnh báo: {len(cb)}")
     print(f"lỗi: {len(loi)}")
     return 1 if loi else 0
 
@@ -233,6 +334,67 @@ def self_test() -> int:
                        "E6 dòng 2:", "E6 dòng 2:", "E6 dòng 9:", "E6 dòng 9:", "E6 dòng 11:"])
         if got != want:
             bad.append(f"bài sai khuôn: mong {want}, được {got}")
+
+        # mục 0. Tổng luận
+        tl = "\n".join([
+            "# Bài",                                                                  # 1
+            "## Cách đọc bài này",                                                    # 2
+            "- chữ thường",                                                           # 3
+            "---",                                                                    # 4
+            "## 0. Tổng luận",                                                        # 5
+            "Đoạn mở không nhãn.",                                                    # 6
+            "### Đúc kết",                                                            # 7
+            "- [TB][TL] Ý chung hai sách.",                                           # 8
+            "- **[TL]** Ý in đậm nhãn.",                                              # 9
+            "### Các cung",                                                           # 10
+            "- [TB] **Phụ Mẫu (Thái Âm):** đúng nhãn mục.",                           # 11
+            "- [TL] **Phụ Mẫu:** TL không có trong nhãn mục → W8.",                   # 12
+            "- [TB] **Mệnh:** khớp mục \"Cung Mệnh\".",                               # 13
+            "### Sách chưa có đoạn riêng",                                            # 14
+            "- **Tử Tức:** sách trong kho không có đoạn riêng cho trường hợp này.",   # 15
+            "",
+            "---",
+            "## 5. Các cung còn lại",                                                 # 18
+            "### 5.1. Phụ Mẫu",                                                       # 19
+            "- [TB] thiếu tổng kết vẫn bị E6",                                        # 20
+        ])
+        (pack / "tong-luan-nguon.md").write_text(
+            "# Nguồn\n\n## 2. Cung Mệnh — cung Dần · nhãn mục: TB, TL\n"
+            "## 5.1. Phụ Mẫu — cung Mão · nhãn mục: TB, NPL\n", encoding="utf-8")
+        loi, cb, n0 = _kiem(tl, pack)
+        if muc0(tl.split("\n")) != (5, 17):
+            bad.append(f"phạm vi mục 0 sai: {muc0(tl.split(chr(10)))}")
+        if sorted(" ".join(x.split()[:3]) for x in loi) != ["E6 dòng 19:", "E6 dòng 19:"]:
+            bad.append(f"mục 0 đúng khuôn bị báo lỗi / mục 5 phải còn E6: {loi}")
+        if [" ".join(x.split()[:3]) for x in cb] != ["W8 dòng 12:"]:
+            bad.append(f"W8 sai: {cb}")
+        than = "\n".join(tl.split("\n")[5:15]).strip()
+        if n0 != len(than):
+            bad.append(f"đếm ký tự mục 0 sai: {n0} ≠ {len(than)}")
+
+        sai0 = "\n".join([
+            "## 0. Tổng luận",                                                        # 1
+            "- [Claude] Suy luận không được ở mục 0.",                                # 2
+            "- [TĐ] Đối chứng không được ở mục 0.",                                   # 3
+            "- Ý không nhãn.",                                                        # 4
+            "- [TB][Claude] Nhãn thứ hai sai.",                                       # 5
+            "- [TB] `20-palaces/menh-than/khong-co.md` vẫn kiểm E3.",                 # 6
+        ])
+        got = sorted(" ".join(x.split()[:3]) for x in kiem(sai0, None))
+        want = sorted(["E8 dòng 2:", "E8 dòng 3:", "E8 dòng 4:", "E8 dòng 5:", "E3 dòng 6:"])
+        if got != want:
+            bad.append(f"mục 0 sai khuôn: mong {want}, được {got}")
+
+        dai = "## 0. Tổng luận\n- [TB] " + "x" * (MUC0_TRAN - 6)  # "- [TB] " dài 7
+        loi, cb, n0 = _kiem(dai, None)
+        if not any(x.startswith("E7") for x in loi) or n0 != MUC0_TRAN + 1:
+            bad.append(f"quá trần phải báo E7: {loi} ({n0})")
+        vua = "## 0. Tổng luận\n- [TB] " + "x" * (MUC0_MUC_TIEU + 100)
+        loi, cb, _ = _kiem(vua, None)
+        if loi or not any(x.startswith("W7") for x in cb):
+            bad.append(f"quá mục tiêu chỉ cảnh báo W7: {loi} {cb}")
+        if _kiem(dung, pack)[1:] != ([], None):
+            bad.append("bài không có mục 0 không được có cảnh báo/số ký tự")
     for b in bad:
         print("SAI:", b)
     print("self-test:", "đạt" if not bad else f"{len(bad)} lỗi")

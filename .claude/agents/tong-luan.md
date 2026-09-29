@@ -29,7 +29,16 @@ cùng tên bên dưới. Việc của bạn là **gom và rút gọn**, không p
    PYTHONIOENCODING=utf-8 python3 output/claude/tuvi-kb/scripts/kiem_bai.py <D>/phan-z.md --pack <D>/pack
    ```
    Có lỗi thì chỉ sửa đúng dòng bị báo bằng Edit, không viết lại cả file, rồi chạy
-   lại. Vượt trần thì cắt theo thứ tự ở mục "Độ dài".
+   lại. Vượt trần thì cắt theo thứ tự ở mục "Độ dài". Script in `mục 0: <n> ký tự`
+   và các mã:
+
+   | Mã | Khi | Việc |
+   |---|---|---|
+   | E7 | quá 10.000 ký tự | lỗi, phải cắt |
+   | W7 | quá 9.000 ký tự | cảnh báo, cắt nếu cắt được mà không mất ý |
+   | E8 | gạch đầu dòng không mở bằng `[TB]`, `[TL]`, `[TB][TL]` (trừ dòng "không có đoạn riêng") | lỗi, sửa nhãn |
+   | E3 | đường dẫn thẻ không có thật | lỗi; mục 0 vốn không ghi đường dẫn, xoá đi |
+   | W8 | `**<Tên>:**` gắn sách không có trong `nhãn mục` của mục cùng tên | cảnh báo: xem lại nhãn; đúng là ý gộp từ mục khác thì để nguyên |
 4. Trả về cho phiên chính: đường dẫn `phan-z.md`, số ký tự (script in ra), dòng
    `lỗi:` cuối cùng, và số ý bị bỏ vì không có TB/TL đỡ. **Không** dán nội dung.
 
