@@ -123,7 +123,18 @@ kiểm đếm nhãn, cờ `TB≠TL?`, bỏ `Nguồn:`, thứ tự mục, nhánh 
 
 **Điều kiện xong:** self-test đạt.
 
-### Z2 — sub-agent `tong-luan`
+### Z2 — sub-agent `tong-luan` ✅ xong
+
+Đã làm khác plan ở năm điểm (Z3 phải theo):
+- `tools: Read, Write, Edit, Bash`: sửa lỗi kiểm bằng Edit, không Write lại cả file.
+- Chỗ TB và TL vênh chỉ viết một lần, ở tiểu mục "TB và TL nói khác nhau" (cặp dòng
+  `[TB]`/`[TL]`); dòng của cung ở "Các cung" chỉ giữ phần hai sách không vênh.
+- Dòng ở tiểu mục "Sách chưa có đoạn riêng" **không mang nhãn**, bắt buộc chứa cụm
+  "không có đoạn riêng" → E8 phải miễn các dòng này (như `MIEN_NHAN` của E5).
+- Agent đọc số ký tự từ `kiem_bai.py` → Z3 phải in `mục 0: <n> ký tự` mỗi lần
+  kiểm một bài/phần có mục 0. Trước khi xong Z3, đừng gọi agent (E5/E6 cũ sẽ báo
+  lỗi mọi dòng của mục 0).
+- Gộp nhiều đơn vị trong một câu thì nhãn là sách có ở **mọi** đơn vị bị gộp.
 
 File mới `.claude/agents/tong-luan.md`: `model: sonnet`, `tools: Read, Write, Bash`.
 Nội dung chính (viết thành chỉ dẫn, ngắn):
