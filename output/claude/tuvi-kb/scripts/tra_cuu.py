@@ -273,6 +273,21 @@ def self_test() -> int:
           chia_file("# T\n" + "".join(f"### `{c}.md`\n" + "z" * 20 + "\n" for c in "abc"), 60)],
          [(True, 1)] * 3),
     ]
+    # Lượt Z (tổng luận): đợt 3, sau mọi lượt; trần khớp trich_tong_ket.py
+    import trich_tong_ket
+    dung_goi = lambda: build_phan_cong({"menh": ["menh.md"], "cach-cuc": ["cach-cuc.md"], "quy-tac": ["quy-tac.md"],
+                                        "cung-x": ["cung-x.md"], "han-2026": ["han-2026.md"]}, ["x"], [2026], [1])
+    pc = dung_goi()
+    checks += [
+        (list(pc)[-1], "Z"),
+        ({k: pc["Z"][k] for k in ("dot", "agent", "doc", "ghi")},
+         {"dot": 3, "agent": "tong-luan", "doc": ["tong-luan-nguon.md"], "ghi": ["phan-z.md"]}),
+        (max(v["dot"] for k, v in pc.items() if k != "Z"), 2),
+        (TRAN_TONG_LUAN, trich_tong_ket.TRAN),
+    ]
+    dung_goi()["Z"]["doc"].append("x")
+    checks.append((LUOT_Z["doc"], ["tong-luan-nguon.md"]))  # build_phan_cong không được dùng chung list với LUOT_Z
+
     bad = [(got, want) for got, want in checks if got != want]
     for got, want in bad:
         print(f"SAI: được {got}, sách ghi {want}")
@@ -841,6 +856,12 @@ NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, 
 TRAN_GOI = 70_000           # token gói tối đa của một lượt (không tính nền)
 TRAN_FILE = 45_000          # byte tối đa một file gói; Read cắt file lớn hơn
 TOM_TAT_UOC = 6_000         # byte ước tính một file tom-tat-*.md (lượt đợt 1 viết, chưa có lúc dựng gói)
+TRAN_TONG_LUAN = 30_000     # byte trần của tong-luan-nguon.md (trich_tong_ket.TRAN)
+# Lượt Z (đợt 3): sub-agent tong-luan viết mục 0. Tổng luận từ file trich_tong_ket.py rút sau khi
+# bài đã ghép và qua kiem-nguon. File đầu vào chưa có lúc dựng gói.
+SINH_SAU = {"tong-luan-nguon.md"}
+LUOT_Z = {"dot": 3, "agent": "tong-luan", "doc": ["tong-luan-nguon.md"], "ghi": ["phan-z.md"],
+          "truoc": "trich_tong_ket.py"}
 
 
 def chia_nhom(sizes: list[int], k: int) -> list[int]:
@@ -895,7 +916,7 @@ def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], years:
                     cung_sizes: list[int], years_thang: list[int] | None = None) -> dict:
     """files: stem → tên file đã ghi (sau khi chia). Đợt 1: A, R song song; đợt 2: B, C, E và D (một năm)
     hoặc D1, D2… (mỗi năm xem một lượt, ghi phan-d-<năm>.md, tiêu đề ## 7.k.); năm có thang_xem thêm
-    T (một năm, phan-t.md, ## 8.) hoặc T1, T2… (phan-t-<năm>.md, ## 8.k.)."""
+    T (một năm, phan-t.md, ## 8.) hoặc T1, T2… (phan-t-<năm>.md, ## 8.k.). Đợt 3: Z (tổng luận)."""
     nen = ["00-nen.md"]
     tom_tat = ["../tom-tat-a.md", "../tom-tat-r.md"]
     doc_a = nen + files["menh"] + files.get("than", []) + files["cach-cuc"]
@@ -923,6 +944,7 @@ def build_phan_cong(files: dict[str, list[str]], con_lai_pids: list[str], years:
             luot, ghi, tieu_de = f"T{k}", f"phan-t-{year}.md", f"## 8.{k}. Hạn tháng năm {year}"
         phan_cong[luot] = {"dot": 2, "doc": nen + tom_tat + files[f"han-thang-{year}"], "ghi": [ghi],
                            "nam": year, "tieu_de": tieu_de}
+    phan_cong["Z"] = {k: list(v) if isinstance(v, list) else v for k, v in LUOT_Z.items()}
     return phan_cong
 
 
@@ -943,6 +965,11 @@ def print_pack_report(pack_dir: Path, phan_cong: dict) -> None:
         print(f"| {name} | {b} | {round(b / BYTE_MOI_TOKEN)} |{warn}")
     print()
     for luot, info in phan_cong.items():
+        if set(info["doc"]) <= SINH_SAU:
+            print(f"Lượt {luot} (đợt {info['dot']}, agent {info.get('agent', 'xem-tu-vi')}): đọc "
+                  f"{', '.join(info['doc'])} do {info.get('truoc')} sinh sau khi ghép bài, trần {TRAN_TONG_LUAN} "
+                  f"byte (~{round(TRAN_TONG_LUAN / BYTE_MOI_TOKEN)} token) + {NEN_SUB_AGENT} nền; không tính vào cảnh báo gói")
+            continue
         total = sum(TOM_TAT_UOC if d.startswith("../") else sizes.get(d, 0) for d in info["doc"])
         tok = round(total / BYTE_MOI_TOKEN)
         warn = f"  CẢNH BÁO: gói vượt {TRAN_GOI} token" if tok > TRAN_GOI else ""
@@ -1019,7 +1046,7 @@ def kiem_pack(path: Path, out_dir: Path) -> int:
         loi.append(f"thẻ trong gói mà report() không liệt kê: {p}")
     for luot, info in phan_cong.items():
         for d in info["doc"]:
-            if not d.startswith("../") and not (pack_dir / d).is_file():
+            if not d.startswith("../") and d not in SINH_SAU and not (pack_dir / d).is_file():
                 loi.append(f"lượt {luot} được giao file không có: {d}")
     giao = {d for info in phan_cong.values() for d in info["doc"]}
     for p in sorted(pack_dir.glob("*.md")):

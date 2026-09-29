@@ -216,7 +216,16 @@ chạy `trich_tong_ket.py` thì mục 0 không bị rút ngược vào nguồn.
 
 **Điều kiện xong:** self-test đạt.
 
-### Z5 — `tra_cuu.py --pack`: lượt Z trong `phan-cong.json`
+### Z5 — `tra_cuu.py --pack`: lượt Z trong `phan-cong.json` ✅ xong
+
+Đã làm khác plan một điểm: `"ghi": ["phan-z.md"]` (không có `../`), theo quy ước
+sẵn có của `phan-cong.json`: file `ghi` nằm ở thư mục cha của `pack/`. Lượt Z luôn
+đứng cuối, `dot: 3`, `agent: tong-luan`, `truoc: trich_tong_ket.py`. Báo cáo gói
+in một dòng riêng cho Z (trần `TRAN_TONG_LUAN` = 30.000 byte), không tính vào cảnh
+báo 70k. `--kiem-pack` bỏ qua file trong `SINH_SAU` (`tong-luan-nguon.md`) khi
+chưa có. Self-test 17/17, gồm kiểm `TRAN_TONG_LUAN == trich_tong_ket.TRAN`. Chạy
+`--pack` và `--kiem-pack` trên lá số giả: `lỗi: 0`, trước và sau khi có
+`tong-luan-nguon.md`.
 
 Thêm `"Z": {"dot": 3, "agent": "tong-luan", "doc": ["tong-luan-nguon.md"],
 "ghi": ["../phan-z.md"], "truoc": "trich_tong_ket.py"}`. Không tính Z vào cảnh báo
