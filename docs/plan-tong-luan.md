@@ -199,7 +199,14 @@ Nhận diện mục 0 bằng tiêu đề `## 0. Tổng luận`. Trong mục 0:
 **Điều kiện xong:** self-test đạt; chạy trên một bài cũ không có mục 0 cho kết
 quả y như trước khi sửa.
 
-### Z4 — `ghep_bai.py`: chèn mục 0
+### Z4 — `ghep_bai.py`: chèn mục 0 ✅ xong
+
+Đã làm khác plan một điểm: tách `phan-a.md` tại tiêu đề `##` đầu tiên **không phải
+"Cách đọc"** (thay vì đúng dòng `## 1.`), nên phan-a không có mục 1 vẫn chèn đúng.
+Các nhánh: phan-a không có Cách đọc → mục 0 đứng trước phan-a; phan-a chỉ có Cách
+đọc → mục 0 sau phan-a, cảnh báo; thiếu phan-a → mục 0 ngay sau tiêu đề bài.
+Hồi quy: không có `phan-z.md` thì `ghep()` ra y hệt bản cũ. Ghép lại có mục 0 rồi
+chạy `trich_tong_ket.py` thì mục 0 không bị rút ngược vào nguồn.
 
 - Có `phan-z.md` thì chèn sau khối "## Cách đọc bài này" của `phan-a.md`, trước
   dòng `## 1.` đầu tiên (tách `phan-a.md` tại dòng đó; không có dòng `## 1.` thì
