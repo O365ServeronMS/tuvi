@@ -91,7 +91,12 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    `$D/pack/`. Nó ghi `$D/phan-z.md` (mục `## 0. Tổng luận`, ≤ 10.000 ký tự, mỗi ý
    `[TB]`/`[TL]`). Rồi ghép và kiểm lại như bước 4; `ghep_bai.py` tự chèn mục 0 sau
    "Cách đọc". `kiem_bai.py` báo E7/E8 thì `SendMessage` cho `tong-luan` sửa. Nội
-   dung các mục khác sau đó mà sửa thì chạy lại cả bước này.
+   dung các mục khác sau đó mà sửa thì chạy lại cả bước này. File nguồn quá 45 KB
+   thì ghi sẵn trong prompt điểm chia khúc để agent đọc theo `offset`/`limit`.
+   Người dùng chỉ đưa **bài đã ghép sẵn** (không có `phan-*.md`): chép vào
+   `output/luan-giai/<tên>.md`, chạy `trich_tong_ket.py output/luan-giai/<tên>.md`
+   (gói ra `output/luan-giai/<tên>/pack/`), gọi `tong-luan` với `D=output/luan-giai/<tên>`,
+   rồi `ghep_bai.py --chen-z output/luan-giai/<tên>.md $D/phan-z.md`.
 7. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
    dẫn), kèm **nguyên mục 0** (đọc `$D/phan-z.md`, dán vào chat không thêm bớt) và
    dòng tổng của `$D/kiem-nguon.md`. **Không** đọc cả bài rồi dán lại vào chat — bài
@@ -160,6 +165,7 @@ PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D output/luan-giai/la-so-2026.md
 PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py output/luan-giai/la-so-2026.md --pack $D/pack
 PYTHONIOENCODING=utf-8 python3 $S/lay_mau_nguon.py output/luan-giai/la-so-2026.md --so 25  # mẫu cho kiem-nguon
 PYTHONIOENCODING=utf-8 python3 $S/trich_tong_ket.py $D                    # đầu vào lượt Z (tổng luận), sau kiem-nguon
+PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py --chen-z output/luan-giai/la-so-2026.md $D/phan-z.md  # chèn mục 0 vào bài có sẵn
 # Mỗi script trên đều có --self-test
 
 # Bảo trì KB

@@ -2,7 +2,8 @@
 """Rút các dòng Tổng kết của bài luận giải làm đầu vào cho lượt tổng luận (Z).
 
 Dùng:
-    python3 trich_tong_ket.py <thư-mục-bài> [--tran 30000]
+    python3 trich_tong_ket.py <thư-mục-bài> [--tran 90000]
+    python3 trich_tong_ket.py <bài-đã-ghép.md> [--tran 90000]   # → <bài-đã-ghép>/pack/tong-luan-nguon.md
     python3 trich_tong_ket.py --self-test
 
 Ghép các `phan-*.md` như `ghep_bai.py` (cùng thứ tự), bỏ mục "Cách đọc", "Bảng lá
@@ -16,7 +17,7 @@ số" và mục "Tổng luận" nếu đã có, rồi ghi `<thư-mục-bài>/pac
 - khối "Tổng kết cung/năm…" giữ cả gạch đầu dòng [Claude];
 - dòng có "không có đoạn riêng" thành `Khoảng trống:`.
 
-Không lấy gạch đầu dòng nhãn sách, dòng `Nguồn:`. Vượt trần (byte UTF-8) thì bỏ
+Không lấy gạch đầu dòng nhãn sách, dòng `Nguồn:`. Vượt trần (mặc định 90.000 byte UTF-8) thì bỏ
 Tổng kết từng đơn vị trong các mục 5.x có khối tổng kết cung, rồi cảnh báo.
 """
 from __future__ import annotations
@@ -32,7 +33,7 @@ from pathlib import Path
 from ghep_bai import ghep
 from kiem_bai import BULLET_RE, DAU_DONG, HEADING_RE, MIEN_TRU, NGUON_RE, TONG_KET
 
-TRAN = 30_000
+TRAN = 90_000  # byte; người dùng nâng từ 30.000 sau khi đo bài thang-pham-v3 (405 KB, hạn hai năm)
 BYTE_TOKEN = 1.9
 SACH = ("TB", "TL", "TĐ", "NPL")
 MIEN = MIEN_TRU + ("Tổng luận",)
@@ -71,10 +72,25 @@ class Muc:
     ten: str
     don_vi: list[DonVi] = field(default_factory=list)
     khoang_trong: list[str] = field(default_factory=list)
+    nhan_muc: list[str] = field(default_factory=list)  # rut() tính: gồm cả mục con, xem _tinh_nhan_muc
 
     @property
-    def nhan_muc(self) -> list[str]:
-        return [s for s in SACH if any(d.nhan.get(s) for d in self.don_vi)]
+    def nhan_rieng(self) -> set[str]:
+        return {s for d in self.don_vi for s in d.nhan if d.nhan[s]}
+
+
+def _tinh_nhan_muc(muc: list[Muc]) -> None:
+    """Nhãn mục = sách có gạch đầu dòng trong mục **và các mục con** (7.1 gồm 7.1.1…7.1.5). Mục có khối
+    tổng kết mà vẫn không có TB/TL (khối "Tổng kết cung Mệnh" đặt ở 2.3 "Sao hội chiếu") thì lấy cả nhóm
+    mục cùng cha (2.x), vì khối đó gom cả nhóm."""
+    def ho(tien_to: str) -> set[str]:
+        return set().union(*(m.nhan_rieng for m in muc if m.so == tien_to or m.so.startswith(tien_to + ".")))
+    for m in muc:
+        nhan = ho(m.so)
+        cha = m.so.rpartition(".")[0]
+        if cha and not nhan & {"TB", "TL"} and any(d.la_khoi_tong_ket for d in m.don_vi):
+            nhan = ho(cha)
+        m.nhan_muc = [s for s in SACH if s in nhan]
 
 
 def _sach_dong(dong: str) -> str:
@@ -84,6 +100,7 @@ def _sach_dong(dong: str) -> str:
 def rut(text: str) -> list[Muc]:
     """Chia bài thành mục đánh số → đơn vị. Bỏ khối code và các mục miễn."""
     muc: list[Muc] = []
+    hien: Muc | None = None         # mục đang nhận đơn vị
     dv: DonVi | None = None
     bo_cap: int | None = None       # đang trong mục miễn ở cấp này
     in_code = False
@@ -100,8 +117,8 @@ def rut(text: str) -> list[Muc]:
                 dv.tong_ket = TONG_KET_RE.sub("", t) if not dv.tong_ket else dv.tong_ket + " " + TONG_KET_RE.sub("", t)
             elif loai == "claude":
                 dv.claude.append(t)
-            elif loai == "kt" and muc:
-                muc[-1].khoang_trong.append(t.lstrip("-*+ "))
+            elif loai == "kt" and hien is not None:
+                hien.khoang_trong.append(t.lstrip("-*+ "))
             dv.van.append(t)
         cho = None
 
@@ -126,16 +143,20 @@ def rut(text: str) -> list[Muc]:
                 continue
             m = SO_MUC_RE.match(ten)
             if m and ten[m.end():].lstrip().startswith("Tổng kết") and muc:
-                ten, m = ten[m.end():].strip(), None  # "### 5.1.9. Tổng kết cung…" vẫn thuộc mục đang mở
+                # "### 7.1.6. Tổng kết năm 2026" là tổng kết của mục cha 7.1; không có mục cha thì của mục đang mở
+                cha = m.group(1).rpartition(".")[0]
+                hien = next((x for x in reversed(muc) if x.so == cha), hien)
+                ten, m = ten[m.end():].strip(), None
             if m:
-                muc.append(Muc(m.group(1), ten[m.end():].strip()))
+                hien = Muc(m.group(1), ten[m.end():].strip())
+                muc.append(hien)
                 dv = DonVi("(thân mục)")
-            elif muc:
+            elif hien is not None:
                 dv = DonVi(ten)
             else:
                 dv = None
-            if dv is not None:
-                muc[-1].don_vi.append(dv)
+            if dv is not None and hien is not None:
+                hien.don_vi.append(dv)
             continue
         if bo_cap is not None or dv is None:
             continue
@@ -164,6 +185,7 @@ def rut(text: str) -> list[Muc]:
     dong_cho()
     for m in muc:
         m.don_vi = [d for d in m.don_vi if d.nhan or d.tong_ket or d.claude]
+    _tinh_nhan_muc(muc)
     return [m for m in muc if m.don_vi or m.khoang_trong]
 
 
@@ -175,7 +197,7 @@ def viet(muc: list[Muc], ten_bai: str, gon: bool = False) -> str:
     """gon=True: bỏ đơn vị lẻ trong mục 5.x có khối tổng kết cung."""
     out = [f"# Nguồn tổng luận — {ten_bai}", "",
            "Rút tự động từ bài ghép (`trich_tong_ket.py`). `nhãn mục`: sách có gạch đầu dòng "
-           "trong mục. `nhãn`: số gạch đầu dòng theo sách trong đơn vị. `TB≠TL?`: có dấu hiệu "
+           "trong mục và các mục con (mục chỉ có khối tổng kết thì tính cả nhóm mục cùng cha). `nhãn`: số gạch đầu dòng theo sách trong đơn vị. `TB≠TL?`: có dấu hiệu "
            "hai sách nói khác, phải đọc Tổng kết để biết.", ""]
     for m in muc:
         nm = ", ".join(m.nhan_muc) or "không có nhãn sách"
@@ -202,24 +224,31 @@ def _nbyte(text: str) -> int:
     return len(text.encode("utf-8"))
 
 
-def run(bai_dir: Path, tran: int) -> int:
-    text, canh_bao = ghep(bai_dir)
-    for c in canh_bao:
-        print("CẢNH BÁO", c, file=sys.stderr)
+def run(nguon: Path, tran: int) -> int:
+    """nguon: thư mục bài (có phan-*.md) hoặc một bài đã ghép (.md); bài đã ghép thì thư mục bài là
+    <tên bài bỏ .md> cạnh nó (cùng quy ước output/luan-giai/<tên>.md ↔ output/luan-giai/<tên>/)."""
+    if nguon.is_file():
+        text, bai_dir = nguon.read_text(encoding="utf-8"), nguon.with_suffix("")
+    else:
+        bai_dir = nguon
+        text, canh_bao = ghep(bai_dir)
+        for c in canh_bao:
+            print("CẢNH BÁO", c, file=sys.stderr)
     muc = rut(text)
     if not muc:
-        print(f"LỖI: không rút được mục nào từ {bai_dir}", file=sys.stderr)
+        print(f"LỖI: không rút được mục nào từ {nguon}", file=sys.stderr)
         return 1
-    ra = viet(muc, bai_dir.resolve().name)
+    ten = bai_dir.resolve().name
+    ra = viet(muc, ten)
     if _nbyte(ra) > tran:
         truoc = _nbyte(ra)
-        ra = viet(muc, bai_dir.resolve().name, gon=True)
+        ra = viet(muc, ten, gon=True)
         print(f"CẢNH BÁO vượt trần {tran} byte ({truoc}): đã bỏ Tổng kết từng sao ở mục 5.x, "
               f"còn {_nbyte(ra)} byte", file=sys.stderr)
         if _nbyte(ra) > tran:
             print(f"CẢNH BÁO vẫn vượt trần {tran} byte, ghi nguyên không cắt thêm", file=sys.stderr)
     pack = bai_dir / "pack"
-    pack.mkdir(exist_ok=True)
+    pack.mkdir(parents=True, exist_ok=True)
     out = pack / "tong-luan-nguon.md"
     out.write_text(ra, encoding="utf-8")
     n = _nbyte(ra)
@@ -348,6 +377,18 @@ def self_test() -> int:
                   "- [Claude] y\n\n**[Claude] Tổng kết:** z\n")
     if [m.so for m in so_khoi] != ["5.2"] or not so_khoi[0].don_vi[-1].la_khoi_tong_ket:
         bad.append("khối Tổng kết có đánh số phải thuộc mục đang mở")
+    han = rut("## 7.1. Hạn năm 2026\n\n### 7.1.5. Hỉ sự\n\n- [TB] a\n\n### 7.1.6. Tổng kết năm 2026\n\n"
+              "#### Tổng kết hạn năm 2026\n\n- [Claude] b\n\n**[Claude] Tổng kết:** c\n\n"
+              "## 7.2. Hạn năm 2027\n\n### 7.2.1. Nguyên tắc\n\n- [TL] d\n")
+    if [m.so for m in han] != ["7.1", "7.1.5", "7.2.1"] or [d.ten for d in han[0].don_vi] != ["Tổng kết hạn năm 2026"]:
+        bad.append(f"'7.1.6. Tổng kết năm' phải thuộc mục cha 7.1: {[(m.so, [d.ten for d in m.don_vi]) for m in han]}")
+    if [m.nhan_muc for m in han] != [["TB"], ["TB"], ["TL"]]:
+        bad.append(f"nhãn mục 7.1 phải gồm mục con 7.1.5: {[(m.so, m.nhan_muc) for m in han]}")
+    hc = rut("## 2. Mệnh\n\n### 2.1. Sao\n\n#### A\n\n- [TL] x\n\n**[Claude] Tổng kết:** y\n\n"
+             "### 2.3. Hội chiếu\n\nĐoạn.\n\n**[Claude] Tổng kết:** v\n\n#### Tổng kết cung Mệnh\n\n- [Claude] z\n\n"
+             "**[Claude] Tổng kết:** w\n\n## 4. Nền\n\n### 4.9. Quy tắc không áp dụng\n\n**[Claude] Tổng kết:** k\n")
+    if [(m.so, m.nhan_muc) for m in hc] != [("2.1", ["TL"]), ("2.3", ["TL"]), ("4.9", [])]:
+        bad.append(f"khối tổng kết ở 2.3 phải lấy nhãn nhóm 2.x, 4.9 không khối thì không: {[(m.so, m.nhan_muc) for m in hc]}")
 
     gon = viet(muc, "an-2026", gon=True)
     if "Thái Âm tọa thủ" in gon or "Kình Dương" in gon or "Tổng kết cung Phụ Mẫu" not in gon:
@@ -369,6 +410,13 @@ def self_test() -> int:
             run(bai, 100)
         if "vẫn vượt trần" not in im.getvalue():
             bad.append("vượt trần sau khi gọn phải cảnh báo")
+        ghep_san = Path(d) / "da-ghep.md"
+        ghep_san.write_text(ghep(bai)[0], encoding="utf-8")
+        with redirect_stdout(im), redirect_stderr(im):
+            kq = run(ghep_san, TRAN)
+        f = Path(d) / "da-ghep" / "pack" / "tong-luan-nguon.md"
+        if kq != 0 or not f.is_file() or f.read_text(encoding="utf-8") != ra.replace("an-2026", "da-ghep"):
+            bad.append("chạy trên bài đã ghép phải ra như chạy trên thư mục bài")
         if (bai / "pack" / "tong-luan-nguon.md").read_text(encoding="utf-8") != gon:
             bad.append("vượt trần phải ghi bản gọn")
     for b in bad:

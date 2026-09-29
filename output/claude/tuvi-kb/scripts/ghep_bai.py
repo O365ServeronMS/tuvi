@@ -3,6 +3,7 @@
 
 Dùng:
     python3 ghep_bai.py <thư-mục-bài> <file-ra.md>
+    python3 ghep_bai.py --chen-z <bài-đã-ghép.md> <phan-z.md> [<file-ra.md>]   # chèn/thay mục 0 vào bài có sẵn
     python3 ghep_bai.py --self-test
 
 Thứ tự ghép (cách nhau bằng `---`): tiêu đề, phan-a.md (Cách đọc, 1, 2, 3),
@@ -76,6 +77,30 @@ def ghep(bai_dir: Path) -> tuple[str, list[str]]:
     return "\n\n---\n\n".join(khoi) + "\n", canh_bao
 
 
+SEP = "\n\n---\n\n"
+
+
+def chen_tong_luan(text: str, z: str) -> str:
+    """Chèn mục 0 (nội dung phan-z.md) vào một bài đã ghép, như ghep() làm: sau "Cách đọc", trước tiêu đề
+    `##` kế tiếp. Bài đã có mục 0 thì thay (bỏ cả dấu --- đi kèm)."""
+    from kiem_bai import muc0  # kiem_bai không import ghep_bai, không vòng
+    lines = text.split("\n")
+    r = muc0(lines)
+    if r is not None:
+        dau, cuoi = r
+        sau = cuoi
+        while sau < len(lines) and lines[sau].strip() in ("", "---"):
+            sau += 1
+        lines = lines[:dau - 1] + lines[sau:]
+    for i, line in enumerate(lines):
+        if line.startswith("## ") and "Cách đọc" not in line:
+            truoc, sau_ = "\n".join(lines[:i]).rstrip(), "\n".join(lines[i:])
+            if truoc.endswith("---"):
+                truoc = truoc[:-3].rstrip()
+            return truoc + SEP + z.strip() + SEP + sau_
+    return text.rstrip() + SEP + z.strip() + "\n"
+
+
 def run(bai_dir: Path, out: Path) -> int:
     text, canh_bao = ghep(bai_dir)
     for c in canh_bao:
@@ -145,7 +170,14 @@ def self_test() -> int:
         if not t6.split("\n---\n")[1].strip().startswith("## 0. Tổng luận"):
             bad.append("thiếu phan-a: tổng luận phải ngay sau tiêu đề bài")
         (d / "phan-a.md").write_text(a, encoding="utf-8")
+        z = (d / "phan-z.md").read_text(encoding="utf-8")
         (d / "phan-z.md").unlink()
+        khong_z = ghep(d)[0]
+        if chen_tong_luan(khong_z, z) != text4:
+            bad.append("--chen-z vào bài đã ghép phải ra y như ghép thư mục có phan-z.md")
+        z2 = "## 0. Tổng luận\n\n- [TL] bản mới\n"
+        if chen_tong_luan(text4, z2) != chen_tong_luan(khong_z, z2) or text4.count("---") != chen_tong_luan(text4, z2).count("---"):
+            bad.append("--chen-z vào bài đã có mục 0 phải thay mục cũ, không thêm ---")
         text = text2
         out = d / "ra.md"
         if run(d, out) != 0 or out.read_text(encoding="utf-8") != text:
@@ -162,6 +194,13 @@ def main(argv: list[str]) -> int:
             stream.reconfigure(encoding="utf-8")
     if argv == ["--self-test"]:
         return self_test()
+    if argv[:1] == ["--chen-z"] and len(argv) in (3, 4):
+        bai, z = Path(argv[1]), Path(argv[2])
+        out = Path(argv[3]) if len(argv) == 4 else bai
+        text = chen_tong_luan(bai.read_text(encoding="utf-8"), z.read_text(encoding="utf-8"))
+        out.write_text(text, encoding="utf-8")
+        print(f"đã ghi {out} ({len(text.encode('utf-8'))} byte)")
+        return 0
     if len(argv) != 2:
         print(__doc__)
         return 2

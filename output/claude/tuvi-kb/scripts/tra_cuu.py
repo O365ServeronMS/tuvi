@@ -856,7 +856,7 @@ NEN_SUB_AGENT = 15_000      # token nền mỗi sub-agent (system prompt, tool, 
 TRAN_GOI = 70_000           # token gói tối đa của một lượt (không tính nền)
 TRAN_FILE = 45_000          # byte tối đa một file gói; Read cắt file lớn hơn
 TOM_TAT_UOC = 6_000         # byte ước tính một file tom-tat-*.md (lượt đợt 1 viết, chưa có lúc dựng gói)
-TRAN_TONG_LUAN = 30_000     # byte trần của tong-luan-nguon.md (trich_tong_ket.TRAN)
+TRAN_TONG_LUAN = 90_000     # byte trần của tong-luan-nguon.md (trich_tong_ket.TRAN)
 # Lượt Z (đợt 3): sub-agent tong-luan viết mục 0. Tổng luận từ file trich_tong_ket.py rút sau khi
 # bài đã ghép và qua kiem-nguon. File đầu vào chưa có lúc dựng gói.
 SINH_SAU = {"tong-luan-nguon.md"}

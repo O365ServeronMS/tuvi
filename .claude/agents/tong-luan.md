@@ -20,7 +20,10 @@ cùng tên bên dưới. Việc của bạn là **gom và rút gọn**, không p
 ## Cách làm
 
 1. Đọc **một** file: `<D>/pack/tong-luan-nguon.md`. Không có file này thì dừng,
-   báo phiên chính chạy `trich_tong_ket.py <D>` trước.
+   báo phiên chính chạy `trich_tong_ket.py <D>` trước. File có thể tới 90 KB, quá
+   sức một lần Read: đọc theo khúc bằng `offset`/`limit` (phiên chính thường ghi
+   sẵn điểm chia trong prompt), **các khúc trong cùng một message**, đọc hết trước
+   khi viết; mỗi khúc chỉ đọc một lần.
    **Không** đọc bài ghép, `phan-*.md`, `00-nen.md`, `tom-tat-*.md`, thẻ trong
    `output/claude/tuvi-kb/`, hay mã script. File nguồn đã đủ.
 2. Ghi `<D>/phan-z.md` bằng **một** lần Write, theo khuôn dưới.

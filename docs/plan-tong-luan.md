@@ -57,7 +57,7 @@ Tổng luận chạy **sau** `kiem-nguon` và các vòng sửa, để nó rút t
 
 | Phần | Ước lượng |
 |---|---|
-| `tong-luan-nguon.md` (đầu vào lượt Z) | ≤ 30 KB, khoảng 16 nghìn token |
+| `tong-luan-nguon.md` (đầu vào lượt Z) | ≤ 30 KB, khoảng 16 nghìn token (**Z7: nâng lên 90 KB**, bài 405 KB đo được 86 KB) |
 | Chỉ dẫn agent + đọc lại để kiểm | khoảng 6 nghìn token |
 | Output `phan-z.md` | 9.000 ký tự, khoảng 5–6,5 nghìn token |
 | Số lượt gọi model mục tiêu | ≤ 6 (Read 1 lần, Write 1 lần, kiem_bai 1–2 lần) |
@@ -259,7 +259,13 @@ Self-test: `lay_mau_nguon`, `kiem_bai`, `ghep_bai`, `trich_tong_ket` đạt; `tr
 
 **Điều kiện xong:** mọi `--self-test` đạt; `validate_kb.py` vẫn `lỗi: 0`.
 
-### Z7 — Chạy thử và đo ⛔ DỪNG
+### Z7 — Chạy thử và đo ⛔ DỪNG ✅ xong
+
+Chạy trên bài ghép sẵn `thang-pham-v3` (405 KB). Nguồn 86 KB sau cắt mức 1, vượt
+30 KB → dừng hỏi; người dùng chọn **trần 90 KB, mức 1**. Mục 0: 7.508 ký tự, `lỗi: 0`.
+Sửa thêm 5 lỗi lộ ra khi chạy bài thật (nhận bài đã ghép, khối "Tổng kết" đánh số
+thuộc mục cha, nhãn mục gồm mục con/nhóm cha, `ghep_bai.py --chen-z`, đọc theo khúc).
+Chi tiết: [bao-cao-tong-luan.md](bao-cao-tong-luan.md).
 
 ⛔ **DỪNG trước khi chạy**: cần một bài đã ghép có thật (người dùng chỉ định thư
 mục trong `output/luan-giai/`, hoặc đồng ý chạy lượt mới). Không tự gọi đợt 1–2.
