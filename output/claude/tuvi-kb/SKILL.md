@@ -172,7 +172,7 @@ dùng hỏi "sách viết nguyên văn thế nào", trích từ mục Nguyên v�
 ## Chế độ gói ngữ cảnh (khuyên dùng)
 
 7 bước trên dành cho trường hợp một phiên làm hết. Khi luận đủ 12 cung, nên
-dựng **gói ngữ cảnh** rồi chia việc thành 6 lượt: script gom sẵn các thẻ cần
+dựng **gói ngữ cảnh** rồi chia việc thành 6 lượt (cộng lượt tổng luận Z): script gom sẵn các thẻ cần
 đọc và bỏ những dòng chắc chắn không khớp lá số. Độ chi tiết bài luận giữ
 nguyên; chỉ phần đọc lặp lại là bớt đi.
 
@@ -194,7 +194,9 @@ nguyên; chỉ phần đọc lặp lại là bớt đi.
    **D1**, **D2**…, mục 7.1, 7.2…) và **T** nếu có `thang_xem` (hạn tháng;
    nhiều năm thì **T1**, **T2**…, mục 8, 8.1…), đọc hai file
    tóm tắt làm nền. Mỗi lượt chỉ đọc file trong gói, không mở thẻ gốc. Dòng
-   còn lại trong gói vẫn phải kiểm điều kiện theo ràng buộc 4.
+   còn lại trong gói vẫn phải kiểm điều kiện theo ràng buộc 4. Đợt 3 (sau khi
+   ghép, kiểm và kiểm truy nguồn xong): **Z** (sub-agent `tong-luan`) viết
+   `phan-z.md`, mục `## 0. Tổng luận` đặt sau "Cách đọc" — xem bước 6.
 3. **Khuôn viết:** như Bước 7 — ý rút gọn có nhãn, `**[Claude] Tổng kết:**`,
    dòng `Nguồn:` cho mỗi đơn vị. Không trích nguyên văn, không viết mục
    "Nguồn đã dùng".
@@ -207,6 +209,16 @@ nguyên; chỉ phần đọc lặp lại là bớt đi.
    `kiem_bai.py` báo lỗi (exit 1) khi: blockquote trích không khớp nguyên văn
    khúc (E2); đường dẫn thẻ không có thật hoặc không có trong gói (E3); gạch
    đầu dòng không mở bằng nhãn nguồn hay `[Claude]` (E5); đơn vị có ý mang
-   nhãn sách mà thiếu dòng `[Claude] Tổng kết` hoặc dòng `Nguồn:` (E6).
+   nhãn sách mà thiếu dòng `[Claude] Tổng kết` hoặc dòng `Nguồn:` (E6). Mục 0
+   miễn E5, E6 và kiểm riêng: quá 10.000 ký tự (E7), gạch đầu dòng không mở bằng
+   `[TB]`/`[TL]`/`[TB][TL]` (E8).
+6. **Tổng luận (đợt 3):**
+   ```bash
+   python3 scripts/trich_tong_ket.py <thư-mục-bài>   # → pack/tong-luan-nguon.md (các dòng Tổng kết + nhãn)
+   ```
+   Lượt Z chỉ đọc file đó, ghi `phan-z.md`: mỗi ý gắn `[TB]`, `[TL]` hoặc
+   `[TB][TL]` theo sách đỡ ý đó trong bài (ngoại lệ duy nhất của ràng buộc 2:
+   không `[Claude]`, không Tổng kết/`Nguồn:`), không thêm ý, mục tiêu 9.000 ký
+   tự. Rồi ghép và kiểm lại như bước 5.
 
 Luôn đặt `PYTHONIOENCODING=utf-8` khi chạy các script trên.

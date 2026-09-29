@@ -18,9 +18,9 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/10-stars/` … `60-phu/` | 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 thẻ hạn, 39 quy tắc, 325 thẻ phú. |
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
-| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho các lượt sub-agent (A, R, B, C, E, D…, T… nếu xem hạn tháng). Không luận giải. |
-| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py` | Ghép các phần bài; kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật); lấy mẫu gạch đầu dòng cho `kiem-nguon`. `kb_the.py` là thư viện chung. |
-| `.claude/agents/` | `xem-tu-vi` (Opus high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
+| `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho các lượt sub-agent (A, R, B, C, E, D…, T… nếu xem hạn tháng; Z tổng luận). Không luận giải. |
+| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py`, `trich_tong_ket.py` | Ghép các phần bài (có `phan-z.md` thì chèn mục 0 sau "Cách đọc"); kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật; mục 0: trần 10.000 ký tự, chỉ nhãn TB/TL); lấy mẫu gạch đầu dòng cho `kiem-nguon`; rút các dòng Tổng kết thành đầu vào lượt Z. `kb_the.py` là thư viện chung. |
+| `.claude/agents/` | `xem-tu-vi` (Opus high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tong-luan` (Sonnet, viết mục 0. Tổng luận), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
 | `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
 | `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
@@ -50,10 +50,11 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
    `gio_sinh`, `cuc`, `ban_menh` lấy từ bảng; người dùng hỏi thời điểm theo
    tháng thì thêm `thang_xem` (tháng **âm lịch**; đổi từ dương lịch trước).
 
-### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho sub-agent `xem-tu-vi`
+### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho `xem-tu-vi`, lượt tổng luận cho `tong-luan`
 
 Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
-`.claude/agents/xem-tu-vi.md`. Đặt `S=output/claude/tuvi-kb/scripts`,
+`.claude/agents/xem-tu-vi.md`; `tong-luan` là Sonnet (`.claude/agents/tong-luan.md`).
+Đặt `S=output/claude/tuvi-kb/scripts`,
 `D=output/luan-giai/<tên>-<năm>`.
 
 1. Dựng gói: `python3 $S/tra_cuu.py --pack <file.json> $D/` (sinh `$D/pack/`).
@@ -82,13 +83,30 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    kiện`/`không thấy` thì `SendMessage` cho lượt `xem-tu-vi` đã viết mục đó (xem
    số mục 2.x/4.x/5.x/6/7) để sửa, rồi ghép và kiểm lại. Agent đã hết phiên thì
    báo người dùng kèm danh sách, không tự sửa.
-6. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
-   dẫn), kèm tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md`, `$D/tom-tat-r.md`,
-   báo cáo của các lượt và dòng tổng của `$D/kiem-nguon.md`. **Không** đọc cả bài rồi dán lại vào chat — bài nằm
-   trong file .md, độ dài không giới hạn.
-7. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
+6. **Đợt 3 — tổng luận** (lượt Z, sau khi bước 5 đã sửa xong):
+   ```bash
+   python3 $S/trich_tong_ket.py $D          # sinh $D/pack/tong-luan-nguon.md
+   ```
+   Gọi `tong-luan` (không phải `xem-tu-vi`), prompt gồm đường dẫn `$D` và
+   `$D/pack/`. Nó ghi `$D/phan-z.md` (mục `## 0. Tổng luận`, ≤ 10.000 ký tự, mỗi ý
+   `[TB]`/`[TL]`). Rồi ghép và kiểm lại như bước 4; `ghep_bai.py` tự chèn mục 0 sau
+   "Cách đọc". `kiem_bai.py` báo E7/E8 thì `SendMessage` cho `tong-luan` sửa. Nội
+   dung các mục khác sau đó mà sửa thì chạy lại cả bước này. File nguồn quá 45 KB
+   thì ghi sẵn trong prompt điểm chia khúc để agent đọc theo `offset`/`limit`.
+   Người dùng chỉ đưa **bài đã ghép sẵn** (không có `phan-*.md`): chép vào
+   `output/luan-giai/<tên>.md`, chạy `trich_tong_ket.py output/luan-giai/<tên>.md`
+   (gói ra `output/luan-giai/<tên>/pack/`), gọi `tong-luan` với `D=output/luan-giai/<tên>`,
+   rồi `ghep_bai.py --chen-z output/luan-giai/<tên>.md $D/phan-z.md`.
+7. Gửi file kết quả cho người dùng (`SendUserFile` nếu có, không thì ghi đường
+   dẫn), kèm **nguyên mục 0** (đọc `$D/phan-z.md`, dán vào chat không thêm bớt) và
+   dòng tổng của `$D/kiem-nguon.md`. **Không** đọc cả bài rồi dán lại vào chat — bài
+   nằm trong file .md, độ dài không giới hạn. Không có `phan-z.md` (lượt Z hỏng)
+   thì thay bằng tóm tắt khoảng 15 dòng dựng từ `$D/tom-tat-a.md`, `$D/tom-tat-r.md`
+   và báo cáo của các lượt, nói rõ là thiếu tổng luận.
+8. Người dùng chỉ hỏi vài cung: chạy A và R, cộng một lượt B gồm đúng các cung
    được hỏi (sửa `phan-cong.json` bằng tay: B nhận các file `cung-*.md` đó, bỏ
-   C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn, cộng T nếu có hỏi tháng.
+   C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn, cộng T nếu có hỏi tháng. Vẫn chạy
+   Z; mục 0 chỉ gồm các mục có trong bài.
 
 Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu
@@ -113,6 +131,11 @@ một câu trong sách, chứ không phải ở chỗ bài luận nghe hay.
    mục **Đối chứng** của thẻ. Ghép hai thẻ hoặc suy ra điều thẻ không viết thì
    mang nhãn `[Claude]`. Mỗi sao/cách cục/quy tắc/cung/điểm hạn kết thúc bằng
    `**[Claude] Tổng kết:**` và dòng `Nguồn:` liệt kê đường dẫn thẻ.
+   **Ngoại lệ duy nhất: mục `## 0. Tổng luận`** (người dùng đã chốt). Mục này chỉ
+   gom các dòng Tổng kết của bài bên dưới, không thêm ý; mỗi ý gắn `[TB]`, `[TL]`
+   hoặc `[TB][TL]` theo sách đỡ ý đó trong đơn vị gốc, không `[Claude]`, không
+   dòng Tổng kết/`Nguồn:`; ý chỉ có `[TĐ]`/`[NPL]`/`[Claude]` đỡ thì bỏ. Người đọc
+   đối chiếu ở mục cùng tên bên dưới.
 3. **TB và TL khác nhau thì nêu cả hai**, không chọn thay người dùng. `[TĐ]`,
    `[NPL]` không được dùng để bác TB/TL.
 4. **Chỉ dùng gạch đầu dòng thật sự thỏa lá số**: đúng địa chi, đúng miếu/hãm,
@@ -141,6 +164,8 @@ PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py $D/phan-a.md --pack $D/pack       
 PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py $D output/luan-giai/la-so-2026.md
 PYTHONIOENCODING=utf-8 python3 $S/kiem_bai.py output/luan-giai/la-so-2026.md --pack $D/pack
 PYTHONIOENCODING=utf-8 python3 $S/lay_mau_nguon.py output/luan-giai/la-so-2026.md --so 25  # mẫu cho kiem-nguon
+PYTHONIOENCODING=utf-8 python3 $S/trich_tong_ket.py $D                    # đầu vào lượt Z (tổng luận), sau kiem-nguon
+PYTHONIOENCODING=utf-8 python3 $S/ghep_bai.py --chen-z output/luan-giai/la-so-2026.md $D/phan-z.md  # chèn mục 0 vào bài có sẵn
 # Mỗi script trên đều có --self-test
 
 # Bảo trì KB

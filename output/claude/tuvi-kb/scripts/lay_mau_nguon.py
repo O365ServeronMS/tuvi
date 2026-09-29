@@ -6,7 +6,8 @@ Dùng:
     python3 lay_mau_nguon.py --self-test
 
 Chọn đều trên toàn bài (không ngẫu nhiên, chạy lại ra cùng mẫu), mỗi mục cấp
-`##` được ít nhất một dòng nếu có. Sub-agent `kiem-nguon` đọc danh sách này thay
+`##` được ít nhất một dòng nếu có. Bỏ mục `0. Tổng luận` (không có dòng `Nguồn:`;
+đối chiếu ở mục cùng tên bên dưới). Sub-agent `kiem-nguon` đọc danh sách này thay
 vì đọc cả bài.
 """
 from __future__ import annotations
@@ -15,7 +16,7 @@ import sys
 from pathlib import Path
 
 from kb_the import CARD_PATH_RE
-from kiem_bai import MIEN_TRU, NGUON_RE, NHAN_SACH_DAU_RE, _bullets, _doan
+from kiem_bai import MIEN_TRU, NGUON_RE, NHAN_SACH_DAU_RE, _bullets, _doan, muc0
 
 
 def lay_mau(text: str, so: int) -> list[dict]:
@@ -24,9 +25,12 @@ def lay_mau(text: str, so: int) -> list[dict]:
     nguon = {n: sorted({p for l in than if NGUON_RE.match(l.strip()) for p in CARD_PATH_RE.findall(l)})
              for n, _, than in doan}
     starts = [n for n, _, _ in doan]
+    r0 = muc0(lines) or (0, -1)
     ung_vien = []
     for n, content, heads in _bullets(lines):
         if any(k in h for h in heads for k in MIEN_TRU) or not NHAN_SACH_DAU_RE.match(content):
+            continue
+        if r0[0] <= n <= r0[1]:
             continue
         h = max(s for s in starts if s <= n)
         ung_vien.append({"dong": n, "muc": " > ".join(heads[-2:]), "cap2": heads[1] if len(heads) > 1 else "",
@@ -67,6 +71,11 @@ def self_test() -> int:
         bad.append(f"mẫu cuối hoặc cỡ mẫu sai: {len(mau)} {mau[-1]}")
     if lay_mau(bai, 5) != mau:
         bad.append("chạy lại ra mẫu khác")
+    co_z = bai.replace("## 2. Mệnh", "## 0. Tổng luận\n- [TB] ý tổng luận\n- [TL] ý nữa\n## 2. Mệnh")
+    if any("tổng luận" in u["y"] or "ý nữa" in u["y"] for u in lay_mau(co_z, 30)):
+        bad.append("không được lấy mẫu trong mục 0. Tổng luận")
+    if len(lay_mau(co_z, 30)) != len(lay_mau(bai, 30)):
+        bad.append("mục 0 làm đổi số ứng viên ngoài mục 0")
     for b in bad:
         print("SAI:", b)
     print("self-test:", "đạt" if not bad else f"{len(bad)} lỗi")
