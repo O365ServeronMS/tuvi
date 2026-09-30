@@ -20,10 +20,8 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
 | `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho các lượt sub-agent (A, R, B, C, E, D…, T… nếu xem hạn tháng; Z tổng luận). Không luận giải. |
 | `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py`, `trich_tong_ket.py` | Ghép các phần bài (có `phan-z.md` thì chèn mục 0 sau "Cách đọc"); kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật; mục 0: trần 10.000 ký tự, chỉ nhãn TB/TL); lấy mẫu gạch đầu dòng cho `kiem-nguon`; rút các dòng Tổng kết thành đầu vào lượt Z. `kb_the.py` là thư viện chung. |
-| `.claude/agents/` | `xem-tu-vi` (Opus high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tong-luan` (Sonnet, viết mục 0. Tổng luận), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
-| `output/chatgpt/`, `output/claude/tan-bien/` | Bản xuất cho công cụ khác. **Không dùng để luận giải, không sửa.** |
+| `.claude/agents/` | `xem-tu-vi` (Sonnet high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tong-luan` (Sonnet, viết mục 0. Tổng luận), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
-| `scripts/legacy/` | Pipeline đời đầu đã ngưng, sinh ra `output/chatgpt/` và `output/claude/tan-bien/`. Giữ để tái tạo được, **không chạy trong công việc thường ngày**. Xem README trong đó. |
 
 Lưu ý đường dẫn: KB nằm ở `output/claude/tuvi-kb/`, không phải `output/tuvi-kb/`
 như bố cục cũ. `scripts/tuvi_kb_common.py:18` là nơi định nghĩa `KB_DIR` thật.
@@ -52,7 +50,7 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
 
 ### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho `xem-tu-vi`, lượt tổng luận cho `tong-luan`
 
-Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
+Sub-agent `xem-tu-vi` đã cấu hình Sonnet, effort high tại
 `.claude/agents/xem-tu-vi.md`; `tong-luan` là Sonnet (`.claude/agents/tong-luan.md`).
 Đặt `S=output/claude/tuvi-kb/scripts`,
 `D=output/luan-giai/<tên>-<năm>`.
@@ -108,7 +106,7 @@ Sub-agent `xem-tu-vi` đã cấu hình Opus, effort high tại
    C, E), cộng D (hoặc D1, D2…) nếu có hỏi hạn, cộng T nếu có hỏi tháng. Vẫn chạy
    Z; mục 0 chỉ gồm các mục có trong bài.
 
-Không tự luận giải trong phiên chính. Sub-agent chạy Opus effort high và chỉ
+Không tự luận giải trong phiên chính. Sub-agent chạy Sonnet effort high và chỉ
 mang theo phần ngữ cảnh cần thiết, nên phần đọc vài chục thẻ và cân nhắc mâu
 thuẫn giữa hai sách thuộc về nó.
 

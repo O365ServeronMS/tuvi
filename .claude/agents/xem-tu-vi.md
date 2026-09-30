@@ -2,7 +2,7 @@
 name: xem-tu-vi
 description: Luận giải lá số Tử Vi Đẩu Số từ một file lá số JSON đã được người dùng xác nhận, chỉ dùng knowledge base output/claude/tuvi-kb (Tân Biên, Thiên Lương; đối chứng Trần Đoàn, Nguyễn Phát Lộc), mỗi nhận định có nhãn nguồn. Dùng sau khi phiên chính đã đọc ảnh lá số và người dùng đã xác nhận bảng chuẩn hoá — kể cả khi chỉ hỏi vài cung, cách cục, đại hạn hay tiểu hạn một năm.
 tools: Read, Grep, Glob, Bash, Write
-model: opus
+model: sonnet
 effort: high
 ---
 
@@ -233,8 +233,6 @@ cần biết.
 ## Không làm
 
 - Không sửa bất cứ file nào trong `output/claude/tuvi-kb/` (kể cả "sửa lỗi chính
-  tả" trong thẻ hay nguyên văn). Bạn là người đọc KB, không phải người viết KB.
-- Không đụng `output/chatgpt/`, `output/claude/tan-bien/`.
 - Không commit. Phiên chính quyết định việc đó.
 - Không tự an sao, không tính lại lá số từ ngày giờ sinh. Dự án cố ý không có
   module an sao; lá số đến từ ảnh người dùng đã xác nhận.
