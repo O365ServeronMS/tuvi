@@ -1,0 +1,77 @@
+---
+id: bd#0209-vi-sao-can-tap-an-sao
+book: buu-dinh
+book_code: bd
+book_title: "Tử Vi Ứng Dụng (blog Bửu Đình)"
+title: "Vì sao cần tập an sao?"
+heading_path: ["Vì sao cần tập an sao?"]
+level: 1
+ordinal: 209
+part: 1
+parts: 1
+source_file: output/buu-dinh/posts/2013-01-17-vi-sao-can-tap-sao.md
+source_url: "https://tuviungdung.blogspot.com/2013/01/vi-sao-can-tap-sao.html"
+published: 2013-01-17
+chars: 5653
+stars_detected:
+  - tu-vi
+  - kiep-sat
+  - thai-duong
+  - van-xuong
+  - bach-ho
+  - benh-phu
+  - da-la
+  - dao-hoa
+  - dia-kiep
+  - huu-bat
+  - loc-ton
+  - luu-ha
+  - ta-phu
+  - tang-mon
+  - thai-am
+  - thanh-long
+  - triet
+  - tuan
+  - van-khuc
+stars_in_title: []
+palaces_detected: [menh, than, tu-tuc]
+non_luan: false
+---
+
+Nếu các bạn khởi đầu học TỬ VI an sao bằng phần mềm. Vô tình các bạn chậm tiến. Bạn không hiểu thế nào là chòm sao, bộ sao. Bạn sẽ không hỏi các câu hỏi ngớ ngẩn.
+
+Ví dụ đã có BẠCH HỔ toạ thủ tức có TANG MÔN xung. Có BỆNH PHÙ toạ thủ tức có THANH LONG xung. Có ĐÀO HOA tức có KIẾP SÁT tam hợp. Có ĐÀO KIẾP SÁT hội họp dễ có đủ bộ Nhị Đức.
+
+Khi bạn đã an sao quen tay rồi, chỉ cần nghe nói VĂN XƯƠNG ở đâu là biết được giờ sinh, biết DIÊU Y ở đâu là biết tháng sinh. Vậy cung an Thân coi như đã biết, hoặc biết LỘC TỒN an tại Dậu tất biết, đó là tuổi Tân. VĂN XƯƠNG nằm tại Ngọ chắc chắn VĂN KHÚC nằm tại Thân… TẢ PHÙ nằm ở Thìn, HỮU BẬT tất nằm ở Tuất. Vậy là sinh tháng 1 đúng chưa? Nếu không đúng, có chăng bạn nói lộn hoặc lá số của bạn an lộn sao. Việc dựng lại lá sốTỬ VI không khó qua câu chuyện kể. Tất nhiên là kể đúng, kể ba xạo không dựng được.
+
+Các bạn sẽ không hỏi. Mệnh cục tương sinh, tương khắc độ số chiết giảm, tăng giảm bao nhiêu phần trăm. Vì Hành của Mệnh và vị trí cung Mệnh lại thêm ngày sinh như thế. Từ đó mới có bố cục như vậy. Tốt thì đã tốt rồi, xấu thì đã xấu rồi.
+
+Đó là lý do bạn cần tập an sao bằng tay, tức là an trên giấy. Người viết không đòi hỏi các bạn phải an sao trên ngón tay, được như thế cũng rất quí, đó là cách an sao của người khiếm thị. Có hướng dẫn đầy đủ trong Tử Vi Áo Bí.
+
+Nhờ an sao sao trên giấy, từ đó người viết phát hiện những sai lầm như an KHÔI VIỆT, an LƯU HÀ, an Tứ Hoá. Trả lại tên sao cho đúng với thực tế. Cũng từ đó chọn cho mình lối an sao đúng nhất. Cuối cùng là thừa nhận cách an sao của Trần Đoàn, TỬ VI Ứng Dụng xây dựng trên nền tảng đó. Có cải tiến đôi chút. Với Hạn chỉ cần tính đại hạn và niên hạn, không dùng lưu niên đại hạn. Nguyệt Hạn, Nhật Hạn vô cùng giản dị.
+
+TVUD chỉ an 93 mà thôi.
+
+Trình bày lá sốTỬ VI cũng rất đơn giản. Thật ra trước đây ai cũng làm như thế, chỉ có thường khuyên tròn đắc, miếu địa…
+
+TVUD tuyệt đối không được ghi tên cung vì dễ gây hiểu lầm niên hạn (tức tiểu hạn). Chỉ ghi tên sao mà thôi. Khuyến khích ghi đầy đủ tên, như TUẦN TRUNG KHÔNG VONG nhưng nó dài quá nên ghi là TUẦN TRUNG và TRIỆT LỘ KHÔNG VONG có thể ghi là TRIỆT LỘ. Không có lý do gì ghi âm dương, ngũ hành… lên lá số làm rối tinh cả mắt. Trong lúc trong đầu đang bận tâm tìm sao trợ cách, sao phá cách. Lại gặp sao lưu động ghi vào đấy. Tuyệt đối không ghi sao lưu động. Vì lá số TỬ VI coi cả đời. Ghi sao lưu động vào trong ấy, cay đắng quá, ta cần coi năm Quý Ti lại thấy lưu động năm Nhâm Thìn. Sao lưu động phải nhớ trong đầu thôi, có vẻ khó cho 1 số bạn, Nhưng thật ra không khó mấy. Chỉ mất khoảng 3 ngày bạn thuộc lòng cách an phi tinh (trừ cách an vị trí sao TỬ VI, người viết không đòi hỏi bạn phải an sao này). Nhưng người viết chỉ yêu cầu các bạn thuộc lòng cách an Phi tinh 60 tuổi. Nghe thì ghê gớm vậy nhưng thật ra rất dễ nhớ. Không phải là người viết khuyến khích đâu mà thật sự là như vậy. Bạn ái ngại, làm biếng chẳng bao giờ giỏi cả.
+
+Như các yếu tố căn bản của các cung. Chỉ mất chưa tới nửa buổi người ngoại đạo Tử Vi có thể học thuộc lòng.
+
+Không thể chấp nhận. Hôm nay mất điện, không đoán TỬ VI được. Chết vì cười.
+
+Chính tinh ưu ái xếp lên trên, Bàng tinh xếp xuống dưới. Đừng cho là sao này tốt, sao kia xấu, xếp bên này bên kia. Vô tình ấn tượng xấu, tốt về các sao. Cái đó cực kỳ tai hại, xếp vào loại bị nhồi sọ. Chẳng có sao nào tốt thật sự, cũng như xấu thật sự. Chẳng qua nằm vị trí bất hợp lý, tạo ra những phối hợp xấu, tốt thế thôi.
+
+Giữa thiên bàn ghi 5 yếu tố giờ, ngày, tháng, năm sinh, nam nữ và tên người, số cục. Tên người chẳng qua khỏi bị lầm với lá số người khác cùng tuổi. Cục để kiểm tra nhanh lá số coi thử an đúng sai nư thế nào.
+
+Ngày xưa, người viết tự lập ra bảng an sao này. Vừa dùng đến tableau vừa không. Dùng tableau cũng tựa như dùng máy tính. Buộc lòng phải nhớ cách an sao. Nhờ đó an rất là nhanh, còn hay hơn là kéo ngang kéo dọc rồi gióng xuống… trật, bình quân 30 phút là có lá số TỬ VI đẹp như ý mình muốn. Khi bạn rành cách an sao rồi, chỉ cần hỏi thăm chính tinh ấy đóng ở đâu, có sao này không, có sao kia không là biết được tình hình lá số tốt hay xấu. Không cần thiết phải đem lá số TV ra làm gì. Nhìn sơ sơ lá số TỬ VI là có thể thuộc. Đại khái là nhớ nhớ, Mệnh ở TÝ đại hạn ở Phúc có ĐỊA KIẾP và tuổi gì là có thể hình dung được lá số TỬ VI trong đầu.
+
+Lá số TV là bản mật mã, đúng nghĩa như thế. Không phải bức tranh làm màu mè cho đẹp.
+
+Quan trọng là thuộc bài, đọc nhanh mật mã mà thôi. Đoán TỬ VI đoán từng sao rời rạc. Cộng lại cho ta sự… mâu thuẫn.
+
+Đáng tiếc bài viết cách an sao khá dài chiếm 5 frammes (trong flash, tương đương như trang trong Word) không tiện đưa lên blog, áp dụng kỹ thuật flash. Chỉ chụp lại 1 số hình ảnh đưa lên thử nghiệm.
+
+Khi bạn rành cách an sao rồi, bạn có thể tính ngược. Ví dụ, năm này, muốn có lá số Mệnh tại Ngọ có TỬ VI thì phải sinh giờ, ngày nào trong tháng 1. Rất là dễ, giờ Thân tháng giêng, các ngày 02, 16, 30. Điều quan trọng cần biết, là năm này sao TỬ VI tại Ngọ không tốt đâu ạ. Đó là lý do TVUD không bận tâm chi đến đắc, miếu, hãm. Mặc dù cũng thừa nhận chỗ ấy đắc lợi, địa lợi, chỗ kia thất thế là điều có thật. Có thế mới gọi là TV Ứng Dụng. Bài an sao theo TVUD có trong F1 new. Đã là học viên của TVUD buôc lòng bạn phải tập an sao trên giấy trước. Nhưng người viết tin rằng, sau khi đọc xong bài này, các bạn học viên nghiêm túc thực hiện. Đáng tiếc là F1 new phải 25 tết mới có.
+
+Nếu bạn có phần mềm an sao của Trần Nhật Thành. Chọn công cụ/ điều chỉnh/ an sao theo Tử Vi Ứng Dụng. Khi bạn giỏi rồi, an theo phần mềm, tâm tư tình cảm thoải mái. Chuẩn bị tư tưởng tìm sao, tìm bộ đóng hay dở như thế nào. Chứ không phải sao này miếu địa, sao kia đắc địa đâu.

@@ -35,10 +35,12 @@ BOOKS: tuple[Book, ...] = (
     Book("tl", "thien-luong", "TU-VI-THIEN-LUONG.clean.md", "Tử Vi Nghiệm Lý Toàn Thư (Thiên Lương)", True),
     Book("td", "tran-doan", "TU-VI-DAU-SO-TOAN-THU-TRAN-DOAN.clean.md", "Tử Vi Đẩu Số Toàn Thư (Trần Đoàn)", False),
     Book("npl", "nguyen-phat-loc", "TU-VI-TONG-HOP-NGUYEN-PHAT-LOC.clean.md", "Tử Vi Tổng Hợp (Nguyễn Phát Lộc)", False),
+    # Blog Bửu Đình: khúc do scripts/chunk_buudinh.py sinh từ output/buu-dinh/, không có file input/*.clean.md.
+    Book("bd", "buu-dinh", "", "Tử Vi Ứng Dụng (blog Bửu Đình)", False),
 )
 BOOK_BY_CODE = {b.code: b for b in BOOKS}
 
-SOURCE_LABELS = {"tb": "[TB]", "tl": "[TL]", "td": "[TĐ]", "npl": "[NPL]"}
+SOURCE_LABELS = {"tb": "[TB]", "tl": "[TL]", "td": "[TĐ]", "npl": "[NPL]", "bd": "[BĐ]"}
 LABEL_TO_CODE = {v: k for k, v in SOURCE_LABELS.items()}
 PRIMARY_CODES = frozenset(b.code for b in BOOKS if b.primary)
 CROSS_CODES = frozenset(b.code for b in BOOKS if not b.primary)

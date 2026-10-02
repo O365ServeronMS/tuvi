@@ -1,0 +1,680 @@
+---
+id: bd#4873716706492142517
+title: "Thầy Trò Vấn Đáp."
+url: https://tuviungdung.blogspot.com/2018/03/thay-tro-van-ap.html
+published: 2018-03-07T15:03:00.000+07:00
+updated: 2018-03-10T19:33:39.437+07:00
+labels: []
+---
+
+# Thầy Trò Vấn Đáp.
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEaiH8UoJ-TpR7VhDwDCqYtBXRqzZrlHNonCxts41Mkl6vvziPuufaCTfKeRa6Xum2B-ElsGLHPdx-CXY8pgyyg4CXz5clo3ae133esPDxXxQUqrNahuI1GECinAce3-HiAYDAL-uSXJ7/s1600/TTVDnho.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEaiH8UoJ-TpR7VhDwDCqYtBXRqzZrlHNonCxts41Mkl6vvziPuufaCTfKeRa6Xum2B-ElsGLHPdx-CXY8pgyyg4CXz5clo3ae133esPDxXxQUqrNahuI1GECinAce3-HiAYDAL-uSXJ7/s1600/TTVDnho.gif)
+
+Thể
+theo nguyện vọng của các học viên Tử Vi Ứng Dụng. Người viết công khai mở trang
+Thầy Trò Vấn Đáp với chủ đề riêng. “Thừa nhận và phản đối mê tín dị đoan trong
+Tử Vi Ứng Dụng”. Nếu là học viên của môn phái, sau nầy trở thành môn đồ của Tử
+Vi Ứng Dụng lại ôm đồm mê tín dị đoan. Việc phối hợp khập khiễng như thế. Vô tình
+bôi bác đường lối Tử Vi Ứng Dụng. Tự mình đứng ra khỏi hàng ngũ môn đồ của Tử
+Vi Ứng Dụng và không nên lợi dụng môn phái phổ biến sai đường lối.
+
+Người
+viết từng có các bài viết:
+
+Chống
+Mê Tín Dị Đoan.
+
+[http://tuviungdung.blogspot.com/2016/05/me-tin-di-oan.html](http://tuviungdung.blogspot.com/2016/05/me-tin-di-oan.html)
+
+Thừa
+nhận thuyết định mệnh
+
+[http://tuviungdung.blogspot.com/2016/02/nhan-inh-thang-thien.html](http://tuviungdung.blogspot.com/2016/02/nhan-inh-thang-thien.html)
+
+Và
+đề ra muốn nhân định thắng thiên. Phải sửa đổi tính cách của chính mình, có như
+thế mới sửa đổi được số mạng. Người viết không đi quá sâu về vấn đề trên. Vì đó
+là công việc chung của xã hội. Người viết chỉ bày tỏ đường lối lập trường của Tử
+Vi Ứng Dụng là không mê tín. Đây là vấn đề người ngoài cuộc thoạt nghe dễ hiểu
+lầm.
+
+Những
+tai hoạ phát sinh từ khách quan (tức bên ngoài gây ra) khó mà sửa đổi.
+
+Những
+tai hoạ phát sinh từ chủ quan. Như, trộm cắp, hiếp dâm, tham ô, tham nhũng, lừa
+đảo, nói xấu... phản bội. Do ai? Do mình chứ ai. Muốn sửa đổi phải thay đổi tính
+cách. Chẳng có thần thánh nào lạ kỳ lại muốn can tội tiếp tay với kẻ xấu.
+
+Với
+người viết, những kẻ cầu xin dâng sao giải hạn, cúng bái vu vơ.... Rõ ràng có vấn
+đề trong cuộc sống, hoặc trình độ quá yếu mới dễ tin như vậy. Nếu là học viên,
+tất nhiên các bạn đã biết cách giải trừ tai hoạ là cách gì. Việc đồng bóng, bùa
+ngãi, phù chú, địa lý, phong thuỷ, linh xa, ngoại cảm, linh vật... chuyện nhảm
+nhí. LINH XƯƠNG LA VŨ, nghe lời xúi giục mà mang hoạ. Nghe lời tán tỉnh của
+trai gái cũng mang hoạ rồi. nói gì đến địa lý, phong thuỷ... mơ hồ.
+
+Người
+viết sẵn sàng vấn đáp đề tài kể trên với học viên mà thôi. Với điều kiện giản dị.
+Học viên phải công khai tên tuổi. Đây là người thật việc thật, chẳng phải giai
+thoại lại càng không phải huyền thoại. Các comments của học viên sẽ được người
+viết cập nhật vào đây, mỗi ngày một lần. Vì người viết đang biên soạn F7.
+
+Yêu
+cầu không để chế độ ẩn. Nếu ẩn, người viết không trả lời.
+
+**Các Câu Hỏi. Ngày 7Trần Quang Hoan**
+
+Thưa Bác, việc lợi dụng mê tín dị đoan đưa vào
+Tử Vi Ứng Dụng là không thể chấp nhận được. Nó trái ngược lại hoàn toàn với sự
+hướng dẫn của Bác. Là 1 học viên may mắn được theo học từ K3 tới nay cháu thiết
+nghĩ chắc chắn sẽ không bao giờ có 1 TVUD kết hợp với Phong thủy, hay bùa
+chú...như thế sẽ thành Tử Vi Lạm Dụng mất. Câu hỏi đầu tiên cháu xin được hỏi
+Bác là:
+
+Trong quá trình nghiên cứu và xây dựng học
+thuyết Tử Vi Ứng Dụng, Bác đã từng va vấp và vượt qua vấn đề mê tín dị đoan này
+như thế nào ạ?
+
+TRẢ LỜI :
+
+Ngay từ bé khi tìm đến Tử Vi, bác vẫn là người ham thích ham
+khoa học. Thời điểm tìm hiểu Tử Vi cũng là thời điểm người ta phóng vệ tinh
+Echo 1, 2. Tại Huế, có thể nhìn thấy bằng mắt thường, to sáng bằng hạt đậu. Luôn
+theo dõi các chương trình Gemini thời đó. Bác nhận xét, đây là môn bói toán hay
+nhất. Có vẻ rất khoa học. người ta đã nhuốm màu huyền bí lên đó.
+
+Trên mặt lý thuyết không gặp vấn đề gì giữa Tử Vi Ứng Dụng và
+mê tín. Trong đời sống thực va chạm với mê tín là có thực. Các năm 73, 74 miền
+nam hồi ấy nở rộ số đề, cầu cơ xin số. Thế là có va chạm vì người ta quan niệm
+rằng; một người đam mê Tử Vi là mê tín lại đi chống phá mê tín. Cùng lúc đụng
+chạm với một nhóm xưng là Phật quyền. Với bác Thần quyền không có gì lạ, nó xuất
+phát tại Huế khoảng năm 65 trở đi. Đáng tiếc là khó nói do đâu mà nó phát sinh.
+Phật quyền thì quá xạo... làm gì có chuyện lạ lùng Phật lại đi đánh lộn. Về sau bọn xúc phạm đến Phật cũng tan thành mây khói. Họp hành lại bảo; “Theo tin tức cầu
+cơ cho biết...”. Thế là va chạm bằng ngôn ngữ THÁI TUẾ.
+
+Mê tín gây cản trở lớn trên đà tiến bộ xã hội. Trong quân sự
+gây tác động rất xấu dễ bị đối phương tuyên truyền xuyên tạc, ru ngủ...
+
+Không thể trách những người xếp Tử Vi vào mê tín. Vì có thể có
+loại Tử Vi bịp bợm sau khi ăn tiền Tử Vi, còn tìm cách ăn thêm tiền cúng bái, bùa
+ngãi, linh vật.... phong thuỷ. Còn đâu là số mạng. Có chăng là số bị lừa gặp thầy
+lừa thế thôi.
+
+Đã là học viên Tử Vi Ứng Dụng phải đi đúng đường lối mới trở
+thành môn đồ. bằng không.  Nếu không chung đường đừng xử dụng những gì
+học hỏi được của Tử Vi Ứng Dụng.
+
+**Cỏ DẠI**
+
+Cháu chào bác!
+
+Cháu là Phương béo! - Bùi Quỳnh Phương K4 đây ạ
+
+Cháu thấy, gần đây có rất nhiều blog rồi webside liên quan đến 4 chữ Tử Vi Ứng
+Dụng. Trong đó có cả một blog và một vài văn phòng do một trong những học viên
+của bác như cháu mở ra để hoạt động kinh doanh . Nhưng khi biết đến cháu thấy
+có phần thất vọng vì học viên này không đi đúng những gì Tử Vi Ứng Dụng mà bác
+đã nghiên cứu trong hơn 40 năm qua. Nó đã được biến tướng thành Tử Vi Ứng Dụng
+kết hợp Phong Thuỷ. Hơn thế nữa còn là mời mọi người đến với Tử Vi Ứng Dụng
+“BD” để học căn bản với giá 15tr/khoá ( tên người này viết tắt thì giống hệt
+tên của bác.) ... Với những gì bác viết ở trên cháu đã hiểu. Trường hợp như vậy
+đã, sẽ và mãi chỉ là người đạo kiến thức mà thôi. Chưa rõ tài tới đâu nhưng tâm
+thì không xứng rồi :).
+
+TRẢ LỜI :
+
+Trước tiên cám ơn cháu đã tham gia đặt câu hỏi.
+
+Có vẻ như là cháu biết nhiều điều hơn là cháu tiết lộ.
+
+Khi có bè bạn đi sai đường, việc đầu tiên là chúng ta nhắc nhở,
+cảnh cáo.
+
+Nếu tiếp tục buộc phải dùng đến sao TRIỆT để loại trừ, xoá bỏ...
+khai trừ ra khỏi môn phái. Kẻ đi sai đường tự chọn lối khác không tên, nếu vẫn
+tiếp tục mượn danh Tử Vi Ứng Dụng BD như thế là mập mờ đánh lận con đen. Ngôi
+sao THÁI ÂM tối thui lại có vấn đề. Nếu ngoan cố ngôi sao THẤT SÁT can tội chiếm
+đoạt. Cho nên ngôi sao THÁI ÂM bị PHONG CÁO tố cáo.
+
+Các học viên được xem như môn đồ chân chính tỏ ra rất bực mình,
+khi thấy đồng môn đi sai đường.lại lạm dụng danh nghĩa của môn phái. Sợ bị đánh
+đồng Tử Vi Ứng Dụng cũng như các loại Tử Vi khác.
+
+Người viết khuyến khích các môn đồ giỏi mở văn phòng. Nếu như
+việc làm đó nhà nước không cấm..
+
+Người viết cũng khuyến khích các môn đồ giỏi thâu nhận đệ tử để
+phát triển môn phái. Sau khi người viết thôi không còn hướng dẫn nữa. Với điều
+kiện không làm như cách người viết đang làm. Vì người viết là người cầm đầu phát
+huy Tử Vi Ứng Dụng. Với môn đồ tốt nhất nên thâu nhận trực tiếp đệ tử. Việc phát
+triển đại trà không phải là cách hay. Cái gì quý phải hiếm.
+
+**THU HIỀN.**
+
+cháu chào bác, cháu là Thu Hiền - Khóa 6 ạ.
+Chiều nay khi đọc bài viết Hóa Kỵ và đọc comment của mọi người, cháu đã rất
+mong bác sẽ có bài viết "Tự do và số phận" thì đến tối bác có chủ đề
+“Thừa nhận và phản đối mê tín dị đoan trong Tử Vi Ứng Dụng”. Cháu cảm ơn bác đã
+có một trang công khai cho chủ đề này. Cháu luôn ghim trong đầu lời bác dậy
+"Khi đoán lá số người khác buộc phải đoán tính cách họ trước" quả
+thực bởi lá số có những chòm như Linh Xương La Vũ, Linh Đà Kiếp, Nhị Tam ám,
+Hỏa Linh... mới dễ tìm đến bùa chú, linh xa, ngoại cảm... chứ người có lập
+trường vững vàng, có phân biệt đúng sai không dễ vội tin những điều như thế,
+nhất khi biết đây là mảnh đất màu mỡ cho kẻ xấu lợi dụng lừa đảo. Cháu cũng xin
+thừa nhận luôn với bác, cháu là đứa cũng khá u mê, cháu tin có ma quỷ thần
+thánh, luân hồi, nhân quả bác ạ, khi nghe những chuyện về nhà thờ họ Nguyễn,
+... đọc các sách tâm linh như Bàn tay ánh sáng, Hành trình về Phương Đông, Khu
+vườn Findhorn... nó kích thích trí tò mò của cháu, và nó khiến cháu dấn thân
+tìm hiểu. Cháu nghĩ vì vẫn tồn tại những điều bí ẩn nên rất khó phân biệt được
+giữa Tâm linh (cháu tạm dùng từ này, hoặc dùng từ Khoa học huyền bí) và mê tín dị
+đoan, mới dễ bị lôi kéo đến chỗ đồng bóng, bùa ngãi, phù chú, địa lý, phong
+thuỷ, ...
+
+TRẢ LỜI :
+
+Cám ơn cháu đã tham gia góp ý.
+
+Chắc chắn bác sẽ viết đề tài Tự Do và Số Phận
+để làm sáng tỏ 2 chữ định mệnh. Ai là người sửa đổi số phận ai là không. Có điều
+bác hiểu nhầm là đề tài này bác viết rồi. Vì viết quá nhiều và rất nhiều đề tài
+viết xong bỏ đó, đưa lên đụng chạm, hai là học viên không muốn bác tiết lộ nhiều.
+
+Cám ơn cháu can đảm thừa nhận những yếu điểm chính
+bản thân. Điều này cho thấy bộ sao thần kinh HOẢ LINH đi với với nhóm HƯ HAO nên
+yếu đuối tinh thần. Hoặc đi với HÌNH DIÊU Y dễ bị ám ảnh dễ tin và tiếp thu những
+cái mơ hồ huyền bí. Tuỳ thuộc vào mức độ nặng nhẹ khác nhau có thể trở thành bệnh
+lý.
+
+Địa linh nhân kiệt là chuyện có thật để trở thành
+thần linh như thế. Khi sống cái tâm sáng như gương.hằng triệu mới có 1. Khi chết,
+vẫn tính cách như thế. Đã là thánh nhân khi sống không làm việc xấu, khi chết
+thành thần lại tiếp tay kẻ xấu là chuyện không thể chấp nhận.
+
+Chỉ có kẻ xấu có vấn đề mới chạy vạy người sống,
+kẻ chết.
+
+Kẻ bất tài mới đi cầu xin thần linh ma quỷ.
+
+Kẻ có tài đủ sức xoay sở.
+
+Từ xưa đến nay luôn luôn có hạng người mê tín. Dù
+khoa học có tiến bộ bao nhiêu vẫn luôn luôn có người mê tín. Vì luôn luôn có những người mang ngôi sao DIÊU
+Y trong cung Mệnh. Thậm chí cả bộ tam Ám. Lại cũng có người lợi dung mê tín buôn
+thần bán thánh.vụ lợi. Từ đó lại sinh ra loại người phổ biến mê tín để trục lợi...
+Mê tín thường đi kèm với dị đoan (dễ đoan chắc là có) còn sinh ra mê tiền, mê
+quyền lực, mê trai, mê gái...   Cầu xin,
+xin đừng bỏ nhau. Trong khi cuộc sống như địa ngục. Cứ thế lại sinh tiếp bùa ngãi,
+bùa yêu. Vô tình, trở thành liên minh ma quỷ. Đầu tiên từ bói toán. mà ra. Người
+sống thì không thấy không biết nhưng dám quả quyết. Có người âm theo đuổi, ám hại...
+mồ mả bị... (thiếu cái di) động. Thế là phe ta có thêm thầy địa lý, thầy cúng...
+
+Các sách vở, phim ảnh hết đề tài chuyển qua
+khai thác mê tín, kinh dị làm màu mè thêm cuộc sống.
+
+Ví như, Bác Bửu Đình sống làm sao, chết cũng vậy
+thôi. Sống không giúp được học viên, chết cũng cười trừ, hì hì.... Sống không làm. Chết đành chịu.
+
+Tốt nhất là cháu nên đọc các sách khoa học. Chưa
+ai chứng minh rõ ràng có ma quỷ. Vụ máy bay MH370 vẫn còn đó. Các linh hồn sao
+không về báo mộng. Đó là công việc dễ làm nhất với một linh hồn.
+
+**Moon Sun.**
+
+.Con Chào Thầy! Con xin mạo muội
+có ý kiến , Tử Vi Ứng Dụng là của Thầy , Thầy có thể thêm vào là Tử Vi Ứng Dụng
+Bửu Đình được không ạ. Để nhiều năm sau nửa , trở thành mặc nhiên không thay
+đổi , cũng giúp các thế hệ đồ tôn sau này tự hào và lưu danh tên tuổi Môn Phái
+Tử Vi Ứng Dụng Bửu Đình ạ.
+
+Moon Sun
+
+TRẢ LỜI
+
+Cám  ơn Moon
+Sun đã tham gia góp ý.
+
+Khó khăn gì đâu. Nhưng cụm từ Tử Vi Ứng Dụng, cũng
+như logo, hình treo có từ năm 2008 thời kỳ Yahoo còn tồn tại. Thầy là người lấy
+sao TUẦN TRUNG làm chuẩn mực sống.. Nếu không có lý do rõ ràng khó thay đổi.
+Trong F cháu cũng thấy thường dùng 1 font chữ, mặc dù trong máy có đến trên 700
+font chữ. Nhưng nếu người ta lạm dụng cụm từ ấy, chúng ta cũng nên thay đổi để khỏi lầm lẫn.. Ý kiến của cháu cũng hay đấy
+
+Cám ơn cháu lần nữa.
+
+**HỎI ĐÁP NGÀY 8**
+
+Trần Hải Anh
+
+Con là Hải Anh, học viên lưu
+ban của khóa 7. Con cảm ơn thầy đã mở diễn đàn này để thảo luận. Con chưa tốt
+nghiệp nên chưa có ý kiến ạ. Sau này có thể con sẽ tham gia.
+
+TRẢ LỜI :
+
+Phải nói chính xác là tự nguyện, tình nguyện lưu ban.mới đúng
+cháu à. Nếu không, người xa lạ hiều lầm bác quá ác. Bắt lưu ban trên 30 học viên
+cũ. Có học viên lưu ban đến 7 năm trường... không chịu rời thầy. May mắn cho
+con cũng là may mắn cho thầy là đến tháng 10/2018. Thầy được quyền tuyến bố:
+Cho Trần Hải Anh tốt nghiệp. Hạ san, xuống khỏi mặt trăng hành hiệp giúp đời.
+
+**ANH LÊ**
+
+Cháu kính chào
+Bác,
+
+Vấn đề cháu muốn nêu ra cũng tương tự như chị
+Bùi Quỳnh Phương đã đề cập, và cũng tương tự chị Moon Sun đã có ý kiến.
+
+Vấn đề Tử Vi Ứng Dụng phát triển là không phải
+bàn đến. Việc này Bác khuyến khích và cũng rất ủng hộ chúng cháu hết mình. Thế
+nhưng, việc phát triển cũng kèm theo những liên quan hệ lụy của nó. Ví dụ, việc
+tam sao thất bản là không thể tránh khỏi. Việc các học viên sau này trong bước
+đường học hỏi tự thêm mắm dặm muối và cố gắng nhào nặn kiến thức thành cái
+"của mình" là không thể tránh khỏi. Đó là vấn đề phát triển tri thức
+theo thiên hướng tự nhiên. Rồi sẽ có những ý kiến và những kiến thức được nhào
+nặn theo thời gian không còn đúng với thiên hướng ban đầu mà Bác Bửu Đình đề ra
+nữa.
+
+Hi vọng cuộc vấn đáp lần này có thể làm một kim
+chỉ nam cho các đồ đệ, đồ tôn của Bác sau này có một nơi để tìm lại và nhìn
+nhận cái đúng/sai để quyết định con đường học Tử Vi của mình. Đây là điều rất
+quan trọng để tránh những nhận xét sai về Tử Vi Ứng Dụng và công trình nghiên
+cứu của Bác. Cũng như tránh khỏi những phiền phức không đáng có từ hành vi của
+các đồ đệ và những người tìm đến với Tử Vi Ứng Dụng.
+
+Cháu mong Bác chia sẻ tiêu chí và nguyện vọng
+của Bác về vấn đề đồ đệ nhận thêm đồ tôn. Để thế hệ chúng cháu khi đã sẵn sàng
+có thể có cái để dựa vào đó mà tuân thủ trong bước đường dạy học ạ!
+
+TRẢ LỜI:
+
+Cám ơn cháu tham gia đặt vấn đề.
+
+Chà, vội vàng kéo TẢ HỮU, ngôi sao Tử Vi của cháu bị bác phê phán là “kéo
+bè kéo cánh”.
+
+Không thể có chuyện thêm mắm muối vào Tử Vi Ứng Dụng rồi bảo của mình  được. Đây là thời kỳ của Internet. tất cả đều
+lưu giữ trong các bộ nhớ quốc tế và có thể hằng ngàn, hằng van ổ cứng. Với bằng
+chứng không thể chối cãi. Các từ Tử Vi là sự sống và cái chết, là gánh vác... THẤT
+SÁT là được hay là mất. CỰ MÔN là gần hay xa...  KỴ HINH là vi phạn pháp luật, giới cấm, kỷ luật....chỉ
+xuất hiện cuối năm 2008 đầu năm 2009 là của bác Bửu Đình. Trước đó, các sách Tử
+Vi đều không biết LIÊM TRINH, HỒNG LOAN là con gì. Tròn méo là sao gì? Đứng đợi
+ngồi chờ là cách gì... Nay có người lạm dụng cướp đoạt như thế. Cháu cứ đem vây
+cánh vả xưng mồm giùm bác. Rủi ro có. Cự Đà Tấu Tuế ráng chịu, cho xứng mặt anh
+thư. Chứ đừng nói bác LINH XƯƠNG LA VŨ.
+
+Bác nghĩ răng không có ai dại dột làm công việc đó vào thời kỳ này. Chỉ
+cần bôi đen 1 đoạn, đánh ngoặc kép 2 đầu. Vào ngay chính bài viết nầy.
+
+Trên báo hiện nay, có người mất chức danh giáo sư. Vì can tội “lỗi trích
+dẫn không đúng kỹ thuật”.. Cho nên cháu cứ an tâm đi, đàn ca xướng hát, làm duyên
+thêm đẹp. Lo lắng xấu người cháu à.
+
+Tất cả các học viên đi đúng hướng, học phí đầy đủ sau nầy đều có F7BD20 được  hiệu đính tốt nhất. Trong đó những điều sơ đẵng
+nhất cũng viết.
+
+Nguyên tắc, bác chỉ có trách nhiệm với các cháu. Các cháu phải có trách
+nhiệm với các đệ tử của các cháu. Đừng cột bác vào đó cho đông vui. Các cháu có
+quyền thu nhận đệ tử, truyền dạy trực tiếp. Chứ đừng truyền dạy theo kiểu
+online như bác đã làm. Vô tình các cháu tranh giành đệ tử (cách THẤT SÁT TANG
+MÔN) đưa đến xung đột chia rẽ nội bộ. Có như thế, FBD là tài liệu học tập mật lưu
+truyền trong các tử đệ của môn phái mà thôi. Bất cứ học viên nào phổ biến đại
+trà là tự thừa nhận mình là kẻ phản bội lại sư môn. Phản bội lại sư môn thì có
+thể phản bội lại tất cả. Vì đó là cả một tập thể. Nhằm nhò chi vợ với con khi cần
+là xoá phức.
+
+Phổ biến đại trà ai là người có lợi. Người có lợi nhất là bác. Nhưng bác
+là người ưa cuộc sống lặng lẽ hơn là ồn ào... không muốn người ta chú ý mình
+khi ra đường. điều nầy rất rõ nét trên lá số tử vi của bác.
+
+Bảo mật FBD ai là người có lợi. Đó là các đệ tử.
+
+Vậy thì các cháu tự bảo vệ lẫn nhau lên án KÌNH HÌNH ngay những đồng môn
+khác vi phạm. Bác không thể hạ mình xuống thắc mắc với học viên của mình làm gì.
+Cho nên có trang này, các cháu thảo luận với nhau. Biết đâu có sự hàm oan trong
+đó.
+
+Bác không tin, văn phòng của Bá Duy có bán các thứ tào lao như thế. Việc
+điều tra quá dễ học viên trong Sài Gòn thiếu gì. Các học viên từng tiếp xúc với
+Bá Duy cũng đã kể lại với bác. Các hình ảnh văn phòng của Bá Duy gởi về tặng bác
+cũng rất là nhiều lần, nhiều số lượng không hề thấy các vật phong thuỷ.. Bác có
+thể tạm tin Bá Duy thâu nhận đệ tử. Vớí bác, việc làm đó là ngựa non háu đá. Và
+bác quả quyết là không thành công. Bá Duy có những cái mập mờ là có thật, đáng
+lý phải hỏi ý bác trước. Vì kinh nghiệm sống của bác đã nhiều.sẽ giúp ích cho các
+tử đệ.
+
+Bác cũng không hề muốn các tử đệ xung đột với nhau, Từ việc làm một cá
+nhân vô tình gây hại cả tập thể. Đó là sao BỆNH PHÙ đấy ạ. Nếu Bá Duy thành công
+là tấm gương sáng mọi người noi theo. Nếu Bá Duy sai cần phải đi cho đúng hướng.
+Đừng vì lợi ích cá nhân cả 1 tập thể Tử Vi Ứng Dụng mang tiếng mê tín.
+
+Nói Tử Vi mê tín còn có thể chịu được. Nói Tử Vi Ứng Dụng mê tín là không
+thể chịu được.HOẢ LINH vốn có sẵn mọc lên ngay lập tức.
+
+**David N.**
+
+Trước đây có lần cháu đọc 1
+giai thoại về việc Phan Thanh Giản đi sứ sang phương Tây, sau khi về đã kể
+những “chuyện lạ nước ngoài” như: “Đèn thắp không dầu, ngọn lửa chúc xuống (đèn
+điện) ...". Vua không tin và đã giao cho đình thần bàn. Các quan bàn xong
+kết luận đại khái là “Bọn Phan Thanh Giản bị họ bầy trò quỷ thuật làm cho quáng
+mắt”. Cháu nghĩ các quan kết luận vậy là do mọi người không biết về các kiến
+thức vật lý, kiến thức về điện … như ngày nay nên mới nhìn “cái đèn bên phương
+Tây như một trò phù thủy”.
+
+Quay lại vấn đề Tử Vi, cháu nghĩ nhiều người dễ
+xem Tử Vi là mê tín dị đoan cũng một phần na ná như thế. Tức là nhiều người
+kinh ngạc trước hiệu quả cao của việc luận đoán cuộc đời dựa vào lá số Tử Vi
+(kinh ngạc như người xưa nhìn cái đèn của phương Tây) nhưng không ai biết gì về
+môn học, nguyên lý, thành phần, … mà tạo thành lá số Tử Vi nên mới có cái nhìn
+“Tử Vi như một trò phù thủy”. Nếu một ngày nào đó, các kiến thức như môn học,
+nguyên lý, thành phần, … tạo thành lá số Tử Vi được công khai và phổ biến rõ
+ràng (giống như ngày nay ai cũng biết kiến thức về điện, thậm chí nếu muốn có
+thể mua 1 bóng đèn về giải phẫu nó ra để tìm hiểu từng chi tiết tạo nên nó) thì
+đó sẽ là lúc mọi người nhìn “Tử Vi như một môn khoa học”.
+
+Đó là suy nghĩ trước đây của cháu về Tử Vi và Mê
+tín dị đoan, nhân dịp có chủ đề này bác cho cháu hỏi về nguồn gốc tạo nên lá số
+Tử Vi? (dù chỉ là suy đoán hay cảm nghĩ của bác chứ ko có sách vở gì xác thực,
+cháu cũng xin ghi nhận). Ý của cháu là người đầu tiên khi cố gắng tạo ra lá số
+Tử Vi (như khi Thomas Edison cố gắng tạo ra bóng đèn điện) đã dựa trên những
+kiến thức gì, những lãnh vực gì, … (như Thomas Edison dựa vào các kiến thức về
+vật lý, điện, ...) mà tin chắc là có phương pháp tóm tắt và luận đoán được cả
+cuộc đời con người chỉ bằng 1 trang A4?
+
+TRẢ LỜI :
+
+Có vẻ như là cháu đi xa chủ đề của bác.
+
+Cái mà cháu tìm đọc. Nó lại có trong chương trình học sử của
+bác ngày trước. Nên bác không lạ gì câu chuyện này.
+
+Bác cũng đã trả lời cho Trần Quang Hoan. Bác không trách những
+người không biết gì về Tử Vi đánh giá Tử Vi. Đáng trách là những người học Tử
+Vi Ứng Dụng lại phổ biến mê tín.
+
+Còn nguồn gốc ai là người đầu tiên sáng tạo ra môn Tử Vi. Bác
+cũng đành chịu thôi. Trần Đoàn lão tổ (ra đời khoảng thế kỷ thứ 10) chỉ là người
+san định lại, tức là sắp xếp lại, thừa nhận cái này, bỏ cái kia. Là bậc thầy giỏi
+nhất thời ấy.
+
+Khi an sao bằng tay chúng vô cùng kinh ngạc. Các sao an theo
+giờ, có sao an theo ngày, theo tháng, theo năm lại có sao chu kỳ lên đến 60 năm.
+Điều này chứng tỏ. Người đầu tiên sáng tạo ra Tử Vi đã biết đến bát đại hành
+tinh. cách đây hàng ngàn năm về trước. Trong khi phương Tây mãi đến thế kỷ 19 mới
+biết.
+
+Con người đầu tiên siêu kỳ nhân ấy. Theo bác, ra đời trước cả
+thời Tần Thuỷ Hoàng. Vào thời kỳ việc biên chép, ghi lại tốn kém, khó khăn. Chủ
+yếu khẩu truyên là chính.
+
+Chúng ta có thể đặt nghi vấn. Liệu Tử Vi có phải là sáng tạo
+của người Hoa hay là không. Biết đâu đến từ nước khác. Trung Hoa chỉ là nơi nẩy
+mầm phát triển Nhờ Hy Di tiên sinh Trần Đoàn. Người Hoa cũng phớt lờ khi đề cập
+đến nguồn gốc.
+
+Cần biết, người Nhật cũng có cách lấy lá số Tử Vi kiểu của họ.
+(Tài liệu này do Hải Yến cung cấp). Nếu bỏ công tìm hiểu, e rằng Ấn Độ cũng có
+chứ không phải là không. Vì người Ấn có nền văn minh rất sớm. Đã từng giao lưu
+trao đổi văn hoá với người Hoa qua truyền đạo Phật. Chúng ta cũng có học viên đến
+từ Ấn Độ. Nếu học viên này biết, hãy lên tiếng. Góp phần sáng tỏ nguồn gốc của
+Tử Vi, cho những người ham tìm hiểu.
+
+Còn Tử Vi đến Việt Nam rất rõ ràng vào đời nhà Trần.
+Sau khi nhà Tống thua trận nương nhờ Việt Nam và không quên mang theo Tử Vi để
+phổ biến.
+
+Bác quan niệm rất thực tế, quan trọng là đoán cho đúng, nguồn
+gốc để người khác tìm hiểu.  Con người vô
+danh ấy, phải thừa nhận siêu tài, tìm mọi cách gói ghém nội dung của nó qua cách
+đặt tên ngôi sao. Xem bài “ Vì sao nó có tên riêng” trong F. Xứng đáng được
+phong thần thánh.
+
+**VƯƠNG TẤT ĐẠO**
+
+Cháu chào Bác.
+
+Nhân đây cháu cũng xin bày tỏ một số ý kiến về tệ nạn mê tín dị đoan bằng những
+chứng thực mà bản thân đã nghiệm ra. Mong sao các bạn đồng môn, các vị khách hữu
+duyên đọc được mà nghĩ khác, làm khác theo đúng chánh tín và tinh thần khoa
+học. Sở dĩ những thứ mê tín vẫn tồn tại được hàng ngàn năm nay là vì thiếu
+những lý giải thuyết phục, đơn giản và dễ kiểm chứng bằng thực tế. Cháu xin
+được phép trình bày quan điểm 1 số trường hợp như sau:
+
+1/ Trường hợp đi gọi hồn bằng cúng bái, bùa chú, ... linh hồn người chết nhập
+vào Đồng tử và than: nóng- lạnh- đói- khổ. Cháu thiết nghĩ, một người còn sống
+hoàn toàn khỏe mạnh chỉ cần hư hỏng hệ thần kinh thôi. Người ấy đưa tay vào
+lửa, vào băng thì không còn biết cảm giác nóng lạnh là gì nữa. Vậy thì 1 thể
+siêu hình như linh hồn (nếu có thật) thì cũng không thể biết cảm giác nóng-
+lạnh- đói- khổ được. Vậy mà đa phần vẫn tin theo những chuyện điên rồ như thế.
+
+2/ Trường hợp Giấc mơ tâm linh, giấc mơ điềm báo: Xét trường hợp một gia đình
+có 2 anh em còn sống ở 2 nơi khác nhau. Ở đất Mỹ, người anh mơ thấy linh hồn
+người cha báo mộng đang đói rét, thiếu thốn. Cùng thời điểm ấy, người em ở Việt
+Nam
+cũng mơ thấy linh hồn cha báo mộng đang sung sướng như ông hoàng ở cõi nào đó.
+Như vậy nếu linh hồn có thật, thì nó chỉ có 1 trạng thái duy nhất mà thôi. Chứ
+không thể xảy ra trường hợp như vừa nêu. Qua quan sát, chứng thực sự việc có
+thật rồi tư duy, cháu thấy Linh hồn, thế giới tâm linh siêu hình không thật có.
+Chỉ có trong tưởng tri của con người.
+
+3/ Nếu linh hồn có thật nó phải có tính khách quan, không thể có chuyện người
+này thấy mà người kia không thấy. Vì khoa học đã chứng minh, các giác quan của
+con người là tương đồng nhau. Trừ khi bị bệnh hoang tưởng.
+
+4/ Đối với những trường hợp một số người có khả năng tiên đoán tương lai- quá
+khứ (vanga), chữa bệnh bằng năng lượng, tìm hài cốt liệt sỹ (Bích Hằng), bùa
+chú của các giáo phái, ... để sinh ra những cảm giác, cái thấy & cái nghe kỳ
+lạ mà người ta nghĩ là phép lạ, thần thông. Cháu xin trình bày như sau:
+
+Con người bình thường ai cũng có nhiều cái biết, gọi là các Thức (ngũ thức của
+Phật giáo rất khoa học).
+
+Khi suy xét và tìm hiểu ý thức, cháu thấy cái hiểu biết của ý thức luôn rõ ràng
+và có thể kiểm chứng một cách khoa học. Ý thức cũng có người mạnh, người yếu-
+tức là Ý thức lực khác nhau làm cho con người có khả năng hành động khác nhau.
+
+Cũng như vậy, Tưởng thức cũng có sức mạnh của nó. Cái khác biệt của Tưởng thức
+là nó không bị ngăn cách bởi khoảng cách địa lý và sự chia cắt của thời gian
+như ý thức thông thường. Do thiếu hiểu biết về Tưởng thức mà sinh ra biết bao
+hiện tượng mê tín khiến cho con người lầm tưởng là có thần thánh, linh hồn, các
+thực thể siêu nhiên. Vì Tưởng thức không bị không gian ngăn cách nên ai có
+tưởng tri mạnh, bằng sự giao thoa từ trường trong môi trường sống là Quả đất,
+một số người sẽ có cảm nhận mơ hồ những chuyện ở xa nơi mình sống. Cũng do
+không bị thời gian chi phối nên một số người vô tình cảm nhận được mơ hồ chuyện
+quá khứ vị lai của ai đó. Rồi chính họ cũng không hiểu ngọn ngành, cứ nghĩ là
+mình là sứ giả của Thần- tiên- phật - thánh hành nghề để giúp đời. Thực tế họ
+là người mê muội ngu si, hành nghề lừa đảo để kiếm cơm nuôi miệng, gây ra tội
+ác mà không biết.
+
+Cuối cùng cháu cũng xin bày tỏ sự đồng ý với đường lối và tôn chỉ của Bác đề
+ra. Sự mê tín cần thiết phải được trừ bỏ và loại bỏ khỏi TVUD. Một số đồng môn
+đã và đang hành nghề mê tín cần phải xem xét lại bản thân. Tuyệt đối không nên
+vì lòng tham, sự ngu si mà hành nghề mê tín hại người, bôi xấu môn phái và sư
+phụ.
+
+TRẢ LỜI :
+
+Cám ơn những nhận xét của cháu đi đúng đường lối của Tử Vi
+Ứng Dụng. và chủ đề bài viết.
+
+Bác không có tham vọng chống mê tín bên ngoài xã hội. Nhưng một
+khi học viên bước chân vào vòng tròn Tử Vi Ứng Dụng, phải nên tuân thủ tức là TUẦN
+để trở thành môn đồ. Đem sở học của mình giúp mình, giúp đời. Vận dụng tốt Tử
+Vi để tự cứu mình. Bằng không đi trái đường lối, chỉ là học viên học cho biết mà
+thôi.
+
+Đây chỉ là 1 ví dụ. Người gởi mail là Trần Văn Lân hình như đang
+ở đảo Tuần Châu.
+
+Con chào Thày.
+
+Đã hơn 1 năm con đã không email cho Thày nhưng con vẫn dõi
+theo Thày và các bạn đồng môn.
+
+Chỉ còn hôm nay nữa là con đã trải qua một năm vận hạn
+Phúc Họa Khôn Lường với những mất mát lớn nhưng nhờ TVUD con đã biết trước sự
+khó khăn đó nên nó cũng qua đi nhẹ nhàng với con.
+
+Trước thềm năm mới con chúc Thày cô khỏe mạnh, tiếp tục
+công việc, chỉ lối cho các bạn khóa sau để TVUD ngày càng phát triển.
+
+Con Lân
+
+Đem Trần Văn Lân làm ví dụ. Cho thấy chỉ có sự hiểu biết hoá
+giải mà thôi. Cái mà mà Vương Tất Đạo gọi là “Thức.”. Thực tế trong Tử Vi gọi là
+sao TRIỆT. Từ TRIỆT là hiểu biết, kiến thức, rồi trở thành nhận thức, quán triệt  chuyển qua đắc đạo là từ của Phật giáo cũng
+chỉ là 1 sao TRIỆT mà thôi.
+
+Trong F hướng dẫn rõ ràng.
+
+HÌNH DIÊU Y là gì.
+
+HOẢ LINH là cái chi.
+
+Nếu nghe tiếng nói bên tai, trong đầu... Hãy đi khám bệnh thần
+kinh gấp. Như thế có khoa học không. Có mê tín không?
+
+Trong F còn chứng minh rằng. Thương nhau vì lời nói, mến nhau
+qua nụ cười. Có thực tế không? Chứ làm gì có bùa mê thuốc lú trong nầy. Chẳng có
+linh vật nào cả. Có chăng do tôn phong. FBD của bác Bửu Đình là linh vật thì có.
+Còn bác Bửu Đình lại tôn phong cái thẻ ATM là linh vật. Là chuyện hoàn toàn có
+thật.
+
+Cứ mê tín đưa đến mâu thuẫn với lời luận đoán. Thay vì với hoạ
+HOẢ LINH thì nên đề phòng điện lửa cháy nổ, nước sôi, phỏng lửa... Nếu lại có
+thêm THIÊN MÃ  tránh chạy xe nhanh mau dễ
+gặp nạn... Một lời nói giúp họ có thể tránh được tai hoạ. Hoạ lớn trở thành hoạ
+nhỏ, nhờ cảnh giác trước....
+
+ Tránh bị lôi kéo tranh
+giành địa vị, tài sản vì... Số phận sẽ đưa đẩy họ gặp chuyện như thế. Họ đã biết
+trước sẽ xảy ra đáp số xấu. Việc phải đến đã đến. Họ tự cứu họ thôi.
+
+Chính họ cảm thấy Tử Vi kỳ diệu, người phán đoán vô cùng chính
+xác. Họ mến mộ ai? Nếu bán kèm 1 vật bùa chú, phong thuỷ, linh vật nào đó... hoặc
+doạ ma có âm hồn theo đuổi.  Về sau họ sẽ
+có cảm giác 2 lần bị lừa đảo chứ không phải là 1. Mình tự hại mình mà không biết.
+Can tội hại luôn cả môn phái.
+
+**Ngày 9.**
+
+Gồm có các
+comments Thu Hiền bác sẽ trả lời trong còm của cháu. Còn có  Hải Anh Nhiếp khá dài, bày tỏ lòng trung thành
+với Tử Vi Ứng Dụng  cảm giác bức xúc khi
+cảm thấy Tử Vi Ứng Dụng bị lạm dụng. Đó cũng là phản ứng bình thường. Hoà đồng
+với Hải Anh Nhiếp còn có Vương Tất Đạo và 1 số học viên làm việc qua mail. Bày
+tỏ sự lo ngại  Nói chung là chẳng có gì
+quan trọng cả. Tất cả xuất phát từ lòng yêu mến Tử Vi Ứng Dụng mà ra.
+
+Vả lại. Người
+viết chẳng đề ra tiêu chí gì rõ ràng, quyền lợi của học viên ra làm sao. Không nghĩ
+học viên đánh giá Tử Vi Ứng Dụng cao như vậy. Và trong ý nghĩ của chúng ta, ai
+ai cũng đa phần tôn sư trọng đạo. Đó là lẽ thường tình.
+
+Nếu đề ra
+tiêu chí này, quyền lợi nọ... E rằng người ngoài cho là thổi phồng. Tự đánh giá
+mình quá cao..
+
+Tiếp tục trò
+chuyện. Bác mượn còm của Trần Quang Hoan
+
+Thưa Bác,
+việc tuyên ngôn chống mê tín của TVUD Bác đã trả lời rất rõ ràng. Chúng cháu
+rất tâm đắc khi 1 lần nữa Bác khẳng định rõ ràng vấn đề này. Nhân đây, cháu
+cũng như nhiều học viên rất tán thành ý kiên của chị Moon Sun về việc thêm tên
+Bác trước chữ TỬ VI ỨNG DỤNG. Như thế gọi là TỬ VI ỨNG DỤNG BỬU ĐÌNH một là ghi
+nhớ cho thế hệ sau thầy Bửu Đình là người sáng lập môn phái Tử Vi Ứng Dụng. Hai
+là danh xưng này trong môn phái là duy nhất. Sẽ không có danh xưng thứ 2 là Tử
+Vi Ứng Dụng Nguyễn Văn A, Nguyễn Văn B.... Bới chữ Tử Vi Ứng Dụng Bửu Đình với
+học viên chúng cháu là 1 niềm tự hào. Mong Bác xem xét nguyện vọng này ạ.
+
+Ngẫm nghĩ
+cho cho kỹ và chính xác nhất.
+
+Chính các
+cháu, sau này muốn truyền bá Tử Vi của bác bằng cách thâu nhận đệ tử, mở văn phòng
+Tử Vi...
+
+Yêu cầu phải
+viết rõ ràng:
+
+Tử Vi Ứng
+Dụng Bửu Đình.
+
+Sẽ được bác
+hỗ trợ, trước mắt là hỗ trợ tinh thần. những cái khác không dám hứa trước.
+
+Còn phần bác
+không can cớ gì lại mọc thêm cái đuôi Bửu Đình vào. Trước sao nay vậy.
+
+Vì.
+
+Tử Vi Ứng
+Dụng = Bửu Đình.
+
+Bửu Đình = Tử
+Vi Ứng Dụng.
+
+Số phận cho
+bác tên tuổi đi liền với sự nghiệp. Thực tế chỉ là cái tuổi thôi à.
+
+Ngoài ra được
+quyền tuyên bố. Hết khoá 7 người viết nghỉ ngơi vì cảm thấy đã quá đủ và mệt mỏi.
+Điều này cũng đã khẳng định khi tuyển chọn học viên khoá 7. Sở dĩ phải nhắc lại
+điều nay, vì có nhiều người rỗi hơi phóng đại những cái hoang đường mà chúng ta
+không thể tưởng tượng được.
+
+Và còn khẳng
+định 1 điều này nữa. Tử Vi Ứng Dụng không mê tín dị đoan nhưng việc hiếu sự thờ
+cúng ông bà tổ tiên, mồ mả, nhà thờ tộc là nét đẹp văn hoá, phong tục của người
+Việt. Trong nghỉ ngơi đó, có phần chính chăm lo hiếu sự tốt hơn.
+
+Mục đích chủ
+đề của trang blog là chống mê tín dị đoan trong Tử Vi Ứng Dụng. Ngoài xã hội là
+việc của người khác lo. Có chống ngàn năm sau vẫn còn. Dại chi chống cho cực. Đã
+học tất biết Cát xứ tàng hung là có thật.
+
+**Ngày 10.**
+
+Ngày hôm nay, người viết sau khi trao đổi mail với Huỳnh Bá Duy. Hai bên
+đã bàn bạc và thống nhất. Việc thay đổi tên văn phòng của Huỳnh Bá Duy là:
+
+**    Tử Vi Ứng
+Dụng Bửu Đình.
+
+Văn phòng
+tư vấn Huỳnh Bá Duy.**
+
+Thành Viên Tổ Chức UNESCO Phát Triển Và Nghiên Cứu Văn Hoá
+
+Văn phòng
+1 : 4 Phạm Ngọc Thạch, Quận 1, TP HCM
+
+Văn phòng
+2 : 38/7 Hoàng Văn Thụ, P9, Quận Phú Nhuận, TPHCM
+
+Phone :
+090 317 4736
+
+Đây là thiện ý của Bá Duy,
+sau những gợi ý của các học viên khác, được người viết thừa nhận là có lý.
+
+Trên phương diện Tử Vi. Cách
+thay tên đổi họ là cần thiết, áp dụng đúng lúc.
+
+Đến đây, các huynh đệ đồng môn
+của Tử Vi Ứng Dụng sẽ không còn thắc mắc, bức xúc nữa. Và chắc chắn rằng hài lòng
+mát dạ. Như CƠ NGUYỆT ĐỒNG LƯƠNG đi với tam Minh.
+
+Thiết nghĩ, giúp đỡ người, người
+khác giúp đỡ mình sau này. Các học viên và môn đồ Tử Vi Ứng Dụng đoàn kết lại,
+giúp đỡ Huỳnh Bá Duy. Tấm gương của Duy là hình ảnh phản chiếu về sau của chính
+các bạn.
+
+Dù ở phương trời nào. Người
+viết cũng sẵn sàng ủng hộ khi đi học viên đúng đường lối của Tử Vi Ứng Dụng.

@@ -1,0 +1,48 @@
+---
+id: bd#4601412332358261985
+title: "Sát Nhân Joker"
+url: https://tuviungdung.blogspot.com/2014/12/sat-nhan-joker.html
+published: 2014-12-17T02:03:00.001+07:00
+updated: 2021-01-14T05:43:36.254+07:00
+labels: []
+---
+
+# Sát Nhân Joker
+
+Sát Nhân Joker.
+
+Sát nhân tự xưng Joker một nhân vật phản diện trong phim Người Dơi. Tên thật của y là James Eagan Holmesthủ phạm trong vụ nổ súng ở Aurora. Colorado làm chết 12 người và bị thương 58 người. Những người này đang xem phim Người Dơi phần mới nhất “The Dark Knight Rises” bỗng đâu tên sát nhân Joker thật xuất hiện với bài bản trong phim Người Dơi 3, mang mặt nạ chống độc, ném lựu đạn cay, trang bị 2 súng băn xối xả vào đám đông. Vụ việc gây chấn động cả thế giới. Vụ việc xảy ra vào năm Nhâm Thìn 2012 khi y vào đại hạn PHÁ QUÂN  tại Thê, tiểu hạn THẤT SÁT tại Dần.
+
+Hình ảnh tên sát nhân với mái tóc đỏ lòm khi ra toà. Đó là minh chứng cho lá số của y. “Chi tiết này dễ xác nhận nhất”. Đó là cảm nghĩ đầu tiên khi lập lá số. Quả nhiên bộ PHI LIÊM HỒNG LOAN THIÊN KHÔNG nằm ngay chóc tại cung Mệnh.
+
+Đây là một thằng điên. Đó là cảm nghĩ thứ hai. Kiểm tra Mệnh không thấy cách điên, Tật Ách cung cũng thế. Nhưng qua đại hạn, tiểu hạn và Thân cư tại đó. Quả nhiên là 1 thằng điên. Từ từ sẽ nói cách đó sau.  Tên điên này rõ ràng là mới điên, là 1 nghiên cứu sinh tiến sĩ thần kinh học, vừa mới bỏ học nửa chừng. Vì Mệnh y thuộc cách Mệnh Không Thân Kiếp, dễ thấy 1 cái Không là không đến nơi đến chốn. Y chọn môn học thần kinh cũng hợp lý vì Thân y có Hoả Tinh, sao LINH TINH lục hội như thế là có đầy đủ bộ HOẢ LINH,  lại là DIÊU HOẢ KIẾP HÌNH vì nó là 1 bộ sao thần kinh. Đáng lý học môn này tự mình biết mình mắc bệnh thần kinh hay không. Nào là tâm thân phân liệt, nào là lưỡng cực, trầm uất... Y thuộc dạng hưng phấn thái quá. Đó là dạng SÁT PHÁ BỆNH PHÙ HOẢ KIẾP THIÊN HÌNH. Dạng này khi gặp lưu KÌNH ĐÀ hội họp là bùng ra lập tức. Cộng với cung Mệnh có PHI HỒNG HÌNH KHÔNG. Nếu ta có những PHI LIÊM làm chuyện phi thường rất hiếm họi, nhất là cách Phi HỒNG ĐÀO. Người viết thường gọi tắt là Phi Đào, Từ được chọn gọi là “Đào Phai”. Cụm từ được ca ngợi nhất của nó là “Hữu xạ tự nhiên hương”. Một cách cục rất khó gặp. Nhưng đa phần chỉ gặp là đào phai hương sắc, hoa tàn nhuỵ rữa (rữa tức là rữa nát ra, tàn úa) hoặc hoa tàn nguyệt tận... hoa rụng ven sông, hoa trôi man mác biết là về đâu... Vì rất dễ gặp thêm sao LƯU HÀ... Thay vì hương hoa bay ra lại là xú uế toả ra.
+
+Tên điên chuận bị rất kỹ càng, vũ khí chất nổ, đạn lên tới 6000 viên, có thể trang bị cho cả 1 trung đội. Biến nhà y thành kho vũ khí, đồng thời dự kiến khi chơi thế nào cũng bị bắt, nhà cửa bị Sát Phá Tham khám xét nên làm bẫy Đà La Kiếp bằng điện lửa Linh Tinh, được mô tả có cấu trúc rất tinh vi, sát hại bất cứ ai bước vào nhà. Y chơi vố thứ hai cho cảnh sát biết tay. May là cảnh sát cảnh giác cao độ..
+
+Tên điên có bộ TỬ PHỦ VŨ TƯỚNG LIÊM tại Mệnh + với bộ PHI HÌNH KHÔNG. + bộ Tam Minh.đã trở thành hỏng bét. Vừa hỏng bộ TỬ PHỦ VŨ TƯỚNG LIÊM lại vừa hỏng bộ Tam, Minh.. Nếu như không có bộ HÌNH KHÔNG, tức là TỬ PHỦ VŨ TƯỚNG LIÊM + PHI Tam Minh “có thể” là tốt. Cần khẳng định thêm các bộ TẢ HỮU, CÁO PHỤ. Chỉ ngần ấy thôi là tốt. Rất tốt, tốt tuyệt vời là có thêm tam Hoá..
+
+Với bộ sao TỬ PHỦ VŨ TƯỚNG LIÊM gặp các bộ Tam Không, KỴ HÌNH dù có tam Hoá đi chăng nữa thì PHI LIÊM này cũng nát bét. Việc làm của PHI LIÊM này rất ư phi thường.
+
+Sát nhân Joker chỉ nhất Không mà thôi đã nát bét cuộc đời.
+
+TƯỚNG LIÊM là cách cục rất hay. Giá trị như cụm từ “chính nghĩa”. Chính là Liêm, nghĩa là THIÊN TƯỚNG ngội sao hiệp sĩ trợ giúp, ngôi sao tình thương... Thay vì đóng vai người dơi. Tên điên này đóng vai Joker trên đời thật. Sao lạ vậy ta? Bỗng dưng nghe tiếng “hừ” mỉa mai của ông THIÊN KHÔNG. “Không có ta ưa nói gì cũng được”. Như thế có nghĩa không phải hiệp sĩ đâu. Sẵn sàng tiếp tay với kẻ ác, không ra gì. Cho nên y không chọn người dơi lại chọn (tức là ĐÀO HOA) Joker. Thì ra là thế. Nhưng LIÊM TRINH là ngôi sao trong sáng màu trinh bạch, ngôi sao đạo đức, bền lậu...? Chao ơi! Thế mà hỏi Không đạo đức đâu thì có. Bền lâu trong tù thì có, bền lâu ngoài đời thì xem như hết rồi. Bây giờ tên đã hiểu SÁT PHÁ THAM ngộ LỘC TỒN là phá cách. BỆNH PHÙ là làm hại, ĐỊA KIẾP chủ nạn bị bắt và HOẢ HÌNH là súng có lửa. Hoả Hình Kiếp là tai hoạ dùng súng hại người gây ra. Và PHI HÌNH KHÔNG lá sai trái không coi luật pháp ra gì.
+
+Nhưng TỬ PHỦ VŨ TƯỚNG LIÊM là kín cổng cao tường. Xin thưa? Thì cũng đang kín cổng cao tường đó, nhưng “Không phải là” villa, biệt thự đâu mà.
+
+Thế nó có lên... hương, à quên lên ghế điện không? Chắc là Không đâu, nó là thằng điên đã rõ rồi. Giết nó là quá khắc khe.
+
+Liệu nó có hết điên không? Chắc có, hết đại hạn 33- 42 tuổi có thể hết điên. Mệnh Tât đáng sợ hơn Hạn vì nó mắc vào cả đời.
+
+KHÔNG ĐÀO là sao? Trường hợp như thế này là “Không có chuyện cũng đào ra cho có chuyện”. Có ai ép buộc nó làm như thế này đâu. Đây là chuyện PHI HÌNH sai trái với pháp luật. Không thù oán, không ai chọc giận... nhưng ĐÀO HOA này Không có chuyện cũng đàoì ra cho có chuyện. Đào Hoa PHI HÌNH KHÔNG này quá dễ sợ.
+
+PHI HÌNH là trái với pháp luật, còn phải hỏi. Phi là trái. HÌNH là hình luật. Trái vừa phải thôi còn có đất sống. Trái đến mức trên động THIÊN KHÔNG, dưới động ĐỊA KIẾP. Trời không dung, đất không tha. Ngay cả bậc lãnh tụ có quyền giết tha họ cũng đắn đo. Bản thân mình thuộc loại vô danh tiểu tốt lại làm chuyện kinh thiên động địa.
+
+Nhưng tại sao hồi bé nó dễ thương như sao THIÊN TƯỚNG nó không làm? Phải từ Không qua Kiếp hay từ Kiếp qua Không mới làm. Mức độ gây hại do các sao tại đấy., các kiểu gây hại cũng thế. Có người cầm hoả khí giết người, có người phá hoại đất nước, phá hoại tài sản...
+
+Tất cả cũng tại vì bộ sao DIÊU Y HOẢ HÌNH KIẾP. Bị ám ảnh y như là Joker thứ thiệt. Chao ôi! nếu như không có vụ Nhâm Thìn thì giờ đây đang đầu quân cho IS. Hình (THIÊN HÌNH) ảnh bịt mặt tay cầm AK. Y phục màu đen xao xuyến trong lòng y.
+
+Vì sao y lại chọn năm Nhâm Thìn. Năm này Ách cung thuộc thời kỳ quá độ. Vốn đã có Cự VIỆT KÌNH, năm này thêm lưu VIỆT. Tại Mệnh thêm lưu KÌNH. Tức là PHI LIÊM sai trái nay thêm KÌNH DƯƠNG ngang ngược. Lưu BẠCH HỔ gặp HỒNG LOAN cố định. Hai sao này gặp nhau tất sinh chuyện nhẹ nhất là cãi nhau, nặng nhất là thấy xương trắng máu đào. Tiểu hạn gặp QUỐC ẤN, lưu QUỐC ẤN nhập Tật Ách cho nên Quốc Ấn chuyển thành quốc tế. Việc BỆNH PHÙ của mình ai ai cũng biết. Chỉ có y mới cả gan BỆNH PHÙ HOẢ HÌNH KIẾP. Năm Nhâm Thìn vị trí xấu nhất là cung Tuất, đại hạn và Thân Y đóng tại đó. vô tình Mệnh Kình, Thân lại Tuế Đà Dần Thân (Thân và đại hạn cư tại đó) một cách cục rất xấu  ....
+
+Để xem các sao lưu động tác động trên lá số. Các bạn nhấn chuột vào chữ sự cố trên lá số TỬ VI. Nhấn lại lần nữa trở lại trạng thái ban đầu. Nếu thấy khó đọc bạn “nhấn liên tiếp lên đây thay đổi giấy lót nền”.
+
+Ngày giờ sinh của người này lấy tại trang astro.com.

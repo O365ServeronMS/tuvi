@@ -1,0 +1,124 @@
+---
+id: bd#3329454813469688166
+title: "Ác quỉ Marc Dutroux"
+url: https://tuviungdung.blogspot.com/2012/02/ac-qui-marc-dutroux.html
+published: 2012-02-14T11:13:00.000+07:00
+updated: 2015-06-22T10:49:30.855+07:00
+labels: []
+---
+
+# Ác quỉ Marc Dutroux
+
+**Ác quỉ Marc Dutroux.**
+
+Marc Dutroux là một kẻ bị kết tội hiếp dâm trẻ em, giết người và nghi ngờ là kẻ cầm đầu một nhóm tội phạm quốc tế chuyên khai thác tình dục và hình ảnh khiêu dâm trẻ em. Các tội ác khủng khiếp của hắn đã làm người dân cả thành phố này sợ hãi trong suốt thời gian từ giữa thập niên 80 cho đến cuối những năm 90 của thế kỉ trước.
+[]
+
+Vụ án Detroux đã thu hút sự chú ý của dư luận toàn thế giới, không chỉ bởi tính chất hung tàn của nó mà còn bởi sự cẩu thả và thiếu chuyên môn của cảnh sát và các viên chức chính phủ trong cuộc điều tra này. Vụ án Detroux đã làm dân chúng Bỉ hết sức phẫn nộ, tạo ra một trong những cuộc biểu tình phản đối lớn nhất trong thời bình kể từ Thế chiến II và làm chính phủ Bỉ thức tỉnh khỏi tình trạng thờ ơ sau khi một số viên chức cao cấp bị sa thải hoặc từ chức.
+
+Là cha của ba đứa trẻ và sắp sửa tiến hành cuộc hôn nhân thứ hai, Dutroux không gặp khó khăn để cung cấp tài chính cho gia đình. Mặc dù Dutroux là một thợ điện thất nghiệp và đang lĩnh trợ cấp của chính phủ nhưng hắn đã kiếm tiền bằng cách bán những chiếc xe ăn cắp ở Ba Lan, Slovakia và bán các cô gái trẻ cho các ổ mại dâm khắp châu Âu. Dutroux làm chủ 7 căn nhà ở Bỉ, hầu hết đều bỏ trống, ngoại trừ những căn mà hắn dùng để giam giữ các cô gái bị bắt cóc và sau này bán cho các ổ mại dâm hoặc sử dụng trong hoạt động quay phim khiêu dâm.
+
+Đầu năm 1989, Dutroux bị kết tội hãm hiếp và hành hạ năm cô gái trẻ. Trong thời gian Dutroux thụ án, Bộ trưởng Tư pháp Wathelet đã cho phép thả trước thời hạn rất nhiều kẻ phạm tội tình dục ở Bỉ. Mặc dù bị xử 13 năm tù, Dutroux chỉ phải ở tù ba năm và đã được thả tự do vào năm 1992 vì "hạnh kiểm" tốt.
+
+Không bao lâu sau khi hắn được thả, một số cô gái trẻ bắt đầu biến mất ở khu vực gần nơi có những căn nhà của hắn. Cảnh sát đã hai lần lục soát dinh thự của Detroux nhưng họ lại làm việc đó một cách cẩu thả. Bị giấu kín trong một căn hầm bí mật là hai cô gái trẻ đang hy vọng được tìm thấy. Vài năm sau, kênh truyền hình CNN tường thuật rằng, trong thời gian tìm kiếm các cô gái bị mất tích, những tin tức quan trọng liên quan đến các vụ mất tích này nhân viên điều tra đều giữ kín.
+
+Các trường hợp khác cho thấy sự thiếu khả năng của cảnh sát trong khoảng thời gian 1993 đến 1996. Họ đã lờ đi một thông tin mật về Dutroux vào năm 1993. Theo đó, người cung cấp thông tin này đã khai rằng, Dutroux đã đề nghị trả cho gã từ 3000 USD đến 5000 USD để bắt cóc các cô gái trẻ. Năm 1995, người mẹ ruột của Dutroux đã viết thư gửi các công tố viên nói rõ rằng, bà biết người con trai đang giam giữ các cô gái trẻ tại một trong những căn nhà của hắn.
+
+Một số người khác sa lưới pháp luật vì có liên quan đến các vụ bắt cóc của Dutroux trong đó có người vợ thứ hai của hắn, Michelle Martin và Jean-Michel Nihoul, một thương gia. Nihoul thú nhận đã tổ chức một cuộc ăn chơi trác táng tại một lâu đài ở Bỉ với sự tham gia của nhiều người có chức quyền. Michel Lilievre, một kẻ tòng phạm của Dutroux trong vụ bắt cóc An Marchal và Eefje cũng đã bị tóm gọn. Tháng 9/1996, 9 cảnh sát thành phố Charleroi  đã bị bắt để thẩm vấn về sự cẩu thả của họ trong cuộc điều tra vụ án Dutroux.
+
+Và một lần nữa, người đàn ông lúc trước lại báo với cảnh sát rằng Dutroux đề nghị trả tiền để bắt cóc các cô gái và sau này, vào năm 1995, y cho cảnh sát biết, Dutroux đang xây một căn hầm bí mật để giam giữ các nạn nhân. Một lần nữa, các manh mối quan trọng về sự mất tích của các cô gái trẻ lại bị cảnh sát lờ đi. Phải mất thêm một năm nữa, cảnh sát mới chịu chú ý đến những thông tin mà họ đã nhận được. Tuy nhiên, trong thời gian này, cảnh sát không điều tra thêm được manh mối nào về Dutroux và thêm nhiều cô gái nữa bị mất tích.
+
+Cuối cùng vào tháng 8/1996, một dịp may đã đến trong vụ án các cô gái trẻ mất tích. Trong khi tiến hành lục soát khu vực mà cảnh sát nghĩ rằng một cô gái đã bị bắt cóc, họ tình cờ gặp một người vẫn còn nhớ được biển số chiếc xe rất khả nghi đã đậu gần nhà cô bé bị mất tích. Và manh mối này cuối cùng đã dẫn cảnh sát tới nhà của Marc Dutroux.
+
+**Nạn nhân Julie Lejeune**
+
+Sabine Dardene, nạn nhân đã được cảnh sát cứu thoát vào ngày 15/8/1996, trong một căn hầm cách âm được xây bằng bê-tông tại căn nhà của Dutroux. Đây chính là căn hầm mà một năm trước đó, cảnh sát đã được một người đàn ông mật báo. Họ tìm thấy hai cô gái bị giam trong căn hầm vẫn còn sống sót nhưng đã bị hãm hiếp nhiều lần. Hai cô bé này là Laetitia Delhez, 12 tuổi và Sabine Dardene, 14 tuổi. Cả hai đã bị Dutroux hãm hiếp và bị quay phim khiêu dâm. Cảnh sát đã tìm thấy rất nhiều chứng cớ gồm ít nhất 300 cuốn video quay cảnh Dutroux làm tình với các cô gái trẻ. Cô gái trẻ nhất là Laetitia bị bắt cóc ngày 9/8/1996, sau khi bị lôi vào chiếc xe của Dutroux và bị đánh thuốc mê. Còn Sabine, bị nhốt chung hầm với Laetitia, trong thời gian hai tháng rưỡi đã bị Dutroux cưỡng bức nhiều lần.
+
+**Nạn nhân Melissa Russo**
+
+Một vài ngày sau khi tìm thấy Laetitia và Sabine, cảnh sát đã tìm thấy xác chết của hai bé gái đã chết trong căn hầm ghê rợn của Dutroux. Julie Lejeune và Melissa Russo đã bị chôn ở sân sau nhà Dutroux, cả hai đều mới tám tuổi và là bạn của nhau, mất tích vào tháng 6/1995. Dutroux khai rằng, hai bé gái này đã bị bỏ đói cho đến chết trong thời gian hắn bị tù vì tội trộm xe. Và Dutroux quả quyết rằng một kẻ đồng phạm tên là Bernard Weinstein phải chịu trách nhiệm cho các cái chết của hai bé gái này, bởi vì y đã không cho chúng ăn trong thời gian Dutroux ở tù.
+
+Cũng theo lời khai của Dutroux, chính Weinstein là kẻ đã bắt cóc hai bé gái này để lấy tiền công. Tức giận vì Weinstein đã để cho hai bé gái này chết đói, Dutroux thú nhận là đã đánh thuốc độc và chôn sống y bên cạnh Russo và Lejeune. Xác của Weinsteins được tìm thấy bên cạnh hai bé gái xấu số này. Không bao lâu sau khi được tìm thấy, Melissa Russo và Julie Lejeune đã được chôn trong hai quan tài trắng nằm cạnh nhau, trong một tang lễ hết sức cảm động đã được tổ chức với hàng ngàn người tới dự để tỏ niềm tiếc thương hai người bạn đã sống và chết cùng nhau.
+
+Chắc chắn nếu Dutroux không được thả tự do sớm và nếu cảnh sát hành động ngay khi nhận được mật báo về các hoạt động của hắn, 4 cô gái trẻ đã không bị giết chết và nhiều cô gái khác đã được giải cứu, không bị bán cho các tổ chức mại dâm hoặc bị quay phim khiêu dâm.
+
+Dư luận bất bình
+
+Dư luận Bỉ hết sức bất bình trước thái độ thờ ơ này của cảnh sát. Họ yêu cầu phải tiến hành xem xét lại toàn bộ cuộc điều tra về Dutroux, một cuộc cải cách triệt để trong hệ thống chính trị và tòa án và tái áp dụng bản án tử hình chỉ mới được cắt bỏ vài tháng trước khi khám phá các nạn nhân đầu tiên của Dutroux. Công chúng cũng đòi hỏi siết chặt các tiêu chuẩn ân xá đối với những kẻ bị kết tội hiếp dâm trẻ em. Và yêu cầu này đã được thực thi vào năm 1998.
+
+Vụ án Dutroux đã là đề tài chính của một cuộc hội nghị quốc tế tại Stockholm (Thụy Điển) do Quỹ Nhi đồng Liên Hiệp Quốc tổ chức vào ngày 28/8/1996. Tại hội nghị này, Ngoại trưởng Bỉ, ông Erick Derycke đã kêu gọi tất cả các quốc gia hãy chiến đấu chống lại nạn bắt cóc và hiếp dâm trẻ em bằng cách tăng cường hợp tác về mặt luật pháp.
+
+**Marc bị bắt**
+
+Đến giữa tháng 10/1996, công dân Bỉ cuối cùng đã không thể chịu đựng được thêm nữa. Họ tức giận không chỉ vì thái độ làm việc tắc trách của các nhân viên điều tra trong vụ này mà còn tức giận hơn nữa khi quan tòa điều tra vụ Dutroux, ông Jean-Marc Connerotte, bị cách chức. Nhiều người dân Bỉ xem ông Connerotte là một người hùng bởi vì ông đã ra lệnh bắt giữ Marc Dutroux và thu thập các chứng cớ quan trọng để kết tội Dutroux và những kẻ đồng phạm. Tòa án Tối cao Bỉ đã loại bỏ ông Connerotte bởi vì ông đã dự một buổi dạ tiệc gây quỹ, được tổ chức để trợ giúp việc tìm kiếm các trẻ em bị mất tích. Sau này, người ta đi đến kết luận rằng, việc ông Connerotte tham dự buổi gây quỹ này đã khiến ông mất tính đi sự vô tư trong quá trình điều tra vụ án Dutroux.
+
+Bernard Weistein, đồng phạm và cũng là nạn nhân của Dutroux
+
+Chính việc loại bỏ quan tòa Connerotte và sự thiếu năng lực của cảnh sát đã gây ra một trong những cuộc biểu tình phản đối trong thời bình lớn nhất trong lịch sử nước Bỉ kể từ Thế chiến II. Cuối tháng 10, hơn 300.000 người dân mặc quần áo trắng, biểu hiệu của sự trong trắng, đã tuần hành khắp thành phố Brussels đòi hỏi cải cách hệ thống chính trị và pháp luật tại nước này.
+
+Để đảm bảo an toàn cho kẻ thủ ác, cảnh sát đã mặc áo giáp cho hắn mỗi khi giải đi ngoài đường
+
+Ở khắp nước Bỉ, nhiều người đã nghỉ làm để đi biểu tình phản đối, một hãng chế tạo xe hơi đã bị ngừng sản xuất hoàn toàn do toàn bộ nhân viên nghỉ việc đi biểu tình; giao thông tại một số thành phố bị tê liệt do những người lái tàu không chịu làm việc và các gia đình nạn nhân kêu gọi một cuộc tổng đình công. Đã đến lúc chính phủ phải hành động và thực hiện một số sự thay đổi cần thiết để lấy lại niềm tin của dân chúng và ổn định trật tự xã hội.
+
+Tháng 4/1997, một ủy ban quốc hội xem xét cách thức điều tra vụ án Dutroux kết luận rằng, các cô gái trẻ có lẽ sẽ còn sống, nếu cảnh sát đã không mắc quá nhiều lỗi lầm trong cuộc điều tra này. Ủy ban này cũng đã đề nghị sa thải công tố viên Benoit Dejemeppe bởi vì ông ta đã không thực hiện tốt nhiệm vụ của mình. Nhiều viên chức khác bị phải chịu trách nhiệm về cái chết của những cô gái trẻ này. Các điều tra viên bị buộc tội cố tình phớt lờ các tin tức được các nhân chứng cung cấp trong giai đoạn quan trọng của cuộc điều tra và không chuyển các tin tức tối cần thiết cho các công tố viên. Ủy ban này cũng đề nghị “một cuộc đại tu” trong lực lượng cảnh sát.
+
+Tháng 4/1998, Cảnh sát Bỉ bị bẽ mặt thêm nữa khi Marc Dutroux khống chế một cảnh sát viên đang canh chừng hắn. Điều gì sẽ xảy ra tiếp theo? Mời các bạn đón đọc Ác quỉ Marc Dutroux
+
+** Tháng 4/1998, Cảnh sát Bỉ bị bẽ mặt thêm nữa khi Marc Dutroux khống chế một cảnh sát viên đang canh chừng hắn và trốn thoát suốt ba giờ đồng hồ.**
+
+Nhà tù cho phép Dutroux rời khỏi tòa nhà để xem xét hồ sơ sẽ được sử dụng trong phiên tòa xét xử hắn. Trong một chuyến ra ngoài này, Dutroux đã vật lộn với viên cảnh sát, cướp được khẩu súng lục và cuối cùng trốn thoát bằng một chiếc xe hơi ăn trộm được. Cuối cùng Dutroux đã bị bắt lại và không được phép rời khỏi nhà tù nữa. Vụ trốn thoát của hắn đã khiến ba viên chức cao cấp phải từ chức là Giám đốc cảnh sát Bỉ, Trung tướng Willy Deridder và bộ trưởng tư pháp và bộ trưởng nội vụ Bỉ.
+
+Vào ngày 20/3/2000, BBC Online tường thuật cảnh Marc Dutroux bị còng hai tay, mặc chiếc áo vét chống đạn và được 10 cảnh sát viên hộ tống - bị áp giải đến một tòa án ở tỉnh Neufchateau để bị buộc tội liên quan đến vụ trốn thoát trong khi bị tạm giam cách đây hai năm. Hắn xuất hiện khoảng một tiếng và thú nhận đã trốn thoát nhưng một mực nói rằng hắn làm thế chỉ vì muốn nói với giới truyền thông về câu chuyện của mình. Quan tòa quyết định hoãn phiên xử cho tới tháng 5/2000.
+
+Để đảm bảo an toàn cho kẻ thủ ác, cảnh sát đã mặc áo giáp cho hắn mỗi khi giải đi ngoài đường
+
+Sau vụ trốn thoát của Dutroux, hai bộ trưởng đã từ chức và một công tố viên chịu trách nhiệm về vụ án này đã tự sát. 2 tháng sau, ngày 19/6/2000, Marc Dutroux bị kết án 5 năm tù về tội ăn trộm và hành hung trong khi tẩu thoát. Trong khi đó, gia đình của các nạn nhân trẻ tuổi vẫn sốt ruột chờ đợi cuộc điều tra đang tiếp tục bị kéo dài.
+
+Phiên xử sau 7 năm
+
+Jean-Michel Nihoul
+
+Sau rất nhiều chậm trễ và trì hoãn, phải mất 7 năm, Dutroux mới bị đưa ra xét xử và phiên xử được ấn định bắt đầu vào ngày 1/3/2004. Cùng bị xét xử với Dutroux là vợ của hắn, Michele Martin, 45 tuổi, thương gia Jean-Michel Nihoul, 63 tuổi và Michel Lelievre. Và không chỉ Dutroux và ba kẻ tòng phạm bị xét xử mà còn cả hệ thống tư pháp ở Bỉ cũng bị phán xét. Theo một cuộc thăm dò do một tờ báo của Bỉ thực hiện, gần 60% dân chúng Bỉ không còn tin tưởng vào hệ thống tòa án nữa.
+
+Vụ án Dutroux đã cho thấy sự yếu kém về năng lực và sự tự mãn đến độ không thể chấp nhận được của nhà cầm quyền. Trong năm 1989, Dutroux bị tù vì tội hãm hiếp trẻ em, thế nhưng, điều luật khoan hồng vô cùng rộng lượng của Bỉ đã giúp hắn được thả tự do khi mới ở tù ba năm trong khi bản án là 13 năm. Và sau khi được thả tự do, Dutroux ngay tức khắc đã tiếp tục thực hiện các tội ác dã man hắn. Sự thất bại lớn nhất của cảnh sát Bỉ là khi họ lục soát căn nhà của Dutroux và đã không thể tìm thấy hai cô gái đang bị giam giữ trong căn nhà này vào lúc đó.
+
+Trước khi phiên xử được bắt đầu vào ngày 1/3/2004, Dutroux đã nói với giới truyền thông rằng, hắn chỉ là một con tốt đen bị điều khiển bởi những người khác trong tổ chức bắt cóc và hiếp dâm trẻ em và thương gia Michel Nihoul chính là kẻ cầm đầu tổ chức tội ác này. Ngày hôm sau, công tố viên Michel Bourlet đồng ý rằng Dutroux đã không hành động một mình nhưng là một phần của nhóm cùng với Nihoul, Michel Lelievre và người vợ cũ của hắn, Michelle Martin.
+
+Trong ngày xét xử thứ ba, Dutroux khai Lelievre và hai nhân viên cảnh sát đã giúp hắn bắt cóc An Marchal, 17 tuổi và Eefje Lambreckx, 19 tuổi (hai cô gái này đã bị hãm hiếp và giết chết). Dutroux tố cáo những kẻ tòng phạm giết chết Eefje và An, và hai cô gái khác.
+
+**Michel Lelievre**
+
+Quan tòa Jacques Langlois, người đã thu thập rất nhiều dữ kiện cho vụ án này, cho biết, trong nhiều năm, Dutroux đã trau dồi kỹ năng rình rập, bắt cóc, hãm hiếp và tẩy não các nạn nhân. Ông Langlois cũng đưa ra bằng chứng rằng người vợ cũ của Dutroux, Michelle Martin, đã để mặc hai cô bé chết đói trong khi Dutroux ở tù. Ông kể rằng: “Martin đã nói với tôi, cô ta được chồng dặn phải nuôi Lejeune và Russo khi anh ta bị tù bốn tháng vì tội ăn cắp xe vào cuối năm 1995”. Nhưng cô ta lại sợ bị các cô gái tấn công nên đã bỏ mặc các cô cho đến chết.
+
+Đến ngày 4/3, quan tòa Jean-Marc Connerotte nói với tòa án rằng ông thấy sửng sốt trước “sự lành nghề một cách đáng ghê sợ” của Dutroux khi hắn xây căn hầm bí mật trong nhà để giam giữ các nạn nhân. Căn hầm được cách âm và có lỗ thông hơi trên trần do đó rất khó bị phát hiện ngay cả với các cảnh sát đặc nhiệm K-9.
+
+Michel Lelievre
+
+Ông Connerotte đã rơi lệ khi ông miêu tả các chiếc xe chống đạn và các nhân viên an ninh vũ trang bảo vệ ông chống lại các những người không muốn sự thật được công bố. Ông Connerotte khai rằng cuộc điều tra đã bị cản trở bởi nỗ lực bảo vệ những kẻ tình nghi của một số người. Và ông tin rằng mafia đã kiểm soát vụ này. Ông Connerotte đã bị loại khỏi vụ án này sau khi tham dự một buổi ăn tối với gia đình các nạn nhân.
+
+Vào ngày 18/3, một cuộc tranh cãi gay gắt xảy ra khi một chiếc chìa khóa còng được tìm thấy trong xà lim của Dutroux và người ta khẳng định, nó đã được giấu trong một bao đựng muối rồi chuyển vào. Ban giám đốc nhà tù bị tố cáo đang thu xếp cho Dutroux vượt ngục.
+
+Ngày 19/3, một trong những nạn nhân bị Dutroux bắt cóc và hãm hiếp, Sabine Dardene, khai với tòa về tình cảnh hãi hùng mà cô đã trải qua với bị cáo khi cô chỉ mới 12 tuổi. Sabine đã bị nhốt suốt 80 ngày trong căn hầm tối của Dutroux và cô đã không chấp nhận lời xin lỗi của y đưa ra trước tòa. Sabine kể rằng Dutroux đã làm cô tưởng rằng cha mẹ đã bỏ rơi cô khi từ chối trả tiền chuộc. Dutroux đã đóng kịch như thể người bảo vệ Sabine khi nói rằng người chủ của hắn muốn giết chết cô.
+
+Ngày 21/4, tòng phạm Michel Nihoul một mực nói rằng y không dính líu đến các tội ác của Dutroux. Không như Dutroux, Nihoul đã không bị giam trong thời gian diễn ra phiên tòa xét xử.
+
+Phiên tòa thế kỷ tại Bỉ xét xử Dutroux và đồng bọn được tổ chức trong một phòng xử mới tinh ở Arlon, một thị trấn yên tĩnh gần biên giới Pháp và Luxembourg . An ninh quanh tòa án được thắt chặt với sự hiện diện của hàng trăm cảnh sát. Khu vực dành cho các bị cáo trong phòng xử được che bằng kính chống đạn. Bồi thẩm đoàn gồm 12 người và 12 người khác dự bị. Tổng cộng sẽ có khoảng 500 nhân chứng được triệu tập. Phiên tòa có thể kéo dài đến tận ngày 20/5 và hồ sơ vụ án dài đến 45.000 trang.
+
+Tài  liệu lấy ở trang 24h.com.vn. Tài liệu loại A. lá số  của 1 người trong  này sẽ được bình Nếu bạn thích thì không chỉ 1 người mà nhiều nữa bình.  Miễn sao lá số  đúng, người được bình là tên tòng phạm, vì nó liên quan  đến 1 loạt bài viết, giải quyết từng cách một.
+
+-   Private comment
+
+-   Private comment
+
+-
+[
+![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_trUNbvzadMeIptCWtgRp7tCinTEU_cNar4lklAkDqs2oJ1nn-r5qCPAnAPJpkv47Pxdr9gSNfm9zsWJ3SKj6TUHelfcDD45YOtS0iqRqRGtP3y=s0-d)
+](http://blog.yahoo.com/_SGE75Q5M3KAP7A2PZSHLG3KN5Q)
+
+-  [Cn](http://blog.yahoo.com/_SGE75Q5M3KAP7A2PZSHLG3KN5Q)
+
+- Feb 14, 2012 11:58 AM
+
+Cháu  rất khâm phục Bác.Đọc tài liệu Bác cung cấp mới thấy Bác làm việc khoa  học, chuẩn bị tư liệu công phu các bước thực hiện như một nhà sư phạm  lâu năm.
+
+Chúc Bác luôn khỏe!

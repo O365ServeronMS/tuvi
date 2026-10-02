@@ -1,0 +1,103 @@
+---
+id: bd#5066015621707575633
+title: "Tuyển Chọn Học Viên Khoá 7 Tử Vi Ứng Dụng."
+url: https://tuviungdung.blogspot.com/2017/12/tuyen-choc-hoc-vien-khoa-7-tu-vi-ung.html
+published: 2017-12-01T21:19:00.000+07:00
+updated: 2018-02-11T11:41:47.956+07:00
+labels: []
+---
+
+# Tuyển Chọn Học Viên Khoá 7 Tử Vi Ứng Dụng.
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Vo4K8sDkksIe1wAMevy2PHLlz2uxnGjh3rKopXT5FGQpeLmDWKzzgZ_CzOy9x8kQaL79Idy6BR4RvQGi87MqKd7TQ3RrHdKMmwizUUvAcaz8Ib1VY6DCiy5ndfSbyDqTov9fZlJ8af4u/s1600/ChucMungNamMoi.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Vo4K8sDkksIe1wAMevy2PHLlz2uxnGjh3rKopXT5FGQpeLmDWKzzgZ_CzOy9x8kQaL79Idy6BR4RvQGi87MqKd7TQ3RrHdKMmwizUUvAcaz8Ib1VY6DCiy5ndfSbyDqTov9fZlJ8af4u/s1600/ChucMungNamMoi.gif)
+
+Bạn cần
+biết đây là chương trình học có phí.
+
+Chương
+trình học kéo dài 10 tháng. Mỗi tháng có 2 F. Mỗi F cách nhau 15 ngày.
+
+F đầu
+tiên mang tên F7BD01 phát hành ngày 01/01/2018. đến cuối F7BD20 phát hành ngày
+15/10/2018.
+
+Sai số
+ngày phát hành  cộng trừ 1 ngày.
+
+F chỉ
+đọc được trên máy tính để bàn, máy laptop. Tất cả các phương tiện xem nhìn cầm
+tay không đọc được F. Nếu đọc được cũng không đạt yêu cầu. Vì F có độ dài 1000
+và cao 760. Cũng đừng vội nghĩ, mình in ra để đọc. Vì F7 chứa dung lượng 3500
+trang A4, chưa kể hình ảnh.
+
+Trong F
+chứa vô số các hình ảnh bằng kỹ thuật flash. Khó mà tính được các hình ảnh
+trong đó. Nó có thể tạo lá số Tử Vi ảo, chưa hoàn chỉnh để bạn tự tìm hiểu.
+
+Ví dụ.
+Yêu cầu bạn vào Mẫu B, chọn tháng sinh 12, chọn
+giờ sinh Tý và chọn Chính tinh theo ý
+muốn. Từ đó, đánh giá phù hợp hay là không.
+
+Yêu cầu
+vào Mẫu A, bạn nhấn chữ TRIỆT, xem nó di chuyển qua các chính tinh và suy nghĩ.
+Trường hợp nào TRIỆT có lý và trường hợp nào bất lợi.
+
+Đó là những
+điều không thể, khó thực hiện trên in ấn thông thường.
+
+Cho nên,
+việc học F chỉ thực hiện trên máy vi tính để bàn, laptop mà thôi.
+
+Để đọc được
+F máy tinh phải cài chương trình Flash Player. Trước đây, Win cũ có nhúng sẵn,
+các Win về sau không có. Để cài chương trình này, bạn nên chọn 1 một chương trình
+phù hợp với máy của bạn là Win gì?  Và còn
+tuỳ thuộc vào 32 bít, hoặc 64 bít. Flash Player mới nhất là 27.. Cũng không có
+nghĩa con số càng cao là hay nhất, Quan trọng là có phù hợp máy của bạn hay không
+mà thôi.
+
+Bạn có
+thể bôi đen cụm từ sau: Flash Player, nhấn chuột phải tìm kiếm. Hoặc đến trang
+sau đây.
+
+[https://download.com.vn/download/downloadurl?softwareid=7644](https://download.com.vn/download/downloadurl?softwareid=7644).
+
+Sau đấy
+đến địa chỉ sau đây tải bản thử nghiệm F7BD01.
+
+[https://www.mediafire.com/file/d29qhvul0ekxw9d/Fthunghiem.exe](https://www.mediafire.com/file/d29qhvul0ekxw9d/Fthunghiem.exe)
+
+Khi tải
+về, mở ra Windows sẽ cảnh báo bạn cho phép nó mới chạy.
+Vì đây không phải là chương trình của Win.
+
+Để vào
+bên trong, bạn nhấn **bd** để mở mật khẩu, nhấn enter, hoặc OK. Vào trong có mục thư
+tín. Bạn nhấn chuột vào đấy người viết sẽ hướng dẫn tiếp.
+
+Đây chỉ
+là điều kiện ắt có (là có thể xem flash không trở ngại về mặt kỹ thuật) nhưng vẫn
+chưa đủ. Vì muốn học Tử Vi bạn phải có điều kiện rảnh rỗi. Vì tài liệu đồ sộ của
+nó cần có thời gian để đọc, học, hiểu. Cao hơn hết là lòng ham thích.
+
+Các bài
+học Tử Vi Ứng Dụng gồm có; Các thư mục Chính tinh, Can tinh, Chi tinh, Các  Sao Khác, 72 Cách, Các Cung,  Lá số Tử Vi khoảng 200 lá cho F7. Còn có các mục
+Phối hợp  2 chính tinh Mệnh, Hạn để luận,
+Các Bộ Can Chi, Từ Điển Việt-Tử Vi, Hạn.
+
+Có lẽ, đây là F cuối  dành cho các bạn từng lỡ chuyến đò khỏi thất vọng. Và cũng là F hoàn chỉnh nhất.
+
+Và tặng
+tất cả các bạn, tốn công đọc nhưng không liên quan gì. đến mình. Trình Bảo Vệ Màn Hình., bạn
+đến địa chỉ dưới đây tải xuống. Xong rồi, nhấn chuột phải chọn Test để thử nghiệm,
+hoặc chon install để cài, hoặc nhắp đôi để xem trình hoạt động. Trường hợp nào
+thì Win cũng cảnh báo, bạn cho phép nó mới chạy. Đây là flash do người viết làm,
+chuyển qua trình Bảo vệ màn hình.
+
+Tất nhiên
+là không động đậy con chuột.
+
+[https://www.mediafire.com/file/lj3na114xcpi6ta/BVMHGoiGiacMoXua.scr](https://www.mediafire.com/file/lj3na114xcpi6ta/BVMHGoiGiacMoXua.scr)

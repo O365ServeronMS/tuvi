@@ -503,7 +503,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--dry-run", action="store_true", help="compute and report without writing files")
     args = ap.parse_args(argv)
 
-    codes = [b.code for b in BOOKS] if args.books == "all" else args.books.split(",")
+    codes = [b.code for b in BOOKS if b.input_name] if args.books == "all" else args.books.split(",")
     unknown = [c for c in codes if c not in {b.code for b in BOOKS}]
     if unknown:
         ap.error(f"mã sách không hợp lệ: {unknown}")
@@ -518,6 +518,8 @@ def main(argv: list[str] | None = None) -> int:
     # corpus statistics use every book, whichever subset is written
     corpus = []
     for b in BOOKS:
+        if not b.input_name:
+            continue
         t = nfc((INPUT_DIR / b.input_name).read_text(encoding="utf-8"))
         for src, dst in REPLACEMENTS.items():
             t = t.replace(src, dst)

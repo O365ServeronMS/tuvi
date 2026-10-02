@@ -1,0 +1,48 @@
+---
+id: bd#6572317308527492271
+title: "Luận Về Niên Can Tân Sửu."
+url: https://tuviungdung.blogspot.com/2021/01/luan-ve-nien-can-tan-suu.html
+published: 2021-01-25T17:57:00.000+07:00
+updated: 2021-01-25T17:57:01.661+07:00
+labels: []
+---
+
+# Luận Về Niên Can Tân Sửu.
+
+**Với TỬ VI ỨNG DỤNG năm Tân Sửu có nghĩa là Can thứ 8, Chi thứ 2.  Không mang ý nghĩa con trâu đất. Tân Sửu là thuật ngữ của giới bói toán ngày xưa, nhằm phân biệt Ất Sửu, Tân Sửu… Quý Sửu. Nhưng nếu bạn tin rằng; Tân Sửu là con trâu càng có lợi. Vì trâu ngựa cũng có trên TỬ VI chứ không phải là không. Đáng nói, sinh năm con chuột, con rồng... lại làm thân trâu ngựa. Lại càng đáng nói hơn, khi chữ Sửu lại có nghĩa là ngưu. Chữ Tý bỗng gọi là thử. Chữ Dần lại gọi là hổ... Vâng, đến cọp beo trong TỬ VI cũng có. Đó là sao BẠCH HỔ. Dù là sinh năm con dê vẫn gọi là hổ. Tuỳ trường hợp đi với hung, cát tinh, ta đoán cọp hiền, dữ, con kỳ lân cao quý... Rồi đoán từ cọp beo chuyển thành chó, mèo nuôi trong nhà. Vì thế, không cần phải sinh năm Dần, sinh năm Sửu vẫn có người được ví như BẠCH HỔ đấy ạ. Chuyện cũng lạ lùng, làm người không chịu lại ưa làm động vật. Ngày nay gió Đông thổi bạt gió Tây. Tử Vi Phương Tây cũng tin vào chuyện ấy, lại sinh chuyện trâu đất, trâu lửa, trâu vàng... Nhưng thôi bỏ qua chuyện ấy.  So sánh năm Tân Sửu và năm Canh Tý.
+Không cần phải so sánh làm chi. Cái ta thường thấy năm nào cũng na ná giống năm nào. Nhưng có năm vấn đề nầy nổi bật hơn các vấn đề khác. Các vấn đề giống nhau là.
+Không phân biệt tuổi gì. Không phận biệt xung, khắc, hợp
+Năm nào cũng có người sinh ra và có người mất đi.
+Năm nào cũng có người chết vì bệnh tật tai hoạ, tai nạn... . Năm nào mà chẳng có, ngày nào mà chẳng có, nơi nào mà chẳng có tai nạn giao thông, tai hoạ thuỷ tai, hoả hoạn, thiên tai như động đất, núi lửa, hạn hán, lũ lụt... Rồi nhân tai như; thị phi, ẩu đả, tranh chấp chuyển qua tranh giành đỉnh cao là chiến tranh. Chính các lãnh tụ dễ gây nên chiến tranh, còn dân lành thì sao? Đánh lộn, có khi là 2 phe đánh nhau rất xôm tụ.
+Năm nào, ngày nào mà chẳng có...
+Bệnh viện vẫn dập dìu người ra vào. Toà án vẫn làm không hết việc. Nhà tù luôn luôn có kẻ ra người vào. “Vào ra 2 chữ giản đơn”. Đâu đó có vụ ẩu đả với nhiều lý do. Có người oan ức, có người la thấu trời vì bị lừa đảo tình, tiền hay gian lận. Thậm chí chính trị cũng lừa đảo.
+
+ Trên là cách nhìn chung các năm.
+So sánh 2 năm Canh Tý và Tân Sửu ta có như sau.
+Bộ PHI TANG (TANG MÔN PHI LIÊM) từ vị trí cung Dần (hướng Đông Bắc) chuyển qua cung Mão (hướng chính Đông). Đây là bộ sao đáng sợ nhất,  sang năm Nhâm Tý không còn nữa. Điều này cho thấy dịch bệnh vẫn hoành hành. Vì cái giá rẻ nhất phải trả là 2 chữ phân ưu. Mình đi phân ưu hay người đi phân ưu mình thì chưa biết. Xếp hạng nhì là cảnh tan đàn xẻ nghé....
+Đáng nói là bộ PHI TANG lại nằm trong tiểu hạn của 1 số nam nhân Dần Thân Tị Hợi và nữ nhân Mão Dậu. Nói như thế không có nghĩa các tuổi còn lại không chịu ảnh hưởng. Vì 1 số người có bộ lưỡng PHI, lưỡng TANG.
+Dĩ nhiên một số người Mệnh hoặc đại hạn đóng tại cung Mão chịu ảnh hưởng. Nhiều nhất là những người có bộ sao cố định cùng tên với sao lưu động. Chính tinh kỵ sao PHI, sao TANG. Mức độ xấu còn tuỳ thuộc vào hung sát tinh KỴ HÌNH tinh và có trường hợp phải xét đến CÁO PHỤ. Cũng không thể quên trường hợp tiểu hạn có TANG cố định nay Lưu TANG tại đại hạn hoặc Mệnh Hạn…
+
+ Cũng lý luận như trên, xét đến Mệnh, đại hạn đóng tại Dần Ngọ Tuất.
+Bộ CÔ QUẢ vẫn tiếp tục đóng tại 2 cung Dần Tuất ảnh hưởng đến cung Ngọ, tăng cường thêm KÌNH DƯƠNG, lại có thêm bộ KHÔI VIỆT ĐÀO HOA, tăng thêm tính chủ động. Tam Tai chính là bộ sao nầy.
+Bộ sao nầy đáng sợ cho 1 số người nhưng lại rất tốt cho 1 số người. Nếu là học viên giỏi tất biết rất tốt cho ai và đáng sợ cho ai.
+Ai là người kỵ bộ CÔ QUẢ KÌNH.
+Ai là người hợp với HAO ĐÀO KHÔI KÌNH.
+Tất nhiên xấu có nhiều hạng là từ xấu đến rất xấu và quá xấu. Tốt cũng có nhiều hạng.
+
+ Trên là 2 bộ sao giống nhau của 2 năm Tân Sửu và Canh Tý.
+Vẫn giống nhau là sao TUẦN vốn án ngữ cung Thìn Tị (từ 2014-2023), nay tăng cường thên sao TRIỆT càng thêm mạnh. Làm cho vị trí này có bộ nhị KHÔNG dễ biến thành bộ tam KHÔNG, nếu như các cung Tị Dậu Sửu hoặc Thân Tý Thìn có KHÔNG KIẾP đồng cung hay tam hợp. Nguy cơ cao là có bộ KỴ HÌNH. Nếu là học viên giỏi tất phải biết chính tinh nào kỵ bộ TUẦN TRIỆT.
+Tại cung Tị có LỘC TỒN tam hợp kỵ chính tinh gì?
+
+ Các sao còn lại đều thay đổi vị trí làm cho biến động từ khu vực nầy sang khu vực khác. Ví dụ. Năm Canh Tý trục thay đổi mạnh là trục Tị Hợi. Năm Tân Sửu là trục Tý Ngọ, phương Nam Bắc.
+
+ Năm Tân Sửu trâu vàng hay trâu cày? Trâu cày còn may xấu nhất là trâu bị thịt. Dù sinh năm nào đi nữa.
+Dù sinh ngày nào, giờ nào không cần thiết là năm Tân Sửu.
+Sinh tháng 10 âm lịch luôn luôn có cách Mệnh Không Thân Kiếp. Đây không phải là cách hay. Vì Mệnh buộc phải nói chữ Không, còn Thân phải nói chữ Kiếp. Cho phép chọn giờ, ngày, năm miễn sao là sinh tháng 10, tất phải gặp cách đó.
+
+Sinh tháng 10, giờ Tị có bộ THIÊN KHÔNG, THIÊN HÌNH tại Mệnh cực xấu. Cả 1 năm chỉ có duy nhất 1 giờ sinh nầy mà thôi. Năm Tân Sửu lại thêm bộ KHÔI KÌNH. Vốn rất kỵ bộ KHÔI HÌNH. Sinh tháng 4 ngày nào cũng thế, sinh vào giờ Mão, Dậu luôn luôn có cách Mệnh Kiếp Thân Không. Thân thể cần có chứ sao lại không, chừng đó thôi đã thấy xấu rồi.
+...
+Vậy giờ sinh cực kỳ quan trọng. Sau đấy là tháng sinh, ngày sinh, năm sinh. Phối hợp 4 yếu tố tốt ta có lá số Tử Vi tốt. Nhưng tất cả đều là số phận. Cung Tử Tức cha mẹ tốt mới sinh ra đứa con tốt. Vậy nên quên đi chuyện sinh mổ mà các thầy Tử Vi ba trợn ưa phán bậy. Các thầy đều biết 20, 30 năm sau sự thật phơi bày, sợ chi mà không nói.
+
+ Một câu hỏi đặt ra liệu năm Tân Sửu có giờ sinh tốt không? Tất nhiên là có chứ. Điều nầy rất dễ và quá dễ đối với 1 số học viên, người viết dự đoán là ít thôi. Nhưng lại quá khó với 1 số học viên.
+Bài viết đến đây tạm dừng vui thì viết tiếp.**

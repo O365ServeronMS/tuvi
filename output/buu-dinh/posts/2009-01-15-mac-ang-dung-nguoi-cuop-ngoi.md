@@ -1,0 +1,214 @@
+---
+id: bd#723124496360411319
+title: "Mạc Đăng Dung người cướp ngôi..."
+url: https://tuviungdung.blogspot.com/2009/01/mac-ang-dung-nguoi-cuop-ngoi.html
+published: 2009-01-15T05:31:00.003+07:00
+updated: 2024-03-23T14:55:30.707+07:00
+labels: []
+---
+
+# Mạc Đăng Dung người cướp ngôi...
+
+Bài 1
+
+Mạc Đăng Dung quê ở làng Cổ Trai, huyện Nghi Dương (Hải Dương). Cụ
+tổ bảy đời là Mạc Đĩnh Chi, một người nổi tiếng về văn chương đă thi đậu trạng
+nguyên dưới thời Trần, làm quan đến chức Nhập nội hành khiển, Thượng thư môn hạ
+tả bộc xạ. Ông đă từng đi sứ sang Trung Quốc, đối đáp rất thông minh, nhà Nguyên
+phải nể phục. Đĩnh Chi sinh ra Dao, làm quan Tư hình viện đại phu. Dao sinh 4
+con trai tên là: Địch, Thoan, Thuư và Viễn, ngườinào cũng có tài năng và xuất
+khoẻ. Cuối đời nhà Hồ Vì bất đắc chí họ đem con emđến hàng giặc Minh rồi ra làm
+quan cho nhà Minh. Đến đời các ông Tung, B́nh rồi đến Hịch thì không ai có hiển
+đạt. Hịch lấy con gái Đặng Xuân người cùng làng, tên là Đặng Thị Hiến, sinh được
+ba trai: Mạc Đăng Dung là trưởng, rồi đến Đốc và Quyết. Hai em của Đăng Dung
+đều làm quan, khi Đăng Dung lên ngôi vua thì phong cả hai em tước vương.
+
+Đăng Dung sinh giờ Ngọ ngày Nhâm Tư (23) tháng 11 năm Quư Măo
+(1483). Thời trẻ Mạc Đăng Dung có sức khoẻ lại khôi ngô. Tương truyền bà họ Nhữ (có tham vọng muốn có người chồng đế vương) trông thấy Đăng Dung, đem lòng yêu. Bà họ Nhữ đó về sau chính là mẹ của Nguyễn Bỉnh Khiêm và Phùng Khắc Khoan. Từ một thanh niên nghèo, sống bằng nghề đánh cá, Mặc Đăng Dung đi dự thi môn đấu vật, trúng đô lực sĩ, được sung vào chân túc vệ chuyên cầm dù theo xe vua. Nhưng Đăng Dung tiến rất nhanh trên đường làm quan. Năm Tân Mùi (1511) mới 29 tuổi đă được phong tước Vũ Xuyên Bá. Năm Bính Tư (1516), triều đ́nh sai Đăng Dung làm trấn thủ Sơn Nam, gia phong Phó tướng Tả đô đốc. Trải qua ba đời vua Lê, Đăng Dung được phong Thái sư Nhân Quốc công rồi đến An Hưng vương. Lợi dụng lúc vua Lê ươn hèn, các quan trong ngoài triều tranh giành xâu xé lẫn nhau, Mạc Đăng Dung âm mưu giành ngôi vua.
+
+Tháng 6 năm Đinh Hợi (1527), Mạc Đăng Dung từ Cổ Trai lên kinh sư
+ép vua Lê nhường ngôi. Lúc này triều Lê đă quá mục nát, mất lòng dân nên số
+đông hướng về Mạc Đăng Dung đă ra đón Đăng Dung về kinh. Trong tờ chiếu nhường
+ngôi của vua Lê (tất nhiên là do người của Mạc Đăng Dung viết) có nói hư do của
+việc nhường ngôi: Vua Lê hèn kém, đức mỏng, không gánh nổi ngôi trời. Mệnh trời
+và lòng người hướng về người có đức và người đó, trong thời điểm này, chỉ có
+Mặc Đăng Dung: "là người tư chất thông minh, đủ tài văn võ, bên ngoài đánh
+dẹp bốn phương đều phục, bến trong trị nước trăm họ yên vui, công đức lớn lao,
+trời người đều quy phục". Hôm tuyên đọc tờ chiếu nhường ngôi cũng là lúc
+Mạc Đăng Dung xưng Hoàng đế, ban lệnh đại xá thiên hạ, lấy niên hiệu mới như
+mọi ông vua khác lên ngôi. Vua Lê bị giáng truất xuống làm
+
+Cung vương, bị tống giam cùng với Thái hậu ở cung Tây Nội rồi bị giết chết
+
+Những ngày sau, Đăng Dung ra ngự ở chính điện, tế trời đất ở đàn
+Nam Giao, dựng tôn miếu, lấy Hải Dương làm Dương kinh, lập cung điện ở Cổ Trai, truy tôn ông tổ bảy đời là Mạc Đĩnh Chi làm "Kiến thủy Khâm minh văn hoàng đế". Mạc Đăng Dung muốn tỏ một điều: "không thể cứ con vua thì mới được làm vua", ông cho sửa mộ của cha ḿnh thành Lăng (cho nên nơi ấy về sau được gọi là xứ Mả Lăng). Ông cho lập con trai trưởng là Đăng Doanh làm Thái tử, phong em trai là Quyết làm Tín vương, truy phong em trai là Đốc làm Từ vương, cả ba người em gái đều được phong công chúa: em gái lớn tên Ngọc là Trang Hoa công chúa, thứ đến tên Huệ là Khánh Diệm công chúa và em út Ngọc Di là Tú Hoa công chúa. Cùng với việc phong tước cho con, anh em họ Mạc, vua còn phong tước cho
+một loạt bầy tôi có công tôn phò. Về đối ngoại, để tranh thủ nhà Minh, vua Mạc
+sai sứ đem biểu sang Yên Kinh nói: Con cháu họ Lê không còn ai thừa tự, cho nên
+di chúc cho Đại thần họ Mạc tạm quản việc nước, để yên dân.
+
+Nhà Minh sai người sang dò xét hư thực, Đăng Dung cùng các bầy tôi
+khác dùng vàng bạc lo lót những viên tướng biên thùy nhà Minh để tranh thủ sự ủng hộ của họ. Vì thế, năm Kỷ Sửu (1529) hai anh em Trịnh Ngung và Trinh Ngang là cựu thần nhà Lê chạy sang cầu viện nhà Minh song không thành. Hai viên quan đó đều chết già trên đất Trung Hoa.
+
+Hoàn thiện việc thiết lập một triều đại mới, không những phải
+chống chọi với phản ứng của đông đảo các cựu thần nhà Lê mang nặng đầu óc trung quân mù quáng, mà còn phải chọn những người trẻ tuổi gánh vác việc nước. Bắt chước các vua
+Trần, tháng 12 năm Kỷ Sửu (1529) Mạc Đăng Dung nhường ngôi cho con là Đăng
+Doanh làm vua được 3 năm, lúc này mới 46 tuổi.
+
+Bài 2 MẠC ĐĂNG DOANH
+
+Đăng Doanh là con trưởng của Mạc ĐăngDung. Dưới thời Quang Thiệu
+nhà Lê, Đăng Doanh được phong tước Dục Mỹ hầu, giữ điện Kim Quang. Khi Đăng
+Dung lên ngôi vua, Đăng Doanh được phong làm Thái tử. Ở ngôi thái tử được 3 năm
+thì lên ngôi vua. tháng Giêng năm Canh Dần (1530) Đăng Doanh làm lễ đăng quang,
+đổi niên hiệu là Đại chính, tôn bà nội là Đặng thị làm Thái Hoàng thái hậu, tôn
+cha là Đăng Dung làm Thái thượng hoàng. Trước hết Đăng Doanh dựng một ngôi điện
+nguy nga ở làng Cổ Trai cho Đăng Dung ở. Mỗitháng 2 lần vào ngày 8 và 22, Đăng
+Doanh dẫn quần thần tới tŕnh yết. Đăng Dungtuy về sống cảnh điền viên ở Cổ Trai
+nhưng ngụ ư là trấn giữ một vùng đất quan trọng làm ngoại viên cho Đăng Doanh
+và vẫn định đoạt những việc trọng đại củaquốc gia. Từ khi Đăng Doanh lên ngôi
+vua cũng là lúc ở Thanh Hoá lực lượng trung hưng của nhà Lê do Nguyễn Kim cầm
+đầu đă nhóm họp và ngày càng lớn mạnh.
+
+Đăng Doanh nhiều lần trực tiếp cầm quân vào đánh, nhưng không thắng nổi. Quan
+Lê triều do Nguyễn Kim chỉ duy dựa vào vùng rừng núi Thanh Hoá giáp với Lào để cố giữ và nuôi dưỡng lực lượng. Mùa xuân năm Quý Tỵ (1533) các cựu thần nhà Lê lập Lê Trang Tông lên ngôi vua tại Lào rồi sai sứ vượt biển sang nhà Minh cầu viện. Nhà Minh đưa quân sang đánh nhà Mạc. Trước t́nh h́nh đó, Mạc Đăng Dung liền sai người mang thư đến tỉnh Vân Nam giải thích lư do họ Mạc lên ngôi vua và bảo Lê Ninh chỉ là con của Nguyễn Kim mạo xưng họ Lê mà thôi. Thấy rơ đây là một cơ hội tiến đánh Đại Việt. Vua Minh sai tướng Cừu Loan đem một đạo quân lớn áp sát biên giới phía Bắc nước ta. Như vậy, nhà Mạc rơi vào thế bị ép từ hai mặt: Bắc là nhà Minh và Nam là nhà Lê. Tuy nhiên trong 10 năm cầm quyền của Đăng Doanh,
+triều Mạc đă làm  được khá nhiều việc mà
+sử nhà Lê sau này cũng ghi nhận.
+
+Đó là việc rất đều đặn cứ 3 năm một lần tổ chức các kỳ thi hội,
+thi đình để tuyển chọn nhân tài. Dưới triều Mạc nhiều trí thức có danh tiếng đă
+ra thi đỗđạt cao như Nguyễn Bỉnh Khiêm, Giác Hải, Nguyễn Thiến...Thời Mạc Đăng
+Doanh trị vì ít nhất có 10 năm đất nước khá bình yên: phía Bắc nhà Minh cũng
+chỉ có ý đe doạ, phía Nam quân đội trung hưng nhà Lê chưa đủ mạnh để đem quân
+ra Bắc. Đểdẹp bọn trộm cướp, Đăng Doanh đưa ra một kế sách hay, vua ra lệnh cấm
+dân chúng các sứ không được mang gươm giáo, dao nhọn và các đồ binh khí đi
+ngoài đường. Nếu kẻ nào trái lệnh, cho pháp ty bắt trị tội. Từ đấy, những người
+đi buôn bán chỉ đi tay không, không phải đem khí giới tự vệ. Trong khoảng mấy
+năm luôn thêm được mùa, trộm cắp biệt tăm, súc vật chăn nuôi tối đến không phải
+dồn vào chuồng, cứ mỗi tháng kiểm một lần, dân bốn trần đều được yên ổn.
+
+Đăng Doanh chỉ làm vua
+được 10 năm thì mất. Người kế nghiệp Đăng Doanh là Mạc Phúc Hải. Đăng Doanh có
+7 con trai, ngoài Phúc Hải được nối ngôi còn con thứ hai là Phúc Tư, phong là
+Ninh Vương, thứ 3 là Kính Điển phong Khiêm vương, thứ tư là Lư Tường, thứ 5 là
+Lư Hoà, thứ 6 là Hiệp Cung và thứ 7 là Đôn Nhượng, phong
+
+Bài 3. MẠC PHÚC HẢI
+
+Cuối đời Mạc Đăng Doanh,
+quan hệ với nhà Minh trở nên căng thẳng. Tình hình ở phía Nam
+cũng nguy cấp: quân đội Lê trung hưng sau 7 năm chiêu binh luyện mă đă đủ sức
+về đánh chiếm Nghệ An và hai năm sau năm Quí Măo (1543) đă kiểm soát được cả
+Tây Đô (Thanh Hoá). Mạc Đăng Dung phải trở lại Đông Kinh đưa cháu nội là Mạc
+Phúc Hải lên nối ngôi năm Tân Sửu (1541).
+
+Lúc này, ở Trung Quốc, Minh Thế Tông đem việc Nam chinh ra luận
+bàn, rất nhiều quan lại nhà Minh dâng sớ can vua mềm dẻo mà giải quyết việc
+biên giới phía Nam, rút bài học thất bại của các đời vua trước. Họ bộ thị lang
+Đường Trụ dâng sớ tŕnh bày 7 điều không nên đánh An Nam, cho rằng các thời vua
+trước chưa bao giờ thắng lợi ở An Nam kể từ Mă Viện đến Minh Thái Tông... Thị
+lang Phan Trân lại nói: "Mạc Đăng Dung cướp ngôi Lê cũng như Lê cướp ngôi
+Trần vậy; nếu Đăng Dung chịu dâng biểu nộp cống thì coi như được".
+
+Vua Thê Tông nhà Minh và lũ triều thần bàn đi bàn lại hàng tháng
+trời, rút cuộc vẫn muốn nối chí Minh Thành Tổ là chiếm nước Nam làm quận huyện
+như trước. Vua Minh cử Cừu Loan làm đô đốc, Mao Bá Ôn làm tham tán quân vụ phụ
+trách việc đánh dẹp, Hộ bộ thị lang và Cao Công Thiều đi đốc thúc quân lương ở
+các tỉnh Vân Nam, Quảng Đông, Quảng Tây. Quân xâm lược đang ngấp nghé ở biên
+thuỳ phía Bắc. Nguy cơ một cuộc chiến tranh rất bất lợi cho nhà Mạc là có thật.
+Nhưng Mạc Đăng Dung cũng biết được nội bộ triều Minh không nhất trí trong việc
+đánh An Nam. Qua viên tướng giữ châu Liêm là Trương Nhạc, vua Mạc biết là có
+thể thoát ra khỏi cuộc chiến tranh bằng giải pháp hoà b́nh. Các tham chính nhà
+Minh đ̣i Mạc Đăng Dung phải đích thân đến vửa quân, nộp đất dựng mốc, bỏ đế
+hiệu đă tiếm xưng và theo chính sóc (các ngày lễ mùng 1 và rằm hàng tháng, ngày
+đăng quang của nhà vua) và niên lịch của nhà Minh. Đó cũng là cái cớ để cho Cừu
+Loan và Mao Bá Ôn vốn ngại chinh chiến xuống phương Nam băi binh. Rút bài học
+từ cha con họ Hồ,
+
+Mạc Đăng Dung lúc này tuy đă nhường ngôi cho con tiếp sau là cháu,trở
+về sống cảnh điền viên ở Cổ Trai, vẫn phải chấp nhận yêu cầu trên: tự trói ḿnh
+trước phủ quân Minh ở trấn Nam Quan, trả lại 4 động, xin nội phụ... Ông già Mạc
+Đăng Dung mặc dù ḷng không muốn vẫn phải gắng sức cuối cùng chịu nổi nhục (khổ
+nhục kế) để con cháu ông tránh khỏi một cuộc chiến tranh khốc liệt mà chắc chắn
+là tốn rất nhiều năm xương máu của cả hai bên. Sau sự kiện quá sức đó, trở về
+Cổ Trai sống những ngày còn lại, chẳng bao lâu thì Mạc Đăng Dung mất, đó là một
+ngày thu tháng 8 năm Tân Sửu (1541). Như vậy Mạc Đăng Dung làm vua được 3 năm,
+làm Thái thượng hoàng 12 năm, thọ 59 tuổi. Ông có để lại di chúc: không làm đàn
+chay cúng phật, khuyên Phúc Hải phải nhanh chóng về kinh sư để trấn an nhân tâm
+và xă tắc là trọng.
+
+Tháng 10 năm ấy Mao Bá Ôn về đến Yên Kinh tâu với vua Minh việc
+Mạc Đăng Dung đă tự trói ḿnh dâng lễ hàng ở cửa ải, xin tuân theo chính sóc...
+Nếu xem Mạc Đăng Dung là kẻ có tội đầu hàng mà chưa có thể khinh suất cho tước
+và đất, thìhăy mong tha tội cho cháu là Phúc Hải... Còn như Lê Ninh tuy tự xưng
+là con cháu nhà Lê nhưng tung tích chưa rơ ràng... Thế là tháng 3 năm Nhâm Dần (1542)
+Mạc Đăng Dung làm An Nam đô thống sứ ty và một quả ấn bạc và cũng tháng 12 năm đó
+(1542) Mạc Phúc Hải lên trấn Nam Quan hội khám và nhận lịch đại thống của nhà
+Minh, một tờ đạo sắc phong nhà Minh lại phong cho Mạc Phúc Hải được tập tước
+của ông làm An Nam đô thống sứ ty
+
+Thời Mạc Phúc Hải, theo lời bàn của thiếu sư Mạc Ninh Bang đă tiến
+hành việc chia cấp lộc điền, đặc biệt ưu tiên binh sĩ - một lực lượng quân sự
+to lớn được nuôi dưỡng để chống lại Nam Triều.
+
+Trong khi đó, tại Nam Triều, quân binh do Lê Trang Tông tự làm
+tướng đă kéo ra Yên Mô (Ninh B́nh), Thái sư Hưng Quốc công Nguyễn Kim bị đánh
+thuốc độc chết đột ngột, quyền hành lọt vào tay con rể Nguyễn Kim là Trịnh
+Kiểm. Lực lượng phía Nam triều ngày càng được củng cố. Mạc Phúc Hải lại thường
+say mê hát xướng, thích chơi chọi gà, ít quan tâm đến triều chính, mọi mặt giảm
+sút. Song Phúc Hải làm vua không lâu. Ngày 8 tháng 5 năm Bính Ngọ (1546), Phúc
+Hải chết, ở ngôi 6 năm, về sau truy tôn là Hiến Tông Hiển hoàng đế.
+
+Bài 4. MẠC TUYÊN TÔN
+
+Phúc Nguyên là con trưởng của Phúc Hải, nối ngôi vào tháng 5 năm
+Bính Ngọ (1546). Vì vua mới nối ngôi c̣n nhỏ tuổi nên mội công việc triều chính
+do người chú là Khiêm vương Mạc Kính Điển quyết đoán. Nhưng triều Mạc đến đây
+đă bắt đầu lục đục. Nguyên do khi Phúc Hải mất, tướng nhà Mạc là Phạm Tử Nghi
+mưu lập Hoàng vương Chính Trung (là con thứ của Đăng Dung) lên làm vua,việc
+không thành, Mạc Phúc Nguyên sai Kính Điển và Nguyễn Kính đem quân đi bắt Chính
+Trung dời về xă Hoa Dương (xă Trác Dương, Hương Nhân, Thái B́nh), nhưng bị Tử
+Nghi đánh thua. Sau vì thế cô Tử Nghi đem Chính Trung ra chiếm người cướp của ở
+Quảng Đông, Quảng Tây, người Minh không thể kiềm chế được. Sau họ phải thu xếp
+cho Chính Trung an cư ở xứ Thanh Viễn, hàng năm cấp phát lương thực.
+
+VÌ lục đục nội bộ, Chính Trung ở đất Minh đem việc Nguyễn Kính
+chuyên quyền tâu lên Viện đốc phủ nhà Minh. Nhà Minh ngở Phúc Nguyên không phải
+là ḍng dơi nhà Mạc, đưa thư đ̣i khám xét. Vừa mới dẹp xong dư đảng của Tử Nghi
+ở Hải Dương, Mạc Kính Điển và Lê Bá Ly phải hộ tống Mạc Phúc Nguyên lên cửa
+Trấn Nam, dùng mọi lời lẽ thuyết phục, được quan chức Lưỡng Quảng bằng ḷng
+phong cho tập tước, đó là năm Kỷ Dậu (1549)...
+
+Sau sự kiện ấy có người dâng sớ khuyên Mạc Phúc Nguyên phải biết
+tự ḿnh trông coi chính sự vì đă lớn tuổi rồi. Dù vậy, Phúc Nguyên không đủ sức
+điều hành việc nước, phải nhờ cậy vào Lê Bá Ly. Năm Kỷ Dậu (1549), vua Mạc
+phong cho Lê Bá Ly làm Thái tể, Phụng Quốc công, từ đó Bá Ly trở thành người
+nắm giữ binh quyền và triều chính, uy thế ngày một lớn, con em trong nhà Bá Ly
+đều đảm nhiệm nhiều trọng trách lớn của triều đ́nh. Và mẫu thuẫn giữa các quần
+thần lại nổi lên; Phạm Quỳnh, Phạm Dao, cả hai cha con trước kia là tôi tớ Lê
+Bá Ly nay có chút vinh hiển lại ghen tức gièm pha. Mạc Phúc Nguyên đă tin theo
+Phạm Quỳnh,và thế là cha con Lê Bá Ly đem bộ tướng và quân gia hơn 1 vạn 4
+ngh́n người trốn vào Thanh Hoá xin hàng vua Lê. Từ đó, phần lớn mưu thần mănh
+tướng bỏ nhà Mạc chạy theo Lê. Thánh thế quân Trung Hưng ngày càng trở nên mạnh
+mẽ. Mạc Phúc Nguyên thấy vậy lấy làm lo sợ, trao hết binh quyền cho chú là Mạc
+Kính Điển, tự ḿnh rút về bảo vệ xứ miền Đông.
+
+Tháng 7 năm Đinh Tỵ, Mạc Phúc Nguyên sai Kính Điển đem quân vào
+đánh Thanh Hoá; Phạm Quỳnh, Phạm Dao đánh Nghệ An. Quân Mạc thua to. Mạc Kính
+Điển phải liều nhảy xuống sông, bơi vào ẩn nấp tại hang núi chịu đói chịu khát
+suốt 3 ngày, may gặp được một người đánh cá cứu sống. Thừa thắng quân Lê-Trịnh
+huy động hơn 5 vạn quân thuỷ bộ tổ chức cuộc tấn công ra Sơn Nam, nhưng bị
+thua, quân Trịnh tan vỡ, bỏ thuyền chạy bộ. Quân Mạc lại sai tướng chẹn lối về,
+quân Lê-Trịnh chết đến quá nửa, hàng chục viên tướng bị giết, thuyền bè khí
+giới bỏ lại vôkể.
+
+Đến năm Kỷ Mùi (1559) quân Lê-Trịnh lại mở cuộc tấn công ra Bắc,
+đánh phá các tỉnh hậu phương của Mạc như Sơn Tây, Tuyên Quang, Hưng Hoá, Kinh
+Bắc, Hải Dương... Mạc Phúc Nguyên phải rút vào pḥòng thủ, bên ngoài thành Thăng
+Long đóng đồn trại dọc phía Tây sông Nhị, dinh trại liên tiếp, thuyền bè nối
+nhau; ngày thì gióng trống báo tin, đêm thì đốt lửa làm hiệu. Bị quân Trịnh đánh
+trực tiếp vào các huyện Đông Triều, Giáp Sơn, Chí Linh, quân Mạc phải ra huyện
+Thanh Trì.
+
+Tháng 12 năm Tân Dậu (1561), giữa lúc cuộc chiến Trịnh-Mạc đang
+gay go quyết liệt nhất thì Mạc Phúc Nguyên chết vì bệnh đậu mùa. Ông vua
+Mạc trẻ này ở ngôi được 18 năm

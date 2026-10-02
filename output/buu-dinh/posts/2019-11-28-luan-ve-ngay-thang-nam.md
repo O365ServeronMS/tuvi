@@ -1,0 +1,154 @@
+---
+id: bd#3051187091795352238
+title: "Luận Về Ngày Tháng Năm"
+url: https://tuviungdung.blogspot.com/2019/11/luan-ve-ngay-thang-nam.html
+published: 2019-11-28T09:21:00.000+07:00
+updated: 2019-11-28T09:21:56.439+07:00
+labels: []
+---
+
+# Luận Về Ngày Tháng Năm
+
+Luận Về Ngày Tháng Năm.
+
+Với 1 số người ngày tháng năm có vẻ tầm thường trong trong mắt ai. Lại có 1 số người nghe nhắc đến ngày tháng năm là 1 ấn tượng không thể nào quên. Với họ, năm Ất Dậu khủng khiếp, năm Mậu Thân hãi hùng... Cứ thế, có người nghe năm Bính Thân là ngày tàn của cuộc đời. Năm Bính Tuất chó chết, năm Kỷ Hợi đáng ghét, và Canh Tý cũng thế thôi... Tất nhiên khối người các năm tháng ấy là niềm vui của họ, là sự hạnh phúc, là bước khởi đầu đánh dấu tốt đẹp... Một năm đầy vinh quang với người nầy, người khác lại là năm đầy cay đắng. Từ đó ta có những năm tháng không thể nào quên. 1911 Cách mạng Tân Hợi với người Hoa. 1914-1918 đệ nhất thế chiến. 1939-1945 đệ nhị thế chiến với những người trong cuộc...
+
+Vào trang Wiki, bên cạnh tên 1 nhân vật nào đó luôn luôn có con số năm sinh và năm mất. Tuy nhiên cũng có 1 số ít nhân vật không biết sinh năm nào, tháng nào chỉ có năm mất. Lại có người chỉ có năm sinh còn năm mất lại là 1 dấu hỏi.
+
+Trên báo chí thường thấy cụm từ. Ngày.. tháng ... năm ... Khởi tố vụ án... càng cao danh vọng lại càng tốn nhiều giấy mực. Đa phần người ta tò mò các nhân vật quan trọng hơn những người tầm thường.
+
+Thỉnh thoảng lại thấy thiệp hồng báo ngày... tháng... năm... Nhớ đi ăn cưới hỏi. Nhớ đi ăn mừng nhà mới, trong khi nhà mình xây từ vua Bảo Đại... Cho nên, với người nầy ngày tháng năm quan trọng. Với người khác mỗi ngày như mọi ngày. Mọi ngày ấy được bình yên là quý nhất.
+
+Vậy thì ngày tháng năm, các ngôi sao được gọi là chính tinh nầy thực tế rất quan trọng. Nó có thể là ngày vinh quang... đồng thời cũng là ngày cuối cùng của ai đó.
+
+Đó là các sao.
+
+THÁI DƯƠNG chủ ngày.
+
+THÁI ÂM chủ tháng, còn chủ đêm.
+
+THÁI TUẾ chủ năm.
+
+Trong Tử Vi chỉ có 3 ngôi sao nầy mang tên THÁI.
+
+Ngoài ra còn có sao thời kỳ là THIÊN CƠ. Ta chỉ đoán THIÊN CƠ là thời kỳ khi đi với sao ngày tháng năm. Thời kỳ tươi đẹp, thời kỳ đen tối...
+
+Thay vì nói ngày tháng, người ta dùng từ “mùa”. Ám chỉ thời kỳ, hoặc tháng ngày...
+
+Như; Mùa hè đỏ lửa, mùa xuân chiến thắng, mùa đông của cuộc đời, mùa thu ly biệt.
+
+Có 1 số người cung Mệnh có các sao ngày tháng, đa phần chỉ gặp tại Hạn.
+
+Nói đến “ngày” là cả 1 chủ đề bất tận, còn nói đến “đêm” hay “ ngày tháng"”càng không thể nói hết. Chỉ đề cập đến  1 vài ví dụ.
+
+Ngày ra đi
+
+Còn gọi là ngày lên đường, ngày khởi hành... Để đoán tình tiết này căn cứ vào các sao Ngày tháng năm, thời kỳ, phối hợp với 2 nhóm sao đi lại và chuyển động.
+
+Ra đi có nhiều lý do, mục đích. Đi thăm viếng, đi du lịch, đi du học, đi buốn bán, đi tìm vùng đất hứa... đến đi ra chiến trường, đi vào cõi chết, đi ra toà, đi trốn với nhiều lý do khác nhau... Ngày ra đi có thể huy hoàng, có thể công khai, có thể lén lút âm thầm như bóng ma biên giới... Và có trường hợp không thể nói rằng đi, phải nói chính xác là chạy. Vì đã gây quá nhiều tội ác, nào giết người, nào cướp giật, nào là ôm hụi, nào thâm hụt công quỹ... Khó mà mô tả hết hoàn cảnh của người chạy đi. Có người phải thay tên đổi họ. Thậm chí thay đổi cả giới tính. Đây là tình huống cần thiết phải thay tên đổi họ. Tự dưng thay tên đổi họ có giải quyết được cái gì đâu. Lừa Đảo đổi thành Lừa Gạt cũng vậy thôi.
+
+Ra đi, ai cũng mong đi đến nơi mình muốn. Có thể không bao giờ đến. Cái dễ gặp là đến nơi không mong đợi. May ra có người đến nơi mong muốn, tìm thấy ngày mai tươi sáng.`
+
+Ta lại thấy. Được đi, bị đi, bị ép buộc phải đi, bị đuổi đi, nghe lời xúi giục rồi đi... Đi công khai, đi trong lén lút, đi được nghênh đón... đến đi trong tủi nhục.
+
+Ta cũng không thể quên, đi với ai? Hoặc đi 1 mình. Ôm con lặng lẻ ra đi... đến công khai phản bội ra đi... để nước mắt cho người ở lại. Khủng khiếp nhất là hoàn cảnh chiến tranh lan rộng bỏ cửa bỏ nhà, bồng bế nhau chạy đi trong bối cảnh bom đạn rực trời. Lúc đó mới thấy 2 chữ bình yên mới quý làm sao. Còn 2 chữ hoà bình ngoài tầm mơ ước.
+
+Ngày trở về.
+
+Nếu có ngày ra đi tất có ngày trở về, thường là như thế. Sinh ra các từ ngày tái ngộ, ngày sum vầy gặp mặt, ngày hồi hương... Đoán chi tiết nầy căn cứ chuyển động về nơi chốn cũ.
+
+Ngày trở lại có thể trong lặng lẻ. Như thế là còn tí may mắn. Biết đâu “Anh trở về bằng chiếc băng ca”... Xấu số (cũng là sao THIÊN CƠ khi xấu) vùi thây nơi rừng sâu hay biển vắng. May mắn hơn là “Ngày trở về có anh thương binh chống nạng cầy bừa”...
+
+May mắn cho ai ngày trở về là ngày vinh quy bái tổ. Không phải dòng họ nào cũng vui mừng hưởng vinh hoa kề long dựa phượng. Ở đời muôn sự. Kẻ vinh quy có khi còn mạt sát tổ đường gì bé tí vậy. Lại có kẻ, khi vinh quang lại không vinh quy, hồi hương khi sa cơ thất thế. Có nghĩa là sao THIÊN CƠ cũng xấu và sao THẤT SÁT chuyển thành thất kinh. Cú hồi hương đem tai hoạ đến cả dòng tộc láng giềng...
+
+Đến kẻ đi xa về nhà nói khoác, cái tội đó còn nhẹ, đến lừa gạt người thân, láng giềng cũng có... Không thể nói hết các trường hợp và các tình huống của ngày trở về của mọi người.
+
+Có người bị trục xuất về, có người có TẢ PHÙ, HỮU BẬT dẫn độ về. Tất nhiên về quê hương thì có, về nhà cũ thì không.
+
+Ở Kampuchia có người công bố ngày về, không những náo loạn đất nước, còn náo loạn các nước lân bang. Nếu công khai như sao THÁI DƯƠNG không được, thì âm thầm như sao THÁI ÂM, bí mật như sao TỬ VI. Quan trọng là có thật tâm hay chỉ là chiêu trò.
+
+Ngày tháng đợi chờ.
+
+Nếu có người ra đi tất có người ở lại với ngày tháng đợi chờ... Có người vui mừng mong đợi 1 hồi âm, tất nhiên có người khổ đau vì biệt vô âm tín. Có người hãi hùng khi nghe tin dữ. Có người đợi chờ trong hy vọng, lại có người trong vô vọng. Mọi cái đều có thể. Ngày tháng đợi chờ. Đề tài được giới văn nghệ sĩ khai thác nhiều nhất.
+
+Ngày vui, ngày buồn...
+
+Các ngày hỉ sự, ăn mừng... đều là ngày vui cả. Quá dễ biết và dễ hiểu do đi với cát tinh, hỉ tinh. “Thấy sao thì mô tả vậy”. Đó là nguyên tắc của Tử Vi Ứng Dụng, cũng là lời thường nhắn nhủ với học viên.
+
+Có khi ngày vui biến thành ngày không vui là chuyện có thể gặp. Nếu gặp THIÊN KHÔNG đành nói rằng không. Gặp tam KHÔNG càng có nhiều cái không. Gặp tam Ám ngộ tam Minh vui cũng biến thành buồn... Y như, trời đẹp bỗng dưng mưa bão. Đành nhận xét, hôm nay trời mưa bão.
+
+Ngày vui có khi cũng ngắn ngủi.
+
+“Ngày vui ngắn chẳng đầy gang.
+
+Trông ra ác đã ngậm gương non đoài”... Kiều, Nguyễn Du
+
+Cũng như: “Ngày hợp hôn, nàng không đòi may áo cưới. Tôi mặc đồ quân nhân. Đôi giày đinh bết bùn lúc hành quân’... Ngày vui ngắn ngủi của đôi tình nhân, cũng là ngày vui ngắn ngủi của thi sĩ viết nên câu thơ nầy. Sau đấy đã chấp nhận những tháng ngày đen tối
+
+Nếu có ngày hợp hôn nhưng số phận lại viết ngày ly hôn, tất nhiên ngày ấy sẽ đến. Ngày ly hôn nàng đòi chia đôi chiếc Mercedes... Thế là tôi cưa ngay.
+
+Vui buồn cũng có nhiều cấp độ. Buồn, buồn quá, quá buồn, buồn chết đi được... Chẳng có phép mầu nào biến buồn làm vui, nếu có, là phép lừa gạt mà thôi. Có chăng là quên nó đi để sống, gạt nó qua 1 bên... Nhưng có người lại viết. “Người ơi! Khi cố quên là khi lòng nhớ thêm”...
+
+Có người sinh ra để khóc, có người sinh ra để cười. Đó là 1 sự thật. Có chức, có quyền con than thở
+
+“Kiếp sau xin chớ làm người”...
+
+Ngày đáo hạn
+
+Ngày đáo hạn là ngày tất toán của sổ tiết kiệm đem lại niềm vui đến 1 số người. Nhưng ngày đáo hạn ngân hàng đem lại tiếng khóc, tiếng thở dài cho người đi vay nợ ngân hàng. Bằng không sẽ biết ngày quá hạn kỳ là gì. Trong thuốc men, lương thực người ta gọi là ngày quá đate. Vì thế, ngày tháng năm rất ấn tượng với 1 số người. Lỡ dại vay nóng của bọn cho vay nặng lãi. Thế là biết chiến tranh tầm vi mô như thế nào. Cho nên có nhiều chuyện lạ lùng. Thế chiên, đại chiến vẫn có người bình yên như cái vại. Thế giới, đất nước hoà bình vẫn có người có chiến tranh. Đã là số phận khó mà thay đổi.
+
+Ngày hành động, ngày quyết định...
+
+Ngày N giờ G hãy hành động, tổng khởi nghĩa... Đây là chi tiết thường gặp trong quân sự. Đó là ngày hành quân, tấn công vào mục tiêu. Từ đó ta có ngày định mệnh, có khi thắng tất có khi thua ôm đầu máu. Lại ngày N giờ G lần nữa, cứ thế cuộc chơi lại tiếp tục.
+
+Với doanh nghiệp là ngày khởi nghiệp. Tất nhiên khi khởi lên làm ầm ầm thành công cũng có, lặng lẻ âm thầm rút lui hồi nào không ai biết cũng có. Éo le là cơ quan chức năng yêu cầu công ty Lừa dẹp. Nếu có ngày khai sinh dễ thấy ngày khai tử. Y như con người, các công ty chết hồi nào không ai hay.
+
+Với thường dân dễ gặp là ngày quyết định. “Ra giêng anh cưới em”... “Đám cưới thường tổ chức cuối năm”. Đên cuối năm lại “Ra giêng anh cưới em, năm rộng tháng dài mà em”.
+
+Ngày lành tháng tốt.
+
+Bên Tàu thường coi ngày lành tháng tốt mới xuất quân. Nhưng có điều lạ kỳ xuất quân đánh nước ta lần nào cũng thua. Cho đến quân Kim, quân Mông Cổ, quân Thanh xâm lược mặc kệ không chịu đánh vì chưa có ngày lành tháng tốt. Bây giờ lại nghe hăm he Đài Loan, rút kinh nghiệm cha ông để lại. Thế nào cũng chọn ngày hung tháng xấu để đánh.
+
+Vậy, có hay không ngày lành tháng tốt?
+
+Căn cứ vào TỬ VI ta có. Bộ ÂM DƯƠNG LƯƠNG tốt đẹp là ngày lành tháng tốt. Vì sao THIÊN LƯƠNG chủ sự tốt lành. Còn ÂM DƯƠNG là bộ sao ngày tháng. Nếu có bộ ÂM DƯƠNG LƯƠNG tốt tất có bộ ÂM DƯƠNG LƯƠNG từ xấu đến xấu khủng khiếp là điều có thật. Cho nên có ngày lành tháng tốt với 1 số người và ngày xấu tháng hung với 1 số người.
+
+Chuyện ngày lành tháng tốt với tất cả mọi người trên thế gian là chuyện bịa đặt.
+
+Ngày nào mà chẳng có kẻ xung đột mâu thuẫn đưa đến đánh nhau. Trong quân sự có đến cả tiểu đoàn, trung đoàn, sư đoàn... được gọi mỹ danh là hành quân.  Ngày nào mà chẳng có tai nạn xe cộ, kẻ thì thuỷ tai, kẻ thì hoả tai, kẻ thì mất của... không thiếu những người bộc phát trọng bệnh. Người viết tin rằng; chẳng có ngày nào bình yên cả. Ngày Tết, ngày lễ lại là ngày nhiều tai nạn hơn.
+
+Và người viết tin rằng; ngày nào cũng có người trúng số phát tài. (Do thấy ngày nào cũng có xổ số, không giải lao ngày nào), có người trúng mánh, có người tìm được người mình thương yêu... Thôi thì đủ cả. Có người mất của, tất có người được của. Bạn mất xe cho là ngày xấu, thắng ăn cắp cho là ngày hên được của. Tóm lại chẳng có ngày lành tháng tháng tốt chung cho tất cả mọi người.
+
+Đến quốc gia. Nếu có ngày vui là quốc khánh. Ngày xưa nước ta gọi là ngày Hưng quốc khánh niệm. Trái ngược là ngày quốc tang, đau đớn nhất là ngày quốc hận. Nhục nhã là ngày quốc nhục. Ta lại có câu vè để lại.
+
+“Từ ngày thất thủ kinh đô.
+
+Ông Tây sang giăng dây thép bản địa đồ nước Nam”.
+
+Người sinh ra có năm sinh, năm mất. Không ai tránh được ngày tàn cuộc đời, ngày xa lìa nhân thế. Âm dương thôi đành cách biệt. Hãy cố gắng tránh ngày đền tội, ngày phán xét khi mất đi không có tiếng xầm xì... Kẻ tốt để lại thương tiếc trong lòng mọi người. Kẻ xấu bị nguyền rủa, chuyện xưa nay vẫn thế.
+
+Ngay đến một chế độ, một triều đại cũng có ngày tàn, cũng năm ấy lại khai sinh một chế độ mới, triều đại mới.
+
+Đến đây bộ ÂM DƯƠNG chủ ngày tháng là 1 nhóm sao quan trọng. Nó là chính tinh nên quan trọng như các chính tinh khác. Bộ ÂM DƯƠNG còn chủ.
+
+Trai gái, nam nữ... đoán về giới tính.
+
+Âm thầm và công khai đoán về tính cách, tai hoạ
+
+Âm phần và dương cơ đoán về cơ nghiệp.
+
+Âm vật và dương vật đoán về cơ thể
+
+Âm thanh dậy lên đoán về vui buồn, thành công...
+
+Đó là lý do cần đi với hỉ tinh, cát tinh.
+
+Không phải vô cớ người xưa viết.
+
+ÂM DƯƠNG hữu XƯƠNG KHÚC nhi đắc lực.
+
+Nhưng đắc lực đến đâu còn tuỳ cát tinh hỗ trợ.
+
+NHẬT NGUYỆT ngộ KHÔI VIỆT dị thành công...
+
+Và ÂM DƯƠNG, THIÊN CƠ, THÁI TUẾ các sao chủ ngày tháng, thời kỳ. Nói chung là thời gian. Thời gian là thứ mất đi không bao giờ tìm lại được. Quỹ thời qian là cái quỹ càng ngày càng ít đi của 1 đời người. Không phải vô cớ người ta phóng đại “Thời gian là tiền bạc”. Có tiền cũng không mua được thời gian. Người tốt, không nên làm lãng phí thời gian của người khác. Người xấu lãng phí thời gian đọc, xem, chơi... những cái vô bổ. Chưa kể còn quậy phá thời gian của kẻ khác. Mong sao, nhất là học viên Tử Vi Ứng Dụng  sử dụng tốt quỹ thời gian của mình. Vì như đã nói. Đó là thứ mất đi không bao giờ tìm lại được. Đó là thứ cho đi nhưng người nhận lại không thấy.

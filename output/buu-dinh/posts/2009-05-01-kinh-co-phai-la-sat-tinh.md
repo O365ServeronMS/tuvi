@@ -1,0 +1,1063 @@
+---
+id: bd#4532129779908197174
+title: "KÌNH ĐÀ CÓ PHẢI LÀ SÁT TINH?"
+url: https://tuviungdung.blogspot.com/2009/05/kinh-co-phai-la-sat-tinh.html
+published: 2009-05-01T12:22:00.000+07:00
+updated: 2015-05-22T19:07:34.902+07:00
+labels: []
+---
+
+# KÌNH ĐÀ CÓ PHẢI LÀ SÁT TINH?
+
+Bài viết ngày 1 tháng 5 của Bửu Đình
+
+KÌNH DƯƠNG luôn đứng trước LỘC TỒN. ĐÀ LA luôn đứng sau LỘC TỒN. Do đó  KÌNH không đóng các cung Dần Thân Tị Hợi, ĐÀ không đóng các cung Tý Ngọ  Mão Dậu.
+
+KÌNH DƯƠNG, ĐÀ LA gọi tắt là bộ KÌNH ĐÀ. KÌNH còn được gọi là NHẬN, NHẪN, DƯƠNG NHẬN hoặc DƯƠNG NHẪN bị xếp vào nhóm SÁT TINH. Bài viết hôm nay nhằm chứng minh KÌNH ĐÀ không nên gọi là Sát Tinh.
+
+Đối với nam ĐÀ luôn luôn nhị hợp, lục hội với bộ Binh Tướng.
+
+Đối với nữ ĐÀ luôn luôn nhị hợp, lục hội với bộ Thanh Phù.
+
+Đối với nam KÌNH luôn luôn nhị hợp, lục hội với bộ Liêm Sỉ (BÁC SỸ, PHI LIÊM) hoặc bộ Thanh Phù.
+
+Đối với nữ KÌNH luôn luôn nhị hợp, lục hội với bộ Binh Tướng, hoặc Liêm Sỹ.
+
+**PHÂN LOẠI KÌNH ĐÀ**:
+
+Nếu không loại 2 sao nầy ta sẽ gặp khó khăn khi luận đoán. KÌNH ĐÀ đi với các sao hàng chi
+
+* Có THÁI TUẾ đồng cung hay tam hợp. Gọi là KÌNH THÁI (ĐÀ THÁI) thiên về thái độ chống đối…
+
+* Có THIÊN HƯ TUẾ PHÁ đồng cung hay tam hợp. Gọi là KÌNH HƯ (ĐÀ HƯ) thiên về chống đỡ với khó khăn hoàn cảnh, công việc.
+
+Nếu có KÌNH THÁI tất ĐÀ lại gặp HƯ và ngược lại.(tức ĐÀ THÁI, KÌNH HƯ). Chú ý trường hợp KÌNH, ĐÀ có PHƯỢNG CÁT.
+
+* Có ĐÀO HOA KIẾP SÁT đồng cung hay tam hợp. KÌNH ĐÀO (ĐÀ ĐÀO) thiên về tranh giành, vui mừng, đắc ý…
+
+* Có THIÊN HỈ đồng cung hay tam hợp. KÌNH HỈ (ĐÀ HỈ) thiên về vui mừng hãnh diện, đắc ý, khen ngợi…
+
+Nếu có KÌNH ĐÀO KIẾP tất có ĐÀ HỈ và ngược lại. Chú ý KÌNH ĐÀ có KIẾP SÁT.
+
+* Có HỒNG LOAN đồng cung hay tam hợp KÌNH HỒNG (ĐÀ HỒNG) thiên về dâm tính, ồn ào... Nếu có KÌNH HỒNG tất gặp ĐÀ HỈ.
+
+Bốn nhóm đó lại nằm trong 2 bộ cơ bản là ĐÀ LỰC SỸ, hoặc KÌNH LỰC SỸ và ĐÀ QUAN PHỦ hoặc KÌNH QUAN PHỦ. Có nghĩa khi có ĐÀ LỰC tất có KÌNH PHỦ. Khi có KÌNH LỰC tất có ĐÀ PHỦ.
+
+Nếu phân loại tỉ mỉ ta có 30 dạng KÌNH ĐÀ khác nhau. Đơn giản hóa và dễ hiểu ta có 4 dạng KÌNH ĐÀ. Chú ý trong 4 dạng đó có hay không có PHƯỢNG CÁC và KHÔI VIỆT.
+
+Và để hiểu rõ KÌNH ĐÀ là gì? Người viết đã từng viết bài mở đầu ‘Chống ai? Theo ai?’, và ‘Nhịp đời qua lá số’, ‘Hồn lỡ sa vào đôi mắt em’. Đó là bài viết có tính chất làm quen, mở đường xông trận.
+
+**LUẬN ĐOÁN CÁC CHI TIẾT SAU**:
+
+**KÌNH chủ: DẬY LÊN, PHẤT LÊN, DƯƠNG LÊN, TĂNG LÊN, DỰNG LÊN, THĂNG, ĐƯA LÊN…ĐÀ chủ: HẠ XUỐNG, ĐƯA XUỐNG, THẤP XUỐNG, GIẢM XUỐNG, HẠ, ĐƯA XUỐNG**…
+
+**Nhịp đời qua lá số** là đây. Từ KÌNH cuộc đời đi lên, qua LỘC TỒN chủ tồn tại, đến ĐÀ đi xuống, thấy PHỤC BINH hồi phục lại, ta lại gặp lại KÌNH rồi lại đi lên. Đó là chu kỳ nghịch. Chu kỳ thuận là từ ĐÀ cuộc đời dưới thấp (như hạ lưu trong xã hội) tồn tại với LỘC TỒN, rồi vươn lên khi có KÌNH thấy PHỤC BINH  quay về điềm cũ, và cứ thế lại tiếp tục. Đó là hình ‘Sin’ trong toán học nhưng biên độ không điều đặn.
+
+Còn là câu đố hóc búa. Thấy Dương mà lên không nổi, thấy Xuống đắc ý ngồi lỳ… Có thế mà sinh ra 2 chữ luận đoán. Có thế, giới bói toán ‘ăn ốc nói mò’ nhưng trước tiên nói mò phải có cơ sở dữ liệu rồi hãy nói. Từ đây khi nghe các cụm từ như ‘Cuộc đời lên bỗng xuống trầm của ca sỹ (võ sỹ, văn sỹ…)… hoặc lên voi xuống chó, ông ấy mới lên nhậm chức chẳng bao lâu đã từ chức rồi... tức là người ta bàn đến KÌNH ĐÀ với những gì người ta thấy.
+
+Và quan trọng là có lên thật không? Chắc gì thấy KÌNH mà lên? Cái gì lên? Lên chắc gì đã tốt, khi áp suất máu (hoặc thân nhiệt) đang tăng lại thêm KÌNH lên, có mà lên thiên đàng. Đang bay ai cũng mong xuống, lên xe mong lại xuống xe… Khi ở dưới thì cứ tranh giành lên cho bằng được, khi xuống lại tranh nhau đi xuống. Cũng lập luận như vậy với ĐÀ.
+
+Lên xuống chỉ là nét đan thanh về KÌNH ĐÀ. Khi nghiên cứu trong đầu luôn luôn tự hỏi cái gì lên xuống vậy ta? Lòng ham muốn nổi lên? Dâm à? Ham muốn trổ tài à? Ham muốn quyền lực à? Đến cao trào chưa? Ngưỡng cửa chịu đưng?...
+
+**Lên Tốt Xấu**: Lên tốt là lên nhà, lên lương, lên cấp, lên trên đầu thiên hạ mà ngồi, lên đời… đời lên hương, tìm kiếm hương hoa để xác nhận. Lên tốt là được nâng lên, nâng đỡ lên, phong chức, phong danh. Xấu là đưa lên để nhắm bắn, là lên thiên đàng gặp thiên thần đến nói nhỏ: ‘Thiên đường chính là hạ giới đó, ở đây chỉ có ảo giác mà thôi’. Ví như bạn tặng tôi một tách cà phê ảo vậy.
+
+**Xuống Tốt Xấu**: Xuống cũng tốt, xong việc ai cũng mong xuống, lên mạng làm việc xong cũng mong xuống. Tai họa đang dâng cao như nước, như lửa, như chiến tranh, như cơn bịnh trong người… Ai cũng mong tai họa ấy xuống thấp nhất. Khi rời địa vị không để lại hậu quả nghiêm trọng, hạ cánh được an toàn, mất an toàn là bị lôi ra lại. Khi xuống tốt là sự đắc ý tự mãn đã hoàn thành nhiệm vụ ra về được kẻ đợi người đón. Xấu là bị hạ bệ, bị đạp xuống, bị thòng xuống huyệt chôn vùi đi… ngơ ngác gặp Diêm Vương nói: Xuống chi vậy, trần gian của mi là địa ngục đó. Đây chỉ là ảo tưởng mà thôi.
+
+**ĐÓN ĐƯA, NGHÊNH ĐÓN, ĐƯA TIỄN**…
+
+“Còn duyên kẻ đón người đưa. Hết duyên đi sớm về trưa một mình”. Ai làm Đình nầy hết duyên vây? Để đến hôm nay đi chẳng ai mong, đến chẳng ai đón, về chẳng ai chờ… Từ đón đưa, ta đoán được một số người có công việc chủ yếu đón đưa, tiếp khách như hướng dẫn viên du lịch, tiếp tân… Các chiến binh, khách của họ là đối thủ, đón đưa trọng vọng quá dễ có đi không về, tất nhiên khách của họ và chính họ đầy mình súng đạn hỏa khí (HỎA LINH KÌNH HÌNH). Chiến binh không chơi nữa đi về, họ cũng theo đưa tiễn, để chứng tỏ là hiếu khách. Trong tình cảm sự đón đưa chứng tỏ mình được trọng vọng hay không, mình còn lôi cuốn được hay không. Từ đón đưa ta còn đoán được đưa dâu, đón dâu trong hỉ sự, hay cuộc chia tay với ai đó trong buồn vui. Như:
+
+“Tôi tiển anh lên đường trời hôm nay mưa nhiều quá, mưa thấm ướt vai gầy, mưa xé buốt con tim…” Đưa tiển là đề tài muôn thuở được khai thác nhiều nhất. Nguyễn Du viết:
+
+“Chén đưa nhớ buổi hôm nay.
+
+Chén mừng xin đợi ngày này năm sau…”.
+
+Hoặc là
+
+ “ Người lên ngựa kẻ chia bào.
+
+Rừng phong thu đã nhuốm màu quan san.
+
+Người về chiếc bóng năm canh.
+
+Kẻ đi muôn dặm một mình xa xôi.
+
+Vầng trăng ai xẻ làm đôi.
+
+Nửa in gối chiếc, nửa soi dặm đường…”
+
+Và bây giờ chắc bạn không còn thắc mắc nghi ngờ gì LỰC SỸ là kẻ đợi chờ, đi với ĐÀ là ngội đợi, đi với KÌNH là kẻ đứng trông. Chỉ có trên TỬ VI Ứng Dụng mới có những điều lỳ lạ nầy mà thôi. Cảm hứng tại chỗ.
+
+“ĐÀ lẻo đẽo đi sau đưa tiễn
+
+Còn KÌNH DƯƠNG trân trọng đứng chờ”
+
+**TRƯỚC SAU, PHÍA TRƯỚC, PHÍA SAU, TIỀN HẬU, THƯỢNG HẠ, TRƯỞNG THỨ, THẤP CAO**…
+
+KìNH chủ trước, phía trước, đến trước, đi trước, tiền phương… Còn ĐÀ chủ sau, phía sau, đến sau, đi sau, hậu phương…
+
+Quan niệm thông thường đi trước oai hơn, quan trọng hơn, vinh dự hơn. Điều đáng nói ở đây nên căn cứ vào vị trí sao nào tốt để quyết đoán. Vì các nhân vật quan trọng trong các buổi họp thường đến sau, khi di chuyển cũng vậy, mô tô mở đường đi trước. Trong quân sự cũng vậy, quân đi trước là cái quân sẵn sàng hy sinh, cho cánh quân quan trọng đi sau.. Vị trí hay nhất là có cả trước lẫn sau. Có cả KÌNH và ĐÀ hội họp. Khi cần trước, có trước. Khi cần đi sau, thì đi sau. Lời tục thường nói “Ăn ở có trước, có sau”. Có trước mà không có sau coi bộ không hay mấy.
+
+“Ăn cỗ đi trước, lội nước theo sau” là hành động của kẻ khôn ngoan. Cái gì nguy hiểm ở phía sau là hay nhất. Nhưng trong thực tế chưa chắc đã đúng vì: “nhưng không chết người  trai khói lửa, mà chết người em gái nhỏ hậu phương”. Đoàn tiền quân với khi thế sẵn sàng địch không dám đánh, lại nhắm vào đơn vị hậu quân lè phè, coi thường… Vậy thì KÌNH, ĐÀ sao nào ngộ KIẾP, cái nguy cơ nằm về phía ấy.
+
+Trong cuộc tình cũng vậy, người đến cuối cùng là người phối ngẫu đầu tiên. Kẻ đến đầu tiên chỉ còn lại kỷ niệm mà thôi. Từ đó KÌNH ĐÀ còn chủ lợi hơn và thua thiệt.
+
+Đa phần kẻ đi trước có phần ưu tiên hơn, lợi thế hơn nhưng điều quan trọng không phải trước hay sau. Ta nên đánh giá tùy tùy thuộc vào Hung, Cát tinh tụ tập tại đấy mà luận đoán. Thực tế ta dễ gặp, trước cũng tệ mà sau cũng chẳng hay ho gì. Từ những yếu tố đó, bộ sao nầy còn dùng để luận đoán:
+
+* Chủ TRÌNH ĐỘ. Với các yếu tố trên dưới… từ đó bộ sao nầy chỉ trình độ trong nghiệp vụ, kiến thức, địa vị trong xã hội. ..
+
+* CƯ XỬ: Chủ hơn thua, tranh giành lôi kéo.
+
+* DÁNG VÓC: Trong cơ thể chỉ dáng vóc thấp cao. KÌNH thiên về cao, ĐÀ thiên về thấp. Nhưng đừng vì 2 chữ thấp cao về vóc dáng không đúng rồi hoang mang, vì trong đó còn là trình độ, văn hóa cư xử… ông A là người có vóc dáng nhỏ bé nhưng ông ấy trình độ học vấn cao, hành động cao thượng, danh chức cao. Vì KÌNH còn chủ trưởng và ĐÀ chủ thứ. Như trưởng nam, trưởng nữ…Ví dụ: ‘Nó là thứ nam của tôi đó’…
+
+KÌNH ĐÀ chỉ cho thấy tiền vận, hậu vận tùy thuộc vào Hung Cát tinh để đoán, chứ đâu phải TUẦN TRIỆT. Tại sao ai đó lại đề ra trước là TRIỆT sau là TUẦN, gieo rắc 30 năm đầu TRIỆT làm việc, 30 năm sau TUẦN làm việc. Chà TRIỆT về hưu sớm nhỉ? Còn TUẦN 30 năm sau mới chịu học hành.
+
+“Tiền cát hậu hung”, “Tiền hung hậu cát”. Hãy nhìn vào KÌNH ĐÀ mà luận. Nếu thấy KÌNH gặp nhiều hung tinh tất tiền vận gặp nhiều khó khăn, ĐÀ xa lánh KỴ HÌNH KHÔNG KIẾP càng cao tuổi càng thong dong và ngược lại.
+
+“Già rồi lo hậu sự về sau chưa?”. “Nhờ anh coi hậu vận như thế nào?”…  Đó là câu thường nghe. Vậy thì hậu sự, hậu vận… là gì chưa biết, cả gan chấm TỬ VI thật liều mạng.
+
+**LỢI HƠN và THUA THIỆT, HƠN THUA, THẮNG THUA**…:
+
+* KÌNH DƯƠNG chủ sự hơn như nhiều hơn, to hơn, phần ấy nhiều hơn, nhiều tiền hơn…
+
+ĐÀ LA chủ sự kém hơn, nhỏ hơn một tí, phần ấy nhỏ hơn, kém tiền hơn…
+
+Phần lợi hơn là KÌNH, phần thua thiệt là ĐÀ.
+
+* Điều đáng nói là KÌNH DƯƠNG sẵn sàng tranh chấp phần hơn còn ĐÀ LA chấp nhận sự thua thiệt đó. Vì vậy KÌNH là ngôi sao tranh giành, đua đòi sau nầy ta sẽ biết.
+
+Bộ KÌNH ĐÀ phối hợp với KHÔI VIỆT cách KÌNH KHÔI hơn hẳn cách ĐÀ VIỆT rất nhiều.
+
+*Khi tốt là KÌNH là kẻ thắng cuộc về đích trước. Kình xấu là nghênh ngang, nghênh ngáo… và còn nhiều yếu tố nữa.
+
+* Khi tốt ĐÀ là kẻ tự mãn tuy có phần thua thiệt một tí. Khi xấu là bị đè, bị ép, bị đạp xuống dưới bùn đen xã hội.
+
+**KÌNH chủ sớm, trước. ĐÀ chủ muộn, trễ**…
+
+KÌNH chủ sớm, trước, kẻ đến trước, nhất là khi có HỈ THẦN.
+
+ĐẦ chủ muộn màn, trễ kẻ đến sau.
+
+Đó là phần lý thuyết. Trước chưa chắc đã tốt, sau chưa hẳn kém hay. Tùy Hung, Cát tinh hội họp mới quyết đoán.
+
+Có vợ sớm, có con muộn. Công danh sớm, muộn...
+
+Có nhiều cái sớm rất hay và có nhiều cái muộn mới hay. Ví dụ: Chết sớm không ai mong, yêu sớm chắc thân nhân không hài lòng. Và những phần về sau ta sẽ biết. Vì sao ĐÀ muộn và ai đó nếu thấy mình sớm nhưng nào thấy có sớm đâu, cũng đừng hoang mang vội làm gì, vì cái tội quá sớm. À mầy đi học quá sớm chắc là đi chơi rồi, thế là đập cho một trận hóa ra trễ tràng. Thế là từ sớm đâm ra muộn.
+
+ĐÀ chủ trễ có vẻ như thiệt thòi nhưng quan trọng có cát tinh hay không? Biết bao cái nhờ trễ, nhờ muộn mà tránh được tai họa. Đúng là ăn cỗ đi trước, tôi tới muộn khỏi ăn, và những người đó nhập viện còn tôi không. Vậy sớm chắc gì đã hay, muộn chắc gì đã tệ.
+
+**KÌNH CHỦ NỔI...ĐÀ CHỦ CHÌM**…
+
+* Chìm nổi mà ta thấy được như chiếc tàu nổi, chiếc cầu chìm. Một phần chiếc tàu luôn luôn nổi và phần còn lại là chìm dưới làn nước. ĐÀ chịu phần thua thiệt để KÌNH nổi lên khoe với đời. Cũng như biết bao nhiêu người chịu chìm sau sân khấu để diễn viên vài người trình diễn, một xướng ngôn viên truyền hình xinh đẹp ngồi đọc bài viết cho chúng ta xem, biết bao nhiêu con người phục vụ cho họ, chúng ta chỉ thấy 1 người mà thôi. Kẻ chìm đi để người kia được nổi. Để có những dòng chữ nổi lên đây, giờ đây bạn đang đọc đó, đã từng chìm sâu trong suy nghĩ không biết bao nhiêu năm trường.
+
+Chìm nổi ta có thể thấy được, sờ được, ghi hình được là nhà cửa.
+
+Chìm nổi ta cảm nhận được nổi đau đớn là ung nhọt trong thân thể.
+
+Chìm nổi ta hiểu được như cuộc đời chìm nổi của ca sĩ X, danh tướng Y...Ngoài ra còn chỉ cụ thể như: Nổi loạn, nổi danh, nổi dâm…. Cuộc đời ba chìm bảy nổi, KÌNH chủ nổi, lên, thăng, thượng...
+
+ĐÀ chủ chìm xuống, giáng, hạ....
+
+Nhưng chỉ có lên mà không có xuống coi bộ không hay, chỉ có xuống mà không có lên coi bộ cũng không được. Ví dụ: xuống biển, xuống tàu tất mong được lại lên bờ. Lên máy bay tất có lúc mong đi xuống, bộ muốn lên thiên đàng sao? Đi xuống mà không thấy đi lên là xuống địa ngục, hạ thổ.
+
+**KÌNH khen ngợi, tán dương, dương danh. ĐÀ đắc ý, tự mãn**.
+
+Khi tốt KÌNH ĐÀ chủ ngợi khen tán thưởng, tán dương hay nhất là có PHƯỢNG CÁC ngưỡng mộ hoặc có HỒNG ĐÀO vui mừng la lớn. Thế là KÌNH ngẩng mặt nhận huy chương, bằng khen, ĐÀ LA rung đùi tự mãn.
+
+**Hấp dẫn lôi cuốn và Khuyến khích**.
+
+Một ĐÀ LA tốt là vô cùng hấp dẫn người khác. Một KÌNH DƯƠNG hay là vỗ tay tán thưởng, là sự khuyến khích. Xem kìa cô ta hấp dẫn. Cái nầy đáng khuyến khích con cái nên xem… Nhiều ví dụ để mượn đó mô tả bộ sao nầy. Dĩ nhiên bộ sao ấy đi với Cát tinh, đi với hỉ tinh. Nếu đi với dâm tinh lại phải đoán khác. Đi với KỴ HÌNH tinh đoán khác. Đi với ngôi sao tình yêu đoán khác…
+
+Cái gì hấp dẫn lôi cuốn thế? Thân thể con người ấy. Văn chương của người ấy. Cửa hàng của người ấy… Từ đó ĐÀ là nổi đam mê, KÌNH là sự khêu gợi. Cuốn hút chúng ta vào đó.
+
+**Cứng rắn và mềm yếu**.
+
+KÌNH chủ cứng rắn cương cường, mạnh thẳng như cây kiếm, cây giáo, cây thương…
+
+ĐÀ chủ mềm yếu, yếu lòng, mủi lòng… nhưng có lúc ĐÀ còn là lực nén của cánh cung, là cái lò xo chịu lực và nó phản lực trở lại, nói lên quyết tâm cao của ĐÀ là hạ quyết tâm, hạ thủ. Nhìn chung KÌNH là kẻ cứng rắn, cương quyết trong một số trường hợp phải đoán đoán là cứng đầu, cứng cổ là ương nghạnh, là ngông nghênh, ngông cuồng.
+
+KÌNH như Karatedo. Đà như Nhu đạo. Không phải bao giờ nhu cũng thắng cương, nhược thắng cường, tùy tình hình cụ thể để luận đoán. Không phải bao giờ cứng rắn cũng hay, cũng như mềm yếu lại được.
+
+**Nhẫn Nhịn và Nhu Nhược**.
+
+KÌNH còn là ngôi sao nhẫn nhịn, chịu nhục nuốt hận vào trong. ĐÀ LA chủ sự nhu nhược. Không phải vô cớ người Hoa viết chữ nhẫn với bộ Đao và bộ Tâm ra chữ nhẫn, tức là trong lòng có mũi dao nhọn. Chẳng qua là ta nhin mà thôi. Vì:
+
+“Một sự nhịn chín sự lành. Huống chi trăm nhịn thái bình như không”. Một khi KÌNH DƯƠNG không còn đủ kiên nhẫn thì ĐÀ LA hạ quyết tâm cao. Hai chữ hạ thủ thay thế bằng chữ nhu nhược. KÌNH DƯƠNG lại bung trở ra cứng rắn như ban đầu.
+
+Cuộc đời có nhiều minh chứng cho thấy. Không nên ép ai thái quá sẽ bị phản lực trở lại. Cho dù bạo quyền như Tần Thủy Hoàng đốt sách chôn học trò, thì sách xưa vẫn còn đó, kẻ sỹ vẫn còn đây. KÌNH DƯƠNG vẫn oai hùng, ĐÀ LA vẫn tự mãn.
+
+**KÌNH chủ công, chống, tấn công ĐÀ chủ thủ, phòng ngừa, phòng bị, phòng thủ, phòng vệ.**
+
+ĐÀ chủ đề phòng, KÌNH chủ chống. Phối hợp nhịp nhàng với bộ TUẦN TRIỆT chủ phòng trừ. ĐÀ là nơi ta phòng bị rất chặt chẻ, cao hơn cả TUẦN vì TUẦN nhìn bao quát quá lớn. Cũng như khi nói: Ở nhà trông chừng nhà nghe chưa? Trông chừng đó là TUẦN, nhưng ta chỉ đề phòng cái cửa ra vào thôi, đó là ĐÀ.
+
+KÌNH chủ chống. Như chống sâu bệnh hại lúa, chống mù chữ, chống giặc ngoại xâm... Trong trường hợp nầy KÌNH hợp với TRIỆT.. Bộ KÌNH TRIỆT giá trị như triệt để chống...
+
+ĐÀ chủ phòng. Như phòng ngừa sâu bệnh, phòng tái mù chữ, phòng giặc ngoại bang... Trong trường hợp  nầy ĐÀ hợp với TUẦN. Bộ ĐÀ TUẦN tính phòng ngừa rất mạnh mẽ.
+
+Xét về lý ĐÀ hay hơn KÌNH ở điểm nầy. Phòng giặc hơn là chống giặc. Phòng người hơn là chống người. Ví dụ: Nếu biết nó nguy hiểm ta đề phòng trước, không giao du tiếp xúc... Nhưng hay nhất vẫn là biết cả phòng lẫn chống. Phòng ngự mãi đối phương tấn công tất có lúc lọt lưới.
+
+Bạn chú ý bài viết nầy còn dài… ngày mai sẽ tiếp tục viết tiếp tại đây. Không mở thêm đầu đề mới. Nhưng trước mắt ngày mai lại bận đám cưới. Còn bây giờ lại bận chuyện khác,
+
+**Phần hai.**
+
+Viết ngày 3.5.2009.
+
+**Khó Khăn và Trở Ngại. Chông gai và dây dợ**…
+
+KÌNH chủ sự khó khăn, chông gai, chướng ngại vật, chướng tai gai mắt, mũi nhọn trước mắt… làm cho ta khó chịu muốn nhổ phức, bẻ gãy nó đi. Sự khó khăn đó có khi thấy được, sờ được nhưng có khi lại chỉ cảm nhận được như những lời nói khó nghe… đến thấy được như biển lớn khó lòng vượt qua được.
+
+ĐÀ chủ sự cản trở, sự trở ngại, dây nhợ, vướng víu, vật cản, sự ràng buộc về gia đình, về công việc, về lễ nghi… Còn là núi non cản lối, rừng rậm chằng chịt.
+
+KÌNH ĐÀ là hàng rào thép gai với tua tủa gai nhọn, là biển lớn sông dài với núi cao khó vượt. Có khi sự khó khăn trở ngại đó nằm ngay chính trong bản thân của chúng ta, vì không đủ sức để làm, ta không vượt qua nổi chính ta. Sự khó khăn, cản trở đó còn là hoàn cảnh khó khăn về kinh tế, tài chính… Thấy bộ sao nầy là dễ thấy nhất là khó khăn và trở ngại. Cá biệt đi với Cát tinh, hỉ tinh là sự thành công vui mừng.
+
+Tốt là vượt qua được trở ngại đó để thành công. Ta gọi là vượt khó.
+
+Xấu là không thể vượt qua được.
+
+**Kình khiêu khích. ĐÀ cản trở**
+
+KÌNH trong một số trường hợp là sự khiêu khích, châm chọc như khiêu chiếu, diệu võ dương oai, lời nói khích, thái độ khiêu khích, động thái khiêu khích… Như tình trạng biển Đông bây giờ. Cùng lúc ĐÀ làm nhiệm vụ cản địa, cản trở, ngăn đón… làm cho ta khó tìm thấy đồng minh cần giúp đỡ. Hành vi của nước láng giềng, cũng chẳng khác gì hành vi của một kẻ mạnh thiếu văn hóa. Khó chịu nhất là hạn ngộ KÌNH có lưu KÌNH xung, hoặc hạn ngộ KÌNH cố định có lưu KÌNH xung. (Để giải thích phần nầy ta lại lạm bàn qua phần Hạn. Cụ thể nhất là tuổi Quý nam như Quý  Sửu, Quý Mùi năm nay Kỷ Sửu ngộ lưu KÌNH có KÌNH cố định xung. Nhất là trường hợp 2 tuổi trên Đại Hạn ở tại cung Sửu, thật là tồi tệ… Các tuổi nam Đinh Sửu, Kỷ Sửu, Đinh Mùi, Kỷ Mùi, Giáp Thân, Giáp Dần lâm thế Kình cố định có lưu Kình đánh thức dậy….)
+
+Đáng ngại là các trường hợp KÌNH HÌNH KỴ mà sau nầy đi sâu vào các bộ sao mới thấy hết phức tạp.
+
+**KÌNH chủ chống. ĐÀ chủ xây**.
+
+KÌNH chủ chống như chống đối lại cái xấu, cái ác, cái tệ nạn, cái sai lầm, sai trái… từ đó KÌNH như một ngôi sao ưa chống đối. Nhưng thật ra khi chống đối trong đó có ý xây dựng người ta mới chống không ngoài mục đích xây dựng cho mình trở thành tốt đẹp hơn.
+
+ĐÀ  cũng vậy, người ta cản trở mình đâu phải gây trở ngại cho mình, mà thật tâm muốn xây dựng cho mình, đừng mất công phí sức, đừng đi vào, đừng bị lôi kéo vào chỗ xấu.
+
+Ví dụ đừng vào nơi đó nó nguy hiểm, nó chẳng hay ho gì mất thì giờ thôi bạn ơi! Sự cản trở, cản ngăn đó rất có lý. Hoặc ‘Chỗ nầy vô phận sự cấm vào’ nếu ta vào sẽ bị sự chống đối quyết liệt, Vì cái an nguy của ta mà kẻ khác không cho ta vào. Nếu thấy người thân phạm sai lầm trong suy nghĩ, trong hành vi ta chống lại không ngoài mục đích ‘dựng’ lại cho ngay thẳng nếu không sẽ ‘đổ’.
+
+**KÌNH chủ Chống. ĐÀ chủ Theo. Nghịch và Thuận.**
+
+ĐÀ chủ thuận theo, xuôi theo… KÌNH chủ nghịch lại, ngược lại.
+
+ĐÀ chủ theo. KÌNH chủ chống. Bởi vậy một sự thật rất buồn cười, khi ta theo A  lội xuôi dòng vô tình ta chống lại B. Và ngược lại kẻ chống đối vô tình cũng đi theo ai đó. Và cứ thế kẻ lội xuôi và người lội ngược trên cuộc đời. Một nửa số người khổ tâm vì luôn luôn số mệnh bắt mình theo hay chống. Thoạt nghe, chúng ta cứ ngỡ là theo dễ hơn chống, thật ra theo cay đắng hơn chống nhiều. Vì sao? Vì theo cái tốt hay cái xấu? Biết cái gì tốt, biết cái gì xấu? Khi ta chưa có trình độ, ta chưa phân biệt đúng sai, nghe ai nói lần đầu ta tin ngay. Thế là ta theo. Như các câu sau đây.
+
+“**ĐÀ LA ĐỊA KIẾP chiếu phương. Gặp LINH TINH nạn bất thường chẳng sai**”. Vì hình thành cách ĐÀ LINH KIẾP mà ĐÀ LINH có nghĩa nghe theo lời xui khiến mà gặp nạn ĐỊA KIẾP. Cũng như cách LINH XƯƠNG LA VŨ nghe lời xui khiến phẩn uất đâm đầu xuống sông mà chết, điều nầy người viết nói nhiều rồi. Ngay bộ ĐÀ KIẾP thôi cũng lắm tai nhiều họa vì cách nầy (về sau chúng ta sẽ tìm hiểu từng bộ sao một) bộ ĐÀ KIẾP là bộ sao dễ mắc vào bẫy, vào lưới…là bộ sao mang tai họa về, là đem tai họa đến cho cả người khác nữa… tạm thời ta khoan đi sâu vào rất dễ lạc đề.
+
+Ta cần biết sự thật KÌNH ĐÀ là gì?
+
+ĐÀ LA là bị rầy la, đễ hướng dẫn đến chỗ tốt đẹp hơn, để khỏi đổ vỡ.
+
+KÌNH DƯƠNG là dựng lại, chống lại, khuyến khích cho ngay thẳng, nếu không sẽ đổ vỡ.
+
+KÌNH ĐÀ là bộ sao của nhào nặn để trở thành người hữu dụng trong xã hội. 2 sao nầy mở ra nhiều bộ quan trọng có thật trong cuộc đời là bộ Giáo Dục, bộ Xây Dựng, bộ Quốc Phòng, bộ Thể Thao…
+
+Nhưng không phải ai ta cũng nhào nặn được. Thôi thì “mềm nắn rắn buông” nhưng nếu KÌNH ương ngạnh quá đành thả tay, tốt xấu do mình. Để sửa lại thành ngữ trên theo quan điểm TỬ VI là “ ĐÀ nắn KÌNH buông”. Nói như vậy những người có ĐÀ khoan vội đắc ý vì coi chừng bạn chỉ là cỗ máy, là đồ chơi của kẻ khác. Và KÌNH có khi hưởng chữ trung kiên (trung dũng kiên cường là đây).
+
+**KÌNH  chủ dựng. ĐÀ chủ xây**.
+
+Xem kìa cây này nghiêng nghiêng dễ tự đổ, vì thế cần chống thêm cây cột Kình Dương để cây khỏi ngã. Tết đến, xem hoa đa phần nhìn kỹ trong các chậu hoa đều có những cây tre mảnh khảnh làm trụ để cây hoa thẳng đứng vươn lên khoe sắc, cây tre đó là KÌNH DƯƠNG. Chào cụ, cụ đi đâu mà phải chống gậy vậy? Già rồi, không có cây ba toong KÌNH DƯƠNG nầy té có mà chết.
+
+KÌNH DƯƠNG là cây nạn của thương binh nhưng trước đó nó là cây súng, còn trước đó nữa là niềm hãnh diện của người mang súng. Tất nhiên không phải ai có KÌNH DƯƠNG đều phải dùng đến nạn.
+
+ĐÀ LA uốn nắn làm cây cối thêm đẹp, nhà cửa thêm hợp lý, đường xá nơi nào cần thẳng, nơi nào cần cong, trong vườn hoa cần tạo thêm xa xôi uốn lượn.
+
+KÌNH ĐÀ là bộ sao của Xây Dựng nhưng quan trọng là xây dựng cái gì?
+
+Xây dựng một con người tốt.
+
+Xây dựng một tổ chức như đảng, như đoàn thể, công ty…
+
+Xây dựng nhà cửa để có nơi sinh sống.
+
+Xây dựng gia đình để có thêm một tế bào trong xã hội.
+
+Xây dựng tình cảm với mọi người…
+
+Và xây dựng đó thành hay bại, tốt hay không (xây dựng một tổ chức chuyên lừa đảo…), quan trọng hay không (xây lại căn nhà bếp mà cũng la to). Bạn thấy đó để bàn về yếu tố xây dựng nhà cửa hay xây dựng gia đình… là cả một bài viết dài. Ở đây chúng ta chỉ cần biết KÌNH ĐÀ là xây dựng.
+
+**Bành trướng và Kháng chiến**. **Phát triển và vượt lên.  Lan tỏa và vươn lên**…. **Tụt hậu, không đương cự lại. Thối lui, thoái trào. Cây gươm bẻ gãy. Là bỏ súng bên trời. Rửa tay gác kiếm.**
+
+ĐÀ khi tốt là vươn ra phát triển ra theo chiều ngang, như cái bụng bự ra, nhà cửa vươn ra thiên về 2 bên và phía sau (vươn về trước dễ phạm lộ giới), lan tỏa ra như hương hoa lan tỏa trong không khí, phương danh bay khắp mọi nơi. Như cái bánh phồng tôm trong chảo dầu.
+
+KÌNH khi tốt là vượt lên cao, vươn lên trước để dẫn đầu, từ xa ta đã nhìn thấy. Cái gì cao thế cái nhà của ông KÌNH DƯƠNG đó. Ai ngồi trên ghế cao thế? Ông KÌNH DƯƠNG đó. Ai đứng trên bục số 1. Cũng ông KÌNH DƯƠNG đó, chả trách ông ta dương dương đắc ý.
+
+KÌNH vươn lên cao theo chiều thẳng đứng. ĐÀ bành trướng trương phồng theo chiều ngang. Như một thành phố trẻ năng động, như một quốc gia trong thời cường thịnh. Khi nói hùng cường, cường thịnh, hùng mạnh… là KÌNH ĐÀ.
+
+Một khi cường thịnh rồi muốn phát triển vươn ra nữa tức rơi vào chỗ xâm lăng, xâm lấn, xâm lượt chưa nói đến xâm hại, xâm phạm… đến kẻ khác.
+
+Ta thấy khi Pepsi mạnh rồi sẽ xâm lấn Coca. Khi một quốc gia mạnh lên rồi, 2 chữ bành trướng trương phình có trong đầu của họ. Và họ luôn luôn ‘đâm bị thóc thọc bị gạo’ làm cho những nước lân bang suy yếu dễ bề xâm lăng bằng quân sự, xâm lược bằng chính trị. Cần xâm lấn các lân bang là nạn nhân đầu tiên vì liên cư, liên địa. Vậy ĐÀ LA là kẻ xâm lược, KÌNH DƯƠNG là kẻ kháng chiến.
+
+Vì sao KÌNH phải chống vì thằng ĐÀ nó xâm lược, xâm phạm, xâm lấn, xâm lăng… đất đai của tổ quốc tôi (của tổ chức, gia đinh, tổ tiên, nhà cửa, công việc…). Và câu chuyện xâm lấn đó từ vĩ mô đến vi mô, từ quốc tế đến cá nhân. Từ ngàn xưa đến tận bây giờ không bao giờ hết, không bao giờ chấm dứt, cứ phát triển, phát triển mãi… Một câu chuyện không bao giờcó đoạn kết.
+
+ĐÀ phình to quá có lúc xẹp xuống, thái quá tất tự nổ tung. Có kẻ lại cho là thoái trào, tụt hậu, rút lui không kèn không trống… thôi thì tùy thương ghét mà nói.
+
+KÌNH vươn lên cao quá cả trăm tầng tất dễ bị sụp đổ dù chỉ động đất nhẹ, dưới đất chỉ rung một ly, cao một km tất phải rung một mét, đó là nguyên tắc toán học mà. (Có người sợ độ cao là cách KỴ KÌNH, chỉ đứng từ tầng 6 nhìn xuống lòng tự sợ hãi. Dĩ nhiên những người sợ độ cao, không dám ở nhà cao tầng. Nếu có người sợ độ cao tất phải có người sợ độ sâu).
+
+KÌNH DƯƠNG cao quá, chon von quá, chót vót quá dễ bị người ta ghét, soi mói một cách ngẫu nhiên vì quá nhiều đích nhìn thấy mình. Vì thế các cường quốc tự lụi tàn, nào là La Mã, Hy Lạp, Ai Cập, Mông Cổ chỉ còn là cái tên vang bóng một thời, tiếp Tây Ban Nha rồi Anh Quốc, Đức, Nhật nay Mỹ… cuộc thịnh suy của bộ KÌNH ĐÀ. Khi dương là KÌNH khi chìm vào quên lãng lại là ĐÀ, cuộc rút lui lặng lẽ, rửa tay gác kiếm, rửa tay gác bút. Khi sao LỰC SỸ kẻ gắng sức đã vắt hết sức mình rồi.
+
+**Giương lên, mở ra hoặc đóng lại hay hạ xuống**.
+
+KÌNH ĐÀ là 2 tác động luôn luôn có trong ta. Giương mắt lên nhìn rồi cúi xuống lại. Mở cửa ra chiều tối đóng cửa lại. Nhưng cũng có người tối mở ra ngày đóng lại. Mở cửa và đóng cửa là 2 thao tác thường xuyên. Thế nhưng, luôn luôn đóng cửa là chí hướng khác thường. Vậy thì câu: “CỰ MÔN ĐÀ LA tất sinh dị chí là vậy”. Vì CỰ MÔN chỉ cái cửa mà ĐÀ chủ đóng lại. Một cái cửa luôn luôn đóng, một tâm hồn luôn luôn khép kín. Có phải là dị chí không nhỉ? Một cái miệng là CỰ MÔN dùng để ăn, nói. Nếu chỉ có ăn mà không nói, hoặc chả thèm ăn cũng chẳng buồn nói, hoặc cứ ngồi nói chẳng chịu ăn, nói không cũng đủ no. Đúng là dị chí (tức chí hướng khác thường). Thà rằng CỰ KÌNH cánh cửa luôn luôn mở rộng như cánh cửa từ bi luôn luôn rộng mở. Còn hơn làm cánh cửa để giam mình vào trong đó. Dĩ nhiên những người có cách CỰ ĐÀ cũng có lý do của riêng họ, đây nói chung tổng quát mà thôi. Ví như học hành đỗ đạt ra làm quan nhưng trúng phải thời kỳ hôn quân, tham quan, nhũng lại (lại là quan nhỏ) ta đắm mình vào bùn nhơ làm gì. Làm cái gì đó kiếm sống qua ngày, còn hơn là vào lòn ra cúi, vui câu nịnh hót, buông lời tung hô dối trá. Không phải vì có học rồi viết lách, viết láo sinh chuyện… thôi thì coi như không biết chữ, không biết đọc còn hơn đọc rồi không hiểu, 2 chữ anh hùng là gì? Nhân dân là gì? Thầy giáo nhân dân là gì? Thầy giáo ưu tú là cái chi?
+
+Bởi thế KÌNH dương mắt ra nhìn đời thấy như cái gai trong mắt.
+
+Đà phải nép mình, nhún nhường không muốn mua dây nhợ vào thân.
+
+Kình nhìn đời như gai trong mắt.
+
+Đà nép mình phiền toái vào thân.
+
+Vì vậy cách CỰ KÌNH là cách khai trương, mở cửa. Cách CỰ ĐÀ là cách bế mạc, bế môn tỏa cảng, méo miệng vì lo. Cho nên từ vị trí TẤU THƯ hay HỈ THẦN thấy cả bộ KÌNH ĐÀ mới hay. Đóng mở tùy lúc. Như Mở Word ra viết, khi không cần thiết đóng phức lại, mất điện khỏi lo, tìm file cứu hộ.
+
+Trong thiên nhiên KÌNH là buổi sáng mặt trời đang vươn lên. ĐÀ là chiều hôm đang buông xuống.
+
+**Bút và nghiên. Dạy dỗ và khuyến khích**.
+
+Từ vị trí TẤU THƯ ngôi sao của biên chép có XƯƠNG KHÚC, ta có đủ bộ “Văn phòng tứ bảo”. TẤU THƯ biên chép để trao đổi tin tức (ĐẠI, TIỂU HAO) gởi đến cho QUAN PHỦ (là nơi nhận) ngoài kia KÌNH DƯƠNG đang chờ, hoặc trong nầy TẤU THƯ đang đợi. Đây là việc làm hằng ngày của giới văn phòng, gởi nhận, biên chép, rồi chờ đợi. Đến đây mọi việc đã rõ ràng không còn gì bàn cãi.
+
+Nhưng để làm cái công việc văn phòng (từ văn phòng công, tư sở đến thư phòng cá nhân) đó. Chúng ta phải học trung bình trên 10 năm. Và dòng mực đen, xanh, tím từng vương vãi (cũng là ĐÀ) trên áo học trò, trên trang giấy trắng. Vì ĐÀ LA chủ sự ‘hướng dẫn của thầy cô’ còn KÌNH DƯƠNG là những lời khuyến khích cũng có, và khuyến cáo cũng có tùy thuộc KỴ HÌNH tinh. ĐÀ LA có nghĩa là vừa la hét, vừa hướng dẫn. Ai là người từng hướng dẫn trong ngành nhà giáo, ngành du lịch, hướng dẫn trong huấn luyện thao trường, đến hướng dẫn chương trình tránh sao khỏi la hét được. Nhưng cái hét của người có Văn hóa dễ nghe. Xin quý vị hãy làm như thế nầy nè… Đừng quên ĐÀ LA là ngôi sao lôi kéo và ta được lôi vào phòng để học của XƯƠNG KHÚC, và hồn lỡ sa vào đôi mắt ai cũng là ĐÀ LA, đến bị lôi kéo cuốn hút, khuyến khích vào cái bẫy đang giương ra cũng KÌNH ĐÀ mà thôi.
+
+**KÌNH ĐÀ là cái bẫy đang giương ra**.
+
+ĐÀ LA là cái lưới di động, cái lưới đang kéo rê. Cũng là cái lưới là ĐÀ LA đang giăng bày ra và KÌNH DƯƠNG chủ đang dương bẫy. Có bao giờ bạn thấy cái lưới đánh chim chưa? Có ĐÀ là cái lưới với những cái cọc KÌNH DƯƠNG để giăng lưới. Nói đến cái bẫy chuột chắc bạn biết rồi đấy. Cái bẫy chưa giương lên vô hại nhưng khi giương bẫy lên có tính nguy hiểm (nhất là bẫy thú). Từ vị trí TẤU THƯ, HỈ THẦN ta thấy đủ cả bộ KÌNH ĐÀ. Dễ thấy cái bẫy đang giương ra. Và cách ĐÀ KIẾP là cách mắc bẫy, dính bẫy (xem mới bàn ở trên) và KÌNH KIẾP là hình ảnh con vật bị ngo ngoe trong bẫy. Để dẫn dụ (cũng là ĐÀ LA) con chuột ta tạo mùi thơm, để dẫn dụ con người còn dễ hơn thế nữa. Xem ra con người là con vật ngây thơ nhất. Dùng hình ảnh, lời nói, tiếng động, mùi hương… đến phú quí vinh hoa không nhìn thấy được. Đem làm vật dẫn dụ. Và cũng chính con người là con vật nguy hiểm nhất vì chính con người sáng tạo ra cái bẫy, cái lưới từ hữu hình đến vô hình để hại nhau.
+
+Vì thế có học giả TỬ VI (đương nhiên là nạn nhân của KÌNH ĐÀ) không ngại gì xếp bộ sao nầy vào Sát tinh. Thật ra KÌNH chỉ hung hăng khi đi với LINH nằm trong bộ SÁT PHÁ, hoặc phải chống đối như THIÊN TƯỚNG vì đòi hỏi sự công bằng. Hoặc chống đối thân nhân như khi có bộ NHẬT NGUYỆT (vì bộ sao nầy chỉ rõ đối tượng là nam và nữ) Và đương nhiên bộ sao nầy hỗ trợ cho nhóm KHÔNG KIẾP HỎA LINH. Và KÌNH ĐÀ trở nên nguy hiểm khi nằm trong nhóm sao vừa kể.
+
+Bạn thân mến. Bài KÌNH ĐÀ ắt còn đến 2 lần viết nữa mới tạm gọi là đầy đủ, tháng nầy Kỷ Tị gây bất lợi cho tuổi người viết. Một lưu KÌNH DƯƠNG năm lại thêm lưu KÌNH tháng Kỷ Tị, và KÌNH ngôi sao của khó khăn, tại khu vực ở hay bị mất điện vì sự cố, có một số công việc phải cần làm. Cho nên bài biết phải tạm dừng tại đây, phần tiếp theo cũng dán tiếp tại đây.
+
+Có đọc câu hỏi của các bạn nhưng ưu tiên là viết cho xong bài nầy đã. Đúng là KÌNH DƯƠNG dễ hóc xương.
+
+PHẦN 3.
+
+Viết ngày 4.5.2009.
+
+**DÀN DỰNG…. đặt điều… dựng đứng…**
+
+Làm một bài văn chúng ta từng học cách dàn dựng nào mở đầu, thân bài và kết luận. Dàn dựng là yếu tố không thể thiếu khi viết văn, khi đạo diễn một chương trình nghệ thuật, trong quân sự là dàn binh, bố trận hợp lý…
+
+Cũng chừng ấy con chữ, Thi sỹ xào qua, xào lại thành thi ca còn chúng ta thì không. Văn sỹ cũng vậy. Thế mới biết các chàng nầy giỏi dàn dựng. Các Kỷ sư cũng dàn dựng trên bản vẽ trước khi dựng lên thật. Giới Họa sỹ gọi là phác thảo, sau đó bôi bôi, bệt bệt thành bức tranh, còn chúng ta thì không. Vậy dàn dựng tốt đưa đến thành công. Nhưng cũng có những cái dàn dựng xấu, chúng ta cần biết là đặt điều, dựng đứng những câu chuyện có đầu đuôi để bôi bẩn người khác. Từ vị trí nầy hay gặp ĐƯỜNG PHÙ thổi phồng cho to, nếu có HỒNG LOAN loan báo lớn làm cho những câu chuyện thoạt tiên không có gì, trở thành những câu chuyện như thật. Ví dụ như là:
+
+“Chà! cái giếng nước nầy ngon quá. Uống vào cứ y như là bao bệnh tật tiêu tan”. Một tiếng ngợi khen vô tội vạ. Nhưng gặp một tay khéo dựng chuyện thành cái giếng thần …kỳ.
+
+Vậy Dàn Dựng là một yếu tố rất cần thiết để thành công. Xấu tốt tùy thuộc vào Hung Cát.
+
+**Chưng bày hay trưng bày, trình bày, khoe ra… hay bày đặt.**
+
+Có người nói chưng bày có người nói trưng bày. Thật ra nói trưng bày đúng hơn nhưng do đặc tính địa phương có người phát âm chữ tr khó nên nói chưng bày, chưng diện… Trưng bày hay trình bày cũng là một đặc điểm của KÌNH là ưa dương ra, bày ra, khoe ra… Có người khoe đẹp, có kẻ khoe giàu, người thì khoe con cái, cha mẹ, có người khoe xe cộ, nhà cửa, có người khoe hình thức ăn mặc đôi khi dấu đi những dốt nát bên trong… Kình chủ dương ra và ĐÀ là cái người ta làm ẩn đi.
+
+Có khi người ta treo tấm tranh để che lỗi của bức tường.
+
+Có người để mái tóc dài để che cái sẹo do đánh lộn năm xưa.
+
+Có kẻ cười vui để che nỗi lo trong lòng.
+
+Nếu có người khoe vui, sướng, đẹp, giàu sang… thì cũng có người khoe cái nghèo, cái khổ, cái xấu… để được cảm thông, để được tìm thấy sự biểu đồng tình của kẻ khác… Nói không xa, qua các trang blog ta cũng thấy rõ tâm trạng đó. Có phải tại lưu KÌNH của tháng Đinh Tị không mà gần đây các blogger thay đổi liên tục các avatar, hình nền liên tục. Khiến Đình nầy chưa kịp nhớ đã vội thay. Qua các cách trình bày đó cũng hiểu được tính cách của mỗi người. Nếu có dịp đi ra phố ta gặp các phòng trưng bày xe cộ, đồ gỗ… và đấy là ngôi sao KÌNH DƯƠNG đó. Và cũng từ đó ta đoán được một số nghề nghiệp liên quan đến KÌNH là công việc của họ là dương dương hàng hóa mà thôi.
+
+Nếu có ai khoe thân thể là do có KÌNH tại cung an THÂN.
+
+**KÌNH thuộc về nhóm sao lộ**. **ĐÀ thuộc nhóm sao ần**.
+
+KÌNH thuộc nhóm sao lộ, hợp với THIÊN LƯƠNG (phơi bày), TRIỆT ưa lộ ra nhưng gặp THÁI DƯƠNG lại gây xung đột mâu thuẩn (2 sao khoe xung nhau, ê nhìn gì dữ vậy mầy?)
+
+ĐÀ thuộc nhóm sao ẩn, hợp với TỬ VI, THIÊN PHỦ, THÁI ÂM, TUẦN…
+
+Việc phân loại nầy giúp ta luận đoán thêm chính xác. Tính đắc dụng của sao tại MỆNH và tại Hạn.
+
+**KÌNH ĐÀ trong thân thể là gì**?...
+
+Trong thân thể KÌNH DƯƠNG là cái đàn ông có đàn bà không? Và ĐÀ LA là cái đàn bà có đàn ông không có. Do cái ta có đi tìm cái không có. Vì thế KÌNH DƯƠNG có nghĩa là con dê buồn sừng húc giậu thưa như bà Hồ Xuân Hương đã tả.
+
+Khéo léo đi đâu lũ ngẩn ngơ ?
+
+Lại đây cho chị dạy làm thơ.
+
+Ong non ngứa nọc châm hoa rữa,
+
+Dê con buồn sừng húc giậu thưa.
+
+Hồ Xuân Hương mô tả kẻ còn nhỏ mà thả dê sớm.
+
+Nếu thắc mắc thì đây:
+
+Đối với nữ
+
+“DƯƠNG CỰ HAO thật không lành
+
+Chồng con phối hợp bất thành hôn nghi”
+
+Tức cách CỰ NHẬT ngộ HAO tức thấy bộ KÌNH ĐÀ
+
+Đối với nam.
+
+“ÂM phùng HAO tú một phương
+
+Thành hôn chẳng lọ là đường cưới xin”.
+
+Trên là cách phi lễ thành hôn. Đối với nam và nữ.
+
+Đó là vấn đề sex, cũng không nên quan trọng hóa, nhưng đã nghiên cứu cần biết, ta sẽ gặp một số tình huống về bệnh lý như: bệnh lãnh cảm, thái quá về tình dục để có cơ sở luận đoán… có thế mới nói, sờ gì moa cũng biết. Bây giờ đã hiểu tại sao rồi có gì bí mật đâu.
+
+Đi với bộ NHẬT NGUYỆT nhẹ nhàng nhất là lời ‘tán tỉnh”, ‘tỏ tình”.
+
+**KÌNH ĐÀ và đồ vật**…
+
+* Các đồ vật có hình dáng gương lên cao, cứng, sắc nhọn, dáng thẳng… như chông, gai, bẫy đinh, cái chày, cây gậy, vũ khí… là KÌNH.
+
+* Các đồ vật gây vướng víu, dây nhợ, lưới, bẩy giây, bẫy lưới, mềm mại là ĐÀ LA và sao nầy còn có nghĩa cái bẫy đang kéo rê, lưới quét.
+
+Đi với văn tinh KÌNH là bút, ĐÀ là nghiên mực.
+
+Đi với Hung Sát tinh. Kình là khí cụ tấn công như gươm đao… ĐÀ LA trang bị phòng thủ như giáp, trụ, khiên.
+
+* Vật thấy được, nổi lên trên, phía trước là KÌNH, phần không thấy được là ĐÀ LA ở phía sau, phía dưới.
+
+**Lực đẩy giúp ta tiến về phía trước**.
+
+ĐÀ là lực đẩy giúp ta tiến về phía trước tức là KÌNH.
+
+ĐÀ LA là tiếng hò kéo lưới, hò giã gạo trong đêm…KÌNH là sự khuyến khích cho xong công việc. Kình Đà là nghiên bút, là phòng chống sự xấu xa. Là nỗi niềm vui buồn cũng có mà cay đắng cũng đây. Là chông gai cản trở bước ta đi… Một nửa số người có bộ sao nầy tại MỆNH đã quen rồi khó khăn trên đường đời, đã tập huấn trong gian khổ. Một nửa số người dễ choáng váng khi hạn ngộ KÌNH ĐÀ (như ông Nguyễn Văn Thiệu, Hitler…) nhất là thứ KÌNH ĐÀ không đương cự nổi. Thấy bộ sao nầy tối tăm mặt mũi.
+
+Và KÌNH ĐÀ như ta thấy đâu phải là Sát Tinh.
+
+**Một số câu phú liên quan**:
+
+“KÌNH DƯƠNG phùng LỰC SĨ. Lý Quãng nan phong
+
+BẠCH HỔ kiến TƯỚNG QUÂN. ĐÀO TIỀM kiêm ấn”
+
+Ông Lý Quãng đắc ý, tự mãn, kiêu ngạo mà bị người ta ghét, chỉ có thế thôi. Ông Đào Tiềm khéo bày tỏ (Bạch Hổ) và biết thương yêu, chăm sóc người (Tướng Quân) xứng đáng làm tướng lãnh.
+
+“DƯƠNG NHẬN hãm tu bì thiết, miếu vượng tu nhi hào kiệt dương danh
+
+CƠ LƯƠNG lâm thủ thiện đàm binh, Tuất cung tị nhi văn chương quán thế”
+
+Kình hãm có màu da thiết bì (màu xanh tái). Kình vượng tu mi nam tử oai hùng hơn, dễ nổi danh hơn. Hãm hay vượng là do cát tinh tụ tập vào đó nhiều hay ít. Câu Cơ Lương đã giải thích trong bài “ĐƯỜNG PHÙ”
+
+“Chích Hỏa (cung Tị ) phần THIÊN MÃ bất nghi viễn hành
+
+Thốn Kim (cung Dậu) ám  KÌNH DƯƠNG phản hiềm tao khốn”
+
+Chích Hỏa là cung Tị đốt cháy phương tiện, không nên đi xa.
+
+KÌNH tại Dậu dễ gặp nguy hiểm, tức tuổi Canh gặp cách nầy. Kinh nghiệm Đại hạn đến Dậu cung rất xấu. Mặc dù không phải tuổi Canh nhưng Đại Hạn của ta, tại cung Dậu gặp năm Canh có lưu KÌNH là đã thấy xấu. Vì tuổi Canh có bộ Kình Hà Sát rất độc. (Cần an lại sao Lưu Hà cho đúng, tuổi Canh HÀ tại Mão). Cho nên còn có câu:
+
+“KÌNH DƯƠNG đối thủ tại Dậu cung.
+
+Tuế diệt DƯƠNG ĐÀ Canh Mệnh hung.”
+
+Câu nầy còn khẳng định KÌNH xung, tức MỆNH Hạn tại cung Mão cũng nguy khốn. Vào năm Canh tại đây có bộ KÌNH HÀ (vắn tắt là Chống đối và hà hiếp mà nên chuyện)
+
+“KÌNH HÌNH cư ngọ đồng gia. SÁT KIẾP lai chiếu ắt là ngục trung”
+
+SÁT tức là THẤT SÁT, KIẾP tức ĐỊA KIẾP. Chứ không phải sao KIẾP SÁT. Vì KÌNH tại Ngọ không bao giờ gặp sao KIẾP SÁT. Bộ KÌNH HÌNH bên hăm dọa, gặp kình chống. SÁT KIẾP chủ cướp đoạt. Chừng ấy yếu tố cũng thấy tai họa ngập đầu. Trường hợp nầy tương đối ít gặp.
+
+“KÌNH DƯƠNG Tí Ngọ Mão Dậu phi yểu chiết nhi hình thương.”
+
+Đây là câu phú nói quá đáng khiến nhiều người lo lắng, trừ trường hợp có thêm nhiều Hung, Sát tinh mới gây yểu, hoặc bị thương tật.
+
+“KÌNH DƯƠNG cư Ngọ ‘Mã đầu đới kiếm’ chấn ngự biên cương.”
+
+Cách Kình cư Ngọ có mã đầu là các tuỏi Bính (Tý, Thìn, Thân) mới hay. Thực chất nhờ sao PHƯỢNG CÁC, các tuổi Bính còn lại không được.
+
+“KÌNH tứ mộ MÃ triều lai. Biên cương ắt hẳn ra tài võ công.”
+
+Có giá trị khi có con THIÊN MÃ hội họp như tuổi Kỷ (Tị DậuSửu)… Đồng nghĩa với thời bình ở vùng sâu, vùng xa.
+
+ “KÌNH DƯƠNG nhập miếu phú quí thanh dương.”
+
+Dĩ nhiên một Kình tốt đẹp là đắc ý toại lòng, danh vang khắp nơi.
+
+“KÌNH ĐÀ LINH HOẢ phùng cát phát tài phùng hung tắc kị.”
+
+Câu nầy minh chứng cho luận thuyết. Mọi sao đều có thể tốt đẹp khi gặp Cát tinh. Cả 4 sao nầy thực chất không phải là Sát tinh.
+
+“KÌNH ĐÀ LINH HOẢ thủ Thân Mệnh yêu đà bối khúc trận trung vong.”
+
+Câu nầy nhuốm màu bi quan cho mọi người có nó. Ít nhất là có thêm KHÔNG KIẾP hoặc KỴ HÌNH mới đưa đến gảy lưng, thương tật ở lưng như gù lưng và chết trận. Ls Chiến Binh tử trận bị cách trên tại cung an THÂN.
+
+“KÌNH DƯƠNG HOẢ TINH uy quyền xuất chúng.
+
+Đồng hành THAM VŨ uy yểm biên di.”
+
+Bộ KÌNH HỎA nếu được HỎA TINH đắc là ngọn đuốc soi đường đưa lên cao để mọi người đi theo, đồng thời là dấu hiệu của chiến thắng.
+
+“KÌNH ĐÀ xâm chiếm Mệnh viên. Nói năng loạn thuyết những phường điêu ngoa”
+
+Câu nầy dễ gây bất mãn cho một số người có KÌNH ĐÀ tại MỆNH, chắc chắn được viết bởi người mặc cảm với bộ sao nầy. Bởi KÌNH chống đối, và ĐÀ hướng dẫn lôi kéo. Người viết dẫn chứng câu nầy không ngoài mục đích đưa ra các quan niệm của người xưa. Chứ không ủng hộ câu mói nầy. (ông Nhất Linh biết được, đạp cho một cái mà chết). Câu phú quá võ đoán. Ngoài ra còn có câu:
+
+“PHỦ ĐÀ TUẾ đóng Tị cung. Thiềm ngôn loạn ngữ nói rông tháng ngày.”
+
+Câu nầy nghe có lý hơn. Vì PHỦ khi xấu là cả vú lấp miệng em, lại có THÁI TUẾ giỏi ngôn ngữ, thêm ĐÀ LA khéo dẫn dắt câu chuyện thành ra tha hồ nói.
+
+**VÀI BỘ SAO QUAN TRỌNG Liên quan đến KÌNH DƯƠNG ĐÀ LA**.
+
+**VŨ KHÚC  KÌNH**:
+
+* Chủ tranh công, còn chủ tranh giành tài sản.
+
+Đi với Cát tinh, HỈ tinh chủ Kinh tế, Tài chính đi lên, phát triển. Khoe của, sớm có của...  Bước ngoặc đi lên, lên hương.
+
+Nếu có thêm  CÔ QUẢ ứng hợp với câu:
+
+“VŨ KHÚC DƯƠNG ĐÀ kiêm QUẢ TÚ vị tiền nhi nguy”, vì tiền mang hoạ. Đây là hậu quả của việc tranh chấp tài sản.
+
+* Vũ lực, chống nhau bằng vũ lực. Nhất là có KIẾP SÁT.
+
+* Thượng võ. Lên võ đài hoặc tinh thần thượng võ nếu có LINH HỎA.
+
+" VŨ KHÚC KIẾP SÁT hội KÌNH DƯƠNG, nhân tài trì đao" (người có tài dùng gươm dao) còn là.
+
+“ VŨ KHÚC KIẾP SÁT hội KÌNH DƯƠNG. Sát nhân bất biếm nhãn”. Giết người không gớm mắt.
+
+Đi với bại tinh như cách KÌNH HƯ là. Khó khăn về tài chính.
+
+Chú ý đây chỉ là gợi ý để luận đoán cụ thể với cách VŨ TƯỚNG rất ngại gặp KÌNH DƯƠNG….
+
+**ĐÀ LA HOÁ KỊ**:
+
+ Bộ NH Ị ÁM nếu thấy THIÊN DIÊU tạo thành bộ Tam Ám.
+
+Ta thường nghe ‘kỳ đà cản mủi’ và ta lo sợ không dám đi tiếp. Nếu thấy con kỳ đà nên bắt, đặc sản quán nhậu nhưng thấy Kỵ Đà trên TỬ VI thì bắt nó không được đâu, nó bắt bạn thì có. Cách Kỵ Đà trong TỬ VI nổi tiếng đến nổi gây ra ngộ nhận trút lên đầu con kỳ đà. Và nó hình thành trên lá số, bạn cũng bị ngộ nhận như con kỳ đà, thôi thì hãy thương nó đi vì hoàn cảnh nó như ta vậy.
+
+* Chủ: Ngăn Cấm. Cấm đoán và cản trở. Ngăn sông cấm chợ, cấm vận… Và từ đó tài năng khó mà phát triển. Ví dụ: Vi tính ư? Có tạo ra tiền bạc đâu, có tốn điện thì có, lại nghe nói dễ hư lắm, khó sử dụng và con kỳ đà nầy cản mũi tất khó thấy vi tính, chấp nhận thiếu kiến thức về vi tính. Đó là một ví dụ nhỏ thôi, khi hình thành bộ KỴ ĐÀ tại MỆNH, coi như cuộc đời đã nhúng chàm. Nếu có thêm DIÊU đui mù góp ý nữa là họa vô đơn chí.
+
+* Chủ: Ghen ghét, nghi ngờ và cản trở. Từ những ghen ghét, ganh tỵ, không muốn người khác hơn mình, đa nghi kếp hợp với ĐÀ ra sức cản trở, ngăn cản… Từ bằng lời nói đến bằng hành động. Có đi chắc chắn cũng không đi được, không có phương tiện nếu có nó lăn đùng ra cản.
+
+Khi bị con mắt KỴ ĐÀ nhìn vào rồi, dù vô tư dưới mắt họ bạn vẫn kẻ đáng nghi ngờ.
+
+* Còn chủ chê bai (ghen ghét, cản trở….) sau lưng (dễ hiểu là bị nói xấu sau lưng). Kỵ Đà đáng sợ như vậy có sao nào hóa giải không? Chỉ có duy nhất HÓA KHOA trường hợp đó ta có thể gọi là lời “khuyên can”.
+
+DIÊU ĐÀ KỊ:
+
+Bộ Tam ám. “DIÊU ĐÀ KỊ kế, giao hoạ vô đơn chí”. Ba sao này giao hội với nhau hoặc đứng liền nhau, hoạ đến liên tiếp. Ba sao này được mô tả là bộ sao xui xẻo nhất, như bị hớp hồn. Kị nhất là gặp bộ NHẬT NGUYỆT tất cả chính tinh khác. Tuy nhiên mức tác hại còn tùy thuộc vào DIÊU có đắc địa hay không, nếu có (chủ còn sáng suốt không mê muội), đỡ hung họa chỉ còn giá trị như Nhị Ám.
+
+**KÌNH DƯƠNG HOÁ KỊ**:
+
+Chủ các điều sau.
+
+*Tiếng khen chê (nếu có cát tinh). Chê bai và chống đối. Chê bai trước mặt.
+
+* Cấm chống đối. Nghi ngờ và chống đối. Ghét mà chống đối.
+
+* Đố kỵ (nghi ngờ, ghen ghét…) và chống đối. Dậy lên nỗi hoài nghi…Đố kỵ và kình chống.
+
+Bộ KÌNH KỴ vốn phức tạp lại thêm HỎA TINH tạo thành bộ 3 sao. Với các bộ KỴ HỎA, KÌNH HỎA theo đánh giá của câu phú là:
+
+“KÌNH DƯƠNG, KỊ, HOẢ một loài. Hãm mà thủ Mệnh ấy loài ác tinh.”
+
+KỴ HỎA KÌNH vì ghét ghen nổi cơn giận làm điều xấu.
+
+Bài Kình Đà là bài khó viết như tên gọi của nó. Người viết chấm dữt nó tại đây. Nếu không ĐÀ LA lôi kéo đi sâu nữa biết bao giờ hết. Để có thì giờ trả lời một số câu hỏi có tính phức tạp của các bạn.
+
+haiyentlvn73
+[
+![](http://socialprofiles.zenfs.com/images/a2c73900c639941168fdacdf904c564d_48.jpg)
+](http://blog.yahoo.com/_6MMF3MWSTUS4ACK3NCIXWQKJDU)
+
+-
+
+ngo son [
+![](http://socialprofiles.zenfs.com/images/c7c2ce703222b7b5cf584a3fdc8e19bd_48.jpg)
+](http://blog.yahoo.com/_Q5ALOP2QIQHQQM6AMXQXVI75DY)
+
+-  [ngo son](http://blog.yahoo.com/_Q5ALOP2QIQHQQM6AMXQXVI75DY)
+
+- Dec 4, 2011 5:31 PM
+
+- Bác ơi! Bây giờ bác còn dùng blog này ko ạh, cháu muốn trao đổi với bác thì làm thế nào ạh, CHáu ở Hà Nội
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+huong [
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_3XGPX2AAODOZYAAKLFRX3YL4W4)
+
+-  [huong](http://blog.yahoo.com/_3XGPX2AAODOZYAAKLFRX3YL4W4)
+
+- Nov 27, 2011 6:10 PM
+
+Bác ơi, cháu đọc bài về Kình Đà của bác thấy hay quá!cũng lại vì có người em có lá số thế này, cháu thấy cậu ấy hay muốn tìm hiểu cho cậu ấy nhưng còn chưa biết xem.Bác ngắm hộ cháu và nhận xét thật nhiều nhé!Cháu cám ơn bác.(sinh 22/7/1988 âm lich giờ dần ah)
+
+[Reply this comment](https://www.blogger.com/null)
+
+-   Private comment
+
+-
+
+VKhanh [
+![](http://socialprofiles.zenfs.com/images/a58cb4adfb11fbd733c78158a260d741_48.jpg)
+](http://blog.yahoo.com/_54SSJY4OFNQWH2NN42B5RG7NYI)
+
+-  [VKhanh](http://blog.yahoo.com/_54SSJY4OFNQWH2NN42B5RG7NYI)
+
+- Jun 13, 2010 12:01 PM
+
+.Dạ,cháu cũng nghĩ cháu vẫn chưa ngộ được gì trong tử vi cả chỉ là vì hứng thú với nó thôi.Một phần vì cháu thích cách bác dạy tử vi mà như viết văn ,nên cháu rất hay vào blog bác đọc.
+
+Vài lời gửi thăm bác.Chúc bác luôn vui khỏe !
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Hung
+
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+
+-  Hung
+
+- Jun 9, 2010 2:02 PM
+
+thưa bác, mệnh cháu là mệnh vô chính diệu thân mệnh đồng cung ở mão, có kình hãm độc thủ, hội tả hữu, việt, quan phúc, đào hồng hỷ, quang quý, thai toạ, tài thọ, và cả lực sỹ nữa, thiên phủ ở mùi, thiên tướng ở hợi ngộ tuần, cháu có được hưởng cách kình dương độc thủ ko, có "ăn" vào con kình không bác. cháu công tác bên lực lượng vũ trang mà hiện tại công việc nhiều bế tắc quá, vâng quả thật là cháu rất khó khăn. cháu ko biết số cháu sau này liệu có cơ hội tiến lên được không
+
+kính bác.
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+VKhanh [
+![](http://socialprofiles.zenfs.com/images/a58cb4adfb11fbd733c78158a260d741_48.jpg)
+](http://blog.yahoo.com/_54SSJY4OFNQWH2NN42B5RG7NYI)
+
+-  [VKhanh](http://blog.yahoo.com/_54SSJY4OFNQWH2NN42B5RG7NYI)
+
+- Jun 8, 2010 3:47 PM
+
+- PHỦ ĐÀ TUẾ đóng Tị cung. Thiềm ngôn loạn ngữ nói rông tháng ngày .”
+
+Bác ơi cho con hỏi Phủ ở đây là Quan Phủ đúng không ạ?Sao cháu thấy trên mạng nhiều người ghi là Thiên Phủ.Cháu nghĩ Thiên Phủ là cát tinh cơ mà
+
+Cháu cám ơn
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jun 8, 20
+
+Phủ là THIÊN PHỦ, chủ phê phán, nhận xét... và TUẾ ĐÀ là dùng ngôn ngữ để lôi kéo. Kết hợp ta có, dùng lời nói để phê phán lôi kéo.
+
+Các tuổi có thể gặp là hàng Can là Đinh Kỷ Quý.
+
+Hàng chi là Tỵ Dậu Sửu Hợi. Tính ra có đến 12 tuổi có thể gặp.
+
+Câu phú này có tính chung chung áp dụng nên thận trọng. Có thể do phía bên ngoài bộ TỬ SÁT quá mạnh, bản thân bộ Phủ Tướng chẳng có hóa khí nào đủ mạnh để có uy tín. Vì quyền định đoạt đánh giá nằm về phía TỬ SÁT. Có Đà La tức là có Quan Phủ rồi đối với âm nam. Phân tích kỹ cách này còn hình thành cách Liêm Trinh THIÊN TƯỚNG
+
+Kình Dương hiệp đa chiêu hình trượng nan đào. Tóm lại nhận xét bậy bạ dễ ăn đòn.
+
+Đoán TỬ VI là kết hợp nhiều sao lại để đánh giá, nếu cháu nhìn một sao như thế này cả đời không bao giờ hiểu. E rằng cháu chưa kịp lãnh hội những điều này.
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-
+
+Bill [
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_O4HMND4VZCX36L6BGZ2WYJHXZY)
+
+-  [Bill](http://blog.yahoo.com/_O4HMND4VZCX36L6BGZ2WYJHXZY)
+
+- Jun 1, 2009 8:18 AM
+
+Cách an sao Kình Đà và vòng Tràng Sinh cháu thấy trên nhiều diễn đàn tranh luận nảy lửa quá. Có phải theo quan điểm của Bác thì Tử vi chính nghĩa là đúng ko ạ? Nghĩa là luôn là "tiền Kình, hậu Đà" tính theo chiều kim đồng hồ (thuận), chứ ko phải âm thì tính chiều nghịch? Cháu thấy bác đã nói đến (Kình Đà + Không Kiếp), (Kình Đà + Thái Tuế), (Kình Đà + Lực Sỹ) rồi (Kình Đà + Phượng Các) nhưng nếu hội đủ (Ví dụ đủ cả Đà + Tuế + Lực Sỹ + Phượng Các + Không Kiếp) thì sẽ luận đoán thế nào Bác, hay lai phải xét thêm các sao khác nữa trong cung và tam hợp (mà bản thân các sao này đã là quan trọng rồi). Bài về Không Kiếp bao giờ bác sẽ viết ạ? Cháu thấy 2 vị kịch độc này làm hỏng nhiều món ngon quá
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jun 1, 2009 8:52 AM
+
+Đương nhiên Tiền Kình Hậu Đà 2 sao này "đón trước rào sau" cho bộ Tồn + Bác. Nhờ vậy CỰ hay Phá cũng không nát.  Khi có trường hợp như cháu nói thì nó về phe với KK. Bởi thế mới bị phê phán là Sát Tinh. Đi với Cát tinh không khó KK, Kỵ Hình thì đành ủng hộ nhóm sao này. Cũng như bản chất một số người xu phụ, Kình Nâng Đà Bợ lên, khi xấu đâm lên, xóc lên đạp xuống. Hạ bệ. Hóa ra bác chưa viết bài nào về KK sao? Bác nhớ như là có đấy.
+
+-
+
+Hai [
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_U4AIO6DDM3QJ5RNVMVICKC3SEU)
+
+-  [Hai](http://blog.yahoo.com/_U4AIO6DDM3QJ5RNVMVICKC3SEU)
+
+- May 16, 2009 3:15 AM
+
+Cháu nhớ có đọc ở đâu đó, Kình Dương hễ gặp Thiên Lương đồng cung thì biến thành thành Hình, Đà la hễ gặp Cự môn thì lập tức biến thành Kỵ. Không biết ý kiến bác thế nào ạ? Hôm nào bác viết một bài về hóa khí các sao nhé ! Thx.
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 16, 2009 6:12 AM
+
+Tội thứ nhất. Đọc đâu đó không nhớ. Xem thường những điều học hỏi. Không chịu đem ra áp dụng thử đúng sai như thế nào.
+
+Tội thứ 2. Ai viết tìm người đó mà hỏi. Tại sao lại hỏi bác làm mích lòng người khác.
+
+Nhưng cũng đành nghiến chặt răng mà trả lời thôi. Không ai trả lời lời giống ai hết. Chú ý nghe nè.
+
+KÌNH DƯƠNG nó hung lắm kìa, nó dữ lắm kìa, nó đâm cái lủng bụng, đạp phải thủng chân… khi có KỴ HÌNH KIẾP LINH HỎA (càng nhiều họa càng to) và nó là ngôi sao tranh đấu (trâu đánh) khi có CỰ SÁT PHÁ dễ òm. Tùy vào ba cái sao đuôi ta đoán là cái thằng trời ơi ! hay một nhà tranh đấu nổi tiếng.
+
+Đi với THIÊN LƯƠNG ngôi sao may mắn (tùy vị trí) có lúc phải đoán là: May Mắn và hãnh diện được đứng vị trí số 1 trên bục nhận huy chương, trên bảng vàng khoa bảng… trên đầu thiên hạ.   CỰ ĐÀ cái miệng méo xệ, cái cửa đóng lại, chí hướng khác thường đã viết lai rai đâu đó chưa chính thức. Trong thời gian tới, không những TỬ KÌNH, TỬ ĐÀ, CỰ KÌNH, CỰ ĐÀ… cái gì cũng có hết, không thiếu một thứ gì cả.
+
+Trên chỉ là phần mở đầu mà thôi. Bài viết còn là KÌNH ĐÀ + CHÍNH TINH, KÌNH ĐÀ + BÀNG TINH. KÌNH ĐÀ qua 12 cung đoán như thế nào, Hạn đoán ra sao thế mới hết Kình Đà.
+
+Nhưng chỉ hé lộ đoạn đầu thôi.
+
+Yêu cầu đọc kỹ rồi hỏi sau cũng không muộn . Bài Hóa Khí có viết rồi đó nằm ở đâu đó đoạn sau mang tên bộ Tứ Hóa. Sau nầy lôi lên viết cụ thể TỬ QUYỀN, TỬ KỴ (có rồi)… đại khái bài viết sẽ như vậy.
+
+-   Private comment
+
+-
+
+2 lúa [
+![](http://socialprofiles.zenfs.com/images/25fdd73bb89863a3aa63f4178a5a9af3_48.png)
+](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+-  [2 lúa](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+- May 5, 2009 1:26 AM
+
+- vâng, cảm ơn bác, cháu nhắn anh locvung rồi ạ
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+2 lúa [
+![](http://socialprofiles.zenfs.com/images/25fdd73bb89863a3aa63f4178a5a9af3_48.png)
+](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+-  [2 lúa](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+- May 4, 2009 9:43 AM
+
+- hi hi, không thích thì làm sao mở cửa cho được bác ơi. Ảnh bác ấn tượng thật đấy, cháu thích cái ảnh này
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 4, 2009 1:21 PM
+
+- Cháu tải về máy mà kỷ niệm coi như bác tặng cháu. Nếu thích thì xin cái Flash bác làm tặng vualocvung nhưng xin bên phía bạn ấy.
+
+-
+
+Vua Lộc Vừng [
+![](http://socialprofiles.zenfs.com/images/8e74fb1451b2c55cc0a9dc9361016df0_48.jpg)
+](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+-  [Vua Lộc Vừng](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+- May 4, 2009 7:27 AM
+
+Bác ơi! Hình đẹp quá , Bác cao thật đấy chắc là cao hơn cháu rồi ( cháu cao 1,7M). Cháu cảm ơn Bác thật nhiều.
+
+Thời gian gần đây cháu hầu như gặp phải sao xấu trong kinh doanh. Gần như mọi quyết đinh cháu đưa ra đều thất bại. Cháu thật sự không nao núng và nản chí mặc dù cũng buồn , chuyện làm ăn không phải lúc nào cũng trôi chảy. Thế nhưng đổi lại cháu có cuộc sống gia đình rất đầm ấm , hạnh  phúc. Sức khỏe cháu cũng tốt , Mẹ cháu cũng khỏe. Hơn nữa được quen biết và trò chuyện cùng Bác và một số bạn bè qua blog , được Bác tặng quà rất nhiều làm cháu thấy mình hạnh phúc và không còn sầu lo nữa. Cháu luôn biết rằng cuộc đời mỗi con người không bao giờ được hết cũng như mất hết vì thế cháu rất hạnh phúc với cuộc sống này.
+
+Cháu kính chúc Bác luôn mạnh khỏe!
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 4, 2009 8:15 AM
+
+Bác chỉ cao 1m62 thôi. Cái hình bác gơi cho cháu thật vất vả. Cứ thấy nó xoay xoay miết, chẳng biết gởi được chưa. Định lấy laptop gởi đấy.
+
+Quan trọng là vui thôi cháu ơi! Một ngày không có chuyện phiền lòng là bác vui rồi. Làm được điều gì đó cho người là vui thế thôi.
+
+-
+
+2 lúa [
+![](http://socialprofiles.zenfs.com/images/25fdd73bb89863a3aa63f4178a5a9af3_48.png)
+](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+-  [2 lúa](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+- May 4, 2009 6:14 AM
+
+- bác ơi, vậy cháu là Cự Kình bác nhỉ, không phải Cự Đà. " Đóng
+
+mở tùy lúc" - hi hi, chắc giờ cháu đang "đóng", bác ơi
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 4, 2009 8:17 AM
+
+- Chắc không? Hay trong lòng ưa mở mà không gặp người. Gặp một người phù hợp khó lắm kìa?
+
+-   Private comment
+
+-
+
+Vua Lộc Vừng [
+![](http://socialprofiles.zenfs.com/images/8e74fb1451b2c55cc0a9dc9361016df0_48.jpg)
+](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+-  [Vua Lộc Vừng](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+- May 3, 2009 4:23 PM
+
+- Bác ơi!
+
+Bác đem USB ra tiệm sang lại là sao cháu không hiểu? Cháu nghĩ Bác làm ở nhà rồi gởi qua mail chứ Bác? Nếu phiền thế thì Bác không cần làm đâu Bác ơi.
+
+Cháu thấy hình đó có đủ tên của mình nên cháu thích vậy thôi Bác.
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 4, 2009 1:26 AM
+
+Bác gởi hình cho cháu, qua mail. Cháu copy bỏ vào USB đem ra tiệm sang ảnh. Sang bao nhiêu tấm cũng được. Cháu không quen đem hình đi sang à. Hình chụp xong tự mình chỉnh sửa cho ưng ý sang ra mới đẹp, đa phần sang ra thiếu ánh sáng, không được tươi. Bác còn sửa cả nếp nhăn trông trẻ trung bởi thế ai cũng thích bác chụp, hiện giờ còn một mớ chưa chỉnh sửa thật ngao ngán. Chơi cái nầy vừa mất công lại tốn tiền.
+
+-
+
+Vua Lộc Vừng [
+![](http://socialprofiles.zenfs.com/images/8e74fb1451b2c55cc0a9dc9361016df0_48.jpg)
+](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+-  [Vua Lộc Vừng](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+- May 3, 2009 3:19 PM
+
+-
+
+Bác ơi!
+
+Flash nhạc này cháu thấy thích quá , bà xã cháu cứ khen Bác lớn tuổi mà sao nhiều tài và giỏi thế. Cháu thích nhất là tấm hình Bác đứng còn cháu thì ngồi trông rất là hay. Bác ơi Bác thêm được chữ Hồng ( thư pháp ) vào trên chữ Phúc cháu thích quá. Bác có thể gởi cho cháu tấm hình đó được không Bác?
+
+Hình như nhà Bác có hỷ sự phải không Bác?  Nếu thế cháu xin chúc mừng Bác và gia  đình!
+
+Cháu kính chúc Bác và gia đình thật mạnh khỏe và hạnh phúc.
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-
+
+- May 3, 2009 4:02 PM
+
+-
+
+- [](https://www.blogger.com/@apac1/y/abuse?guid=DEBFJDI5O7HRJ7PWCR5NI7G4CE&ugcId=55823&type=bc)
+
+Bác đi ăn cưới, thấy sân khấu đẹp ghi lại tấm hình làm tư liệu. Hình làm trong Flash chất lượng thấp nhưng tư liệu vẫn còn mai làm cái khác, nhanh ..
+
+Bác đi ăn cưới, thấy sân khấu đẹp ghi lại tấm hình làm tư liệu. Hình làm trong Flash chất lượng thấp nhưng tư liệu vẫn còn mai làm cái khác, nhanh lắm, chất lượng cao. Bỏ vào USB đem ra tiệm sang lại, ở đây là 3 ngàn. Coi như bác tặng cháu vậy.
+
+-
+
+TênTên
+
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+
+-  TênTên
+
+- May 3, 2009 3:48 AM
+
+cháu chào Bác,
+
+cháu mới biết đến Blog của Bác , mấy ngày nghỉ cháu vào đọc rất kỹ và thấy rất hay. Ở đây Bác có xem Tử vi không ạ? Nếu có, Bác xem giúp cháu với nhé. vì lâu nay, cháu cứ nghĩ mình có mệnh Đồng Lương tại Dần, nhưng gần đây có ngừoi quả quyết cháu là Vũ Sát ở Mão.
+
+Cháu đối chiếu thì thấy mỗi lá số đúng 1 tí nên cuối cùng cháu chẳng biết mình thực sự là lá số nào. Cháu trình độ tử vi nông cạn, vì cháu cũng chỉ vô tỉnh biết đến khoảng 2 năm nay, nên cháu mạo muội mong Bác bớt chút thờii gian xem giúp cháu.
+
+Cháu sinh ngày 7, tháng 9, năm 1977 lúc 12h trưa, cháu là Nam giới.
+
+- cháu cao 1m69, nặng 77 kg, nhưng nhìn ko béo, da trắng, mắt cận, trầm tính, ít nói
+
+- cháu đi xa quê khi mới 7 tháng tuổi, khi sinh ra thì Bố cháu đang ở xa. Trong nhà cháu hợp với mẹ hơn. Nhà cháu có 4 anh em, 3 trai & 1 gái. Cháu là con trưởng, em gái kế cháu mất năm 1980 khi mới 1 tuổi.
+
+- cháu lấy vợ năm 2008
+
+- Năm học lớp 4, cháu bị điện dậy tưởng chết
+
+- Năm 1989 cháu chuyển chỗ ở lần 2, lần 1 khi mới 7 tháng
+
+Bác ơi, nếu thông tin trên vẫn chưa đủ, Bác cho cháu biết nhé,
+
+Cháu mong tin Bác,
+
+Kính Bác
+
+Cháu Avi
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 4, 2009 2:36 PM
+
+Cháu thuộc cách VŨ SÁT cháu là đại huynh trưởng, vì chỉ có những người huynh trưởng có các sao KHÔI (đứng đầu) KÌNH DƯƠNG chủ trưởng, và TỬ VI con trưởng để ‘gánh vác’ việc trong gia đình.
+
+Điểm 2 rất quan trọng là cháu bị cận, do THẤT SÁT một ngôi sao lầm lẫn (vì Sát là quan sát, Thất là mất. Mất sự quan sát. Tốt là cái gì cũng thấy hết, rất tường tận) bên cung Tật có bộ NHẬT NGUYỆT thiên về đôi mắt nằm ở Tật tức là tật gì đó do tai mắt.
+
+Chỉ 2 yếu tố nầy thôi cũng xác định cháu cách Vũ SÁt.
+
+Yếu tố anh em cũng có thể hiện cả trên 2 lá số nhưng cách Vũ Sát rõ hơn, vì Huynh Đệ cung bị TRIỆT mà MỆNH của mình lại mất (THẤT SÁT chủ mất, nếu cháu sinh sau người anh đầu cũng mất).
+
+Khoảng năm Sửu cháu bị điện giật do MỆNH có LINH nhị hợp có HỎA, nhất là cách LINH HÌNH VIỆT bộ 3 sao nầy thật đáng sợ nhất là đi với cách CƠ LƯƠNG hoặc cách VŨ SÁT như trường hợp của cháu. May nhờ MỆNH có sao TỬ VI. Thân có bộ PHỦ TƯỚNG che chở một cách vô hình. Mặc dù cái năm xấu đó đã qua rồi nhưng sau nầy tiểu hạn đáo cung MỆNH tức năm Sửu luôn luôn quan phòng. Điện, lửa, sấm sét nguy cơ bị cây đè, vật nặng đè. Mối nguy hại còn cao khi đại hạn đến 44-53 tuổi (tức nhìn thấy lại bộ LINH HÌNH) tức các năm Tị Dậu Sửu của Đại hạn nầy đều đáng sợ. Dĩ nhiên cao nhất là năm Sửu.
+
+Tay TỬ VI nào đó cũng khá khi quả quyết cháu là cách Vũ Sát. Thật ra TỬ VI cần sự hợp tác của cả 2 bên mới tìm thấy lá số đúng, từ lá số đúng với phương pháp luận đoán đúng, cho ta lời giải đúng.
+
+Cách Vũ Sát của cháu bác mới viết đó. Cách Vũ Sát ngộ TRIỆT là xem nhẹ tiền của, trừ bỏ sự chiếm đoạt của THẤT SÁT, đồng thời ngôi sao hay bắt bẻ (THIÊN HÌNH) cũng không phác huy mấy tác dụng làm khó cho người. Sao TRIỆT ở đây cũng khá hay nhờ nó mà tài năng lộ ra, đồng thời là cách trừ khử được điện, sét. Muốn vậy ư? Phải có kiến thức về điện, sét. Chỉ có kiến thức về điện mới sử dụng điện an toàn, một nguy cơ gây cháy, nổ mà chính trong số MỆNH mình lại có sẵn.
+
+Và năm nầy lại một năm Sửu, với bộ LINH HÌNH VIỆT dễ bị tai họa về điện, sét, sự sụp đổ gây đè ép nhưng cái nguy không phải là cao. Nhưng dễ gặp những chuyện Thất Kinh do bộ sao nầy lại đi chung với THẤT SÁT.
+
+Việc xác nhận dùm cháu lá số nào chắc cháu đã thỏa mãn.
+
+-
+
+Vua Lộc Vừng [
+![](http://socialprofiles.zenfs.com/images/8e74fb1451b2c55cc0a9dc9361016df0_48.jpg)
+](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+-  [Vua Lộc Vừng](http://blog.yahoo.com/_XQZRH4IDC55D3RLRKXLFTYDENM)
+
+- May 2, 2009 3:14 PM
+
+Cháu chào Bác!
+
+Đến nay vẫn còn lai rai vài người muốn nhận " phần mềm" của Bác vì họ ngỡ là phần mềm viết về tử vi. Cháu phải giải thích chọ họ biết chứ nếu không mình gởi họ nhận được " phần không mềm" mà tòan là hình của Bác và giọng của cháu thì họ la chết.
+
+Quân kỳ là linh hồn của quân đội. Nếu quân kỳ gãy , rơi thì coi như thất bại phải không Bác. Trong trận đánh quân sĩ nhìn quân kỳ mà bày trận và tiến lên , người cầm quân kỳ phải là chiến binh thật giỏi và dũng cảm. Dù bị đánh tan tành nhưng người cầm quân kỳ còn giơ cao quân kỳ và tiến lên thì quân sẽ tiến lên và ngược lại. Trong quân đội người ta rất ngại rơi quân kỳ , cho đó là điềm rất xấu. Cháu biết trong kinh doanh người ta cũng kiêng cử dữ lắm. Có người làm lễ động thổ dự án mà rơi cờ hay rơi băng rôn họ đã hủy luôn lễ động thổ đó. Chuyện về quân kỳ trong mấy sách tàu ghi nhiều lắm, tất cả đều cho là điềm xấu nếu làm rơi quân kỳ hay gãy cột cờ.
+
+Mấy ngày nay nghỉ lễ , SG đường xá mênh mông thật thích Bác ơi!
+
+Cháu kính chúc Bác luôn mạnh khỏe!
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 2, 2009 4:47 PM
+
+Bác cũng có ý định làm phần mềm giải thích về Hạn mới dễ hiểu. Hôm nay cưới hỏi xong rồi về nhà, ôm theo mấy chụp tấm hình, chưa xử lý thì mất điện, cái của cháu bác làm xong rồi, xem đi xem lại mới quyết định gởi được. Chơi những cái rất mới, kể cả hình đám cưới ngày hôm nay cũng dùng đến. Sét đánh cột cờ, duy nhất chỉ bác chứng kiến. Cột cờ bằng cây gỗ, nứt khoảng 3 ly từ trên xuống dưới, tổn thương phần bê tông gắn cột cờ. Cột cờ không phải là vị trí cao nhất, cao nhất là những ăng ten đang có điện nhưng lại không bị đánh. Điềm báo cho bác thấy, số phận cũng lạ, chỗ nào tồi tệ lại được lôi đi vất chỗ khác. Đó là trận Thường Đức năm 74 ai mà chả biết. Chết khoảng 1000 người (phía quân Sài Gòn) sau 7 ngày cầm cự. Hơn cả vạn quả pháo bắn xuống. Sau giải phóng xem những tấm hình triển lãm mới kinh hoàng. Không còn viên gạch nào trên viên gạch nào. Nói chung đa phần chết anh dũng.
+
+-
+
+Thiên Phủ [
+![](http://socialprofiles.zenfs.com/images/fc9e6056ef45b6c475f9f8a9e4b947a7_48.png)
+](http://blog.yahoo.com/thienphu)
+
+-  [Thiên Phủ](http://blog.yahoo.com/thienphu)
+
+- May 2, 2009 10:04 AM
+
+- màu đen không nhìn xấu , nhưgn chưa có hứng thú chỉnh lại blog đó mà
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+linh [
+![](http://l.yimg.com/a/i/identity2/profile_48a.png)
+](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+-  [linh](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+- May 2, 2009 5:40 AM
+
+- Thiên Phủ thay hình biểu tượng rồi, có vẻ bạn thích màu đen, nhưng mà nhìn màu đen hoài dễ chán đời lắm ah
+
+[Reply this comment](https://www.blogger.com/null)
+
+-   Private comment
+
+-
+
+Thiên Phủ [
+![](http://socialprofiles.zenfs.com/images/fc9e6056ef45b6c475f9f8a9e4b947a7_48.png)
+](http://blog.yahoo.com/thienphu)
+
+-  [Thiên Phủ](http://blog.yahoo.com/thienphu)
+
+- May 2, 2009 3:00 AM
+
+- bác ơi bác có biết việc Sét đánh Lễ tế Đàn Xã Tắc và Cửa Quảng Đức  như đã xảy ra ở An Hòa không , theo bác ở đây ý trời là gì
+
+[Reply this comment](https://www.blogger.com/null)
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- May 2, 2009 6:56 AM
+
+Cửa An Hòa thì bác có biết, Lễ Tế đàn Xã tắc thì không, cửa Quảng Đức cũng vậy, thư mục ảnh có cửa Q Đức bác ghi hình hôm 27 Tết. Hồi trước bác ở một đơn vị vùng xa bị sét đánh cột cờ, vài tháng sau bác bị đổi đi nới khác, đơn vị nầy bị đánh tan tành, đó là trận đánh lớn năm 74. Bác mất nhiều bạn bè, trong đó có lá số THẤT SÁT cư Tuất đáng lý, bác giới thiệu lá số nầy từ lâu rồi. Theo bác trời báo nới ấy bị xui xẻo gì đó. Trước khi ND Diệm sụp đổ sét đánh ngay mộ thân sinh của ông ta. Nếu đánh ngay cửa Quảng Đức dòng họ bác sợ e có chuyện không hay.

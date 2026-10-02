@@ -1,0 +1,265 @@
+---
+id: bd#2036618050836357688
+title: "Bộ Tam KHÔNG."
+url: https://tuviungdung.blogspot.com/2024/08/bo-tam-khong.html
+published: 2024-08-11T16:46:00.004+07:00
+updated: 2024-08-11T16:46:59.640+07:00
+labels: []
+---
+
+# Bộ Tam KHÔNG.
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHdmhB9Rh7Tb6uSb-ofcrXvvDE5Pdv7XEY-qLEtugAglV0X6A9Bwoss9HmnNKdM4rNNeHA9rfZ3vgaQ1Qzxz36eI6_MGW9IpLu-RKGxCmfsHwCRjCEJQEIFofgD0jmiarJlH-xZ3aal8RCEp2ino98MTiX2guldo6nH0hNpzhLWIbWBvCEgbo05nWrH26/s16000/TamKHONG.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHdmhB9Rh7Tb6uSb-ofcrXvvDE5Pdv7XEY-qLEtugAglV0X6A9Bwoss9HmnNKdM4rNNeHA9rfZ3vgaQ1Qzxz36eI6_MGW9IpLu-RKGxCmfsHwCRjCEJQEIFofgD0jmiarJlH-xZ3aal8RCEp2ino98MTiX2guldo6nH0hNpzhLWIbWBvCEgbo05nWrH26/s500/TamKHONG.gif)
+
+ Trước
+tiên các học viên cần đọc lại bài bộ  TUẦN
+TRIỆT có trong FBD mục Các Bộ Can Chi. Từ bộ TUẦN TRIỆT có thể tạo ra bộ Tam
+KHÔNG.
+
+Từ
+vị trí TUẦN, TRIỆT hay THIÊN KHÔNG kết hợp với nhau thành bộ Tam KHÔNG. Chú ý
+lý luận tại đây có giá trị khi nằm về 1 phía. Ví dụ. Mệnh có TUẦN TRIỆT đồng
+cung hay tam hợp Thiên Di cung có THIÊN KHÔNG lý luận khác. Hoặc Mệnh có THIÊN
+KHÔNG, Thiên Di cung có TUẦN TRIỆT lý luận khác…
+
+Bộ
+Tam KHÔNG không phải dễ gặp. Ví dụ năm Giap Thìn… không thể gặp.
+
+Năm
+Ất Tị… có thể gặp tại Dần Ngọ và Tuất với điều kiện có THIÊN KHÔNG tại 3 cung
+này. Và Hợi Mão Mùi nếu có THIÊN KHÔNG tại 3 cung này. Trong trường hợp này gọi
+là Tam KHÔNG gia thêm ĐỊA KIẾP.
+
+Nếu
+Mệnh, Tài, Quan cũng nằm ở đây ta gọi là Tam KHÔNG tại Mệnh Tài Quan. Nếu tại
+Phụ Tử Nô. Ta gọi Tam KHÔNG tại Phụ Tử Nô…
+
+Tam
+KHÔNG có thể đi với bộ TỬ PHỦ VŨ TƯỚNG LIÊM.
+
+TỬ
+VŨ LIÊM giao hội với SÁT PHÁ THAM.
+
+PHỦ
+TƯỚNG đơn thủ.
+
+SÁT
+PHÁ THAM đơn thủ.
+
+ÂM
+DƯƠNG LƯƠNG
+
+CỰ
+ĐỒNG CƠ
+
+CỰ
+NHẬT
+
+VCD.
+
+Như
+vậy chúng ta có 8 trường hợp Tam KHÔNG đi với chính tinh. Cách luận đoán cũng
+khác nhau. Chỉ giống nhau 1 điểm mọi sự cũng thành KHÔNG. Bộ Tam KHÔNG còn gọi là
+Tam Vong làm mất hoàn tác dụng tốt của các bộ sao khác. Đã thế còn làm tăng
+tính chất xấu của hung tinh, sát tinh, KỴ HÌNH tinh. Ám tinh.
+
+Tam
+KHÔNG đi với TỬ VŨ LIÊM là không địa vị, không công danh, không bền lâu, vô đạo.
+
+Tam
+KHÔNG đi với PHỦ TƯỚNG không ai thương yêu tương trợ. Trời đất bao la không nơi
+nương thân. Xin làm đệ tử Hồng Thất Công, homeless. Trong đó THIÊN TƯỚNG là kế
+nghiệp, là nối dõi. Có thể đưa đến không con…
+
+Như
+vậy TỬ VŨ LIÊM đi với PHỦ TƯỚNG không chỉ 3 không mà đến 5 không. Nếu TỬ PHỦ VŨ
+TƯỚNG LIÊM có KHOA QUYỀN LỘC cộng Tam KHÔNG thì sao? Thì phải tuân theo luận
+đoán ông THIÊN KHÔNG mà thôi. Đã bảo rằng không còn phải hỏi.
+
+Tam
+KHÔNG đi với SÁT PHÁ THAM.
+
+Đây
+là trường hợp Hung tinh gặp thêm Vong tinh, Sát tinh. Khỏi phải nói quý ông,
+quý bà này đa phần ở trong hộp, ăn cơm miễn phí. Có ra đời ăn cơm phải trả tiền
+thì cũng PHỤC BINH quay lại ăn cơm miễn phí. Quý vị này chỉ nghe bạn bè mà
+thôi. Ông bà, cha mẹ nói cũng vô ích. Nếu có nghe chăng là nghe thẩm phán,
+chánh án… tuyên án. Tất cả Tam KHÔNG SÁT PHÁ THAM đều giống nhau ở chỗ “mộng
+không thành”. Ngôi sao mơ mộng THAM LANG gặp tới Tam KHÔNG. Thế mà có người bảo
+“ai cũng có quyền mơ mộng”. Từ nằm mơ đến đời thực khác nhau rất nhiều.
+
+TỬ
+VŨ LIÊM đi với SÁT PHÁ THAM thì sao?
+
+Có
+tới 6 cái KHÔNG lận. Tam KHÔNG đủ khổ rồi, sự bất quá tam đến 6 cái KHÔNG, chẳng
+còn gì để nói. Thế thì TỬ VŨ LIÊM + SÁT PHÁ THAM lại thêm KHOA QUYỀN LỘC lại có
+Tam KHÔNG thì sao? Tui nhớ không lầm khi học toán. Nếu gặp bài toán 123 cộng với
+456 nhân 0 chia 90. Tất cả đều bằng không. Không biết có sai không nhỉ. Rời ghế
+nhà trường gần 60 năm. Có khi nào chữ nghĩa trả lại cho thầy.
+
+TỬ
+VI có toán học trong đó. Người viết đã từng viết. TUẦN là dấu cộng, TRIỆT là dấu
+trừ. Số lẻ là THIÊN CƠ, số chẵn là THIÊN ĐỒNG… Số 3 TAM THAI, Số 7 THẤT SÁT, số
+8 BÁT TỌA… Tất nhiên số KHÔNG là THIÊN KHÔNG trong TỬ VI ỨNG DỤNG, với các loại
+TỬ VI khác có khi gọi là ĐỊA KHÔNG. Vậy thì đáp số bằng KHÔNG vạn sự cũng giai
+không. Bất tài, vố đạo, không thành mà gánh vác để rồi mất tất cả.
+
+Bất,
+Không, Vô, Vong, Thất. Thú vị các từ này đều có nghĩa là KHÔNG nhưng trong 1 số
+trường hợp người ta dùng từ này, có khi dùng từ khác. Nhưng có chung 1 ý là
+KHÔNG.
+
+Các
+bộ sao còn lại thì sao ? Viết ra chỉ dài dòng thôi đã Tam KHÔNG thì mọi cái đều
+thành không. Đáng nói là trường hợp Song LỘC đi với Tam KHÔNG thì sao? Thì cũng
+giàu sang 1 thời mà thôi.
+
+Trường
+hợp VCD đắc Tam KHÔNG có Song LỘC thì sao? Phú quý khả kỳ, tức giàu sang 1 thời
+do thói không thật của THIÊN KHÔNG sau đấy phải trả giá. Mỗi khi có THIÊN KHÔNG
+hội họp. tại Mệnh luôn luôn có CÁO PHỤ hội họp. tại Tật Ách. PHONG CÁO tại đây
+là được THIÊN SỨ đại diện ông nhà nước, quá thương PHONG cho làm tù nhân, sau
+khi tố CÁO nhiều tội, kể không hết. Và THAI PHỤ có nghĩa là người ngồi trên ĐÀI
+cao PHỤ bạc mình. THAI PHỤ hay ĐÀI PHỤ chỉ 1 nghĩa mà thôi. Dù sao trước đây
+cũng là quan chức với nhau hoặc vai vế rất quan trọng. Lại nói về quan trọng là
+sao TUẦN TRUNG nhưng ngộ KHÔNG. Tất nhiên có ngày không ai xem mình là nhân vật
+quan trong. Còn ý chữ trung thì sao? Còn địa vị, còn tiền thì còn trung thành,
+hết rồi, trung thành liên can, liên đới mang họa thì có. Lòng người như lá úa
+chỉ có lá nilon không úa mà thôi.
+
+Trên
+là nói về Tam KHÔNG đi với chính tinh. Tam KHÔNG còn có thể gặp ở các dạng còn
+đáng sợ hơn. Tam KHÔNG đi với CỰ, PHÁ có thể gặp thêm cách Cát Xứ Tàng Hung, Đi
+với THIÊN HƯ TUẾ PHÁ thành bộ HƯ KHÔNG. Tam KHÔNG còn có thể gặp thêm ĐỊA KIẾP,
+HỎA TINH, LINH TINH, THIÊN HÌNH, HÓA KỴ, Tam Ám mê muội. Tạo thành nhiều bộ Tam
+KHÔNG đáng sợ.
+
+Tam
+KHÔNG qua các cung.
+
+Trên
+là nói Tam KHÔNG tại Mệnh, Tài, Quan.
+
+Tam
+KHÔNG tại Phụ Tử Nô. Cha mẹ cần có cớ sao lại không? Không phải cha ruột là
+bố dượng. Đó là dì ghẻ chứ không phải mẹ ruột. Thà rằng không có bố mẹ còn hơn…
+Bị vất bỏ ngoài xã hội, ai nuôi thì gọi là cha…
+
+Lại
+nói về cung Tử Tức Tam KHÔNG. Không phải con sao gọi là con? Con riêng của chồng,
+con riêng của vợ. Còn con chung? Chưa có. Luôn luôn có 1 tiếng “không” cay đắng.
+Cay đắng nhất là có con nhưng không được nương nhờ. Có cũng bằng không. Có cũng
+như không. Còn nhiều cái không còn đáng sợ hơn, nói ra quá khủng khiếp. Tạm dừng
+tại đây.
+
+Tam
+KHÔNG tại Nô Bộc cung.  Thà rằng không có
+bạn bè, tôi tớ. Nếu có, nó lừa đảo chiếm đoạt tài sản thì cũng đau. Đau nhất giết
+mình đoạt vợ/ chồng. Bạn bè phản bội, lợi dụng, lạm dụng nếu có là chuyện bình
+thường. Chuyện Lưu Bình, Dương Lễ chỉ có trong cỗ tích mà thôi. Chuyện đời thường
+trái đắng.
+
+Tất
+nhiên cung Phụ Tử Nô có tam KHÔNG, gặp đúng đối tượng có bộ ấy. Gọi là người định
+mệnh. Chứ không phải bạn bè tất cả đều Tam KHÔNG, mình lại có duyên với những
+tên Tam KHÔNG nhất.
+
+Tam
+KHÔNG tại Điền Tật Huynh.
+
+Nhà
+cửa cần có cớ sao lại nói không? Họ cho ở nhờ. Viện dưỡng lão. Nhà thuê. Đây là
+gầm cầu, mái hiên chợ, ga xe điện ngầm… Gọi là nhà nghe không ổn…
+
+Đừng
+nói tui là anh em với Ủn Ỉn. Tội tui.
+
+Không
+có anh chị em thật à. Tui độc đinh. Hôm trước có người cậu gọi là em/. Anh em
+nuôi, kể vô làm gì, nó còn đòi chia tài sản nữa kìa. Chính cái cung Huynh Đệ là
+nơi dễ tranh chấp tài sản nhất. Chỉ cần gặp cách VŨ KÌNH CÔ QUẢ tại cung Điền đủ
+mệt, nói gì đến tam KHÔNG.
+
+Tam
+KHÔNG tại cung Tật bị xem là xấu nhất. Vì đó là cung Ách dễ gặp những cái ách
+không ngờ đến. Ông THIÊN SỨ nói “không tha”, coi như xong phim. Nếu phim còn tập
+kế tiếp gặp lại THIÊN SỨ. Ông ta áp dụng công thức cộng với cộng bằng có. Cộng
+với không cũng bằng có. Vượt ngục, lại giết người là cộng thêm. Trình độ toán học
+ngang tính cộng.
+
+Tam
+KHÔNG tại Phúc Di Phối.
+
+Cung
+Phúc là cung đem lại phúc đức cho bản thân. Nếu không cha, còn chú, không mẹ níu
+vú dì. Tam KHÔNG là không có câí vú nào bú tí. May ra vất bỏ có sư, sãi, cô nhi
+viện nuôi. Lỡ nổi tiếng trang Wiki ghi ngày mất thì có, ngày sinh thì không.
+
+Tam
+KHÔNG tại Phối. Đoán là 3 lần hôn nhân người ta cười. Chỉ 1 THIÊN KHÔNG mà thôi
+cũng nhiều lầm lỡ chuyên đò. Vì người này không thành vì nghèo, người kia giàu
+mà xấu òm, người nọ bệnh… Còn Tam KHÔNG thì sao? Nó không trung thành, nó bỏ
+tui hay tui bỏ nó. Nó ngoại tình còn tui ăn nem… Quan trọng có sức khỏe hay
+không mà thôi. Hai là phải có nhiều tiền mới sinh ra nhiều chuyện. Liệt dương
+thần chưởng, nghèo rớt mồng tơi, mặt như cương thi. Có khi THIÊN KHÔNG chỉ là
+con số KHÔNG to tổ bố. Được như Chí Phèo, Thị Nở còn may.
+
+Tam
+KHÔNG tại Di là vô duyên nhất. Vừa ảnh hưởng xấu đến cung Phúc, cung Phối  Cung Di chủ sự đi lại mà nói Tam KHÔNG. Các
+ngôi sao được đánh giá là có Phúc như THIÊN ĐỒNG trở thành vô phúc, May mắn như
+THIÊN LƯƠNG trở thành không may, có nghĩa là mang họa. Nếu bị lừa đảo, mất của
+còn may. Có thể mất mạng nữa thì có.
+
+Cũng
+xếp vào vô duyên là nhóm PHỦ TƯỚNG. Đây là bộ sao thương yêu và che chở do ngộ
+Tam KHÔNG. Nếu là tội phạm, buôn gian bán lận, lừa đảo dễ bị bắt nhất. Vì thế
+có câu.
+
+“Thiên
+Di tối kỵ KIẾP KHÔNG lâm vào”…
+
+Vì
+Tam KHÔNG tại Di có thể dễ gặp thêm cách QUẾ SỨ HOA THƯƠNG tại Nô, Tật. Không
+tin cũng phải tin thôi. Đó là sự thật.
+
+Dù
+Tam KHÔNG ở cung nào đi nữa. Tam KHÔNG cũng có thể gặp thêm ĐỊA KIẾP, HỎA TINH,
+LINH TINH, KỴ HÌNH Hung tinh, hung bàng tinh, bại tinh, CÔ QUẢ, THƯƠNG SỨ, LA
+VÕNG. Làm cho cách Tam KHÔNG càng khủng khiếp thêm. Đặc biệt không gặp thêm CÁO
+PHỤ XƯƠNG KHÚC
+
+Cung
+an Thân tối kỵ có Tam KHÔNG.
+
+Vì
+cung an Thân cần có bình thường như mọi người. Cớ sao lại nói Thân tôi không…
+có… Đằng sau từ không có nói lên sự bất bình thường của 1 người tật nguyền hoặc
+tàn phế hoặc số phận gặp kiếp nạn ghê gớm.
+
+Hạn
+ngộ Tam KHÔNG.
+
+Mệnh
+có Tam Không, hạn ngộ Tam KHÔNG tức nằm trong các cung Quan Lộc hay Tài Bạch.
+Dĩ nhiên đại hạn đến đó rất là xấu. Vì tất cả mọi cái đều là không. Xem bài “49
+chưa qua 53 đã tới”.
+
+Mệnh
+không có Tam KHÔNG nhưng hạn gặp Tam KHÔNG. Nhất là cách TỬ VI ngộ Tam KHÔNG cực
+xấu. Vì sao?  TỬ VI là sao chủ sự hoạt động,
+chủ sự sống và cái chết... Hạn ngộ Tam KHÔNG coi như chết lâm sàng. Không hít
+vô là KHÔNG TUẦN, Không thở ra là KHÔNG TRIỆT. Tim không đập, không phản ứng tức
+là TỬ VI ngộ KHÔNG. Ngôi sao TỬ VI bị xóa chữ VI chỉ còn chữ TỬ. Mấy ông bác sĩ
+đâu cần xem TỬ VI. Thấy điện tâm đồ chạy thẳng tưng được quyền tuyên bố chết.
+
+Mệnh
+TỬ VI, Hạn ngộ Tam KHÔNG cũng rất xấu. Vì là sao ưa hoạt động, hành động đáo Hạn
+THIÊN KHÔNG, cái gì cũng không. Y như 1 người về hưu non.
+
+Nói
+chung Hạn Tam KHÔNG thường rất xấu. Vì có thể gặp thêm sát tinh, hung chính
+tinh, hung bàng tin, bại tinh. KỴ HÌNH, Cát Xứ Tàng Hung. Cái xấu không thể kể
+hết.

@@ -1,0 +1,117 @@
+---
+id: bd#1113194726121972548
+title: "Điều tra, bắt giữ và khởi tố. p 2"
+url: https://tuviungdung.blogspot.com/2022/06/ieu-tra-bat-giu-va-khoi-to-p-2.html
+published: 2022-06-24T08:37:00.000+07:00
+updated: 2022-06-24T08:37:09.962+07:00
+labels: []
+---
+
+# Điều tra, bắt giữ và khởi tố. p 2
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7E1ybiiubEZaReAQjoBMSGWYI95fQ0cfxnDiUIBo7NPR1TdPCMLu2o0pRjyAr3kOz6jsts0xdE5WoqPXesI8snQ3F3pkZRyrnOO4KZC2vOOd96mgroQEm2yZjtSywW2aB1WcXP6JzhFVNXXBMdKVsqmICKHY3dF-nfzxtpNg3O2ZSYFCOJRW2Grap-w/s16000/anhdong%20dieutra2.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7E1ybiiubEZaReAQjoBMSGWYI95fQ0cfxnDiUIBo7NPR1TdPCMLu2o0pRjyAr3kOz6jsts0xdE5WoqPXesI8snQ3F3pkZRyrnOO4KZC2vOOd96mgroQEm2yZjtSywW2aB1WcXP6JzhFVNXXBMdKVsqmICKHY3dF-nfzxtpNg3O2ZSYFCOJRW2Grap-w/s500/anhdong%20dieutra2.gif)
+
+**Quyết
+định.Quyền
+quyết định khởi tố mới là quan trọng. Tất nhiên anh có chức vụ, có quyền hạn
+mới được quyền quyết định có nên khởi tố hay không. Anh cũng có quyền nhưng
+quyền hạng bét, quyền hạn chế giỏi lắm anh chỉ đề nghị mà thôi. Từ đấy, từ
+quyền hạn ra đời. Quyền tuỳ theo chức vụ, cương vị cho phép. Quyền hạn mỗi cơ
+quan khác nhau, mỗi cá nhân khác nhau.Quyết
+định là bộ sao gì? Là bộ TỬ VŨ. Quyết là VŨ KHÚC, định là TỬ VI. Điều tra theo
+dõi là sao LIÊM TRINH. So sánh với điều tra xét hỏi là sao THIÊN CƠ.Người
+được quyền quyết định và người bị cũng 2 sao này mà thôi.Người
+được quyền quyết định tất nhiên bộ TỬ VŨ đi với Cát tinh là có quyền rồi. Người
+bị người khác quyết định do bộ sao này không nằm tại Mệnh Tài Quan hoặc nếu nằm
+tại Mệnh Tài Quan lại đi với hung sát tinh, Bại tinh nên quyết định sai lầm có,
+vi phạm, vượt quá quyền hạn.Nhưng
+cuộc đời có lắm éo le. Kẻ có quyền quyết định khởi tố người có lúc cũng vi
+phạm. Hôm nay quyết định số phận của người, mai kia có người khác quyết định số
+phận của mình. Đó là quyền quyết định nhưng không toàn mỹ cũng phạm pháp. Cái
+quyền lực đó không hoàn chỉnh. Cát hung tương bán Trong cái tốt có pha cái xấu,
+trong cái thơm tho có pha mùi máu tanh. Ví như ngọc lành có vết, nếu không dùng
+thì thôi, đã dùng đến tất nhiên theo vết mà vỡ.Ví
+dụ. Chu Vĩnh Khang quyết định biết bao số phận con người, nhất là những người
+theo Pháp Luân Công. Nhưng chính họ Chu cũng bị người khác quyết định số phận.
+Khi còn tại vị, khó tin đều ấy xảy ra. Nhưng đã là số phận thì khó mà thay đổi.Cho
+nên, có người Mệnh SÁT PHÁ THAM đi ngang TỬ VŨ LIÊM thường nằm ở phía Cung
+Thiên Di. TỬ VI quyết định cho LIÊM TRINH điều tra. Lại có người TỬ VŨ LIÊM đi
+ngang PHÁ QUÂN bị PHÁ QUÂN tóm. TỬ VŨ LIÊM hay SÁT PHÁ THAM đi ngang qua CỰ
+MÔN. Cự ta lên tiếng khởi tố tên này. Thế là TỬ VŨ LIÊM áp dụng VŨ KHÚC vạch
+một đường bay. SÁT PHÁ THAM xài chữ bỏ trốn. Còn CỰ MÔN nghe TỬ VI quyết đinh,
+PHÁ QUÂN đòi bắt thì sao nhỉ. Ca bài Biệt ly nhớ nhung từ đây.Quyết
+định từ đơn giản đến cực kỳ quan trọng.Các
+quyết định có thể tốt, xấu, sai lầm...Quyết
+định chiều nay đi ăn cháo vịt.Quyết
+định thôi viết blog.Quyết
+định nhân cơ hội này đánh chiếm vùng Mãn Châu.Quyết
+định rất thời sự. Quân Nga bắt được sẽ tử hình. Tao quyết định chơi tới bến.
+Không gì ngây ngô bằng tử hình tù binh. Vừa vi phạm luật quốc tế, lại vừa xô
+đẩy người ta chiến đấu đến cùng.Khám
+xét.Tức
+là sao THẤT SÁT. Sao này chủ tiếp cận mục tiêu, sát đây là sát rạt. Chủ sự khám
+xét, lục soát thân thể, nhà cửa, nơi làm việc. Nằm trong nhóm SÁT PHÁ THAM.
+THAM LANG chủ do thám, THẤT SÁT thấy rồi lục soát, khám xét. PHÁ QUÂN quyết
+định bắt hay không.Nằm
+xuống. Tao được quyền khám xét mầy. Tao SÁT PHÁ THAM có HOÁ QUYỀN. Mầy là thứ
+SÁT PHÁ THAM ngộ Tam Không, ngộ KHÔNG KIẾP, ngộ KỴ HÌNH. Dùng KÌNH DƯƠNG chống
+đối tao khoan thũng 1 lỗ bây giờ.Khám
+xét chẳng qua quá trình bắt giữ như đã nói phần trước.Hành
+Vi Tham Ô.Nói
+về hành vi nhiều vô số kể. Nào là hành vi bất lương, hành vi bất tuân pháp
+luật, hành vi đồi bại, hành vi phản động, hành vi phá hoại... Ở đây bàn đến
+hành vi tham ô là gì. Cần biết tham ô và tham nhũng khác nhau. Tham
+ô là hành vi chiếm đoạt tài sản chung, hoặc công dân của người có chức vụ,
+quyền hạn thành tài sản riêng của mình. Chú ý cụm từ có chức vụ, quyền hạn.
+Giữa dân với dân, Ví dụ giữa anh em, cha mẹ con cái, bạn bè người ta gọi là
+tham lam. Từ dùng chính thức lợi dụng quan hệ để chiếm đoạt tài sản.Hành
+vi tham ô chẳng qua là quyết định sai lầm do lòng tham (THAM LANG) mà ra. TỬ VI
+trước khi quyết định bắt nguồn từ “suy nghĩ”. VŨ KHÚC giải quyết vấn đề. Sau đó
+TỬ VŨ chuyển qua hành động (tức làm việc). Do suy nghĩ bậy bạ phạm pháp chuyển
+qua hành vi.Đó
+là trường hợp có sao TỬ VI đồng cung hay tam hợp với Mệnh. Trường hợp SÁT PHÁ
+THAM đơn thủ, tức bên ngoài (Phúc Di Phối) luôn luôn có TỬ VI suy nghĩ dùm. Làm
+đi mầy, có tao tiếp tay, bao che... càng mạnh làm.Hành
+vi tham ô là THAM LANG đi với TANG MÔN. Không phải vô cớ người xưa viết.**
+
+“**THAM
+VŨ đóng đất VÕNG, LA.Gặp
+loài TANG, ĐIẾU một nhà càng hung”.Có
+nghĩa là thằng THAM LANG ở đất LA VÕNG vốn là nới nó có tài năng nhất. Đáng nói
+là tài năng tham ô. Vì không phải ai cũng có “năng khiếu” tham ô. Vì ăn uống,
+biếu tặng của người khác. Một THAM LANG tốt rất ái ngại. THAM LANG đi với TANG
+MÔN, ĐIẾU KHÁCH là tham ô của người, của tử đệ, của khách kể cả của cải nhà
+nước.Còn
+thằng VŨ KHÚC tài ba thì sao? Thằng này còn giỏi móc ngoặc, luồn lách né tránh.
+Kki cần thiết nó vạch một đường bay. Nó lẩm trốn rất giỏi. VŨ KHÚC còn là tài
+sản. Tài sản này của ai? của TANG MÔN, của ĐIẾU KHÁCH. Chứng tỏ tham ô mà có.Hai
+tên này đóng tại LA VÕNG. Một tên ở trong và 1 tên ở ngoài. Một tên thì tham,
+một tên giỏi móc ngoặc phối hợp với nhau rất ăn ý.Còn
+2 tên này ở nơi khác đi với TANG KHÁCH thì sao? Vụng về hơn chứ chẳng tốt lành
+gì.Nhóm
+TANG HƯ KHÁCH luôn luôn có ĐÀO HOA hội họp tại Tật, không sớm thì muộn cũng đào
+tai đào hoạ. Nếu có tam HOÁ, QUỐC ẤN LỘC TỒN hội họp càng mạnh đào. Vì LỘC TỒN
+này là LỘC TỒN KHÁCH tức tiền thuế của nhân dân, đấy ạ.Từ
+đó. TANG MÔN trở thành tang chứng, vật chứngTrong
+học viên có thằng THAM LANG TANG MÔN ĐỊA KIẾP. Nó làm khổ tui.? Nói như thế
+chắc các bạn thừa biết nó là ai. Bộ sao vừa kể mang ý. thằng môn đồ này tính
+cách tham lam ưa ăn cướp. Khi học bạn cần học sự thật. Khi đoán khó nói ra sự
+thật. Đó là lý do nên học Tử Vi để biết mình, biết người.Mua
+Sắm.Mừng
+ghê. Mua được cái laptop giá rẻBuồn
+ghê. Mua thùng mì gói về ăn không được.Mua
+sắm là tiêu pha. HAO đi với nhóm Hỉ tinh, như ĐÀO HỒNG là vui mừng mua sắm cái
+gì đó vừa ý. Có CÔ QUẢ càng thêm tốt.Cũng
+HAO đi với TANG HƯ KHÁCH là tốn tiền vô ích. Nhất là đi với ĐẠI HAO lại thêm CÔ
+QUẢ, càng thêm buồn. Chỉ là đại hư hao mà thôi.Nhưng
+điều kỳ lạ bên bán và bên mua thông đồng với nhau qua THIÊN ĐỒNG. Vì sao ? THAM
+LANG luôn luôn nhị hợp với THIÊN ĐỒNG. PHÁ QUÂN nhị hợp với THIÊN CƠ. Cơ hội
+này không nắm cũng uổng. Cơ hội là sao THIÊN CƠ. Nắm bắt là sao PHÁ QUÂN.Bên
+bán dụ dỗMua
+giá cao, càng cao càng tốt.Bên
+mua trình bày, bán giá càng cao càng có lợi. Đôi bên là CƠ ĐỒNG.Thế
+đấy. Mua sắm cũng sinh hoạ. Câu chuyện mua chín bán mười, một chục tức 1 tá, là
+12, trở thành dĩ vãng. Thời kỳ bây giờ là mua 1 bán mười, bán 20 người ta cũng
+thích. Vì kẻ mua dùng tiền bá tánh.Đi mua về bán người ta gọi là đi buôn. Đây là 1 đề tài dài hơi. Ta có buôn vua, đến vua cũng bị buôn. Buôn người. buôn nô lệ, buôn nước bọt, buôn thần bán thánh, buôn lậu, buôn bán lời lỗ...Mua bán cẩn thận nhé.Quái mua bán làm như đi đánh giặc không bằng.Thế đấy. Sự thật biết bao tai họa xảy đến với người mua và kẻ bán.**

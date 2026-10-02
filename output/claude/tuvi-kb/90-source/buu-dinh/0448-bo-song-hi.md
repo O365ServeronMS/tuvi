@@ -1,0 +1,121 @@
+---
+id: bd#0448-bo-song-hi
+book: buu-dinh
+book_code: bd
+book_title: "Tử Vi Ứng Dụng (blog Bửu Đình)"
+title: "Bộ Song Hỉ."
+heading_path: ["Bộ Song Hỉ."]
+level: 1
+ordinal: 448
+part: 1
+parts: 1
+source_file: output/buu-dinh/posts/2022-04-18-bo-song-hi.md
+source_url: "https://tuviungdung.blogspot.com/2022/04/bo-song-hi.html"
+published: 2022-04-18
+chars: 4985
+stars_detected:
+  - thien-hy
+  - hong-loan
+  - hy-than
+  - co-than
+  - lam-quan
+  - tu-vi
+  - da-la
+  - dia-kiep
+  - quan-phu
+  - thien-khong
+  - thien-luong
+  - tieu-hao
+  - vu-khuc
+stars_in_title: []
+palaces_detected: [menh, than, phu-the, dien-trach, huynh-de, tat-ach]
+non_luan: false
+---
+
+Từ vị trí 1 cung có THIÊN HỈ và HỈ THẦN đồng cung hay tam hợp. Ta gọi 3 cung ấy có bộ Song HỈ.Ví dụ.
+
+Tuổi Giáp Tý nam bộ này trùng phùng tại cung Dậu. 3 cung được hưởng là 3 cung Tị Dậu Sửu. Tất nhiên hay nhất nằm tại cung Dậu.
+
+Tuổi Giáp Thìn nam bộ Song Hỉ tại 3 cung Tị Dậu Sửu...
+
+Tuổi Ất Sửu nam bộ này trùng phùng tại cung Thân đem lại niềm vui cho cả 3 cung Thân Tý Thìn.
+
+Tuổi Tân Sửu nữ tại 3 cung Thân Tý Thìn.
+
+Khỏi nói ai cũng hiểu Song HỈ là bộ sao hay, tốt và bộ chữ này thường thấy trong đám cưới. Chủ sự hỉ sự trùng phùng. Với người xưa, lấy vợ sau đấy có thai, sinh con là hỉ sự trùng phùng niềm mong muốn có con cháu nối dõi (là bộ PHỦ TƯỚNG) tông đường.
+
+Hỉ sự đâu chỉ là vậy. Thi đổ, có người năn nỉ về làm rể. Ông nhà nước nài nỉ ra làm quan.
+
+Khỏi mất công đi tán gái, chạy vạy mua quan bán chức. Thế thì hỉ sự cứ trùng phùng... có thể còn nữa, không chỉ là vậy. Có khi nhà cửa cha mẹ hoặc nhà nước lo, xe cộ nhà nước cấp. Điện thoại, nhà đèn có nhà nước trả... Đi chơi gọi là công du nghe rất mệt. Đi thăm gọi là thanh tra. Mệt quá có người chẳng muốn ra làm quan, phát sinh dị chí.
+
+Vì sao có chuyện lạ lùng như vây?
+
+Cần biết về bộ Song HỈ. Bộ này luôn luôn có HỈ THẦN tức là có bộ HAO QUAN PHỦ. Tất nhiên có KÌNH hay ĐÀ tam hợp. HAO ở đây là TIỂU HAO có nghĩa là lên vui mừng. Ví dụ. Vui quá. Tao đỗ bằng tiến sĩ. Nhưng nếu bằng tiến sĩ Đông Đô gì đấy, đừng la to quá sinh chuyện.
+
+Hoặc là. Vợ tao sinh con trai vui quá tụi bây ơi! Nhưng thử ADN trước, vui sau không muộn màng gì.
+
+Mừng quá, vừa mua được miếng đất, bán sang tay lời ngay tiền tỉ.
+
+...
+
+Bộ sao này có gì đặc biệt.
+
+Bộ này kết hợp giữa 1 sao THIÊN HỈ thiên về vui mừng. Và HỈ THẦN chủ sớm vui mừng. Kết thành bộ Song HỈ. Làm đẹp bộ TIỂU PHỦ HỈ luôn luôn có KÌNH hay ĐÀ, biến sao KÌNH ĐÀ trở thành đắc ý, rung đùi tự mãn. Ta chỉ đoán KÌNH ĐÀ tốt trong trường hợp này. Có khi bộ này còn được KHÔI VIỆT phối hợp làm cho niềm vui cực kỳ to lớn. Ví dụ trong Ất Sửu nam...
+
+Ta còn có thể gặp bộ Song HỈ đi với bộ tam Minh vui vẻ làm cho bộ Song Hỉ càng thêm tốt đẹp. Nhưng chỉ cần bộ Song HỈ thôi cũng đáng vui mừng rồi.
+
+Chính tinh phù hợp nhất.
+
+Đi với chính tinh nào cũng phù hợp. Ví dụ đi với SÁT PHÁ THAM vốn hung tinh. Có nghĩa vui mừng đoạt được thắng lợi. Như; thắng trận, đoạt được huy chương, trúng cử, trúng số, khám phá ra bí mật... Bao giờ cũng thế. Phù hợp và phù hợp nhất là đi với cát tinh nhóm CƠ NGUYỆT ĐỒNG LƯƠNG hợp nhất là THIÊN LƯƠNG. Tất nhiên cát tinh cần đi với hỉ tinh mới hợp lý. Dĩ nhiên cần thêm KHÔI VIỆT, nhóm tam HOÁ, nhóm tam Minh càng thêm rực rỡ.
+
+Ví dụ rất dễ hiểu.
+
+Quân xâm lăng thua chạy về nước rồi.
+
+Ai là người vui mừng nhất. Đó là những người lãnh đạo, tướng lãnh. Xuống dưới là các binh sĩ trực tiếp tham chiến. Thấp nhất là dân lành vô tội đến có tội. Có khi niềm vui mừng chỉ có thế.
+
+Liệu bộ Song HỈ có mất tác dụng không.
+
+Tất cả các bộ sao đều có thể mất tác dụng trước bộ KHÔNG KIẾP, HOẢ LINH, KỴ HÌNH và cả CÔ THẦN kỵ gặp VŨ KHÚC “niềm vui ngắn chẳng đầy gang”... Và CÁO PHỤ kỵ nhất đi với CỰ ĐỒNG.
+
+Vì CÔ THẦN đem lại sự bất trắc. Có thể trước vui sau buồn.
+
+CÁO PHỤ không hợp với nhóm CỰ ĐỒNG CƠ vì tố cáo phản bội, phụ bạc lẫn nhau có vui cũng méo mặt.
+
+KỴ HÌNH nhẹ nhàng thay vì vi phạm pháp luật phe ta cho kỷ luật, rút kinh nghiệm lần sau làm tốt hơn.
+
+HOẢ LINH là bộ sao bất hợp vì giận hờn điên loạn. Vui gì được khi lòng đầy căm tức.
+
+THIÊN KHÔNG là bộ sao làm mất tác dụng không vui nổi.
+
+ĐỊA KIẾP có vui chăng sau khi gặp nạn vui mừng còn sống hoặc được cái huy chương máu an ủi.
+
+Éo le, có khi bộ Song HỈ lại gặp luôn bộ tam Ám. Hai bộ sao khắc chế lẫn nhau.
+
+Quá nhiều sao bất hợp rõ ràng chẳng có vui đâu. Có chăng
+
+“Vui là vui gượng kẻo là”...
+
+Có khi, làm lụng cả đời không bằng tiền lời của bọn lừa đảo. Vui mừng mua được miếng đất của... bọn lừa đảo.
+
+Trong quân sự ta còn gặp các tình huống dở khóc dở cười. Chưa kịp ăn mừng thắng trận quân địch phản công đánh tơi tả. Hoặc sau khi thua trận rút về nước tổ chức làm lễ thắng trận. Chuyện này hay xảy ra.
+
+Từ vị trí THIÊN HỈ luôn luôn có HỒNG LOAN xung. HỒNG LOAN la lớn việc gì đó khiến THIÊN HỈ vui mừng.
+
+Phú viết.
+
+“HỈ THẦN, THIÊN HỈ, HỒNG LOAN.
+
+Ba sao đem lại hân hoan cho đời”.
+
+Sự thật có đúng thế không? Tuỳ thuộc vào hung, cát tinh tụ tập.
+
+Bộ Song HỈ nằm cung nào tốt nhất.
+
+Tốt nhất là nằm tại 3 cung Mệnh Tài Quan cả 3 cung đều hưởng.
+
+Nếu nằm ở cung đại hạn, niềm vui mừng ấy cũng thoáng qua đi mà thôi.
+
+Nằm tại cung Tật Ách cũng có thể đánh giá là tốt. Vì tai ách bệnh tật qua được tất là vui mừng. Đồng thời có thể làm tốt đẹp cung Điền và tình cảm với cung Huynh Đệ. Việc đánh giá này cũng tuỳ thuộc vào vào cá nhân mỗi người. Quan trọng tính cách tốt. Tính cách được xác định qua cung Mệnh.
+
+Bộ Song Hỉ nằm tại Thiên Di cung có tốt không? Câu trả lời chính xác nhất là chưa chắc? Vì sao? Có biết cung Mệnh có gì đâu mà quả quyết. Chỉ biết chắc chắn là cung Mệnh có ĐÀ LA hoặc có thêm HỒNG LOAN. Chính tinh, bàng tinh, hung, cát tinh không biết mà dám quả quyết.

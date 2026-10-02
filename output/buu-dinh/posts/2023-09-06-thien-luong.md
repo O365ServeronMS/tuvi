@@ -1,0 +1,76 @@
+---
+id: bd#3031101106929810023
+title: "THIÊN LƯƠNG"
+url: https://tuviungdung.blogspot.com/2023/09/thien-luong.html
+published: 2023-09-06T08:29:00.000+07:00
+updated: 2023-09-06T08:29:06.543+07:00
+labels: []
+---
+
+# THIÊN LƯƠNG
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaTmNU0HkkgyLT7AL0kfKHh6dDv2L1xgLhN3-X0pIfctt6VWo7jiTAhTZ7lJvxQ4t-R13g_J3-S40DQCbEJ-D74iAe2uyu4gZbjeU_VzRGIo9a47xhP5RFv-ZIvZgTFI6rWGJ6257wvBd_SEmettAR3K3LGiaheZ_4amyQFku15jmQT3DR7rtRvrioHnl/s320/NgoiSaoThienLuong.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaTmNU0HkkgyLT7AL0kfKHh6dDv2L1xgLhN3-X0pIfctt6VWo7jiTAhTZ7lJvxQ4t-R13g_J3-S40DQCbEJ-D74iAe2uyu4gZbjeU_VzRGIo9a47xhP5RFv-ZIvZgTFI6rWGJ6257wvBd_SEmettAR3K3LGiaheZ_4amyQFku15jmQT3DR7rtRvrioHnl/s550/NgoiSaoThienLuong.gif)
+
+**Bài viết rút ngắn dành cho các
+học viên. Đạt chuẩn, là bạn đã biết. Tại đây không có gì mới lạ. Thắc mắc về Kỵ
+gặp. Cần gặp hoặc giải thích dài dòng, xem lại trong F7,8 BD.THIÊN LƯƠNG thuộc nhóm ÂM LƯƠNG,
+thường kết hợp thành bộ ÂM DƯƠNG LƯƠNG hoặc bộ CƠ NGUYỆT ĐỒNG LƯƠNG. Ngôi sao may mắn.Do nó chủ lương thực, tiền bạc,
+thọ cao... và hay gặp may mắn. Mất tác dụng tức ngược lại. Cái may mắn dễ gặp
+là thọ cao nhưng nghèo. Họ thường nói, may ra còn sống, hạt gạo trên sàng... Ta
+thường nghe, thần may mắn mỉm cười. Không cười lấy đâu ra may mắn. Có nghĩa là
+không phải có THIÊN LƯƠNG là may mắn.Ngôi sao chủ thọ.Cây cao bóng cả (mô tả người thọ
+cao) dễ gặp THIÊN CƠ là cây tạo ra bóng mát. Ta thường gặp trên cung đường,
+dưới bóng mát cổ thụ có quán ăn, quán nước.Bóng mát cuộc đời.Do gặp may nên ngôi sao nay ví
+như bóng mát cuộc đời không vất vả, không tai hoạ, bệnh tật hiểm nghèo. Mất tác
+dụng thì ngược lại, có gì đâu mà lạ. Sao này không những hay ho tại Mệnh mà còn
+tại Tật Ách cũng phát huy tác dụng. Vì thế có câu;“TỦ PHÁ mộ cung, vô ưu hoạ
+ách...” không lo hoạ ách... Vì cung Tật Ách của Mệnh TỦ PHÁ có bộ ĐỒNG LƯƠNG.
+Có phúc và gặp may, cùng chung may mắn.Sao này phối với THIÊN CƠ thành
+bộ CƠ LƯƠNG cơ may... Đi với THÁI DƯƠNG thành bộ DƯƠNG LƯƠNG tháng ngày may
+mắn...Ngôi sao lành tính.THIÊN CƠ là hiền, THIÊN ĐỒNG là
+phúc, THIÊN LƯƠNG là lành. Hiền lành là bộ CƠ LƯƠNG. “Lành ơi!”. Cũng mang tên
+Lành, tên Lương có người lành thật sự nhưng có người không. Lươn lẹo thì có
+hoặc bất lương. Có vẻ cái tên là do ước muốn của cha mẹ. Giá trị như chữ “từ”. Như, hiền
+từ (Cơ Lương), từ phụ, từ mẫu, ...Giá trị như từ “hạnh”. Như, hạnh
+kiểm, hạnh ngộ, hạnh phúc...Ngôi sao khéo, giỏi, mát tay.Thường tam hợp có sao THIÊN CƠ cơ
+xảo, đồng thời lành tính hợp nhất với ngành y. Từ đó ta gọi là lương y như mẹ
+hiền. Bất cứ bộ sao nào cũng có thể vào ngành y. SÁT PHÁ THAM chủ thắm khám. CỰ
+ĐỒNG CƠ chủ sờ mó vấn đáp khi thăm bệnh. Gọi là “vọng văn vấn thiết” (nhìn,
+nghe, hỏi, sờ mó xem mạch). TỬ PHỦ VŨ TƯỚNG LIÊM chủ định đoán bệnh, hội chẩn
+giỏi. Ngành y chém đẹp lại là vấn đề khác.Lương thực, lương tiền.Từ lương thực chuyển đổi thành
+lương tiền. Thuốc men cũng là lương thực. Ngày nay không lạ lùng với câu viết.
+“Thực phẩm này không phải là thuốc”... Ví dụ trong Omega 3 nhưng bán trong tiệm
+thuốc tây. Từ tiền, chuyển đổi tiếp thành đất đai, cơ ngơi. Ta gọi là tài sản.
+So sánh với VŨ KHÚC là sao tài sản chính hiệu. Từ tiền, ta có thể mua được địa
+vị. “Có tiền, mua tiên cũng được”. Có tiền là có tất cả, không tiền có khi bị mang
+tiếng bất hiếu, vô ân bội nghĩa... Vậy thì? Nó có xứng đáng là ngôi sao hay
+nhất trong Tử Vi hay không? Nhưng, bao giờ cũng có chữ “nhưng” trong đó. Đồng
+tiền vấy máu, giết người vì tiền, chỉ biết có tiền... Xoay quanh nó không biết
+bao nhiêu tai hoạ tất cả, hầu như chiếm 50% vụ án là vì tiền. Không tiền là
+không hạnh phúc, chia lìa lứa đôi vì tiền... Nhưng nhiều tiền cũng sinh rất
+nhiều chuyện phát sinh tai hoạ. Nào là bị bắt cóc, đầu độc, tống tiền, chia gia
+tài... nhẹ nhất là bị người khác tìm cách moi móc đồng tiền.Ngôi sao nông nổi, phơi bày. THIÊN LƯƠNG thuộc ngôi sao nông
+nổi vì hay phơi bày tâm sự dù kín đáo. So sánh với THIÊN ĐỒNG có tính thâm sâu.
+Do THIÊN LƯƠNG tam hợp có THÁI ÂM. Đó là hình ảnh phụ nữ nông nổi, nhẹ dạ cả
+tin. Sự phơi bày lòng dạ. Phơi bày tâm sự có thể tốt nhưng đa phần là xấu.Muôn cái phơi bày khác. Phơi bày
+hàng hoá, nhà cửa, thân thể, tài năng... Quan trọng là có bị chỉ trích, lợi
+dụng hay không mà thôi. Xấu nhất là âm mưu, sự thật bị
+phơi bày ra ánh sáng. Đừng quên bên cánh phải của THIÊN LƯƠNG có ngôi sao THÁI
+ÂM.Khi xấu giá trị như từ bạc bẽo,
+bội bạc, tệ bạc, bạc phước, phận mỏng cánh chuồn.Nóc nhà. Rường cột.Trong nhà đất. THIÊN LƯƠNG là cái
+nóc nhà. Nhà càng giá tri nóc nhà càng cao. Một THIÊN LƯƠNG tốt đẹp là tôi
+lương đống của triều đình. Lương đống là rường cột của triều đại ấy. Nếu hiểu
+theo nghĩa là một đống lương thực cũng không sai đâu. Ngày xưa trả lương bằng
+lương thực, quan to phải đem nhiều xe ngựa đem về. Trong cơ thể là đỉnh đầu.Mệnh THIÊN LƯƠNG luôn nhị hợp với
+LIÊM TRINH.Một ngôi sao thiện lương, may mắn
+và 1 ngôi sao đạo đức, dài lâu. Hai sao này dạt chuẩn, chứng tỏ cung Mệnh tính
+cách rất tốt.Nô cung luôn có PHÁ QUÂN, nếu có
+XƯƠNG KHÚC là cách Quế Sứ Hoa Thương. Chứng tỏ THIÊN LƯƠNG này không may.Tật cung luôn có THIÊN PHỦ. Ngôi
+sao che chở và phán xét. Có thể bị những phán xét bất lợi.**
+
+Đến đây các học viên có thể tìm
+nghe bài ca Bóng Mát, cũng có trên blog này. Cái bóng này không được mát vì hoả
+khí, binh lửa chiến tranh. Trả lại tôi bóng mát cuộc đời, có lẽ ngộ KHÔNG nên
+PHỤC BINH không trả lại.

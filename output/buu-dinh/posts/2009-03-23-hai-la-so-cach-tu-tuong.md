@@ -1,0 +1,345 @@
+---
+id: bd#1402663307693128078
+title: "Hai lá số cách TỬ TƯỚNG"
+url: https://tuviungdung.blogspot.com/2009/03/hai-la-so-cach-tu-tuong.html
+published: 2009-03-23T17:29:00.000+07:00
+updated: 2013-04-22T10:59:33.851+07:00
+labels: []
+---
+
+# Hai lá số cách TỬ TƯỚNG
+
+![](http://blog.yimg.com/1/5NkjoQx7s58MnmgoOzrirvQ5Be3LF46SEbGBabsttroi.eNZvWqUCw--/21/l/F5S9PWOofXwU2XBZkEIQig.jpg)
+
+Hai Lá Số
+TỬ TƯỚNG.
+
+**Lá số Vương Mãn**.
+
+Trước tiên
+bàn đến lá số Vương Mãn. Vắn tắt về nhân vật đó như sau.
+
+Vua Hán Cao Tổ (tức Lưu Bang khai
+sáng triều Hán xem Hán Sở tranh hùng) đóng đô ở phía Tây là Tràng An nên gọi là
+Tây Hán. Đến đời Bình Đế thì bị Vương Mãn cướp ngôi, sau Lưu Tú giết được Vương
+Mãn khôi phục cơ đồ nhưng lại dời đô về Lạc Dương (phía Đông) từ Quang Vũ về
+sau gọi là Đông Hán.
+
+Như người viết từng đùa là tuyển
+lựa ngôi sao TỬ VI làm Vua (cần xem lại những gì đã viết trong bài Bí Mật ngôi
+sao TỬ VI). Lá số nầy đạt chuẩn TỬ PHỦ VŨ TƯỚNG LIÊM (5 sao nhé, với thiên hạ
+đem bán LIÊM TRINH cho bọn SÁT PHÁ THAM rồi)  TẢ PHÙ HỮU BẬT (chỉ thiếu TẢ, đây là khiếm
+khuyết thiếu văn thần tích cực bày mưu hiến kế, đồng thời ban ra những điều an
+ủi hỗ trợ khi cần thiết, nặng tính cách võ biền quá) nhưng Vương Mãn lại có
+những Đại Hạn quan trọng 23-32 đi ngang qua TẢ PHÙ, 33-42 giáp TẢ HỮU, 43-52t
+hạn HỮU BẬT. Những cái ông ấy thiếu được bổ vào đầy đủ. Vương Mãn đắc QUAN PHÙ
+chủ có lập trường quan điểm nhưng thiếu mất con PHƯỢNG CÁC ngợi ca (nếu có chưa
+chắc ai thua ai, chắc chắn ít bị bôi xấu) có THANH LONG nhưng thiếu KHÔI VIỆT
+(khó thành Quý nhân) bù vào có HOA CÁI là tay kiệt xuất. Đó là người viết kiểm
+tra đám đàn em ta đã thấy hay như vậy rồi. Lại có XƯƠNG KHÚC chứng tỏ học hành
+văn chương chữ nghĩa nhất định là giỏi rồi. Chỉ kể cách Nhị Khúc thôi hay không
+chịu nổi. Xuất Tướng Nh ập
+Tướng. Văn Kiêm Vũ Bị. Đa Tài Đa Năn g… Xuất
+tướng nhập tướng là ra trận tướng võ về nhà tướng văn (Võ Tướng thiếu cách nầy
+chỉ giỏi hò hét ngoài mặt trận về nhà bản đồ xem không hiểu, văn kiện đọc mù
+tịt đưa ra những lịnh lạc sai lầm, chết người dễ như chơi). Văn kiêm vũ bị là
+văn võ song toàn, đa tài đa năng có nhiều năng khiếu như Cầm
+Kỳ Thi Họa vừa đánh giặc vừa làm thơ. Vi tính của y giỏi lắm kìa không học y
+cũng biết, xử lý ảnh, flash… Tài năng của Vương Mãn có thừa.
+
+Thành đạt cứ đếm sao ăn tiền,
+(người viết từng viết như vậy mà) có đủ cả 3 sao tam Kỳ (3 điều kỳ lạ) xét đủ
+tiêu chuẩn, không thể chối cãi đây là số một người làm Vương, làm Đế. Y lại có
+LINH TINH chủ lịnh lạc, lịnh mật… càng thêm đẹp. Những lý do thúc giục Vương
+Mãn bạo động bởi từ TỬ VI Vua thứ nhất ở trong, vất Vua thứ 2 PHÁ QUÂN ngoài
+đường (Thiên di cung) lại được CỰ MÔN Vua thứ 3 Lục hội vào MỆNH. Ông ta có 3
+Vua tại Thân MỆNH với tài năng sẵn có nhất là khi bước vào Đại Hạn tại Điền
+cung giáp TẢ HỮU có KHÔNG KIẾP đắc lực hỗ trợ, với cách CỰ CƠ. Cơ hội lớn đây
+rồi- chắc học lóm của Bửu Đình quá- nhưng cũng là Cơ Hội… làm Phản (vì CỰ chủ
+phản mà, học đến đâu biết đến đó thôi, còn nhièu lắm. Chúng ta chưa nghiên cứu
+bộ CỰ CƠ. Bí mật bộ CỰ CƠ, bí quyết đoán bộ CỰ CƠ. Cứ ham đoán chẳng bao giờ
+giỏi cả, chưa học xong đã đoán… mò thì có). Ông ấy làm chuyện bạo thiên nghich
+địa tại đây. Vì có bộ KỴ HÌNH (vi phạm pháp luật) chạy đâu cho thoát.
+
+Nhưng điều người viết muốn nói
+là: Những người MỆNH tại La Võng như người nầy (bình quân 6 người có 1) dễ bị
+hàm oan, tùy theo mức độ nặng nhẹ dễ La Trời (THIÊN LA) Oán Đất (ĐỊA VÕNG) từ
+đó bị nghi oan. Khi bị nghi oan có lúc người ta làm tới. ‘Ta có làm gì đâu mà
+Bình Đế nghi ta, muốn vậy cho vậy luôn. Sướng thì Mãn nầy chiều’. Nhất là Mãn
+nầy rất mãn nguyện, tài năng có đầy đủ cả.
+
+Tuy nhiên cách TỬ TƯỚNG là cách
+bị oan ức. Nhất là gặp thêm TANG KHỐC, ĐƯỜNG PHÙ… buộc gánh lấy một trách nhiệm
+không gánh tức mắc oan, gánh lấy cũng mang tiếng. Đặc biệt với Vương Mãn 2 sao
+LIÊM TRINH và PHI LIÊM đồng cung với nhau là thấy cái cảnh 2 chữ Liêm chính bị
+xúc phạm. Bàng tinh PHI LIÊM nói với LIÊM TRINH rằng: Mi không phải đạo đức
+đâu, mi không trong sáng đâu. 2 sao đều là biểu tượng binh khí, PHI LIÊM là vũ
+khí bay qua thì LIÊM TRINH phóng giáo gươm đánh lại. Thiên về nội bộ chém giết
+lẫn nhau…Vương Mãn còn mang trong mình những uẩn khúc (ta hay viết uẩn khuất)
+do cách Nhị Khúc mà ra nhất là cách LINH XƯƠNG LA VŨ dễ nghe lời xúi giục, cổ
+vũ của kẻ khác rồi tiếc nuối không kịp mà quả đúng là như vậy.
+
+Từ Vương Mãn lá số làm loạn về
+sau ta lại có Ngụy khởi Hoàng Sào một lá số na ná như cách nầy (đánh tiếc thất
+lạc đâu đó không tìm ra). Từ đó về sau thấy lá số có cách TỬ PHÁ mộ cung người
+ta mặc cảm thậm chí không cho cả thi cử nữa. Các nhà viết TỬ VI ngày xưa, đa
+phần các quan lại có trình độ văn chương không ngại gì phê phán vừa được lòng
+vua. Vì cách Phá Vua (PHÁ QUÂN chủ phá, TỬ VI chủ Đế) nầy nhưng thực chất là
+cách Gắn Bó vì Sự Nghiệp. (Gắn bó là PHÁ QUÂN,
+Sự nghiệp là TỬ VI) nhất là rất dễ hưởng di sản, kế thừa địa vị cha ông để lại.
+Người viết mượn lá số của Vương Mãn để giải thích một lá số khác, xem đây như
+một bằng chứng.
+
+**Lá Số Người… Ấy**.
+
+Xầm xì to nhỏ lá số người ấy. Bắt
+đầu về cuốn sách TỬ VI Đẩu Số Tân Biên của Thái Thứ Lang. Cần nói kỷ niệm với
+cuốn sách nầy. Năm 65 đây là cuốn sách TỬ VI mua đầu tiên bằng những đồng tiền
+nhin ăn sáng. Mất 3 đêm an cho mình lá số TỬ VI với 3 kết quả khác nhau, phải
+mất thêm 1 đêm nữa mới khẳng định lần nầy an đúng. Trên cuốn sách nầy quả nhiên
+có 4 lá số TỬ VI thật, trong đó có lá số BẢO ĐẠI còn nhớ viết: Vua còn truất
+phế kể chi quan, nhưng đáng nói là khi có cuốn sách trong tay, chưa hiểu mô tê
+gì cả, có 1 bạn thân hỏi mượn, khi trả lại sách thì không thấy 4 lá số đâu.
+Cách đây khoảng 10 năm cả 2 cuốn Thái Thứ Lang ,
+và ÁO BÍ bị người ta mượn rồi đoạt mất. Số bị đoạt của cho nên hôm nay người
+viết cho công khai tất cả kinh nghiệm của mình chẳng hề tiếc rẻ.
+
+Bàn về lá số người ấy nếu phải,  báo Khoa Học Huyền Bí ngày trước sợ gì mà họ
+không bàn. Miền Nam
+kềm kẹp mà rất thoáng Huy Cận, Xuân Diệu… vẫn được ngợi ca. Huy Cận nghe hát
+bài: Nắng chia nửa bãi chiều rồi… cũng sướng chán, làm gì có chuyện ‘nhân thân’
+không được tốt. Gần đây có chuyện xầm xì về lá số người ấy. Thực hư chưa tường.
+Nhưng người viết quả quyết lá số đó không phải.
+
+Dù muốn hay không cũng phải
+thừa nhận đó là con người lập nên kỳ tích. Có văn thần võ tướng phụ tá rất
+nhiều phảng phất phải giống Lưu Bang, Lưu Bị. Từ âm thầm mà thành công có gì đó
+giống với Tưởng Giới Thạch, khởi nghĩa giống với Lê Lợi…. Đây không có gì hết,
+chỉ một lá số TỬ TƯỚNG như họ Vương kia nhưng không Quyền, không Khoa cho rằng
+không Lộc cũng được đi. Mà tiêu chuẩn khắt khe của Bửu Đình (?) lại đòi bằng
+được có TẢ HỮU mới cho vào tuyển chọn, bị loại ra không cho nạp đơn dự thi thế
+mới chết chứ. Lại thêm cách ‘Đoản Đầu Tướng Quân’ (có hình dạng cổ bị rụt) có
+dám làm chi đâu.
+
+**1**. Một là ông Thái Thứ Lang ngây thơ quá. Trình độ ông thấp hơn cuốn
+sách của ông dịch rất nhiều. Chỉ cần bàn tay trái của Đình bấm, bấm để tìm ra
+được có 36 lá số sinh năm Tân Mão có lá số tương tự như thế nầy. Mới bấm nhè
+nhẹ thôi đấy.
+
+Sinh ngày 6, 7, 30 tháng 1 giờ
+Tuất năm Tân Mão.
+
+Sinh ngày 6, 7, 30 tháng 2 giờ
+Hợi năm Tân Mão…..
+
+…………
+
+**Sinh ngày 6, 7, 30 tháng 6 giờ Mão năm Tân Mão**. (lá số người ấy
+6.6.Tân Mão giờ Mão)
+
+Cứ thế tháng sinh tăng lên giờ
+sinh tăng theo
+
+Sinh ngày 6, 7, 30 tháng 12 giờ
+Dậu năm Tân Mão. Bạn không tin cứ lấy phần mềm nào đó lập ra sẽ thấy giống  như vậy.
+
+Bạn sẽ có 36 lá số TỬ VI na ná
+như trên, đều là Đoản Đầu Tướng Quân cả. Không có lá số nào đáng mặt anh hùng
+đâu, dĩ nhiên người viết chẳng rỗi để kiểm tra cả 36 trường hợp. Nhưng số phận
+TỬ TƯỚNG đâu dành cho chữ TÂN. Cách TỬ PHỦ VŨ TƯỚNG LIÊM chỉ dành cho tuổi Giáp
+tuổi Kỷ mà thôi, nhất là Thổ MỆNH.
+
+Cho nên cách đây vài hôm, có viết
+‘ngang đây giận ông Thái Thứ Lang quá’ là người viết không muốn bàn chuyện nầy.
+Coi như tam Không, Không Nghe, Không Biết, Không Thấy chuyện đó. Nhưng thử hỏi
+một người viết sách lại đi phủ nhận những gì mình viết với 1 đáp số là lá số đứng
+ra bảo lãnh lại không hội đủ yếu tố mà chính Thái Thứ Lang tô đậm “**TỬ PHỦ hoàn y PHỤ BẬT chi công**”. (TỬ
+PHỦ hoàn toàn dựa vào TẢ HỨU làm nên công trạng, dù công trạng bé tí ti, to thì
+dựa vào KHOA QUYỀN LỘC). Vậy thì trình độ Thái Thứ Lang nằm ở chỗ nào?
+
+**2**. Hai là Thái Thứ Lang là kẻ lợi dụng TỬ VI dùng để bôi người
+khác, trong khi trong sách ông ta đầy rẫy những câu phê phán cách TỬ PHÁ mộ
+cung, nào là bất trung, bất hiếu nật cận gian nhân… thấy là không dám gần, đến
+nhà TỬ VI là ông Đông Nam Á hồi đó cũng la làng vì ông ấy có PHÁ QUÂN ở Tuất,
+bị câu: ‘Nam bất nhân PHÁ QUÂN Thìn Tuất’. Có chăng bị Phá thì có.
+
+**3**. Thái Thứ Lang là kẻ dùng TỬ VI để truyên truyền chống phá người
+khác (hoặc bị ép buộc như vậy). Đây là cái đòn truyên truyền nhờ miệng lưỡi kẻ
+bói toán rất thâm độc. Ngày trước miền Nam  đài phát thanh (quên mất tên) có một chương
+trình đặc biệt dành cho 1 nhà tướng số lên lý luận ngũ hành sinh khắc để tuyên
+truyền. Người viết nghe cảm thấy khó chịu huống gì phía đối phương. 324 B là sư
+đoàn thép, tứ là tử thế là sư đoàn nầy trước sau gì cũng tử. Nghe thật bực
+mình.
+
+**4**. Chắc gì đã có lá số đó. Vì cuốn sách nầy trở thành hiếm hoi, tha
+hồ bịa. Nếu có, buồn cười chịu không thấu.
+
+Biết bao nhiêu người học vấn uyên
+bác ôm lá số dỏm bóp đầu, bóp trán nghiên cứu, các thầy TỬ VI vội bàn tán TRIỆT
+mở lối đưa đường… vào cà lăm thì có, chỉ cần liếc nhẹ con mắt thấy tới 36 lá số
+na ná. Vậy thì người viết buộc vào cái thế phải binh vực, đừng ép buộc oan ức,
+cưỡng bức một lá số TỬ VI lên đầu người khác để phê phán họ. Sống phải trung
+thực. Chu yện nầy có thực trở thành một giai
+thoại về TỬ VI khó mà quên được.
+
+Mong sao ông Thái Thứ Lang đừng
+dính vào các yếu tố 1,2,3… để các nhà nghiên cứu TỬ VI bị sụp đổ một thần
+tượng.
+
+-   Private comment
+
+-
+
+Mish [
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_CMKSZ4WQCI7HJKMNDDFHYDAS6E)
+
+-  [Mish](http://blog.yahoo.com/_CMKSZ4WQCI7HJKMNDDFHYDAS6E)
+
+- Jun 3, 2010 10:25 PM
+
+- Ơ..ơ, bác ơi, thiên hạ bên đây lại nói về lá số người ấy kìa , còn đăng trên báo nữa bàn luận tùm lum
+
+-
+
+Bửu Đình [
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jun 3, 2010 10:37 PM
+
+- Cháu cho bác xin đường dẫn, coi họ bàn luận như thế nào?
+
+-   Private comment
+
+-
+
+Arthas King [
+![](http://l.yimg.com/a/i/identity2/profile_48e.png)
+](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+-  [Arthas King](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+- Mar 24, 2009 6:20 PM
+
+  Ở đời " cùng tất biến ", Lá số tử vi có thể vô cùng xấu nhưng có những trường hợp cá nhân đặc biệt vượt qua. Biến cái vô cùng xấu thành vô cùng tốt.
+
+Thiên Cơ Vốn Bất Khả Lộ
+
+Không phải lúc nào cuộc sống cũng vận động theo quy luật để ta có thể nhận biết.Vĩ nhân là những người vượt qua nhũng cái thông thường.
+
+Theo quan điểm mới của tử vi đài loan. Cũng giống như bác Ân Quang  viết trên báo khoa học huyền bí ngày xưa. Xem tử vi phải tính đến sự quân bình, phải có sát tinh ở Mệnh quan tài mới tốt. Không thể cứ mệnh quan tài dồn hết cái tốt. Những lá số trước đây về lưu bang ... chắc gì đã đúng. Đến bây h ngay thang nam va h sinh của nguyên thủ tìm còn khó nói chi từ cái thời pk lạc hậu. Không thể cứ phán mọi thứ theo lá số được. Giả sử 2 quả bom nguyên tử nổ tại nhật, làm hàng triệu người chết. Vậy lá số tất cả bọn họ đều có tiểu vận năm đó gạp họa sát thân sao ? Đến đây thấy thêm 1 hạn chế tử vi.
+
+-
+
+Arthas King [
+![](http://l.yimg.com/a/i/identity2/profile_48e.png)
+](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+-  [Arthas King](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+- Mar 24, 2009 6:06 PM
+
+   Tử vi không phải là 1 phép tính chính xác, tử vi chỉ phản ánh những xu hướng có thể xảy ra. Có rất nhiều người cùng 1 lá số vẫn rất khác nhau. Nhạc sĩ Trần Quảng Nam nổi tiếng với bài " Mười năm tình cũ " sinh cùng giờ, ngày, tháng, năm sinh với Tạ Phồn Trị, một nhà phật học nghiên cứu tử vi và kinh dịch nổi tiếng của Đài Loan. Nhạc sĩ thì có bằng đại học, phải rời bỏ quê hương ra nước ngoài, sống cuộc sống phong lưu đời nghệ sĩ. Còn ông Tạ phồn Trị đi tu từ năm tuổi, học thiền , kinh dịch từ nhỏ, sống cuộc sống của 1 ẩn sĩ. Họ đều có 1 điểm chung đó là có năng khiếu học khoa học huyền bí. Nhạc sĩ xem tiểu vận ( tử vi) rất giỏi còn ông Tạ thì đương nhiên là cao thủ về kinh dịch và tử vi. Sự khác biệt là mức độ. Đây là trường hợp ghi trong sách " Tử Vi hoàn toàn khoa học " của Đằng Sơn, xuất bản tại Mỹ. Tử vi không bao giờ chối bỏ hạn chế khi xuất hiện những cuộc đời khác nhau khi cùng chung 1 lá số.
+
+Thần khê định số của cụ Lê Quý Đôn khi nhận xét đều phải kèm theo tướng mạo.
+
+-
+
+linh [
+![](http://l.yimg.com/a/i/identity2/profile_48a.png)
+](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+-  [linh](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+- Mar 24, 2009 12:40 PM
+
+ Hi hi,đọc cứ tưởng "người ấy" của bác. Đâu nhất thiết làm vua phải có lá số thượng cách. Có ông vua
+
+bất tài, ông bù nhìn,ông yểu mạng,ông bị hãm hại, ông bị lật đổ..Có ông  lên ngôi được ba ngày.Một người bạn có lá số gần giống như Bảo Đại mà chỉ được làm sếp phó .
+
+-
+
+Thanh Dinh [
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_DQLQGQUY3AB5M5G3OI32SNSVY4)
+
+-  [Thanh Dinh](http://blog.yahoo.com/_DQLQGQUY3AB5M5G3OI32SNSVY4)
+
+- Mar 24, 2009 4:22 AM
+
+Dạ không biết Bác Bưu Đình viết bài này cho ai, nhưng thật là 1 sự trùng hợp khá thú vị, là vì bạn của DCT cũng có lá số giống lá số của người sinh ngày âm lịch 6-6-1951 giờ Mão LÁ SỐ TÂN MÃO Còn lá số bạn DCT là lá số Âm Nam DCT cũng mới biết Bác Bửu Đình đây, cũng đang nghiên cứu học hỏi về khoa tử vi. Rất mong được chú có lá số của người sinh ngày âm lịch 6-6-1951, có thể nói về hay kể lại những gì đã trải qua hay xin giúp cho DCT để DCT có thể qua những gì chú kể, cháu có thể học hỏi hay có thể kỉểm nghiệm thêm.  rất mong được chú nhận lời & mong được hồi âm của chú ạ. chú có email cho cháu. Xin cám ơn
+
+-
+
+Thiên Phủ [
+![](http://socialprofiles.zenfs.com/images/fc9e6056ef45b6c475f9f8a9e4b947a7_48.png)
+](http://blog.yahoo.com/thienphu)
+
+-  [Thiên Phủ](http://blog.yahoo.com/thienphu)
+
+- Mar 23, 2009 11:02 PM
+
+- theo kinh nghiệm cháu , Xương Khúc có lẽ chỉ ham học , và nặng chất tình cảm nên chỉ học những gì mình thích thôi , chứ không có bằng cấp gì đâu , cũng không giỏi toán lý hoá ( khô khan quá )
+
+-
+
+Thiên Phủ [
+![](http://socialprofiles.zenfs.com/images/fc9e6056ef45b6c475f9f8a9e4b947a7_48.png)
+](http://blog.yahoo.com/thienphu)
+
+-  [Thiên Phủ](http://blog.yahoo.com/thienphu)
+
+- Mar 23, 2009 10:55 PM
+
+- bác ơi trước khi cho người ta mượn sách phải coi lá số coi người ta có chôm sách không chứ , TỬ PHÁ là gắn bó sự nghiệp vậy VŨ PHÁ là gắn bói với tiền hả bác
+
+-
+
+Arthas King [
+![](http://l.yimg.com/a/i/identity2/profile_48e.png)
+](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+-  [Arthas King](http://blog.yahoo.com/_7JVKKQE6O246WJEECTHETIPYCQ)
+
+- Mar 23, 2009 9:23 PM
+
+Thưa chú buu dinh. Cuộc sống luôn vận động thay đổi và có ngoại lệ. Tử Vi cũng vậy.
+
+Cái công thức xưa cũ: TU PHU VU TUONG KHOA QUYEN LOC TA HUU là làm vua liệu có đúng không?
+
+Lá số HCM trong sách VDTTL là 1 là số thành công trong thời loạn. Sức mạnh không phải bộ TUPHUVUTuONG mà nằm ở Cung an thân ở Phá quân.
+
+Phá quân là 1 ông vua bản lĩnh không kém tử vi. Tử vi cần nào là ta huu khoa quyen loc.. vo cung sợ không kiếp tuần triệt. Còn phá quân cần không kiếp va Kình dương. Cháu theo quan điểm cụ thiên lương. Phá quân cần Không kiếp và kình dương không cần phải tam hóa. Phá quân có không kiếp, king dương thì mạnh không kém tử vi khoa quyen loc ta huu. Và đặc biệt thành công hơn tử vi trong thời loạn. thời đại của những biến động.
+
+Phá quân và tu vi lãnh đạo giỏi nhất. Phá quân biến động, biến hóa mạnh nhất trong 14 chính tinh. Chú xem ở hồ chí minh. Ông ta luôn biến hóa vận động theo thời thế không cứng nhắc như Mao, Stalin hay Pôn pot.
+
+-Sử dụng các nha nho
+
+-Trong chinh phủ sử dụng các đảng phái khác.
+
+-Từng tuyên bố với người Mỹ vào năm 1945 là 50 mươi năm nữa mới xây dựng CNXH.
+
+....
+
+Ở cung quan của HCM có bộ Không Kiếp sát đà la đắc địa. Cung an thân là phá quân đi với kình dương đắc địa.
+
+Lá số của HCM cái hay cái mạnh là ở phá quân và các sát tinh đắc địa chứ không phải ở bộ TUPHUVUTUONG.
+
+Thời đại bây h thay đổi rất nhanh luôn đòi hỏi sự mạo hiểm dấn thân tìm cái mới. Những doanh nhân thành công rất hợp với sat pha tham và sát tinh dắcđịa. Tử Vi cần thay đổi theo thời đại. Không biết chú có đọc về pha quân không kiếp do bác Vũ Tài Lục viết không?
+
+VDTTL là một nhà phật học, khi viết sách có thể viết theo lối tu duy cũ, nhất là khi giải cac câu phú, nhưng khi ứng dụng thì lại khác. Không có chuyện VĐTTL đưa 1 lá số như vậy để làm tổn hại danh tiếng của mình. Ông đưa lá số này là có cái lý của ông chứ không phải đưa linh tinh để hậu thế cười ông.
+
+-
+
+2 lúa [
+![](http://socialprofiles.zenfs.com/images/25fdd73bb89863a3aa63f4178a5a9af3_48.png)
+](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+-  [2 lúa](http://blog.yahoo.com/_MFUDMMDKEEE573WFLK4NEFXYOA)
+
+- Mar 23, 2009 6:49 PM
+
+- hi hi, bác ơi, người ấy Tân Mão à bác, cháu lại nghĩ là Canh Dần? Canh Dần chắc hoành tráng hơn, bác nhỉ?

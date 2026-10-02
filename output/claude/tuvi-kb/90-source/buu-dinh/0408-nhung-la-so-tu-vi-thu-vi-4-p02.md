@@ -1,0 +1,40 @@
+---
+id: bd#0408-nhung-la-so-tu-vi-thu-vi-4-p02
+book: buu-dinh
+book_code: bd
+book_title: "Tử Vi Ứng Dụng (blog Bửu Đình)"
+title: "Lá số của siêu cảnh sát."
+heading_path: ["Những lá số Tử Vi thú vị 4.", "Lá số của siêu cảnh sát."]
+level: 1
+ordinal: 408
+part: 2
+parts: 3
+source_file: output/buu-dinh/posts/2020-08-06-nhung-la-so-tu-vi-thu-vi-4.md
+source_url: "https://tuviungdung.blogspot.com/2020/08/nhung-la-so-tu-vi-thu-vi-4.html"
+published: 2020-08-06
+chars: 5793
+stars_detected:
+  - cu-mon
+  - tu-vi
+  - pha-quan
+  - phuong-cac
+  - da-la
+  - dia-vong
+  - thai-duong
+  - benh-phu
+  - hoa-ky
+  - kinh-duong
+  - lam-quan
+  - liem-trinh
+  - phi-liem
+  - phong-cao
+  - thien-la
+  - thien-phu
+  - thien-su
+  - vu-khuc
+stars_in_title: []
+palaces_detected: [than, tat-ach, menh]
+non_luan: false
+---
+
+Émile Buisson kẻ chịu trách nhiệm (là sao Tử Vi) về 30 vụ (cũng là Tử Vi) giết người và 100 vụ cướp. (Điều nầy chỉ tìm thấy tại cung Tật). Trong đó có cả cướp ngân hàng và xe chở tiền. Bị bắt và trốn thoát, cuối cùng bị bắt năm 1950 Canh Dần. Bị xét xử năm 1954 Giáp Ngọ và tử hình năm 1957 Bính Thân bằng máy chém.Sau đây là lời giải thích về lá số nầy.Thoạt nhìn lá số nầy có vẻ như vô hại, thậm chí không có cả sao BỆNH PHÙ, PHI LIÊM và sát tinh tại Mệnh. Thật sự rất tai hại, rất nguy hiểm. với cách CỰ NHẬT tại Dần Thân đi với cách TUẾ ĐÀ. Có câu:“TUẾ ĐÀ thiết kỵ ư Dần Thân”.Đây là cách dùng lý lẽ để lôi kéo kẻ khác khiến người ta la trời (nếu thấy cung THIÊN LA), oán đất trong trường hợp thấy cung ĐỊA VÕNG. Trường hợp nầy là thấy cung ĐỊA VÕNG. Lý lẽ của y chẳng qua là “1 đêm ăn trộm bằng 3 năm làm”. Sưu tầm là mau nhất. Lá số còn có thêm trường hợp. “CỰ MÔN ĐÀ LA tất sinh dị chí”.Dị chí là chí hướng khác thường. Khác thường cũng có nhiều dạn. Có dạng rất đáng hoan nghênh không ra làm quan, thối quan từ chức... Từ kỳ lạ vừa phải đến kinh dị. Tên này thuộc loại đi cửa sau.Tên Émile Buisson nầy cầm đầu 1 băng đảng xã hội đen.Vậy băng đảng là gì? Băng đảng có liên quan đến CỰ MÔN. CỰ MÔN có nghĩa là môn phái (là MÔN) và CỰ (là lớn). Các tổ chức đảng phái, tôn giáo, công ty, đoàn thể, hiệp hội... đến to tổ bố là Liên Hiệp Quốc đều là CỰ MÔN. Xuống dưới thấp lên facebook lập 1 groups cũng là 1 môn làng, đây rồi. Người viết dùng từ “đoàn thể” để mô tả sao CỰ MÔN.CỰ NHẬT có nghĩa là gã tu mi nam tử (tức là THÁI DƯƠNG) lập 1 môn phái là CỰ MÔN. Hàm ý, người cầm đầu 1 môn phái. Ví dụ. Người đứng đầu giáo phái Tân Thiên Địa. Thủ lính 1 đảng dân tộc nào đó... (Từ đó, người ta hay dùng các từ thủ lãnh, lãnh tụ, trùm, bố già... Dùng từ chính xác. Từ cầm đầu đến cầm tù dành cho PHÁ QUÂN, giỏi cầm nắm. Lãnh tụ, lãnh đạn dành cho Tử Vi vì sao nầy giỏi lãnh đạo... Bố già dành cho cụ THIÊN PHỦ).Người viết dùng từ CỰ NHẬT để mô tả cách CỰ MÔN đi với THÁI DƯƠNG. Các sách thường dùng từ CỰ DƯƠNG để mô tả cách nầy. Trong trường hợp nào dùng từ CỰ DƯƠNG rất là lôi cuốn. Nhưng đáng tiếc không nằm trong trường hợp nầy.CỰ NHẬT là 1 đoàn thể. Muốn vậy, phải xây (là ĐÀ LA) dựng lên (là KÌNH DƯƠNG). Tất nhiên là có thành công và thất bại. Điều nầy thể hiện tại cung Mệnh hoặc cung Tật. Nhưng xây dựng kiểu TUẾ ĐÀ Dần Thân, người theo anh la trời oán đất. Vì...Người theo anh tan cửa nát nhà, tù tội, chết oan ức...Vì tà giáo, vì lý tưởng đường đi không đến, vì đa cấp, vì bất động ảo... Nhiều vô số kể. Phải kể đến long mạch, phong thuỷ, bùa phép Lỗ Ban nằm dưới lỗ rún cách 2 tấc. Và đến loại Tử Vi di căn hoán số cứ làm như ông thánh, ông thần thay đổi giờ sinh số mạng để làm vua, làm tổng thống. Nhưng thay đổi số phận của chính mình lại làm không được. Thấy đào thì ham, thấy tiền sáng mắt, thấy đất thì mê, thấy nhà ưa đoạt, thấy địa vị thì tranh giành... Trời hỡi, thần thánh kiểu gì kỳ quái vậy. Thần thánh cũng do con người phong cho (là PHONG CÀO) rồi thờ phượng (là PHƯỢNG CÁC).Vậy TUẾ ĐÀ Dần Thân không có PHƯỢNG CÁC (Vì sao nầy đi theo nhóm TANG HƯ KHÁCH) và TUẾ ĐÀ PHƯỢNG CÁC. Gọi tắt là TUẾ PHƯỢNG cách nhau 1 trời một vực.Đến đây người viết dài dòng 1 chút về phong thuỷ, long mạch.Số là, khi Gia Long còn là Nguyễn Vương đang bôn ba ở Nam. Tại quê nhà quân Tây Sơn đào mồ thân phụ (xem Lăng Sọ, tất biết) và cả 9 đời chúa Nguyễn để phá bỏ. Đó là bằng chứng cho thấy chẳng có long mạch các thầy địa lý ạ. Muốn làm vua thì phải hành động. Thời bây giờ, muốn làm lãnh đạo phải giỏi ăn nói, dù là nói xạo cũng phải giỏi xạo. Làm gì có chuyện long mạch, ngồi đó chờ người đến tôn lên làm vua. Các vua khai quốc vô cùng gian nan. Thua cuộc là giặc. Đọc tiểu sử Minh Thái tổ của Trung Quốc tất rõ. Nghèo rách tả tơi, đi tu để kiếm ăn là chính. Từ đó hiểu ra diệt thù trong giặc ngoài. Nếu không hành động, an phận thủ thường cũng chỉ là tên vô danh tiểu tốt. Chuyện tìm vị trí tốt để an táng khỏi bồi lấp, lũ quét... là việc nên làm. Làm gì có chuyện hàm rồng. Nhìn dưới đất biết có nguồn nước, mỏ dầu... là các nhà khoa học, nhưng cũng cần đến máy móc hỗ trợ, khoan thăm dò. Học cả núi sách. Nhìn dưới đất biết long mạch là các nhà ba xạo. Đảm bảo viết không đúng chính tả, nói thì rất giỏi. Lừa đảo từ thế kỷ này xuyên qua thế kỷ khác. Bắt nguồn từ những tên TUẾ ĐÀ thiết kỵ ư Dần Thân. Tên TUẾ ĐÀ Émile Buisson này còn có CỰ ĐÀ, “kẻ đi cửa sau” nầy rất đáng sợ.Bây giờ trở lại với tên Émile Buisson. Cái dễ hiểu lầm trong giới Tử Vi là. Tên này sinh ra ở Việt Nam (vào khoảng 1962) số phận y chang như thế không? Không đâu. Ở Việt Nam. Y sẽ buôn lậu ma tuý, đa cấp, và lập các công ty lừa đảo bất động sản ảo... Chỉ giống nhau ở điểm bị bắt và kết án tử hình. Không có chuyện “kéo lê cái máy chém”, chém 1 phát (mặc dù tên này có VŨ KHÚC LINH KHÔNG KIẾP... tại Tật). Vì bây giờ chơi 1 liều HOÁ KỴ.Còn tên nầy sinh ra ở Mỹ thời điểm bây giờ thì sao?Thành lập 1 tà giáo, bắt các tín đồ làm nuôi mình, sống quần hôn như loài thú vật, không sướng sao được. Mắc chi tổ chức đánh cướp ngân hàng, đoạt xe chở tiền cho khổ. Thế đấy, tuỳ nơi, tuỳ thời người ta có suy nghĩ khác nhau. Ở Mỹ chỉ cần 500 (hoặc 5000 không nhớ rõ) tín đồ ủng hộ là thành lập 1 giáo phái. Và lại giống nhau ở điểm, y bị tín đồ tố cáo nên bị bắt.Tử Vi chỉ cho thấy cái “dạng thức” như thế. Cái đáp số na ná như thế. Cái đáp số của tên nầy nằm tại cung Tật. Bị LIÊM TRINH theo dõi và PHÁ QUÂN bắt.Điều thú vị tên PHÁ QUÂN nầy có LINH QUYỀN lại đúng ngay 1 tên PHÁ QUÂN có bộ sao nầy tại Mệnh.“Tao có quyền bắt mầy nhé. Tao là THIÊN SỨ cung Tật của mầy”.Không có gì dễ giải thích bằng sự thật. Ở Mệnh đoán khác, ở Tật đoán khác. Đó cũng là điều thú vị, khỏi tranh luận dài dòng.Bất cứ ai, dù có lý hay không có lý. Kể cả lý tưởng tuyệt vời đi chăng nữa. Cung Tật có PHÁ QUÂN đi với KHÔNG KIẾP đều bị bắt.

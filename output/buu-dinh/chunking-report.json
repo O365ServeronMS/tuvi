@@ -1,0 +1,21 @@
+{
+ "posts_total": 519,
+ "posts_kept": 271,
+ "posts_dropped": 248,
+ "empty_after_clean": [
+  "Tu Vi Chart is a portrait of a person"
+ ],
+ "chunks": 681,
+ "size_min": 718,
+ "size_median": 3627,
+ "size_p90": 5521,
+ "size_max": 6508,
+ "chunks_over_max": 5,
+ "dropped_paragraphs": {
+  "en": 631,
+  "heading-mồ-côi": 8,
+  "admin": 11
+ },
+ "posts_with_comments_cut": 127,
+ "comment_html_chars_cut": 3907560
+}

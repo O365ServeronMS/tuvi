@@ -1,0 +1,125 @@
+---
+id: bd#6140896324600558246
+title: "NGÔI SAO THÁI DƯƠNG"
+url: https://tuviungdung.blogspot.com/2023/10/ngoi-sao-thai-duong.html
+published: 2023-10-12T12:43:00.000+07:00
+updated: 2023-10-12T12:43:14.226+07:00
+labels: []
+---
+
+# NGÔI SAO THÁI DƯƠNG
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU6wr4g-TyeIbz44f0DzVRmMZl2pKMmLtfYkn4iWG9bJ36LOpYOwpWfTYdCEbUY2X8M2VHVgz2aNuU2lmRwGMz98tB0DSw3-VBH8Dl9GsCz01fRe996olIRfkgEpYUR6bOo4Yi9Sr-H8s55y3p3fbtOgS_VlQaHe6bBskjKiwZvUfaVX8fy-bPzucQxWUY/s16000/NsTHAIDUONG.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU6wr4g-TyeIbz44f0DzVRmMZl2pKMmLtfYkn4iWG9bJ36LOpYOwpWfTYdCEbUY2X8M2VHVgz2aNuU2lmRwGMz98tB0DSw3-VBH8Dl9GsCz01fRe996olIRfkgEpYUR6bOo4Yi9Sr-H8s55y3p3fbtOgS_VlQaHe6bBskjKiwZvUfaVX8fy-bPzucQxWUY/s500/NsTHAIDUONG.gif)
+
+Bài viết rút ngắn dành cho các học viên. Đạt chuẩn là bạn đã biết. Tại đây
+không có gì mới lạ, có chăng là văn phong mới lạ.Thắc mắc về Kỵ gặp hoặc Cần
+gặp hoặc giải thích dài dòng. Xem lại trong F7,8 BD.
+
+**THÁI DƯƠNG là ngôi sao rất đặc
+biệt không thuộc nhóm sao nào. kết hợp với nhóm ÂM LƯƠNG thành bộ ÂM DƯƠNG
+LƯƠNG. Hoặc đi với CỰ MÔN thành bộ CỰ NHẬT. Ánh sáng, ban ngày, ngày.THÁI DƯƠNG chủ ánh sáng, ban
+ngày. So sánh với THÁI ÂM chủ bóng tối, ban đêm và tháng. THÁI TUẾ chủ năm.
+THIÊN CƠ chủ thời kỳ, mùa. Các sao vừa kể là bộ đếm của thời gian. THÁI DƯƠNG
+sáng tại các cung ban ngày, tối ở các cung ban đêm. THÁI DƯƠNG được ví như mặt trời
+dùng để luận đoán. Nhưng mặt trời thật lại ẩn tàng ở ngôi sao khác. Xem bài
+viết  “Mặt Trời, Mặt Trăng trên lá số Tử Vi ?” trên blog. Chủ ban ngày là THÁI DƯƠNG.Ngày, có thể là ngày tháng may
+mắn, hãnh diện, huy hoàng... nhưng cũng có thể không may, ngày rủi ro, ngày đen
+tối, ngày tàn của cuộc đời, ngày cuối cùng, ngày phán xét, ngày tận thế... Nếu có ngày vui, tất có kẻ có
+ngày buồn.Nếu có ngày kết hôn cũng có thể
+có ngày ly dị.Nếu có ngày sum họp, sau đó có
+ngày biệt ly.Ngày ra đi thì có, ngày về thì
+không...Nói đến từ “ngày” nhiều vô số kể.
+Và cũng là từ chúng ta thường dùng hằng ngày, trên văn bản.Ngày hôm nay lừa đảo, ăn cướp
+ngày ra toà không xa. Ngày gặp gỡ, ngày phát sinh tai
+hoạ... là ngày định mệnh Ngày tự do thì ít, ngày tù thì
+nhiều...Tất cả tuỳ thuộc vào các bàng
+tinh giúp ta luận đoán. THÁI DƯƠNG là ánh sáng, THÁI ÂM
+là bóng tối.Có khi người trong bóng tối điều
+khiển người ngoài sáng. Có bao giờ bạn thấy ông đạo diễn trong phim không?Người ngoài ánh sáng dễ bị khen
+chê, người trong bóng tối ít ai biết đến.Người ta thường nghĩ người trong
+bóng tối làm điều xấu xa, người ngoài ánh sáng làm điều tốt đẹp. Chưa đủ yếu tố
+để kết luận. Công khai, minh bạch rõ ràng,
+quang minh chính đại,Khi bộ ÂM DƯƠNG sáng đẹp. Ta
+thường nghe, công khai (Thái Dương), minh bạch rõ ràng (là Thái Âm), quang minh
+chính đại. Từ đó ta lại có tình trạng ngược lại. Không dám công khai gia cảnh,
+nhà cửa, mập mờ, khai gian... Chưa hề nghe các quan chức công khai vợ lẽ, nàng
+hầu... Các tiểu tam thì khai láo vợ ông nọ, ông kia sẵn sàng giúp bạn nếu có
+Thiên Lương hay Vũ Khúc đưa ra. Bất cứ 1 vấn đề gì trong Tử Vi
+đều có nhiều mặt, chứ không phải 2. Cái áo có 2 mặt nhưng con thò lò có tới 6
+mặt. Ta có THÁI DƯƠNG thật, giả, sai trái, lừa đảo, hại người, chống đối... Lên
+mạng chửi người này, chống người kia cũng là công khai đến muốn lừa đảo nhiều
+người lại càng phải công khai quảng cáo xôm tụ. THÁI DƯƠNG khoe khoang thái quá.THÁI DƯƠNG có nghĩa là khoe
+khoang, giương ra thái quá. Thật giả chưa lường được. Trái với THÁI ÂM âm thầm
+thái quá. Vậy THÁI DƯƠNG có che giấu điều gì không? Có chứ, trong bộ ÂM DƯƠNG
+LƯƠNG thì có THÁI ÂM điều tiết. Điều này âm thầm thôi. Trong bộ CỰ NHẬT thì không
+nhưng vẫn có. Vì THÁI DƯƠNG luôn luôn nhị hợp với THIÊN PHỦ. Đó là nơi THÁI
+DƯƠNG che. Che gia đình, che nhà cửa, che bạn bè, che tai ách, con cái... Can
+cớ gì khoe túp lều rách, là bạn bè với Bin Laden, bọn đầu trộm đuôi cướp...
+Liệu có che được hay là không là vấn đề khác. Có người vội nghĩ, THÁI DƯƠNG là
+phải khoe sang giàu, là con ông này cháu ông  kia... Dễ chết vì lầm lẫn.
+Tuỳ đối tượng THÁI DƯƠNG khoe. Khoe đau thương, bệnh tật, bò lê la trên phố...
+để cầu xin sự thương yêu. Khoe cô đơn, độc thân... tất nhiên là tìm đúng đối
+tượng... Có người khoe thân, khoe giường
+chiếu. Quan trọng là khi khoe ra có bị chỉ trích, bắt bẻ hay là không?Tốt là được tán dương. Xấu nhất
+là bị tố cáo. Hóá ra là vàng giả, nhà thuê, xe mượn, vú bơm, mông độn. Văn
+chương thì ăn cắp...Có người khoe nhà cửa dát vàng
+mang hoạ vào thân. Vì LIÊM TRINH điều tra ra làm ăn phi pháp, rửa tiền... Có người tự phong là Phật sống,
+thần tiên, có tài hô phong hoán vũ... Có người tự khoe Thần điêu đại bịp, Mỹ
+nhân đa dâm, Người chết trở về tức người về từ quá khứ. Người đến từ xứ ba xạo
+tức là đến từ tương lai chuyện chưa xảy ra... Tự phong, tự sướng là lương y,
+thầy Tử Vi trở nên tầm thường. Ách nghiệp của sao hay khoe là
+ngôi sao LIÊM TRINH điều tra theo dõi nằm ở cung Tật Ách. Ngài THIÊN SỨ đánh
+giá có cáo trạng là xong đời.Do đó THÁI DƯƠNG có XƯƠNG KHÚC
+tại Mệnh ưa khoe gì thì khoe. Thôi đành khoe văn chương vậy. Viết văn mà không
+khoe ra, có ai biết mình là văn nhân đâu ạ.Tất nhiên không phải THÁI DƯƠNG
+nào cũng khoe, cũng giương lên. Nhiều THÁI DƯƠNG lên có nổi đâu mà giương ra,
+khoe ra bị mất tác dụng. Có THÁI DƯƠNG vừa nhìn thấy dương trần đã xa lìa nhân
+thế. (Xem lại lá số Cuộc Đời Ngắn Ngủi trong FBD).Đến trường hợp khoe hay giương ra
+hoàn cảnh kẻ khác. THÁI DƯƠNG lên tiếng kêu gọi. Ngôi sao từ tâm, ngôi sao phúc
+hậu, ngôi sao ưa làm việc thiện, việc nghĩa để THÁI DƯƠNG lừa. Hạn ngộ THÁI
+DƯƠNG dễ sáng mắt sáng lòng.Từ khoe khoang đến giương nanh
+múa vuốt cũng là sao này. Dấy lên, dậy lên, dựng chuyện
+thái quá.Trên là nói về khoe, tiếp là dựng
+lên chuyện này chuyện nọ. Không có dựng lên cho có. Nào là nhìn ra biển Đông
+thấy bồng lai tiên cảnh. Trái đất rỗng, mặt trăng là phi thuyền. Chiến tranh
+ảo... Thế giới người chuột sống dưới đất cao 90 phân... Nhiều vô số kể.Dấy lên những chuyện thị phi,
+phản đối... cuội. Có khi không ngoài mục đích để che đậy chuyện khác... THÁI DƯƠNG thuộc nhóm sao lãnh
+đạo, chỉ huy.Do các sao TỬ VI, PHÁ QUÂN, CỰ
+MÔN là các sao lãnh đạo nên THÁI DƯƠNG cũng là 1 nam tử, đại trượng phu nên
+dương danh, giương những gì mình có để tranh ngôi vị với các sao vừa kể. Dương dương đắc ý, nở nang mày
+mặt...Làm rỡ ràng mẹ cha, người thân và
+bạn bè. Một THÁI DƯƠNG tốt sẽ được như thế, dĩ nhiên không thiếu trường hợp cúi
+mặt mà đi, những ngày tháng tủi nhục. Ngày đi thì ồn ào, ngày về không dám vác
+mặt... Duong phần. Cõi dương. Khí dương.Nhà cửa và tất cả đất đai nói
+chung là dương phần thuộc cõi dương. Trong nhà đất. Chính xác là thềm nhà phần
+giương ra phía trước.... So sánh với THÁI ÂM là âm khí, âm phần, mồ mả là cõi
+âm. Khôi hài, kẻ ở cõi dương chấp nhận lừa đảo để cõi âm được lên thiên đàng.
+Còn kẻ ca ngợi cõi thiên đàng lại không chịu lên... Vì biết khi ra đi là về với
+địa ngục. Đàn ông. nam tử, nam giới, con
+trai, giống đực. Nam tính.Nhất nam viết hữu, thập nữ viết
+vô. Một trai kể như có, 10 gái kể như không. Quan niệm của người xưa, vì quan
+tâm đến vấn đề thờ phượng và di sản. Quan trọng là con trai hay con gái là kẻ
+gây hại, làm điều tủi nhục hoặc đem lại vinh quang cho gia đình.Nữ giới có THÁI DƯƠNG thủ mệnh
+tính cách như nam giới.“Ví đây đổi phận làm trai được.Thì sự anh hùng há bấy nhiêu”...
+Hồ Xuân Hương. Ở các trại chăn nuôi người ta ít
+quan tấm giống đực. Trại gà, các con THÁI DƯƠNG gà bị triệt tiêu. Con mắt, những điều trông thấy...Còn chủ tai mắt. Bộ ÂM DƯƠNG là
+bộ tai mắt, nghe và trông thấy. Các phần mềm nghe nhìn, đa phương tiện
+multimedia. Quan trọng là THÁI DƯƠNG trông thấy để đau đớn lòng hay lên tiếng
+phản đối. Bộ CỰ NHẬT là trông thấy và miệng dễ phản đối hoặc tán duong. Đó là
+điểm khác nhau của 2 bộ sao ÂM DƯƠNG LƯƠNG và CỰ NHẬT.So sánh với các sao nhìn thấy
+khác. LIÊM TRINH theo dõi, THAM LANG, THẤT SÁT tìm kiếm và quan sát, THIÊN
+TƯỚNG xem xét, THÁI DƯƠNG trông thấy và THÁI ÂM nghe thấy. Chỉ nghe thôi cũng
+như thấy.Nói đến con mắt không thể quên
+những bệnh tật liên quan đến con mắt. Mắt lé, cận thi, viễn thị, loạn thị, mù
+màu, mù loà, đục thuỷ tinh thể, hư giác mạc... Tất nhiên để luận đoán phải căn
+cứ vào bàng tinh. Ngoài ra còn 1 số chi tiết khác
+khó nói. THÁI DƯƠNG nằm trong chuỗi sao
+ĐỒNG, VŨ, DUONG. Nói cách khác. Mệnh THÁI DƯƠNG có người phối ngẫu là THIÊN
+ĐỒNG. Anh em với VŨ KHÚC.Mệnh THÁI DƯƠNG luôn nhị hợp với
+THIÊN PHỦ. Ngôi sao che chở và thừa nhận. Nô cung luôn có PHỦ TƯỚNG hoặc
+SÁT PHÁ THAM Tật cung luôn có LIÊM TRINH theo
+dõi.Đến đây để giải trí nên nghe bài. Mùa Đông Của Anh. Khởi đầu bằng từ “Ngày
+nào”... hãy tự ngẫm nghĩ ngày nào là bộ sao gì? Tự mình đốt đuốc lên mà đi. Có
+thế mới giỏi.**

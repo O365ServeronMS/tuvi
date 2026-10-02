@@ -1,0 +1,221 @@
+---
+id: bd#2033248418259996852
+title: "Chữ THAM hãy thuộc  nằm lòng"
+url: https://tuviungdung.blogspot.com/2015/09/chu-tham-hay-thuoc-nam-long.html
+published: 2015-09-21T19:01:00.001+07:00
+updated: 2015-09-21T19:01:44.250+07:00
+labels: []
+---
+
+# Chữ THAM hãy thuộc  nằm lòng
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi263_1T2Kme-TecZsvlr0ekobs3-XXpcQd8YTuvx2Mr3sOdXetGJOCEl6ybQRlJggI-nlopYeFqwELSi2GWzjkRqPuwdADkLVy5s-o6s9ndT3H76GbkclB8PGkl0Xvn1sEIBiWsBw3n-F6/s1600/TVUD+conMeoCHON.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi263_1T2Kme-TecZsvlr0ekobs3-XXpcQd8YTuvx2Mr3sOdXetGJOCEl6ybQRlJggI-nlopYeFqwELSi2GWzjkRqPuwdADkLVy5s-o6s9ndT3H76GbkclB8PGkl0Xvn1sEIBiWsBw3n-F6/s1600/TVUD+conMeoCHON.gif)
+
+**Tham tốt**.
+
+Tham bác, tham khảo... là tra cứu,
+
+Tham kiến,  tham tấu, tham
+nghị, tham luận, tham mưu, tham chiến, tham chính... tham vọng.  Đó là những từ đi với tham là hay. Giúp cho 1
+số THAM LANG nổi danh, nổi tiếng.
+
+Nhưng “có thật thế không” là câu hỏi luôn luôn đặt ra trong
+đầu người giải đoán Tử Vi.
+
+Trở lại vấn đề tham bác, tham khảo... Tức là nghiên cứu học
+hỏi trong  sách vở rồi về sau tham gia,
+tham chính, như thế là tốt. “Nhưng có thật thế không ?”. Là câu hỏi chúng ta tự
+đặt ra.
+
+Ví dụ chỉ là ví dụ mà thôi. THAM LANG sau khi nghiên cứu kỹ
+càng rồi. Thậm chí nhiều THAM LANG chưa học đã làm nghiên cứu sinh.  Nghĩ rằng; tham bác là tham lam cướp của bác
+làm của mình. Ta lại có các công trình nghiên cứu ăn cắp, ăn trộm, xào qua, xào
+lại... Trong văn hoá người ta gọi là đạo văn. Các luận án, tham luận copy,
+paste dâng hiến cho đời người thật trình độ ảo. Những bài viết sưu tầm không biết
+của ai, nói lên lòng dạ không trung thực.
+
+THAM LANG xin  tham
+kiến thượng hoàng. THAM LANG xin tham tấu, tham nghị, tham mưu... sau khi được
+tham chính. Bẩm tâu thượng hoàng. Lênh Kế Hoạch là cháu của Lệnh Hồ Xung rất ư
+nguy hiểm... Nó vạch ra kế hoạch làm hại thượng hoàng.  Dạ em muốn ngồi chỗ của nó ạ.
+
+Từ tham tấu, có thể đưa đến ích quốc lợi dân. Nhưng cũng có
+thể do lòng tham. Ta lại có tham tấu là ton hót, nịnh bợ... làm hại những con
+người tốt, người tài. Lệnh Kế Hoạch là con người có tài, bằng chứng là y có
+chức vụ quan trọng, tất nhiên cả đống bằng khen....  Là con người tốt, hoài nghi ư? Thì thử hỏi đàn
+em, người thân, những người khen thưởng  y, xem họ đánh giá như thế nào. Đó là lý do
+cung Mệnh đánh giá khác,  các cung còn lại,
+Huynh Đệ, Nô Bộc... đánh giá khác
+
+Từ tham nghị, ta lại có các nghị gật. Cứ gật hoài cũng kỳ.
+Các tham nghị phát biểu dữ dội với các đề tài vô thưởng vô phạt. Như, phụ nữ
+đẹp là phụ nữ biết trang điểm.
+
+Mới đây thôi. Các nghị của Nhật, không tham luận băng ngôn
+ngữ, lại tham luận bằng tay chân. Một đề tài vô cùng bé xíu là tham chiến. Thế
+mới biết, làm nghị sĩ có MÃ KÌNH ĐÀ rất cần thiết. Hưởng câu văn võ song toàn.
+Nhưng hình như phe không chịu tham chiến lại động thủ, bạo lực, bạo động với
+người cùng chung chiến hào.
+
+Nếu có tham tốt, có thật thế không phải suy nghĩ. Đáp số
+cũng nằm ngay tại đấy chứ không đâu xa.. Nguyên tắc nếu có tham tốt, tất có
+tham xấu. Dòng họ nào cũng có kẻ tốt người xấu. Dòng họ Tham cũng thế.
+
+**Tham xấu**.
+
+Tham lam, tham ăn, tham của, tham ô, tham nhũng, tham
+hặc...  tham tàn, tham dâm, tham quyền cố
+vị...
+
+Nguyễn Du từng ca ngợi tham tiền như sau:
+
+... “Mụ càng tô lục chuốt hồng
+
+Máu tham hễ thấy hơi đồng thì mê”...
+
+Đầu tiên do tham lam mà ra,  Từ tham lam mới sinh ra tham ô nhưng không
+phải môi trường nào cũng có hoá vật, tài vật.. để phát sinh lòng tham. Có nơi, môi
+trường trong sạch quá, chẳng có gì để tham ô chuyển qua tham nhũng. Muốn tham
+nhũng phải dùng đến tham hặc. Tức là đàn hặc, đáng tiếc là không phải cây đàn hạc,
+là sách nhiễu, kiếm chuyện. Với những câu nói vu vơ THIÊN LƯƠNG là gì? VŨ KHÚC
+là cái chi? Chưa khó hiểu bằng “đâu tiên” là gì? Chúng ta dễ hiểu lầm là sao CỰ
+MÔN, bước khởi đầu. Cho hay biển học mênh mông học hoài không hết.
+
+Chưa đáng sợ bằng tham tàn sẵn sàng tham gia với Sát Phá để
+tàn sát, đánh đập để chứng tỏ không thua kém chi ai. Đất dụng võ là làm tay sai
+cho quân IS nhưng xa xôi quá. Thôi thì tham gia với kẻ ác thiếu gì trong xã hội.
+Cho nên có những vụ ẩu đả, các băng nhóm nhiều hằng chục tên. Khiến các vệ binh
+quốc gia, lo bảo vệ mình là chính, bảo vệ người tam thời quên đi. Đông quá biết
+làm sao bây giờ, thông cảm chứ....
+
+Không thể quên tham dâm. Cái tham này làm rạng ngời dòng họ
+Tham. Muốn thế phía nhị hợp THIÊN ĐỒNG có chịu thông dâm không chứ lỵ. Như vây
+là 2 kẻ có tội nhưng THIÊN ĐỒNG dễ được người ta thông cảm với nhiều lý do
+không thể kể hết. THAM LANG tất nhiên là có tội.
+
+Nguyễn Du mô tả  như
+sau:
+
+“Nào người phượng chạ loan chung.
+
+Nào người tích lục tham hồng là ai”...
+
+Ý là, đã có THANH LONG rồi, thấy HỒNG LOAN cũng ưa.
+
+Khi tham xấu, nếu có quyền lực bao giờ cũng tham quyền cố
+vị... Vận dụng tốt ngôi sao PHÁ QUÂN tam hợp nắm giữ chắc địa vị. Thất Sát là
+được đừng để mất.
+
+Không phải THAM LANG nào cũng tham. Sẵn sàng nói không với
+chữ tham. Chữ không này không phải sao THIÊN KHÔNG đâu ạ. Là sao TRIỆT KHÔNG,
+biết rồi nên trừ bỏ nó đi, không dùng đến. Ta có ví dụ như sau.
+
+“Chẳng tham ruộng cả ao liền.
+
+Tham vì cái bút, cái nghiên anh đồ”.
+
+Như thế cũng là tham nhưng không tham giàu, ham người có
+học. Như thế là tham đúng.
+
+Khi tham đúng người ta không nói tham. Lại biến hoá thành
+ham. Như, ham học, ham làm. Còn gọi là hiếu học. Có người dị ứng với từ tham,
+ham, hám, háo...  chuyển qua các từ mong
+muốn, ước mong, ao ước, hy vọng... Thực chất vấn đề cũng từ tham, ham, momg
+muốn  mà ra. Nói lên sự biến hoá tài tình
+của cách dùng chữ sao cho phù hợp.
+
+Ham muốn chỉ là 1 đặc điểm trong nhiều tính cách của THAM
+LANG. Nó biến hoá ly kỳ, người viết lược bỏ rất là nhiều. Người ta có quyền hy
+vọng, mơ ước, ao ước... càng cháy bỏng càng dễ thành công. Miễn sao điều ấy là
+tốt. Nếu nó tan tành thành mây khói đi chăng nữa chẳng qua là số phận. Đã là số
+phận khó mà sửa đổi.
+
+Chữ tham để lại nhiều thành ngữ.
+
+Tham danh trục lợi.
+
+Đa phần ta gặp loại này nhiều nhất.
+
+Tham đắc vô yếm.
+
+Tham hoài không chán, lòng tham vô đáy.
+
+Tham ngật lãn tố.
+
+Siêng ăn nhác làm. Giỏi chơi thôi à, chơi hoài không chán.
+
+Tham ô hủ hoá.
+
+Ăn cắp của công hoá thành xấu xa.
+
+Tham phu tuẫn tài.
+
+Kẻ tham dễ chết vì tiền. Chết đủ thứ, đủ kiểu, đủ cách... Chết
+gục ngã trên đường đi tìm kiếm hư ảo, tìm đào, tìm kiếm công danh... Vì thế “Mệnh
+trung ngộ KIẾP THAM do như lãng lý hành thuyền”:. Bấp bênh như thuyền trên sóng.
+
+Tham tài háo sắc.
+
+Rất bình thường trong xã hội.
+
+Tham tang uổng pháp.
+
+Ham chiếm tang vật làm lệch pháp lý. Trên 1 tỉ trung ương
+duyệt, dưới 1 tỉ địa phương duyệt. Ngu chưa kìa, ta ghi 999 triệu là ta tự duyệt.
+
+Tham thiên chi công.
+
+Tham công của người mà trời giành cho người khác.
+
+Tham tiểu thất đại.
+
+Ta lại có thành ngữ thuần Việt.Tham 1 bát bỏ 1 mâm.
+
+Tham thực cực thân.
+
+Bệnh hoạn do ăn uống sinh ra rất nhiều. Đau đớn nhất là không
+tham ăn cũng chết. Dạ, ăn không được./ Phải ăn vào có sức để chữa bệnh chứ.
+
+Tham quyền cố vị.
+
+Có người mê man vì quyền lực nên phải gắng giữ. Chẳng ích
+chi cho đời. Căm thù thời gian, thời gian ơi! Xin dừng lại. Quá dễ, làm giấy
+khai sinh lại mấy hồi.
+
+Tham sinh uý tử.
+
+Ham sống sợ chết. Đa thọ đa nhục chứ được gì.
+
+Ca nhạc mô tả chữ tham hay nhất, ta có:
+
+Tôi không tham, không tham kho tàng vô tận.
+
+Tôi không mê nét đẹp lộng lẫy giai nhân.
+
+Tôi không mơ quyền quý
+cung son vàng.
+
+Bạo chúa hay ông hoàng quyền uy cao nhất thế gian.
+
+Mô tả 1 chữ tham mà thôi, tránh lập lại người ta dùng từ mê,
+từ mơ. Đây là cách TRIỆT THAM. Do đâu người ta phân biệt là tham dâm, tham
+khảo, tham tấu.... cũng do các sao đứng quanh nó mà thôi. Tham ở Mệnh đã thấy
+mệt rồi.Tật Ách cung có Tham càng mệt hơn nữa. Các THAM LANG khi có vấn đề thường
+tự thán. Dạ em bị ép buộc tham gia. Làm cho việc giải đoán Tử Vi càng thêm khó
+lắm, mẹ ơi!. Anh là chí nguyện quân, tình nguyện quân? Dạ không, bị ép buộc phải
+tham gia IS, nếu không nó bóp cò. Nghe âm thanh lần cuối cùng buồn lắm.
+
+Các THAM LANG thân mến. Ước chừng có 500 triệu người trên
+thế giới có ngôi sao này tại Mệnh. Mỗi người bày tỏ lòng ham muốn của mình khác
+nhau. Tốt có, xấu có. Thật có giả có. Đúng có, sai có. Tầm thường cũng có dĩ
+nhiên vĩ đại cũng có.  Thành có, tất con
+đường đi không đến cũng có.
+
+Kề cận với THAM LANG là ngôi sao phản đối.CỰ MÔN, cũng liền
+kề với THAM LANG là ngôi sao THÁI ÂM âm thầm toan tính.  Cung Tật Ách của THAM LANG luôn luôn có bộ ÂM
+LƯƠNG hội họp.
+
+Cuối cùng là không phải vô cớ người ta đặt tên nó là THAM
+LANG.

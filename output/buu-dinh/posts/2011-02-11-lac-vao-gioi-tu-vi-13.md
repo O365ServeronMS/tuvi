@@ -1,0 +1,428 @@
+---
+id: bd#3043876022424128515
+title: "Lạc Vào Thế Giới Tử Vi (13)"
+url: https://tuviungdung.blogspot.com/2011/02/lac-vao-gioi-tu-vi-13.html
+published: 2011-02-11T00:21:00.000+07:00
+updated: 2013-02-17T10:52:08.009+07:00
+labels: []
+---
+
+# Lạc Vào Thế Giới Tử Vi (13)
+
+![](http://blog.yimg.com/1/5NkjoQx7s58MnmgoOzrirvQ5Be3LF46SEbGBabsttroi.eNZvWqUCw--/85/l/enEPPwaaH8Mwq003_353Tw.jpg)
+
+Truyện Tử Vi của Bửu Đình.
+
+**Hồi thứ 13.Những Bản Mật Tấu Lạ Lùng.Bản mật tấu thứ ba.**
+
+Ngày... tháng... năm.
+
+Buổi sáng tại huyện Thiên
+Khôi.
+
+Hạ thần tiếp tục tiến về thị
+trấn của huyện Thiên Khôi nơi đặt bản doanh của quan Lãnh Binh. Kể từ khi vó
+ngựa đặt chân trên đất xứ Thân, một điều thần quan tâm hơn hết là quân phục của
+bọn binh lính ở đây rách te tua, ngay cả bọn quan nhỏ cũng không lành lặn. Chỉ
+có bọn pháo thủ binh, tượng binh là coi được nhất. Bởi thế ở đây có câu.
+
+“Nhìn quân
+phục biết xứ Thân. Nhìn tưởng dân hóa ra là lính”.
+
+Vâng, chỉ có cái nón chúng
+đội trên đầu là ít hư hỏng mà thôi, càng nhìn càng chẳng giống ai, vũ khí thì
+ít, mang theo dao, rựa, mác thì nhiều. Chả trách các khâm sai địa phương báo
+cáo về không thống nhất một ý. Ngay cả nơi thị trấn đông vui Thiên Khôi cũng
+không ít lính tráng ăn mặc rách rưới từ xa đi về. Tại đây đa phần bọn Cơ binh
+(tức lính do các tỉnh quản lý) của 4 vệ (mỗi vệ 500 người, tương đương 1 tiểu
+đoàn ngày nay, mỗi vệ có 10 đội, mỗi đội có 50 quân - mỗi đội bằng một trung
+đội ngày nay, cũng còn tùy binh chủng). Chỉ có bọn Quản cơ và Suất đội là ăn
+mặc nghiêm túc. Nhìn cách ăn mặc rách rưới, trang bị khác lạ so với Kinh Đô
+thần đã muốn điều tra cho ra lẽ. Một mặt tìm kiếm khâm sai địa phương xứ Thân
+để tổ chức một cuộc họp nhỏ, một mặt khác đóng vai một người có người thân tòng
+quân xứ này, không biết rõ cơ, đội của nó để ra sức tiếp xúc tìm hiểu lân la
+với bọn suất đội.
+
+Đến khi, biết rõ tại đây,
+có 2 vệ làm một con đường dọc theo biên giới nước bạn, và luôn luôn có những
+vệ, đội tập luyện hằng ngày. Mục đích gì thì thần cũng đành chịu. Chính quan Thượng
+thư bộ Binh cũng chỉ biết; Quan Lãnh binh PHÁ TRIỆT muốn làm một con đường dọc
+biên giới để thuận tiện cho việc đi lại kiểm soát vùng biên mà thôi. Còn việc
+tập luyện quân sự được quan Thượng cho là “văn ôn võ luyện” là chuyện thường
+tình. Các khâm sai địa phương cho là việc luyện tập quá thường xuyên là không
+cần thiết. Chỉ còn cách tiếp xúc với Lãnh binh xứ Thân để tìm hiểu động thái,
+thái độ, hành vi của y mới được.
+
+Buổi chiều.
+
+Đến doanh trại của quan
+Tổng binh thì y đã đi thăm thú một số đơn vị tập luyện đâu đó. Chờ mãi mới biết
+ngày mai y mới về. Thế là  thần lại tiếp
+tục công việc đi tìm kiếm người thân đóng quân xứ này. Vui chân vào chợ Thiên
+Khôi. Nghe người ta kháo nhau rằng, ăn cơm tại chợ rẻ tiền, thôi thì cũng ăn
+cơm chợ một bữa cho biết mùi vị để có dịp kể lại với hoàng thượng sinh hoạt của
+dân gian. Chẳng ngại vai trò của quan chánh nhị phẩm triều đình (ngang với bên
+văn: Thượng thư, Tổng đốc, Đô ngự sử. Bên võ ngang với:Thống chế, Đề đốc). Quả
+nhiên ăn cơm ở chợ rẻ thật. Đang ăn thì bỗng xảy ra chuyện vui của một phụ nữ bán gà. nhưng không thể kể ra đây được.
+
+Buổi tối.
+
+Cũng với vai trò tìm người
+thân, đi với 2 khâm sai địa phương ghé quán ả đào nổi tiếng xứ này. Lại nghe
+giọng ca người xứ Ngọ trên đất Thân, khiến thần không khỏi băn khoăn trong dạ.
+Không hiểu Hoàng thượng đi xa nghe tiếng ca ở quê hương nghĩ gì. Mặc dù rời xứ
+Ngọ đến hôm nay là đêm thứ ba nhưng thần không bao giờ quên những phút giây làm
+việc bên Hoàng thượng.
+
+Chiều chiều,- dắt mẹ qua đèo.
+
+Chim kêu - là kêu bên nớ.
+
+Uấy- óa.- Chi rứa-, chi rứa.
+
+Con vượn trèo - kia bên ki a- kìa là kia bên kia.
+
+Chiều chiều - lữ khách qua đèo.
+
+Vai mang - tình non - tình nước.
+
+Uấy - óa -. Chi rứa- chi rứa.
+
+Ôi !- Cuộc đời - bao trái ngang - kìa là bao trái
+ngang..
+
+Lại nghe tiếp bài Ngũ Điểm,
+ở xứ Thân, âm điệu có phần khang khác.
+
+Hò liệu hò hò xừ xang hò
+
+Hò liệu hò hò xừ xế xang
+
+Xế xang xự, xế xang xự hò
+
+Hò hò cống, xê xàng xê cống.
+
+Hò hò cống, líu cống xự xàng xê.
+
+Xế xang xự xế xang xự hò.
+
+Trong tiếng sênh phách, ca
+nhi trang phục như người xứ Ngọ, dung mạo đoan trang không kém phần xinh đẹp,
+cất cao lời ca sầu thảm.
+
+Này từng chiều - lặng lẽ qua rồi
+
+Này từng chiều - lặng lẽ buông trôi
+
+Có bao giờ - biết đến bao giờ.
+
+Được nói hết - những điều muốn nói...
+
+Được bày tỏ - với người mình thương...
+
+Nhưng bây giờ - lỡ cách xa rồi.
+
+Thế là mất thêm 3 triệu,
+cho 3 người ngồi chưa tới nửa canh giờ. Nghe khâm sai xứ Thân giải thích, tại
+đây tính tiền theo canh giờ.
+
+Khi bản mật tâu thứ 3 đưa
+lên cũng cái nhìn hờ hững của nhà vua, lại khoác tay ra hiệu đuổi về. Lần này
+chàng gài bẫy rất rõ tin chắc vua dính đạn. Mặc dù đưa bản mật tấu vào buổi trưa
+nhưng cả ngày vua chẳng thèm gọi.
+
+Sáng hôm sau đành viết bản
+mật tấu thứ 4. Đã xong, nhưng ngại ngùng chưa dám gởi không khéo mình gài bẫy
+rồi tự sập bẫy (Đà Kiếp). Đành lấy công việc làm thú vui, gần chiều gởi cũng
+không muộn. Thoáng thấy viên thái giám vào Cơ Mật viện, tin chắc nhà vua gọi
+mình nhưng không, nhà vua gọi khâm sai Thiên Tướng lên hỏi việc.
+
+Bên kia Quang Minh điện.
+Thay vì đọc công văn phê chuẩn, nhất là văn bản hỏa tốc từ mặt trận gởi về, nhà
+vua đem các bản mật tấu ra đọc lại. Nhà vua đếm, đếm những từ “nghi vấn”. Ngài
+thầm bảo, chắc “hắn” gài bẫy trẫm đây. Thật khó mà biết đâu là bẫy. Bản mật tấu
+nghe ghê gớm nhưng thật chất là văn thư ngộ nghĩnh nhất từ xưa cho đến nay. Có
+ai viết mật tấu lạ kỳ như thế chưa. Nhưng chúng ta là kẻ đứng ngoài cuộc chơi,
+không nhìn thấy hết sự việc. Khi đã nắm những “bằng chứng không thể chối cãi
+được” do các Cẩm y thị vệ hỏa tốc đem về. Ngài suy nghĩ rất chín chắn chứ không
+nóng vội, Ngài quyết làm ‘mặt giận’ cho đến bản mật tấu cuối cùng mới thôi, và
+cũng còn tùy nội dung của nó nữa. Nhưng ngài quên một điều quan Khâm sai đệ
+nhất còn giỏi hơn ngài về đánh giá thái độ, hành động.
+
+Chưa tàn nửa tuần hương đã
+thấy Khâm sai Thiên Tướng trở về và thường lệ, mỗi lần ngài gọi người của viện
+Cơ Mật qua hỏi chuyện, tiếp đó ngài gọi viên Khâm sai đệ nhất qua nói chuyện
+rất là lâu. Y hỏi khâm sai Thiên Tướng:
+
+- “Ông chủ” có gọi yên
+(tức là anh) không?
+
+Chỉ nghe một tiếng
+“Không”, buồn làm sao. Giá như không khen thưởng, không trừng phạt, không... gì
+cũng được nhưng không thèm tiếp xúc với viên cận thần, khiến quan khâm sai đệ
+nhất viện Cơ Mật buồn đến tê tái. Đây cũng là hình thức thất tình, thất sủng,
+bị bỏ rơi như Sát Phá ngộ Tướng Binh gia thêm Kỵ.
+
+SSS
+
+Chiều hôm sau có lẽ là
+ngày đẹp, ngày tốt lành cho cung Mệnh, hạn của y. Hôm nay là ngày vọng (ngày
+rằm) buổi sáng có thiết đại triều tại Thái Bình điện, nhưng lệ thường chỉ có
+quan khâm sai Thiên Phủ đại diện cho Cơ Mật viện mà thôi. Khi y viết xong mật
+tấu thứ 5, cũng là lúc quan khâm sai Thiên Cơ từ Quang Minh điện trở về nói:
+
+- “Ông chủ” mời “ông anh”
+lên ngài gặp.
+
+Khỏi phải nói nỗi vui mừng
+của y như thế nào. Bước chân vào Quang Minh điện thấy nhà vua đang đứng bên giá
+12 binh khí, đang điều hòa nhịp thở, ở chái đông điện Quang Minh. Lữ Khách biết
+nhà vua vừa luyện võ công xong.
+
+- Hạ thần vui mừng được tiếp kiến long nhan.
+
+Thấy nhà vua không nói gì
+vẫn điều hòa nhịp thở. Chàng ta lại nói tiếp:
+
+- Không phải bao giờ võ công cũng tốt cho sức khỏe đâu bệ hạ.
+
+- Đúng rồi. Trẫm nghiệm
+chứng thấy không đúng.
+
+Nhà vua thở một hơi dài đi
+về long án thư, ngồi xuống dáng thư thái. Bàn tay trái để lên án thư, các đầu
+ngón tay gõ xuống mặt bàn như tiếng vó ngựa chạy, nghe rất là thích. Ngài nói:
+
+- Khanh ngồi xuống đi.
+Những điều khanh viết trong mật tấu là thật hay là dối? (tức là Thái hay là Hư)
+-Và để khỏi tranh cãi dài dòng, ngài tiếp- Dối như thế để làm gì?
+
+Thế là chết, nhà vua đang “đào” một cách nhẹ nhàng, êm ả
+chứ không ồn ào náo nhiệt như thói quen thường ngày. Là người chủ động trong
+cuộc chơi. Nhưng Lữ Khách vẫn không thể ngờ được nhà vua điều tra nhanh như
+vậy, chàng thầm khen bọn Cẩm y thị vệ lại giỏi đến thế, cái giỏi của chúng là
+giỏi cưỡi ngựa mà thôi (đa phần bọn chúng được tuyển từ ngự lâm quân mà qua).
+Nhưng cố tình im lặng giả bộ ngập ngừng:
+
+- Dạ, dạ...
+
+- Nói đi, dối chỗ nào.
+
+- Dạ. Thần không có té sông đâu ạ.
+
+-Ta hỏi khanh, khanh dựng
+câu chuyện (Kình Xương Khúc) ấy như thế để làm gì?
+
+- Nói ra. Bệ hạ tha cho thần, mới dám nói.
+
+Nhà vua im lặng suy nghĩ.
+Hôm nay muốn “gây sự” tên này cho bỏ tức nhưng sao muốn “kiếm chuyện” khó thế.
+Lòng ngài thấy thanh thản hơn thường lệ, Mừng vì không có chuyện té sông mà cũng
+bị dằn vặt bởi chưa hỏi han gì về thương tích và cũng như cuộc chiến đấu ở Hồng
+Linh tự. Lòng nhà vua vướng vào 2 chữ Thương và Ghét như Thiên Tướng ngộ Kỵ.
+Ngài cho đó là lời nói dối trung thực (Tuần Hư). Lòng nghĩ (tức Cơ Đồng) “hắn”
+kiếm chuyện để gặp ta.
+
+-Thôi được, trẫm không bắt
+lỗi chuyện bịa đặt nhưng mục đích của khanh là gì?
+
+- Hạ thần biết thế nào Hoàng Thượng cũng quan tâm chuyện ấy. Để hạ thần
+được tiếp xúc bàn chuyện cơ mật, nhất là về một bí mật về quan Liêm Tham, mãi
+đến hôm đi qua huyện Tào Lao thần mới được biết.
+
+Nhà vua suy nghĩ “tên này”
+giỏi thật. Sao “hắn” biết ta quan tâm chuyện nào. Nhà vua nghĩ thầm, “hắn”
+tưởng là thắng trong cuộc chơi này, ta “giả nai” thử coi. Nhà vua hỏi:
+
+- Sao bí mật về quan Liêm
+Tham lại tìm thấy ở xứ Tuất?
+
+- Hôm hạ thần bị bọn Sơn Đường tấn công ở huyện Tào Lao, có một tên
+trung niên tên là Thiên Lương làm nghề kiếm củi, giúp đưa về nhà nghỉ ngơi. Tiện
+thể may lại chiếc áo do bọn tặc làm rách. Qua câu chuyện người này kể, mới biết
+quan Liêm Tham hồi làm quan xứ Hợi, bí mật cướp vợ của anh chàng này, giam giữ
+trong tư dinh. Người được gọi là vợ ấy, là một tiểu thư Thái Âm Kiếp, chỉ mới
+đính hôn mà thôi, có viết một tập thư gởi đến được tay chàng Thiên Lương, y vốn
+là kẻ hàn sĩ chưa có danh phận gì. Chàng ta lại nôn nóng đến gặp quan Liêm
+Tham, hồi ấy là phó Lãnh Binh, bị tên này truy sát. Khiến Thiên Lương phải đến
+trú ngụ nơi sơn cùng thủy tận là tổng Địa Võng, huyện Tào Lao, xứ Tuất. Trước
+đó y cũng vào tận vùng đất Hoang Đường ở một thời gian nhưng chịu không được
+bọn du côn trong ấy, bèn bén rễ tại đây. Thật ra y ở một nơi hoang vu trên đồi
+gần Địa võng.
+
+- Vết thương ngươi như thế
+nào. Cho ta xem.
+
+- Dạ thưa, “thân ai nấy lo, hồn ai nấy giữ”. Bệ hạ hơi đâu quan tâm
+chuyện đó.
+
+Đó là cụm từ nhà vua dùng
+hôm trước. Nhà vua biết anh chàng chơi xỏ mình nhưng không bực mình, ngài cười
+phán rằng:
+
+- Người làm tướng là phải
+biết quan tâm đến thương tích, đói no, bệnh tật của binh sĩ. Nhưng ta lại có
+tên quân sĩ ngu dốt không hiểu biết chuyện ấy.
+
+Bị phản đòn hơi đau. Lữ Khách
+tìm lời chống chế:
+
+- Người quân sĩ ngu dốt ấy, không muốn chủ tướng của mình bận lòng vì
+những việc nhỏ nhen đó, thưa Bệ hạ.
+
+- Có bằng chứng gì về việc
+quan Liêm Tham hay người ta vu oan cho y. Đừng quên xứ Địa Võng hay nói trạng,
+nói dóc, nói vu...
+
+- Thấy thần lúng túng không vá lại được áo, với lại tay thần đang đau, về
+sau chiếc áo ấy thần để lại cho y. Y thuộc loại áo vũ cơ hàn (y cũng hỏng mà cơ
+cũng hỏng). Và hiện giờ thần đã cho Khâm sai Thất Sát đến xứ Tuất bí mật đưa y
+về Cơ mật viện cơ sở 2 để bảo vệ, nếu Hoàng thượng có hứng thú, có thể gặp y
+vài hôm nữa.  Trong lúc y chăm chú vá áo,
+đầu giường y có tập thơ, thần lấy đọc, nhờ đó, y mới kể những nỗi lòng, chỉ nhớ
+đại khái như sau:
+
+...Thiên Lương chàng ơi! chàng ơi!.
+
+Thương dùm thiếp với hỡi người tình chung.
+
+Chúng ta vui cuộc tương phùng.
+
+Muộn màn thiếp chịu, lạnh lùng thiếp mua.
+
+Đừng buông những tiếng cay chua.
+
+Lều tranh trở lại vui đùa với nhau...
+
+Và còn có.
+
+Có
+một người thương nhớ một người.
+
+Nhưng
+mà  xa cách quá đi thôi.
+
+Giá
+như tay nắm  người trong mộng
+
+Vui
+bước bên nhau trọn một đời.
+
+Nhà vua nghe thế liền
+khen:
+
+Chỉ đọc qua một lần mà nhớ
+là tốt. Khanh đọc lại lần nữa trẫm nghe nào.
+
+Lữ Khách cũng đọc lại đúng
+y như vậy. Và chàng ta còn khoe rằng:
+
+- Cái gì cần nhớ là thần nhớ. Cái gì cần quên là thần quên ngay.
+
+- Theo khanh, liệu y còn
+giam giữ nàng ấy không hay thủ tiêu rồi.
+
+- Cái đó khó biết được. Nhưng thần tin rằng, tư dinh của y có giam giữ
+một số phụ nữ. Như bệ hạ đã biết đấy. Hành tung và nơi ở của y rất bí mật.
+Chính lúc ở xứ Thân hạ thần gặp quan Lãnh binh, hạ thần mới hiểu được vấn đề...
+
+- Ủa sao lại có tên Lãnh
+binh xứ Thân tại đây?-
+
+- Không đâu thưa bệ hạ. Hoàn cảnh và tâm trạng của hạ thần, khiến thần
+nhớ đến Khâm sai 20. Thần đến vào giờ y có thể mời thần ăn cơm để có thời gian để
+điều tra tìm hiểu. Và thần chợt nhớ đến Khâm sai 20, có lẽ cũng nghĩ như thế.
+Khâm sai 20 phát hiện điều gì đó, bị y thủ tiêu ngay trong căn nhà của y. Y chỉ
+cần nhờ một tên tâm phúc hóa trang là Khâm sai 20 cùng nhau rời doanh trại,
+mượn sự chân thật của bọn quân giữ cổng làm nhân chứng, kể cả người của ta cũng
+hiểu lầm vì trong bóng tối mập mờ ấy, chỉ thấy dáng dấp chứ không rõ mặt, mà
+trang phục của Khâm sai cũng là dân gian loại dễ hòa đồng nhất, tên kia chỉ cần
+qua khỏi doanh trại, đến đoạn tối gần cầu xóa bỏ hóa trang, đem con ngựa đến
+đèo Đà La xứ Tị xô xuống núi, trong khi chúng ta lại tìm con ngựa ấy ở xứ Thìn.
+
+- À thì ra giản dị là thế,
+đến gần cầu tên thông gian xóa bỏ hóa trang và cứ thế đi thẳng, mục đích của
+chúng là mượn tay bọn lính gác làm nhân chứng. Chuyện quan trọng như vậy, sao
+giờ khanh mới báo?
+
+Lữ Khách làm một động tác
+y hệt nhà vua đã từng làm. Tay trái đưa lên cao hất ra ngoài. Nhà vua không
+giận mà phì cười. Lữ Khách lại tiếp:
+
+- Thần còn nghi tên này thông đồng với bọn Sơn Đường nữa đấy.
+
+- Với ngươi thì khó khăn,
+với ta phẩy tay một cái là xong. Trẫm gọi y về đây, khanh đập nát tòa tư dinh
+ấy tìm kiếm bí mật khó gì.
+
+- Thần nghĩ, vô cớ gọi y về, e rằng y phi tang chứng cứ. Với lại bọn khâm
+sai địa phương bí mật xâm nhập tư dinh, bị y phát hiện. Y có 2 con chó ngao,
+trước đây y cột lại, bây giờ y thả rông. Chứng tỏ cho thấy y có nghi ngờ. Ý
+thần là, nên nhờ quan Ngũ quân đô thống kiêm Thượng thư bộ Binh. Sai phái y tấn
+công bọn Sơn Đường, trước là tìm hiểu sự trung thực của y, thần nhận thấy y bỏ
+đồn ở tổng Đường Hoa là có sự bất ổn. Vả lại, trách nhiệm của y là bảo vệ lãnh
+thổ, nếu không hoàn thành phải cậy nhờ đến quân triều đình. Chính y cũng bỏ mặc
+cho huyện linh Tào Phi, khiến huyện Tào Tháo bị thiệt hại nặng. Y còn xòe 3
+ngón tay ra nói, chỉ có 3 tên giặc mà thôi, làm gì phải động đến quân Cơ binh.
+Theo thần, muốn vào được động Sơn Đường phải 1, 2 vệ vượt qua đồi Răng Cop
+không thể đi theo con đường sạn đạo.
+
+Nhà vua đập nhẹ bàn tay
+xuống bàn.
+
+- Ừ như thế cũng hay đấy.
+Quan Thượng thư cũng úp mở nói như khanh, nên dùng bọn Cơ binh xứ Thìn trước.
+Trẫm cứ thương doanh Trung quân (mỗi doanh có 5 vệ, mỗi vệ có 500 quân) chưa
+quen với thời tiết ở vùng Hoang Đường, năm nay trời trở rét quá dài. Trẫm đắn
+đo chưa mở HQ 2 ngày tết thì lại đến gần.
+
+- Thưa bệ hạ. Ngài đừng đắn đo chuyện ấy. Tại đó còn có hơn hai nghìn dân
+chúng chịu lạnh nữa, đâu phải chỉ có quân triều. Việc đánh vào Sơn Đường càng
+sớm càng tốt, nhất là trước tết. Bọn xấu, bọn ác đâu có nghỉ giải lao. Và cũng
+ngăn chặn kẻ ác tìm về với nhau. Xin thưa, việc quân ta vào vùng Hoang Đường vô
+tình, xô đẩy một số tay anh chị, bọn trốn tránh pháp luật chạy theo bọn Sơn
+Đường.
+
+- Có thể điều khanh nói
+đúng đấy, số lượng bọn phạm pháp bắt rất ít. Để trẫm suy nghĩ thêm và làm việc
+với quan Đô thống. Đây là những văn thư trong chiến dịch An Dân, khanh cầm đi, chưa
+đánh đấm gì mà bọn Lưu tinh chuyển văn thư bị thương 2 đứa do té ngựa. Trẫm không
+sao hiểu được, chẳng có tin gì tối khẩn để đến nỗi, sai phái bọn lưu tinh đi
+suốt ngày đêm, để xảy ra tai nạn.
+
+- Tâu, bên quân sự cái gì cũng khẩn cả, Bệ hạ nên thông cảm chuyện đó.
+
+Cũng nhanh mau, khẩn cấp
+có người được quyền
+đó, và trách nhiệm của họ. Gặp những tai nạn đáng thương vì nhiệm vụ, họ còn được an ủi bởi
+chiến dich, chiến thương bội tinh, rủi ro bị mất mạng vợ con cha mẹ còn có tiền
+tuất, tiền tử. Khác với bọn “Phản Ứng Nhanh” vùng Hoang Đường, vô tích sự gieo
+họa cho mình, cho người. Còn sống mang thương tích báo hại người thân.
+
+Câu chuyện đến đây, bỗng
+thấy phía sau Quang Minh điện có người vào. Đó là Hoàng tử. Hoàng tử chào nhà
+vua và quan khâm sai, rồi kề tai vua nói nhỏ gì đó. Nhà vua lên tiếng:
+
+- Chuyện tạm dừng ngang
+đây. Sáng mai khanh đến đây gặp trẫm, ta bàn tiếp. Đừng quên mang tài liệu về.
+Nhưng cũng đừng quên bản mật tấu hôm nay chưa gởi. Hì hì... Này khanh có nghe
+chuyện Tổng đốc xứ Thìn xin từ chức chưa.
+
+- Thần nghĩ, do con trai của mình bị bọn Sơn Đường bắt cóc, nên quan Tổng
+đốc từ chức để bọn giặc khỏi gây áp lực. Đúng là một trung thần. Trộm nghĩ. Bệ
+hạ nên đưa tạm thời quan khâm sai Thiên Phủ nắm quyền Tổng Đốc xứ Thìn, để bọn
+thần dễ đối phó với quan Lãnh binh. Dù y thắng thật hay thắng giả trận này,
+thần vẫn có biện pháp đối phó.
+
+- Trẫm bàn với quan Tể
+Tướng cho hợp lý, về việc khanh tiến cử quan Thiên Phủ. Trẫm cho người giám sát
+trận đánh, khanh đừng bận tâm chuyện ấy. Thắng thua gì trẫm cũng lôi đầu về đây,
+khanh tha hồ tìm hiểu bí mật nơi tư dinh của y. Khanh chớ manh động trong lúc y
+đang động binh, kẻo sinh chuyện không hay. Thôi khanh về đi sáng mai bàn tiếp.
+
+Thế là nhà vua không còn
+cấm cửa (Cự Kỵ) nhưng cái tội ngài vẫn chưa tha.
+
+[
+![](http://blog.yimg.com/1/5NkjoQx7s58MnmgoOzrirvQ5Be3LF46SEbGBabsttroi.eNZvWqUCw--/84/l/6yY6KwROtJPip7jS2xOMDQ.jpg)
+](http://www.blogger.com/blogger.g?blogID=3651202122417739033#)

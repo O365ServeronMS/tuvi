@@ -1,0 +1,1472 @@
+---
+id: bd#8600047975958051489
+title: "Ba Năm Nhìn Lại Một Chặng Đường"
+url: https://tuviungdung.blogspot.com/2012/01/ba-nam-nhin-lai-mot-chang-uong.html
+published: 2012-01-26T21:45:00.000+07:00
+updated: 2015-10-27T22:37:50.129+07:00
+labels: []
+---
+
+# Ba Năm Nhìn Lại Một Chặng Đường
+
+Ba năm nhìn lại một chặng đường.
+
+Thế là đã qua 3 năm, kể từ khi viết blog. Nhưng thật ra  trong 3 năm đó
+có những quảng lặng, tròn như nốt lặng trắng, kéo dài từ cung này qua
+nhiều cung khác. Tính gộp lại khoảng 1 năm rưỡi mà thôi.Nhìn lại thấy mà kinh 249
+bài viết, đa phần các bạn chỉ đọc được kể cả bài này là 200 bài. Với nhịp độ,
+mỗi ngày mỗi bài cũng có. Nhưng tại sao lại viết nhỉ?
+
+Có nhiều lý do để viết chứ không
+phải là một. Cũng có nhiều lý do buộc lòng phải đừng lại.
+
+Để viết những bài ngiên cứu ấy không phải là dễ. Nó chỉ dễ
+khi bạn tràn trề sự hiểu biết.
+
+Tại sao khi ta đi xem bói, ta hỏi. Thưa thầy năm này tôi
+thuê mướn (thay đổi, mua bán, xây dựng gia đình…) có lợi không? Ít ra ông thầy
+bói phải hiểu thay đổi, mua bán, sợi tơ hồng, thuê mướn… là sao gì để quyết
+đoán. Chứ không phải ngồi đó mà nghiệm lý, nghiệm chứng (có chăng nghiện rượu
+thì có) ông ta phải biết trước chứ. Nhưng than ôi, đa phần lại không biết chi
+cả. Chơi trò 5 ăn, 5 thua đem ma quỷ, ông công, ông táo ra dọa, đem bà cô tam
+tứ đại (đời) ra hăm, đem mồ mả ra mô tả. Có người phịa ra di căn hoán số. Có
+chăng là thay đổi quan niệm sống đi, để người ta nhìn mình bằng con mắt khác.
+
+Không biết chi cả nhưng sẵn sàng phê bình, bình luận, phê
+phán những lá số TỬ VI ảo. Không giết người bị cho là giết người. Giết người
+hay bị giết  cũng chỉ 3 sao SÁT PHÁ THAM
+mà thôi, nằm ở Thân, Mệnh, Hạn hoặc ở Ách cung.
+
+Thế là chán. Chán cũng phải nẫy sinh chứ không tự nhiên mà
+chán.
+
+Tiêu chí của blog là giúp bạn “Vui học TỬ VI” mà thôi. Từ đó
+bạn ham thích, không ai đem TỬ VI ra lừa gạt, hăm dọa bạn. Ít ra bạn cũng biết
+một, hai để đem ra cự cãi (CỰ MÔN) khi cần thiết, khi ai đó cột (PHÁ QUÂN) một
+vấn đề không liên quan.
+
+Đến hôm nay dữ liệu các sao được viết khá đầy đủ. Trừ một số
+trường hợp nhạy cảm không thể đề cập, nhất là bạn đọc tư liệu TỬ VI này như đọc
+truyện, áp dụng bậy bạ  sinh họa cho mình
+thì có. Như, thùng rỗng kêu to, buôn người, tay sai, Việt gian… Ngay như dâm
+cách được các sách TV mô tả rất là nhiều nhưng mấy ai tự nhận mình là kẻ dâm, có
+những cách dâm cách kín đáo. Và còn phải kể đến dâm đột xuất, đáo hạn mới phát
+sinh.
+
+Tử Vi là phối hợp nhiều sao lại với nhau để giải đoán. Ta có
+3 yếu tố: Đậu, đường, lửa thì quyết đoán là nấu chè (người Quãng gọi là cháo
+ngọt), chứ ai lại đoán đậu ngon, dở. Đường lên giá, lửa bập bùng khi có khi
+không. Đoán là nấu chè có sinh lời hay không, có khi sinh họa thị phi do đậu,
+do đường cũng có khi khi sinh ra tù tội do người ăn phải mà chết. Những điều
+này nếu có xuất hiện ta căn cứ vào đó để kết luận, chứ đừng bịa đặt ra làm gì.
+
+Các ngôi sao TỬ VI đều tốt, đó là sự thật nhưng kết hợp với
+Hung tinh, Bàng tinh không phù hợp sinh ra xấu. Chính cái đám Bàng tinh ấy mới
+thật sự quan trọng.
+
+Các bạn đang xem một trang Web đen. Chủ nhân của nó đen thui
+còn hơn các ban. Các bạn đang xem một trang chính trị, chủ nhân của nó đang
+sinh hoạt hay đấu tranh về chính trị. Đúng chưa? Tại sao các bạn lại thích xem
+các trang Web đen, hay chính trị, TỬ VI… vì chính các bạn là mẫu người như thế.
+Tất nhiên cũng có một số người đi lạc lối vào đây, đọc và phát hiện TỬ VI là đề
+tài họ  không ưa thích lặng lẽ đi ra, ưa
+châm chọc để lại một câu đã từng viết “ đề tài này cũng có người quan tâm
+nghiên cứu sao”. Đối với người viết, đó là chuyện bình thường. Vì bản thân
+người viết cũng chưa bao giờ cầm đến các loại sách dạy nấu ăn, làm đẹp vân vân
+và vân vân. Đó là chuyện chẳng có gì đáng nói . Ngay cả ai đó nghi ngờ, chỉ
+trích chăng nữa cũng không lấy đó làm điều phiền toái. Vì sao ư? Thế mà còn
+hỏi. Khi nghiên cứu TỬ VI chỉ cơ bản thôi, là phải biết xung, khắc, hợp. Cho
+nên không thể có chuyện thế giới chỉ có một màu, chỉ có một thể chế chính trị, một
+tôn giáo… Nhờ có đen mới nổi bật màu trắng, nhờ có sai mới biết đâu là đúng,
+nhờ có phong kiến mới thấy dân chủ hay hơn, tất nhiên là thứ dân chủ thật sự.
+Quan trọng là ta đi đúng, lập luận đúng, lý lẽ đúng… rất dễ nói chứ không dễ bị
+cà lăm.
+
+TỬ VI là thế đưa bạn tìm hiểu nhiều vấn đề, mở rộng kiến
+thức. Quên đi cái chuyện một TỬ VI gia dùng từ không đúng mà ta lại tin cậy vào
+họ.Nếu không biết Jack London là ai. Họ phỉnh bạn đây là ông ấy, bạn cũng ngậm
+ngùi. Đây, ông Nguyễn Trãi tuổi Ất Mùi, một là ông Nguyễn Trãi lớn hơn ông Lê
+Lợi 30 tuổi hai là ông Lê Lợi mời đứa con nít ra giúp mình.
+
+Nghiên cứu TỬ VI với chấm số TỬ VI cái nào khó?
+
+Mỗi cái điều có cái khó riêng
+của nó. Nghiên cứu mà không phổ biến điều đó rất dễ nhưng phổ biến ra điều ấy
+lại đâm khó… Nói tốt, ca ngợi mặt tốt cho các sao là điều rất dễ nhưng để nói
+lừa đảo, đĩ điếm, lưu manh, côn đồ, phản trắc, vong ân bội nghĩa, lừa thầy phản
+bạn, buôn người, bóc lột… nói chung những từ nhạy cảm điều đó rất khó nói. Dễ
+can tội hiếp dâm, dễ ở tù vì lừa gạt, làm ăn phi pháp, lừa tình gạt người… có
+mọc sừng trên đầu cũng không dám nói. Mua lấy thị phi phiền toái…
+
+Ai đời, mới nói HỒNG LOAN là “la to”, có người đã la làng.
+Nhằm nhò gì, rên rỉ đoán cũng được, còn phân biệt được đâu là rên rỉ sướng, hay
+là rên rỉ khổ, rên rỉ vì đau ốm… Có gì khó khăn đâu.
+
+Cho nên Vui Học TỬ VI phải dừng lại. Viết “Lạc vào thế giới
+TỬ VI “là kết thúc. Muốn nói câu chia tay tất các bạn rất buồn, câu chia tay ẩn
+tàng trong bài thứ 16 đấy. Tiêu chí của người viết là “Vui học TỬ VI” mà thôi,
+cũng như vui học vật lý, hóa học nó khô khan. Viết làm sao người ta ham thích
+và tin cậy. Người ta phát hiện ra rằng TỬ VI đoán được nhiều sự kiện, sự cố, sự
+việc mặc dù lá số  TỬ VI của một người
+nhưng có thể đoán rộng hơn cả một gia đình, cả một tập thể và còn hơn thế nữa.
+Tùy thuộc vào cương vị của người đó.
+
+Vui học TỬ VI cũng như bạn đã học xong cấp tiểu học. Việc
+đoán TỬ VI là cấp đại học. Việc một học sinh cấp 1 đọc sách cấp đại học, tất
+đọc được nhưng …không hiểu. Ngay cả việc học TỬ VI của bạn cũng phạm sai lầm,
+chưa học mà đòi nghiên cứu, có chăng là nghiên… đổ. Đang mày mò học đòi chấm TỬ
+VI cho người khác, chỉ cần la to: “Tui học TỬ VI” là sai lầm rồi. Thế là người
+quen nhờ chấm thử. Thấy gì đâu trong lá số
+có chăng là bụi tre. Bản thân người viết lấy lá số  của bạn bè rất bí mật và cả kiểm chứng lại
+giờ sinh. Mãi đến 15 năm sau mới chấm thử lá số
+đầu tiên.
+
+Khi giỏi TỬ VI rồi việc chấm số càng khó nói hơn. Không biết
+cương bậy theo sách vở. Biết rồi phải lựa từ mà nói. Nhân đọc câu hỏi của IcaoKim.
+Một người được người viết đánh giá rất thật thà, từ đó rất có cảm tình. Icaokim
+viết:
+
+Anh ạ có tất cả 140
+lá số theo các cách kết hợp giữa các chính tinh và VCD, hì hì mong rằng cách
+mới càng hấp dẫn hơn trước. Nghe anh nói đã thấy mê ly rồi em muốn hỏi vậy anh
+đã có dự định vào khi nào ạ. Đúng là năm mới có những cái mới cám ơn anh nhiều
+lắm
+
+Rõ ràng Kim cần 144 lá số
+mẫu để căn cứ vào đó thêm bớt lời luận đoán. Đó là một sự sai lầm chết
+người.  Ví dụ TỬ PHỦ Dần Thân mẫu lá
+số  là Trương Tử Phòng (Trương Tử Phòng
+thao lược đa mưu phùng TỬ PHỦ KỴ QUYỀN) và một hình ảnh TTP mang cây kiếm báu
+lặn lội đi tìm người xứng đáng giao cho, ám ảnh trong đầu. Nếu đưa những lá
+số  mẫu như thế rất tai hại. Tất nhiên
+người viết vẫn đề cao cách TỬ PHỦ nhưng lá số
+mẫu được chọn là yểu mệnh chỉ có Tử mà không có Vi (sống), chỉ có nghèo
+mà không cao sang quyền quí, cái kho rỗng. cái túi lủng,hoặc TỬ PHỦ vô cùng tồi
+tệ, trời đánh thánh đâm. Tức đưa ra những phá cách mẫu mực. Còn nếu có trợ cách
+tất là tốt rồi.
+
+Chúng ta thừa nhận những cách đúng như “Liêm Tham Tị Hợi
+ngục tù”. Nhưng đưa ra những lá số  không
+bị như thế lại càng cần thiết hơn, để giúp mọi người khỏi bị ám ảnh bởi câu phú
+đó.
+
+Và rất nhiều lá số
+hành nghề khác nhau. Ví dụ lá số
+Văn sĩ A chuyên viết tình cảm do đâu văn sĩ B viết khiêu dâm. Văn sĩ
+chuyên nghiệp với văn sĩ nghiệp dư để so sánh. Rất nhiều lá số  chiêm
+tinh gia được đưa ra từ giỏi đến dỏm
+nhưng dỏm mà thành công về tài chính do đâu. Để các bạn tiện so sánh.
+ Điều muốn nói lá số  TỬ VI rất quan trọng là phòng thí nghiệm như
+các môn Vật Lý và Hóa Học. Lá số Mạc Đăng Dung tầm thường trong mắt bạn
+nhưng
+người viết tiếc rẻ khi tiết lộ điều ấy, ta còn có quỉ vương Lê Uy Mục,
+Nguyễn
+Du thật. Có điên đầu không khi ta có một Tản Đà Nguyễn Khắc Hiếu mà
+không tìm
+thấy giấc mộng lớn, giấc mộng con. Có vui mừng không khi ta dự đoán
+trong đầu
+tên ăn cắp bức tranh của La Joconde phải có bộ sao như thế. Quả đúng như
+ thế. Hỏi
+thử có bực mình không khi ta có lá số
+của một người chết cháy mà cả Thân Mệnh Hạn Tật Ách không thấy sao Hỏa
+Tinh. Tất cả những lá số  đưa ra chứng
+minh tư liệu dồi dào trên mạng, có nhiều đến mức không có thời gian đọc
+hết.
+.Đây có phải là lá số của người giết Luther Kinh không nhỉ. Không những
+tìm đọc
+ông này qua các tài liệu, còn phải tìm đọc tài liệu tên giết người này
+mới khó
+làm sao. Và nhiều nhân vật kỳ dị mới nghe tên thôi đã muốn tìm hiểu dù
+đêm nay
+phải thức trắng đêm. Đối với người viết “ lá số
+TỬ VI là bài học thực tế”.
+
+Và phú TỬ VI là khuôn vàng thước ngọc. Chỉ cần phân tích
+nghiêm túc 3 câu phú thôi là bạn sáng tỏ rất nhiều vấn đề. Mặc dù không nói chi
+đến cách cải ác tòng thiện nhưng không có nó không giải thích được. Và đến đó
+bạn phát hiện Phú TỬ VI ẩn tàng nhiều cao siêu.
+
+TỬ VI Á Đông vô cùng kỳ diệu càng nghiên cứu càng thích thú.
+
+Lá số TỬ VI của một người là hình ảnh của con người đó nằm
+trên lá số. Đầu nằm một nơi, chân nằm một nẻo, bụng nằm nơi khác, quả tim nằm ở
+đâu nhỉ, lục phủ ngũ tạng nằm ở đâu. Nếu không có nó làm sao đoán được bệnh.
+Nếu nói anh dễ bị ung thư xương, ung thư máu. Thì hãy giải thích ung thư là sao
+gì hay bộ sao gì, và xương là bộ sao hay sao gì. Có thế mới thuyết phục được
+người ta. Nhưng nếu đoán đúng bệnh lý bạn phải mất 5,10 năm nghiên cứu. Trước
+mắt phải có sách Y khoa tìm hiểu về bệnh lý. Rối loạn thần kinh, rối loạn là
+sao gì, thần kinh là sao gì, thương hàn là bệnh ra làm sao, thống phong là bệnh
+như thế nào, bệnh AIDS là do ăn chôm chôm hay do lây lan qua máu, qua đường
+tình dục. Vậy thì lây lan là sao gì? Thế đấy, TỬ VI càng đi sâu càng phức tạp.
+Táng gia bại sản, sụp đổ sự nghiệp, ngày tàn bạo chúa… Ít ra phải biết bạo chúa
+khác với minh quân, biết ngày và phải ngày tàn cơ, nếu là ngày đẹp bạo chúa
+vuốt râu cười. Phải biết luật sư khác với thẩm phán chỗ nào… Và khó tin mà khó
+thật. Chính tui đem cả luật nước CHXHCN Việt Nam ra nghiên cứu, cả luật Hình sự,
+Dân sự mà phải mua cơ (chứ bây giờ lên mạng tải về). Từ đó mới biết nghiêm
+trọng, trọng tội, tha thứ, sai lầm, lầm lẫn, vô ý, cố ý…  Nhưng khi tiết lộ vô ý, cố ý đối với bạn nghe
+như gió thoảng qua. Nhưng để viết vài chữ giản dị như thế mất cả chục năm đấy.
+
+Thật buồn cười khi lá số
+TỬ VI không có lục phủ ngũ tạng. Đó là con ma nơ canh chứ không phải con
+người. Đoán TỬ VI cho nó làm chi cho mệt. Trong TỬ VI đẩu số toàn thư của cụ
+Thái Thứ Lang các trang cuối viết. Nào là trong vật dụng CỰ MÔN là cái hòm…
+trong thức ăn, thức uống THAM LANG là thịt… trong cơ thể là… áp dụng để luận
+đoán thêm chính xác. Vấn đề đúng sai cần xét lại. Thôi thì người viết cũng
+không muốn đi sâu vào đề tài này làm gì.
+
+Điều muốn nói là. Do đâu người viết lại nẩy sinh ý định đào
+tạo từ xa. Từ những mail nhận được, có 4 mail xin về học TV tận nhà, trong đó
+có 2 người ở Sài Gòn. Và có 4 bạn từng tìm kiếm được nhà rồi đấy, thử hỏi nhà
+cửa ốn ào như vậy không thích hợp cho việc học TỬ VI. Hai là người viết chưa
+quen với phong cách làm ông thầy bao giờ, sống rất tự nhiên. Có một học trò bên
+cạnh rất lúng túng, có người lại viết đại khái là “học cho biết”. Thử hỏi từ
+Sài gòn ra đây để học chơi cho biết là không thể chấp nhận được. Học cho biết
+là “vui học TỬ VI “ là vừa đô. Cứ hình dung bạn ở rất xa về đây tranh thủ học
+TỬ VI mà TỬ VI không thể tranh thủ được. Bạn phải thuê nhà, ở nhờ cơm hàng cháo
+chợ rất là thương. Từ đấy phát sính ý định đào tạo từ xa. Thế thôi. Vì đào tạo
+1 người, điều gì chỉ cần nói, điều gì phải cần viết cũng mất công không ít.
+Không đem kinh nghiệm này truyền đạt lại
+bỏ phí đi cũng là điều đáng tiếc. Có vẻ như “Mẹ con nhà vịt” là người
+sành tâm lý hiểu được tâm trạng người viết, một yếu tố rất cần thiết cho khoa
+bói toán. Và “vua Lộc Vừng” cũng thế khi tặng bức tranh có mấy chữ “Tâm an vạn
+sự an”. Thật ra không an vui nhiều khó khăn từ bên trong cũng có và bên ngoài
+cũng có. Đại Hạn có Kình là thấy khó rồi nhất là Kình Hư gia thêm Kị HÌNH. Viết
+như thế là có kẻ cười người chê (cách Kị KÌNH). Lại áy náy câu “đưa người ta
+sao không đưa qua sông”. Trong khi các bạn bì bõm không biết lên bến nào mới
+đúng. Đó là điều nhìn thấy rất rõ ràng. Có bạn tưởng rằng Trần Đoàn là tổ sư
+môn TỬ VI, chẳng hiểu san định là gì. San định là lộn xộn quá sắp xếp lại. Việc
+làm của người viết cũng thế nhưng không muốn ôm 2 chữ san định đâu nhé, ôm Trần
+Đoàn là chắc ăn, tuy có cải tiến đôi chút. Có bao giờ các bạn tự hỏi các sách
+TỬ VI không dạy đặc tính của các sao. Chỉ cần 1 câu thôi là các bạn sáng tỏ
+được vấn đề hóc búa đó. Một câu thôi cả một cuộc đời bạc tóc không nghĩ ra.
+
+Thôi nói ra rất nhiều vấn đề.
+
+Vắn tắt một số vấn đề các bạn thường hay hỏi.
+
+Hỏi chấm TỬ VI có trả tiền.
+
+ Hỏi nhờ chấm TỬ VI có
+trả tiền đại khái là vậy. Người viết từng bày tỏ công khai, không thích làm
+công việc như thế. Trừ phi trở ngại trong việc đào tạo từ xa, quay qua chơi như
+thế cũng đỡ buồn. Nhất là lá số  TỬ VI
+trọn đời viết 3 ngày mới xong, lá số  can
+thiệp đến nhân vật thứ 3 bản thân người viết cũng ái ngại. Cái tâm không cho
+mình làm như thế.
+
+Hỏi xin số điện thoại.
+
+Thú thật chưa xài máy di động bao giờ. Đó là vật dễ ghét.
+Mặc dù không xài đến nó nhưng uy lực cũng nó mạnh mẽ như sao Tuần cộng với sao
+LIÊM TRINH. Chỉ cần hỏi qua trung gian: “Anh Đình vô chưa” là biết anh Đình
+đang ở đâu. Bạn bè cười tôi không xài di động là lạc hậu. Tôi lại cười, sao mà
+mang khổ trong người. Cho nên dù thân mật hay thân tình bạn không thể có số di
+động. Cũng chứng minh được rằng, người viết lên mạng không phải để quảng cáo
+cho mình đâu nhé. Chỉ có mail điện tử là hợp lý nhất.
+
+Hộp thư tuviungdung người viết tạm thời chặn lại. Nghiên cứu
+TỬ VI ngày nào cũng buôn chuyện qua điện thoại làm sao mà giỏi được.
+
+Địa chỉ tuviungdung.com, chấm org, net không còn hoạt động,
+có lẽ bạn ấy trở ngại về tài chính. Các địa chỉ này phải trả tiền hằng năm.
+
+Khi bạn có Flash học TỬ VI chỉ cần nhấn một cái là bay vào
+đây.
+
+Trang blog vẫn còn tiếp tục viết bài nhất là tiểu sử thật
+của các nhân vật có lá số, những bài viết không cần thiết đưa vào flash. Vì
+yahoo hạn chế trong 10 MB. Bài viết trong đó dạng htlm bạn không thể copy được,
+đặc biệt nhẹ hơn dạng Word, đây là điều người viết rất thích thú. Trước đây mất
+hằng tháng trời mới giải quyết được.
+
+Bài viết cũng đã dài có tính cách tâm sự. Giới thiệu môt chế
+độ mới hà khắc hơn y hệt bộ Hà Kiếp
+
+Mọi việc chúng ta làm hầu như định mạng sắp sẵn.
+
+Khởi xướng TỬ VI Ứng Dụng vào
+năm CỰ HỒNG. Hai năm hạn đầy tớ PHỤC BINH. Một năm đến TRIỆT lại lưu TRIỆT cũng
+phải TRIỆT thôi, sao mà nhiều TRIỆT thế. Đến chó cắn cũng là số. Đó là hạn Hổ
+DIÊU (Hạn phùng Diêu Hổ ưu phiền. Những loài ác thú chớ nên ở gần) vào ngay
+chóc tháng BẠCH HỔ nhập Thân cũng là gốc đại hạn. Nói chó cắn phải có các điều
+kiện như trên tại Thân, Mệnh Hạn Tật thì đó là lá số đúng. Nếu không đúng như
+thế thì ôm lá số  ấy nghiên cứu dễ “tẩu
+hoả nhập ma”. Thật ra, người viết đã đề phòng việc này từ năm Dần, vì nó hay
+cắn người quá, qua năm BẠCH HỔ họa mình càng to, tâm lý người viết sợ người cắn
+hơn chó cắn, còn sợ cắn khách lạ hơn là sợ cắn phải bản thân mình. Và người em
+ở Huế bảo. Sao không vất nó đi, còn nuôi làm chi nữa. Trời ạ! Bản thân tôi có
+nuôi đâu, ngôi sao nuôi dưỡng của tôi có con chó đâu, mỗi con mỗi tính, nhà có
+2 con lận. Chó cũng có số phận đừng nói chi đến người. Hàng xóm bảo, bộ nó
+không biết anh là chủ sao. Đúng là Diêu Hổ chó đui nhè chủ cắn. Như đã từng
+giải thích Diêu là mù mù, mờ mờ luôn luôn đồng cung với “Y như là” tưởng tui
+tấn công nó, té xuống nó vẫn bu vào mà cắn. Chuyện ta biết vẫn khó phòng tránh,
+nếu đem việc ấy ra phản đối. Chó người nó cắn đấy. Lúc đó BẠCH HỔ đúng là bày
+tỏ, không sai một tí tẹo. BẠCH HỔ ơi! chào mi.
+
+BẠCH HỔ đi với THẤT SÁT đành
+tuyên bố THẤT là thất vọng.
+
+Bạn muốn tiếp tục học, liên hệ để hướng dẫn đừng phô bày trên blog. Và bạn
+phải có địa chỉ yahoo mail để tiện trao đổi vì nó cho phép chuyển thư đến 10
+MB. Flash đọc tốt trên các máy tính trừ máy tính bảng (tablet). Vì flash rất
+lớn, một bên là bài viết và một bên là lá số
+TỬ VI hay Phi tinh đã cải tiến có cả các cung, cả chính tinh để tiện so
+sánh. Việc học TỬ VI cần rất nhiều hình ảnh, đưa vào blog rất trở ngại. Dù sao
+đó là công việc đang ở phía trước. Nó có thể bung file tràn ngập màn hình hay
+không tùy chỉnh này rất dễ. Mỗi người mỗi mật khẩu. Ai phổ biến nó trên các
+trang upload là biết ngay. Cái quý là cái hiếm nhưng có những cái hiếm mà không
+quý. Cũng như quý với người này nhưng không quý với người kia. Đã nghiên cứu TỬ
+VI bạn phải biết điều đó, chung quanh ta luôn luôn có những mâu thuẫn xung đột.
+Đừng đòi hỏi người viết phải tranh luận điều này, điều nọ vì nó mang tính con
+nít. Nếu giỏi và có thực tài hãy viết, nhà nước đâu có cấm. (miễn sao đừng chọc
+ông nhà nước thì được, ông vận dụng hòn đất ném đi hòn chì ném lại, rách việc)
+
+Phước cho ai không thấy mà tin.
+Và vô phước cho ai mới thấy đã tin. Hơi đâu ép người khác đi theo mình. Vì số
+phận là thế luôn luôn có những người biết sai vẫn làm, biết sai vẫn đi… bảo
+thủ, bảo hoàng còn hơn cả vua nữa. Đã nghiên cứu số mệnh Tất phải biết điều đó.
+Đúng chưa?
+
+Ba năm nhìn lại một chặng đường.
+
+Vui buồn lẫn lộn thấy mà thương…
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Feb 9, 2012 11:28 AM
+
+RẤT
+ MONG CÁC BẠN LIÊN HỆ VỚI TÔI KHI ĐỌC THÔNG BÁO NÀY Tôi và các thành
+viên được nhận vào làm học viên đào tào lần này chắc đã nhận được mail
+thông báo của Bác Bửu. Cái tôi đang băn khoăn về vấn đề học phí. Bác Bửu
+ thì không đề cao vấn đề này. Tôi biết nguyện vọng của Bác. Tôi tôn
+trọng nguyên vọng của Bác. Tuy nhiên để có được tiếng nói chung. Để mọi
+người cùng thấy vui, thoải mái, thấy không lăn tăn trong vấn đề học phí
+và thấy được giá trị của TVUD giá trị của các tài liệu Bác Bửu cung cấp
+cho mọi người. Tôi đề nghị các bạn liên hệ với tôi. Chúng ta sẽ thông
+nhất về mức học phí chung. Coi như 1 người (Bác Bửu) làm vì mọi người
+(các thành viên theo học) thì mọi người hãy làm vì 1 người. MONG NHẬN
+ĐƯỢC HỒI ÂM CỦA TẤT CẢ MỌI NGƯỜI ĐÃ ĐƯỢC BÁC XÁC NHẬN CHO VIỆC HỌC TẬP
+VÀ NGHIÊN CƯU . Các bạn liên hệ với tôi qua địa chỉ sau: email:
+xuankhiem1203xd2004@yahoo.com và đây cũng là yahoo messenger của mình
+thanh viên; khiemphamxuan!
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+-  [trananhtuan_141279](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+- Feb 9, 2012 10:51 AM
+
+Sáng sớm nay mình và 1 bạn trong sài gòn đã gửi vào tài khoản  rồi  , giờ mới đọc thấy comment của anh .
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Feb 9, 2012 10:02 AM
+
+RẤT
+ MONG CÁC BẠN LIÊN HỆ VỚI TÔI KHI ĐỌC THÔNG BÁO NÀY Tôi và các thành
+viên được nhận vào làm học viên đào tào lần này chắc đã nhận được mail
+thông báo của Bác Bửu. Cái tôi đang băn khoăn về vấn đề học phí. Bác Bửu
+ thì không đề cao vấn đề này. Tôi biết nguyện vọng của Bác. Tôi tôn
+trọng nguyên vọng của Bác. Tuy nhiên để có được tiếng nói chung. Để mọi
+người cùng thấy vui, thoải mái, thấy không lăn tăn trong vấn đề học phí
+và thấy được giá trị của TVUD giá trị của các tài liệu Bác Bửu cung cấp
+cho mọi người. Tôi đề nghị các bạn liên hệ với tôi. Chúng ta sẽ thông
+nhất về mức học phí chung. Coi như 1 người (Bác Bửu) làm vì mọi người
+(các thành viên theo học) thì mọi người hãy làm vì 1 người. MONG NHẬN
+ĐƯỢC HỒI ÂM CỦA TẤT CẢ MỌI NGƯỜI ĐÃ ĐƯỢC BÁC XÁC NHẬN CHO VIỆC HỌC TẬP
+VÀ NGHIÊN CƯU . Các bạn liên hệ với tôi qua địa chỉ sau: email:
+xuankhiem1203xd2004@yahoo.com thanh viên; khiemphamxuan!
+
+-   Private comment
+
+-   Private comment
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48a.png)
+](http://blog.yahoo.com/_H2KJAHG5EALYW5RVTMKXI24AZY)
+
+-  [Phuong](http://blog.yahoo.com/_H2KJAHG5EALYW5RVTMKXI24AZY)
+
+- Feb 7, 2012 3:13 PM
+
+Hoan
+ nghênh ý tưởng của anh Khiêm, chúng ta là một gia đình, các thành viên
+cần đoàn kết chia sẻ và xây dựng. Việc liên hệ với nhau qua mail thành
+nhóm giúp chúng ta trao đổi thông tin và chia sẻ được nhiều điều. Mong
+rằng tất cả các chúng ta chung tay và đoàn kết.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 7, 2012 10:37 AM
+
+TIN NHẮN CHUNG CHO CÁC BẠN CÓ ĐĂNG KÝ.
+
+Các bạn sẽ nhận được mail
+
+hướng dẫn trong tuần này. Gởi flash học tập trong tuần tới. Hôm qua mất cả ngày
+
+thử nghiệm gởi mail, vì khi nâng cấp lên hộp thư mới, yahoo dùng trình Norton
+
+kiểm tra thư, đây là trình rùa bò không ai dám dùng, vì thế mượn hộp thư Yahoo
+
+cũ để gởi đi thì thấy vèo vèo, nhưng cái gía phải trả mất thì giờ không ít, dự
+
+kiến gởi flash lên 5MB, buộc phá tung flash xuống 2MB để thử nghiệm. Yahoo cho
+
+phép gởi đến 25MB, từng gởi cho 1 bạn 1 game chơi, do người viết làm lên tới
+
+20MB mọi việc rất dễ dàng. Bây giờ gởi 2MB chạy rì rì, có điên không nhỉ. Đúng
+
+là được cái này mất cái khác. Vì thế, người viết buộc lòng mượn hộp thư mang
+
+tên “lucsi54” gởi flash đến bạn sau này. Thấy subject Bửu Đình cứ an tâm tải
+
+xuống. Xin đừng… run. Vì mỗi người mỗi flash giống nhau về nội dung, khác nhau
+
+về mật khẩu, không thể dùng mật khẩu của người này mở được flash của người
+
+khác. Vì nó chứa bên trong chỉ 1 đáp án mà thôi. Ai quậy là biết ngay. Cho nên
+
+rất mất thì gìơ, làm mật khẩu, chuyển file tự chạy, gởi từng người một. Không
+
+thể dùng upload một lần lên trang nào đó để các bạn đem xuống. Hôm nay lại tiếp
+
+tục thử lại 5MB qua 1 bạn bất kỳ, ngẫu nhiên. Sau đó mới quyết định gởi mail
+
+hướng dẫn đến các bạn. Buộc lòng người viết phải từ chối những người abc TỬ VI.
+
+Đây là phần học cao hơn Vui Học TỬ VI, trong Vui Học thôi chưa thèm nói đến
+
+điều sơ đẳng.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Feb 6, 2012 3:51 PM
+
+Gửi
+ các thành viên của Tử Vi Ứng Dụng Xắp tới để duy trì và phát triển cũng
+ như thuận lợi cho việc đào tạo của Bác Bửu. Thiết nghĩ mọi người trong
+gia đình Tử Vi Ứng Dụng nên liên hệ với nhau. Rất mong mọi người ủng hộ
+và liên hệ với tôi qua địa chỉ Email: xuankhiem1203xd2004@yahoo.com.
+Danh sách các thành viên gửi theo địa chỉ này sẽ được tôi tổng hợp và
+gửi lại cho tất cả các bạn.  Rất mong mọi người ủng hộ và sớm liên hệ vì
+ Bác Bửu xắp triển khai việc học từ xa.  Vì lợi ích chung của TVUD, vì
+sự phát triển của TVUD rất mong các bạn liên hệ với tôi. Vì không biết
+địa chỉ mail cũng như số điện thoại của mọi người để liên hệ. Do đó cháu
+ mong Bác Bửu thứ lỗi vì bài viết chen ngang này.  Thành viên;
+khiemphamxuan!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 6, 2012 2:32 AM
+
+Tin nhắn chung gởi đến các bạn.
+
+Mấy hôm rồi người viết rất bận việc trong đó có di chuyển. Vấn đề tâm lý đã ổn định với quyết tâm tiến tới, vấn đề kỹ thuật giải quyết xong. Số lượng học viên khá nhiều. Một số bài viết đã viết nhưng
+
+phát hiện 1 số bạn còn abc TỬ VI khiến người viết phải “định hình” cách viết khác, sắp xếp khác. Sao cho mỗi đề tài chỉ viết một lần không lập lại. Số lượng bài viết có thể lên đến 300 bài/ năm, cho 20 flash. So với nhịp độ viết Vui Học bỏ lại đằng sau.
+
+Chỉ nội trong tuần này, các bạn sẽ có flash giới thiệu, làm quen để các bạn có sự lựa chọn cuối cùng. Có thể gọi đó là trang Web, là tạp chí là game chơi rất đúng nghĩa với giới TỬ VI. Flash này đã chuẩn
+
+bị lâu rồi, nếu làm bây giờ có thánh làm không kịp. Chuẩn bị tốt là yếu tố rất quan trọng, người viết học được điều này trong quân sự. Định hình tốt cách viết, cách sắp xếp. Nếu không mọi việc sẽ rối lên, lập lại.Bạn đừng chuyển cái “nóng lòng, hồi hộp” qua người viết làm rối trí.
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/ae936aa854855b9d3406a3460cf5a4ca_48.jpg)
+](http://blog.yahoo.com/_ICZRXOOEWWOEEP7MGZYG5UPGVU)
+
+-  [v](http://blog.yahoo.com/_ICZRXOOEWWOEEP7MGZYG5UPGVU)
+
+- Feb 5, 2012 3:19 PM
+
+ Mong Bác cho cháu làm thành viên gia đình để cháu có thể đọc hết tất cả các bài viết của Bác ạ. Cháu cảm ơn Bác nhiều.
+
+Cháu Xuyến Quảng Ngãi
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 5, 2012 3:50 PM
+
+Trong
+ đó chỉ có bài tập thôi, có bạn trong gia đình thích nhưng có bạn lại
+không thích phơi bày chuyện ấy. Trong đó có những câu hỏi tưởng chừng
+nghe rất dễ như đùa là. Đại khái là. Một tuần có bao nhiêu ngày, tất cả 0
+ điểm vì tưởng 1 tuần có 7 ngày. Ta đang nghiên cứu TỬ VI 1 tuần có 10
+ngày, thượng, trung,hạ tuần. Vì ta phải sống ở thời điểm khi có môn khoa
+ học này. Có như thế mới hiểu tường tận khoa TỬ VI. Hiện Yahoo hay mắc
+lỗi khi muốn đưa ai đó vào mục gia đình.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/896eddc70e5dcbb8ea070fd6be5a179d_48.png)
+](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+-  [Phan Thanh](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+- Feb 4, 2012 11:07 PM
+
+Dạ
+ có phải bác reply vào email trên cơ quan của cháu phải ko ạ? Cháu đang ở
+ nhà nên ko check mail cơ quan được ạ hic hic. Mong bác bỏ thêm chút
+thời gian forward cái mail đó qua yahoo giúp cháu. Cháu đang vào mail
+yahoo nhưng chưa thấy mail của bác ạ. Bác LTP mà bác nói, do viết tắt
+nên cháu đoán ko ra ạ (nên ko biết là có biết hay ko nữa)
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 5, 2012 1:10 AM
+
+Bác thuận tay check mail nên không để ý địa chỉ mail. Cháu qua bên trang của cháu mục nhắn tin bác hỏi thăm là nhanh nhất.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/896eddc70e5dcbb8ea070fd6be5a179d_48.png)
+](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+-  [Phan Thanh](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+- Feb 4, 2012 9:54 PM
+
+Thêm
+ nữa là nếu mail cơ quan thì về nhà cháu ko vào được hic Còn mail cá
+nhân (yahoo, gmail) thì lên cơ quan lại ko vào được (bởi vậy hôm qua
+cháu mới gửi mail đến bác bằng mail cơ quan). Bác thấy tiện mail nào thì
+ gửi giúp cháu mail đó với ạ. Cháu cám ơn bác vì đã quan tâm tìm kiếm và
+ phản hồi ạ!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 4, 2012 11:47 PM
+
+Đúng
+ rồi. Bác vừa gởi mail đến cháu hỏi về. Cháu có biết LTP là ai không?
+Buộc lòng phải gởi qua yahoomail, vì nó chuyển nhận 10MB, trong khi
+gmail nó không nhận vi nghi spam.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/896eddc70e5dcbb8ea070fd6be5a179d_48.png)
+](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+-  [Phan Thanh](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+- Feb 4, 2012 9:48 PM
+
+Kính
+ gửi bác, Cháu gửi bằng mail nguyenpt.dng@tech.... bác ạ. Phía dưới cháu
+ liệt kê ra 3 email cháu đang dùng để bác thấy tiện gửi vào mail nào thì
+ gửi đó bác (trong đó có mail tnguyenbk@yahoo.com này). Bác xem lại giúp
+ cháu với ạ.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/896eddc70e5dcbb8ea070fd6be5a179d_48.png)
+](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+-  [Phan Thanh](http://blog.yahoo.com/_FC3V4VT5ABGFPT6DI23DH4XHY4)
+
+-
+
+- Feb 4, 2012 12:59 PM
+
+Cháu
+ đã gửi mail xin bác nhận học viên rồi à. Thật là may, như có duyên vậy,
+ đúng lúc muốn học tử vi tiếp thì có người chỉ điểm để gặp thầy. Chúc
+bác sức khỏe ạ!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 4, 2012 8:32 PM
+
+Bác
+ không phát hiện mail nào có nick là tnguyenbk, trong hòm thư kể cả
+spam, nếu như cháu dùng nick khác. Tất cả mọi thư đăng ký đều được hồi
+đáp trong ngày hôm nay. Vì bác vừa từ Huế trở về.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_KQWHTISMEN5GVPN5G4XNOCVVBM)
+
+-  [Gigi](http://blog.yahoo.com/_KQWHTISMEN5GVPN5G4XNOCVVBM)
+
+- Feb 4, 2012 12:20 AM
+
+Bac Buu Dinh oi, chau mung qua khi thay Bac co bai viet moi.
+
+Thinh thoang vao Blog cua Bac roi lai that vong, roi lai vao ...va chap nhan su that ...Khong ngo hom ..
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 4, 2012 7:52 PM
+
+Cháu phải gởi mail đến bác, để bác lấy địa chỉ ấy gởi bài sau này. Vì mỗi người bác phải làm một thư mục riêng, để tiện quản lý.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_OSG4CYISJTL54LDBWGB5VPVO5A)
+
+-  [Riverlight](http://blog.yahoo.com/_OSG4CYISJTL54LDBWGB5VPVO5A)
+
+- Feb 3, 2012 10:00 PM
+
+Cháu xin lỗi vì mạng chập.chờn nên gửi 4 lần mới thấy tin.
+
+-   Private comment
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/a4ef24ce6bc5d9fdc2ad69bd838aa128_48.jpg)
+](http://blog.yahoo.com/NeoHoangLong)
+
+-  [neo](http://blog.yahoo.com/NeoHoangLong)
+
+- Feb 3, 2012 10:16 AM
+
+Cháu
+ đang ở Bình Định, về làm anh giáo làng đi gõ đầu trẻ bác ạ :D.  Năm nay
+ là năm rồng lộn, bác có tiên đoán việt nam mình có sự biến chuyển gì
+đặc biệt không ạ ? Cháu thì tò mò cái vụ ngày 21/12/2012 lắm, không biết
+ có chuyện gì xảy ra vào thời điểm ấy. Nhưng cháu nghĩ đó là thời điểm
+sẽ có nhiều chuyện kỳ lạ xảy ra làm thay đổi sâu sắc về thế giới quan và
+ nhân quan của nhiều người.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 4, 2012 8:20 PM
+
+Cứ
+ tin "một ngày như mọi ngày". Sao Mộc, sao Thổ to gấp nhiều lần quả đất,
+ nhiều vạn lần mặt trăng, nhưng chưa hề nghe nói thủy triều do 2 sao này
+ gây ra. Đêm về ta nhìn mặt trăng ta thấy. Mặt trăng to gấp vạn Mộc,
+Thổ. Cả ngàn sao Kim cũng nhét chưa đủ mặt trăng. Thế mà gây nên thủy
+triều hằng tỉ, tỉ tấn. Vì nó ở gần ta quá. Vạch bất cứ một đường thẳng
+nào bất kỳ đi ngang qua quả đất. Ta cũng có thể gặp một hành tinh (do
+nhiều quá), nghe rằng nó to bằng cả Thái Dương Hệ, có thể gặp cả ngân
+hà. Có đúng là thẳng hàng không. Nhưng nó xa ta quá. Có gặp hạn CỰ MÔN
+không mà hay âu lo thế.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_DLS3RFTCK7U5YKJLKDINMJ3B4I)
+
+-  [chauchau](http://blog.yahoo.com/_DLS3RFTCK7U5YKJLKDINMJ3B4I)
+
+- Feb 2, 2012 5:01 PM
+
+À
+ được rồi, Trước hết cháu xin cảm ơn và rất xúc động khi bác trả lời
+mail của cháu. Kính chúc bác một năm Nhâm thìn tràn đầy sức khỏe, hạnh
+phúc và yên vui.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_DLS3RFTCK7U5YKJLKDINMJ3B4I)
+
+-  [chauchau](http://blog.yahoo.com/_DLS3RFTCK7U5YKJLKDINMJ3B4I)
+
+- Feb 2, 2012 4:57 PM
+
+Lạ nhỉ, sao post bài không được. Cháu xin phép test thử một cái.
+
+-
+
+[
+![](http://avatars.zenfs.com/users/1imLdwO51AAECtKJq8I5uAg==.medium.png)
+](http://blog.yahoo.com/_ULGZDTTB4SLACRSUHCDBZQOX4Y)
+
+-  [nghiem](http://blog.yahoo.com/_ULGZDTTB4SLACRSUHCDBZQOX4Y)
+
+- Feb 2, 2012 3:32 PM
+
+Lâu
+ giờ không có động cơ nên cháu bỏ lửng Tử vi mất, bây giờ Bác viết bài
+lại rồi coi như Cháu lại có duyên với Tử vi. Cháu cảm ơn Bác!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 2, 2012 3:15 PM
+
+Hôm
+ nay các bạn đăng ký rất là nhiều, lại đồn đoán rằng blog của bác đóng
+lại. Blog hỗ trợ cho việc học rất là tốt. Tư liệu viết tại đây. Bài học
+trong flash. Yêu cầu các bạn tải tư liệu xuống cất. Yahoo còn chúng ta
+còn, Yahoo mất dọn nhà đi nơi khác. Vì vừa biên soạn tư liệu, bài học cả
+ một núi công việc, trả lời mail hồi đáp để bạn an tâm. Trong khi chờ nó
+ xoay xoay gởi đến các bạn dòng này.
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-   Private comment
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4bd098a54e4cb442fb3e666df679878b_48.jpeg)
+](http://blog.yahoo.com/_PCGLREMK4VE2PYQEGL7KQEM6UM)
+
+-  [Rose Pham](http://blog.yahoo.com/_PCGLREMK4VE2PYQEGL7KQEM6UM)
+
+- Feb 1, 2012 5:05 PM
+
+Chào
+ anh Bửu Đình. Em là người yêu thích môn Tử vi, tình cờ lạc bước vào
+ngôi nhà "tử vi" của anh và vô cùng ngưỡng mộ chủ nhân. Em có 1 thắc mắc
+ nhờ anh help chút Em có tải phần mềm an sao TV của Trần Nhật Thành,
+nhưng máy tính cài win7 không cho cài Netframework 2.0 (chỉ cho 4.0). Do
+ vậy phần mềm chạy không được. Vậy bây giờ làm thế nào hả anh? Và em
+muốn đăng ký học TV qua mạng với anh thì như thế nào ạ? Chân thành cảm
+ơn anh. Rose Phạm
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 1, 2012 8:04 PM
+
+Đáng lý nên cài cả 2 Win XP và Win 7, nhiều phần mềm trong
+
+Win 7 không chạy. Từ Win 7 cài xuống khó đấy, mặc dù vào bios can thiệp để cài
+
+từ ổ CD rom nhưng không hiểu sao win 7 cứ nhảy ra. Xin ai có file ghost về bung
+
+thử được không. Trình an sao của Trần Nhât Thành đã có bản thứ 8 rất chính xác.
+
+Đối chiếu ngày sinh đúng hơn với cả trang xemngay.com. Muốn đăng ký học gởi
+
+mail
+ theo địa chỉ đã ghi trong bài viết. buudinh49@ymail.com. Mục đích lấy
+địa chỉ gởi bài. Tốt nhất nên đọc lại bài viết kể trên.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Feb 1, 2012 4:20 PM
+
+Bác ơi cháu gửi lại cho bác theo Font VNI-Times rồi. Cháu gửi lại vào mail cho Bác rồi đó ạ. Cháu khiemphamxuan!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Feb 1, 2012 8:17 PM
+
+Cám
+ ơn cháu, bác đang tải xuống. Xem được bác đưa vào Học TỬ VI về sau,
+nhiều bài lại tách riêng thành Vui Hoc TỬ VI. Ta có 2 file hoàn thành
+toàn bộ. Mai mốt có địa chỉ rõ ràng của bác. Cháu có in thành dạng sách
+thông thường gởi bác được không? Cái này khá tốn tiền đấy.
+
+-   Private comment
+
+-
+
+[
+![](http://avatars.zenfs.com/users/1KyWsl-TRAAACQWEo8AceAQ==.medium.png)
+](http://blog.yahoo.com/_U6NC4IY7THNFAYZXYBBTD4JQYA)
+
+-  [pinkpanther](http://blog.yahoo.com/_U6NC4IY7THNFAYZXYBBTD4JQYA)
+
+- Feb 1, 2012 11:48 AM
+
+Cháu
+ chào bác.Đầu năm chuc bác vui khỏe hy vi bác cho cháu theo học
+lớp của bác Gmail của cháu là: phamthanhlong88@gmail.com
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Jan 31, 2012 8:47 PM
+
+Gửi
+ Bác! Cháu chuyển sang font VNI-Times được rồi. Tuy nhiên sau khi chuyển
+ đổi cháu phải căn chỉnh lại trang nên nội trong ngày mai cháu sẽ gửi
+lại vào mail của bác. Cháu khiemphamxuan!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 31, 2012 9:34 PM
+
+Đúng rồi. Chính cái đó rất oải, nhìn kỹ có nhiều chỗ sai, thiếu. Nói chung nó không hoàn chỉnh, tài liệu dài càng đâm chán.
+
+-   Private comment
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Jan 31, 2012 2:51 PM
+
+Hồi hộp và tò mò. Mong đến ngày nhận được   flash của bác.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 31, 2012 7:16 PM
+
+Bác
+ có nhận cái cháu gởi rồi, Bác vẫn đang viết bài thế thôi. Flash tất đẹp
+ rồi tiện dụng, đẹp mấy cũng được nhưng bác không lợi dụng để làm kỹ xảo
+ rối mắt người học. Như một tạp chí xuất bản 1 tháng 2 lần, xong việc là
+ cuốn sách, không có dấu vết tạp chí, một bên là hình ảnh tùy nghi thay
+đổi, một bên là bài viết. Có gì đâu mà hồi hộp, dư vị ngày tết vẫn còn,
+nên công việc khó tiến triển, sẽ có người viết giới thiệu flash đàng
+hoàng sau đó mới gởi đi. Cám ơn cháu đã gởi. Cháu có thể chuyển hết qua
+font UNI được không. cụ thể là font VNI-Times. Trong Flash chỉ chịu font
+ nhóm này mà thôi.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 30, 2012 9:55 PM
+
+Trời ạ! Có người sợ tui đóng cửa blog. Blog vẫn hoạt động rầm rộ vì lúc ấy tài liệu vẫn viết tại blog, yêu cầu bạn  tải xuống. Bài học nằm trong flash. Đang trả lời mail, đọc mail này mắc cười không chịu nổi. Sợ đóng, lo tải xuống máy mà đọc. Tải khoảng 1 đêm là xong. Thật thà dễ thương chi lạ.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+-  [trananhtuan_141279](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+- Jan 30, 2012 2:40 PM
+
+Dạ , cháu cám ơn bác .
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+-  [trananhtuan_141279](http://blog.yahoo.com/_QQDZ5ZRCQQF2TJFGO22JAYSEIQ)
+
+- Jan 30, 2012 2:18 PM
+
+Cháu
+ chào bác , chúc bác đầu xuân với nhiều niềm hạnh phúc . Cháu mê môn Tử
+Vi vì đọc bài của bác , nay thấy bác viết lại cháu mừng quá . Cháu mong
+bác cho cháu đọc bài của bác và được theo môn Tử Vi Ứng Dụng này đến
+cùng . Cháu cám ơn bác .
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 30, 2012 4:47 PM
+
+Cháu
+ đọc bài viết của bác không kỹ rồi. Cháu cứ việc đăng ký qua mail để bác
+ có địa chỉ mail tiện liên lạc. Phơi bày như thế này là không hay cho cả
+ 2 đấy.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/6b6d88ed26bbb86e31ee6e0b45776426_48.jpeg)
+](http://blog.yahoo.com/_AWSBVJYQLL3EIRVIFQ6QUFK7TM)
+
+-  [SONG HỈ](http://blog.yahoo.com/_AWSBVJYQLL3EIRVIFQ6QUFK7TM)
+
+- Jan 30, 2012 12:59 PM
+
+Cháu
+ SONG HỈ chúc bác sức khỏe và Vui Học Tử Vi tiếp tục trong chặng đường
+mới đầy sôi động và gặt hái thành quả (ĐÀO --->QUẢ) như mong muốn.
+
+Kính chúc Bác
+
+SONG HỈ
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 30, 2012 1:50 PM
+
+Chào cháu. Hiện bác đang mặc
+
+chiếc áo cháu tặng đấy. Thời điểm bác nói chuyện với cháu là thời điểm bác đang vật lộn với 1 việc tưởng chừng nan giải là bài viết trong flash tốn rất nhiều MB, và nhiều vấn đề về font, kiểu gõ, hóa ra chỉ dùng UNI. Chuyển đổi định dạng từ Vietkey, Unikey không như ý muốn. Thế đấy chiến đấu một mình. Bác nghĩ chỉ có học trong flash “nhanh như chớp” rất tiện dễ giải thích. Kết quả của ngày hôm nay là cố gắng của ngày hôm qua. Cách Đào tạo từ xa là cách du học Đào Hà. Ít ra cũng có trên 3 bạn từ xa lắc, có nơi đang lạnh – 20 độ. Nô Bộc ở nơi Đào Hà. Cứ nghĩ nhân định thật ra thiên định sẵn rồi. Cháu thấy đó TỬ VI rất lạ lùng.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_ZMISEUPHTQGXJXB4SVERNYN72I)
+
+-  [Dam xuan Hanh](http://blog.yahoo.com/_ZMISEUPHTQGXJXB4SVERNYN72I)
+
+- Jan 30, 2012 10:18 AM
+
+gmail của cháu là: damxuanhanh88@gmail.com cháu chân thành cảm ơn bác. Chúc bác một năm an lành.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Jan 30, 2012 9:23 AM
+
+Thế mới biết độ HOT của Bác! Ngày hôm này cháu sẽ thường xuyên cập nhật Mail để nhân được thông báo của Bác.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 30, 2012 8:51 AM
+
+Các bạn thân mến.
+
+Các bạn đừng nóng ruột. Phải sau ngày rằm âm lịch người viết mới phát động chương trình. Và có những bài viết giới thiệu phần mềm, cách sử dụng (phải tính đến chuyện có người mới làm quen với vi tính) hình ảnh phần mềm  và rất nhiều bài viết có tính tư liệu được viết trên blog. Thời điểm đó người
+
+viết sẽ gởi mail xác nhận đến từng bạn. Blog sẽ là nơi chứa tư liệu của bài học.
+
+Tất cả các mail đều nhận được kể cả đi lạc vào spam. Hầu như được hồi đáp gần hết vào sáng hôm nay (chỉ có 1 mail chưa trả lời mà thôi) vì đang nâng cấp yahoo, xem thử quản lý thư có gì mới không. Vì yahoo cũ chỉ hiển thị 25 thư, làm thêm thư mục hình như chỉ được có 4, qua cái thứ 5 thì cứ xoay,
+
+xoay và không thấy hiện ra.Nếu vì lý do gì đó không thể tiến hành. Người viết sẽ thông báo
+
+lại. Nếu được thì được tất cả, nếu mất thì tất cả. Y như sao THẤT SÁT khi tốt được tất cả, khi xấu thì mất tất cả.
+
+-
+
+[
+![](http://avatars.zenfs.com/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.png)
+](http://blog.yahoo.com/_65HQQQOVMJXVSAAZ3B7GFUHAKY)
+
+-  [toiditimtoi](http://blog.yahoo.com/_65HQQQOVMJXVSAAZ3B7GFUHAKY)
+
+- Jan 30, 2012 2:20 AM
+
+Cám
+ ơn bác, cháu đã gửi  mail cho bác, hôm qua thức khuya quá gõ thiếu chữ
+là lính mới nên chưa đủ công lực tham gia bình luận cùng mọi
+người......chúc bác vui
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_ZMISEUPHTQGXJXB4SVERNYN72I)
+
+-  [Dam xuan Hanh](http://blog.yahoo.com/_ZMISEUPHTQGXJXB4SVERNYN72I)
+
+- Jan 29, 2012 12:04 PM
+
+Cháu
+ chào bác.Cháu tên là Đàm Xuân Hạnh quê ở Ninh Bình .Cháu là người mới
+ghé blog này của bác. Cháu đọc blog của bác được một tháng .cháu thấy
+rất hay.Bác có thể cho cháu xin giáo trình dạy tử vi của cháu không ạ.
+địa chỉ của cháu: damxuanhanh@yahoo.com Cảm ơn tấm lòng của bác
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 29, 2012 3:01 PM
+
+Cháu gởi mail đến bác. Vì bác cần địa chỉ mail để gởi bài. Cháu viết như thế này sẽ có người xin bài viết củacháu, tung ra các trang upload. Cháu chịu trách nhiệm đấy. Việc chia sẻ bài viết đến những người thân tình không ai cấm được. Có những bài kéo dài lê thê mới đọc phần đầu chưa hiểu phần sau áp dụng vội vả rất bất lợi. Ngay cả việc đưa “Vui học TỬ VI “ thành các file sách điện tử bác không hoan nghênh. Có bạn biên chép lại như sách giáo khoa rất là hay. Bác có ý sau này phổ biến. (Tất nhiên cũng hỏi qua ý kiến bạn ấy).NHƯNG mà trong đó, chắc chắn có nhiều lỗi sai văn phạm, chính tả những câu viết bị bỏ lững, câu dễ bị ngộ nhận. Kỵ gặp cácchính tinh (có nghĩa là các sao sau đây kỵ gặp sao này nhưng có người hiểu là HÓA KỴ). Các chính tinh luôn luôn được viết hoa toàn chữ, chữ Tị luôn luôn viết I ngắn chữ Tý luôn luôn viết I dài. Đố mà tìm ra chữ tí trên hằng trăm bài viết. Cẩn thận là yếu tố rất cần thiết đối với TỬ VI gia. Lời nói có thể theo gió bay nhưng con chữ thì vẫn còn đó.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-
+
+- Jan 29, 2012 11:08 AM
+
+-
+
+-
+
+Trả lời qua mail.
+
+Cháu có chút thắc mắc về ự ảnh hưởng của chính tinh như sau: Nếu một người sinh ra ở
+
+Việt Nam nhưng ra nước ngoài như vậy thì ảnh hưởng của chính tinh sẽ ra sao hả Bác?
+
+Cháu cám ơn Bác, Trả Lời. Cháu chạy đâu cho thoát ánh mặt trời, đêm về cũng là ánh trăng như quê hương mình vậy thôi, có thể bịa, trăng ở đây tròn hơn, trong hơn, sáng hơn… Và số mệnh luôn luôn có
+
+những mẫu người phải lưu lạc, phiêu bạt xa quê hương mới hay, thành công ở xứ người. Và phần “Học TỬ VI” 90 phần trăm toàn là lá số  người nước ngoài. Sinh ở đâu lấy giờ sinh ở đó. Đem lá số  người trong nước bàn dễ sinh chuyện thị phi. Ở Mỹ có nhiều người bị tù rất vớ vẩn, người Việt trong nước nghe lần đầu ôm bụng mà cười. Và người Mỹ cũng ôm bụng mà cười khi ở Việt Nam có nhiều người ở tù với người Mỹ cho là vớ vẩn. Ở Mỹ cũng có kẻ đói người no, Việt Nam
+
+cũng thế. Ở Mỹ kiếm ngàn đô trên tháng là nghèo, ở VN kiếm ngàn đô là giàu.  Ý muốn nói là ở đâu cũng có số phận an bài. Tổng thống Mỹ uy lực bao trùm khắp thế giới là điều có thực, có ngon hãy gặp tù trưởng bộ lạc ăn thịt người, xem thử ai ngon hơn. Và điều nhắn gởi chung đến
+
+các
+ bạn. Khó ai biết hết những việc làm âm thầm của người viết. Nêu trả lời
+ cho hết là việc làm quá sức. Lấy đâu thời gian để viết bài.
+
+-
+
+[
+![](http://avatars.zenfs.com/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.png)
+](http://blog.yahoo.com/_65HQQQOVMJXVSAAZ3B7GFUHAKY)
+
+-  [toiditimtoi](http://blog.yahoo.com/_65HQQQOVMJXVSAAZ3B7GFUHAKY)
+
+- Jan 29, 2012 4:35 AM
+
+chào
+ bác, bác cho cháu đăng ký học với nha bác,do cháu mới vào trang blog
+bác đọc vài bài có tham gia bình luận cùng mọi người được nhiều,chúc bác
+ vui
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 29, 2012 10:20 AM
+
+Cháu phải đăng ký qua mail, vì bác lấy địa chỉ đó để gởi bài. Phải là yahoomail vì nó cho chuyển thư đính kèm lên tới 10 MB.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/47a90d4ecf94fce46b218f0966c54f40_48.jpg)
+](http://blog.yahoo.com/_XJPTZXBMVFH7EYBHCWJNTGLKKM)
+
+-  [Hóa Lộc](http://blog.yahoo.com/_XJPTZXBMVFH7EYBHCWJNTGLKKM)
+
+- Jan 29, 2012 1:42 AM
+
+Bác BuuDinh Kính Mến !
+
+Cháu đã suy nghĩ rất nhiều về việc bác nói với cháu .Cuối cùng cháu đã quyết định để vợ cháu sinh tư nhiên thôi thì số phận của mình thì mình đón nhận có điều số phận như đang đùa với cháu ,con cháu sinh đúng vào khoảng 17h kém 2 phút đến 17h 5 phút thì xong giờ cháu đang đau đầu không biết xác định thế nào .ngày 26 tháng 01 năm 2012 con trai bác ạ .bác giúp cháu
+
+với . ngày giờ của vợ cháu 17h30 26/7/1987 dương lịch tức ngày 1/6nhuận/1987 âm lịch
+
+của cháu 23h05 17/08/1979 Và nếu có thể bác cho cháu xin cái tên cháu đặt cho bé .
+
+Cháu xin  đăng ký tham gia lớp học Tử Vi qua mang của Bác
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 29, 2012 11:05 AM
+
+Thật bất ngờ thú vị. Lá số của con cháu thuộc dạng may mắn trùng hợp với lá số  mẫu đầu tiên mà bác định đưa ra làm mẫu. Đó là lá số  của bà
+
+Hoàng hậu có thật, đưa bà làm mẫu để chúng ta được may mắn, lá số  con của cháu không tốt bằng. Thật hãnh diện khi cháu nhờ bác đặt tên để tránh trùng húy với các bậc cao niên bên nội,
+
+ngoại, vợ của cháu. Bác chỉ đặt chữ đầu thôi. Đó là chữ Thuận (thuận theo, tuân
+
+theo, ngoan …) chữ thứ 2 cháu đặt tiếp nghe sao cho hay. Việc cháu làm, bác chỉ trích trong bài viết này, nghĩ tới nghĩ lui bác xóa đi, cháu nghe lời bác để sinh tự nhiên hóa ra tốt. Vì bác vừa chỉ trích Icaokim lại tiếp chỉ trích Hóa Lộc mọi người nhìn bác khó tính quá. Chỉ trích đúng, phê phán đúng tại sao không nói. Chờ người vấp ngã rồi nói làm gì. Chúc mừng cháu có đứa con may mắn ảnh hưởng rất lớn đến bố mẹ.
+
+-   Private comment
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/6bb163ae235ec6eb3b2301144c2023d9_48.jpeg)
+](http://blog.yahoo.com/_2FIQEOLG3BP3TXLQU6KFGHB5UE)
+
+-  [Ngoisaobang](http://blog.yahoo.com/_2FIQEOLG3BP3TXLQU6KFGHB5UE)
+
+- Jan 28, 2012 8:16 PM
+
+ Vui
+ quá! Đầu xuân năm mới chúc bác và gia đình mạnh khỏe, gặp nhiều may
+mắn! Cháu xin được họa tiếp hai câu cuối bài viết của bác nhé!
+
+     Người đi muôn lối mang sầu nhớ!
+
+     Khách tới một nơi chuyện dặm trường! …
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 28, 2012 9:13 PM
+
+Cháu viết 2 câu cuối như thế này mới đúng tâm trạng của cháu. Khách đến tìm người nào chẳng
+
+thấy
+
+Để lòng  nặng trĩu nỗi tơ vương. Cháu là người hay lặn lội vào thăm
+blog của bác. Cháu đăng ký bác không ngạc nhiên. Nhưng cần biết học qua
+flash chứ không phải học online đâu. Nói online nhớ đến Lạc trận gồng
+mình cả tuần lễ. Và cũng từ Lạc trận ấy, bác hằng nghĩ, TỬ VI đâu có câu
+ thần chú nào đâu để chỉ nói 1 câu là hiểu tất cả. Một câu là hiểu 1 vấn
+ đề là có thật. Hiểu tất cả thì không phải 1 câu. Bác cám ơn cháu tiếp
+nối 2 câu cuối.
+
+-
+
+-
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 28, 2012 8:06 PM
+
+Nhắn chung các bạn đã đăng ký
+
+qua mail. Gõ cửa thì cửa mở. Vui mừng vì có nhiều bạn mới lạ nhiệt tình học
+
+tập. Có 4,5 đề cương để học tập. Mỗi tháng bạn nhận được  2 flash cách nhau khoảng15 ngày. Bạn học bạn có quyền hỏi. Mỗi người chỉ được hỏi 2 câu thôi nhé. Bạn cẩn thận khi đặt câu hỏi kẻo mất phần ưu tiên. Vì vấn đề gì chúng ta cũng phải học hết rất đa dạng. Học Hỏi Hiểu Hành. Hiện giờ người viết đang biên soạn một số lượng lớn bài viết. gởi đi một ít và dành dụm lại một ít, y như sao LỘC TỒN vậy, để gởi lần sau. Rủi ro bận việc thì cũng có bài để gởi. Nhiều tuổi rồi, nhiều sự việc sinh
+
+ra quanh các chữ quan, hôn, tang, tế rồi đau ốm, thăm viếng phụng dưỡng. Các bạn sẽ nhận trên 20 flash như thế. Cái thứ 2 có cái thứ 1 lồng trong đó, và cái thứ 3 có 1,2 lồng trong đó. Nguyên tắc như thế. Sẽ có bài viết giới thiệu flash. Đó là dấu hiệu bắt đầu khởi động.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48b.png)
+](http://blog.yahoo.com/_3LTR7GI3H3YDTA6C6X72QISQTQ)
+
+-  [Bình](http://blog.yahoo.com/_3LTR7GI3H3YDTA6C6X72QISQTQ)
+
+- Jan 28, 2012 5:20 PM
+
+Chào
+ Bác Bửu Đình, Hôm nay thật vui, vào thăm nhà Bác lại thấy bác mở cửa
+rồi. Nhân dịp năm mới, TL xin chúc Bác lời chúc Sức khỏe và an lành. Và
+TL rất mong muốn được Bác cho vào học lớp tử vi. Kính Bác hướng dẫn.
+Trân trọng
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 28, 2012 8:07 PM
+
+Chào cháu. Lâu ngày nhỉ. Thật ra công việc bác đang làm âm thầm từ lâu. Giải quyết nhiều vấn đề kỹ thuật khá phức tạp, thật tế đòi hỏi nó như một trang Web, lại là flash vô cùng linh hoạt. Không có chuyện ì ạch. Hướng dẫn 1 người cũng khổ như hướng dẫn 2,3 người. Cứ thế trong đầu óc lại suy nghĩ và luôn luôn suy nghĩ những cái không thực tế với một số người,, tất nhiên cũng phiền toái không ít.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48a.png)
+](http://blog.yahoo.com/_N7KIFHJZO4BOKREK2ZZEEUTV3Y)
+
+-  [NgaNguyen](http://blog.yahoo.com/_N7KIFHJZO4BOKREK2ZZEEUTV3Y)
+
+- Jan 28, 2012 3:45 PM
+
+Cháu
+ kính chúc bác và gia đình một năm mới an khang. Cháu rất mong được tiếp
+ tục đọc những bài viết tâm huyết của bác. Kính chúc bác nhiều sức khỏe
+để chúng cháu được học hỏi thêm.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 28, 2012 8:51 PM
+
+Vui Học TỬ VI là phần căn bản. Và phần cao hơn là bí quyết để luận đoán. Cho nên cháu phải nắm phần cơ bản trước, nhiều cái thực tế rất dễ. Nhiều cái khi vào thưc tế rất khó. Nhưng khi biết bí quyết rồi giúp ta an tâm đoán theo một hướng mà thôi.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48d.png)
+](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+-  [Khiêm](http://blog.yahoo.com/_TIIBK6IFCCMOAKYOCXOAVK6Z4E)
+
+- Jan 27, 2012 9:02 PM
+
+Gửi
+ Bác! Cháu đã gửi Mail vào địa chỉ của Bác để đăng ký tham gia lớp học
+Tử Vi qua mang của Bác rồi. Mong được Bác cho tham gia để theo đuổi đến
+cùng Tử Vi Ứng Dụng Bửu Đinh. Cháu khiemphamxuan!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 27, 2012 7:48 PM
+
+Gởi đến các bạn đăng ký học
+
+TỬ VI.
+
+Các bạn gởi qua mail hay nhắn vào comment người viết đều nhận được. Nói như thế để các bạn an tâm. Nói chung là chúng ta vận dụng tốt TỬ VI  chúng ta kín đáo học TỬ VI chứ không có âm mưu bí mật nào cả, có âm thầm như THÁI ÂM nhưng không có âm mưu để an tâm học TỬ VI. Khỏi bị làm phiền.Các bạn có biết hằng ngày tôi nhận biết bao nhiêu mail hỏi TỬ VI (chư chưa nói đến mail spam) và comment không? Nếu trả lời thì lại mọc theo cấp số nhân. Đừng hiểu lầm rằng việc gì tôi cũng biết. Muốn biết phải bù đầu ra nghiên cứu. Cả rừng tư liệu Viêt, Anh, Pháp và Đức Ý Nga cũng chơi luôn. Mượn các phần mềm dịch tạm đủ hiểu. Tải xuống một rừng tư liệu lại khổ vì cái rừng… kiện cáo, hiếp dâm, gian lận thương mại. Cũng khổ theo kiểu sắp xếp. Có người lại dính vài 3 thứ tội trộm cướp sợ chi không giết người. Khổ vì đúng, sai tìm hiểu múi giờ sinh của nhân
+
+vật ấy, tìm hiểu nhân vật ấy đã mệt, nếu có vợ con, đối thủ, đối tác tại sao lại không tìm hiểu luôn, cơ hội bằng vàng. Tư liệu rối như mớ bòng bong. Cho nên các bạn thông cảm nhé. Sau ngày 15 âm lịch (vì ngày 12 có mặt tại Huế) sẽ có mail đến từng bạn để xác nhận. Lúc đó tôi chấp nhận bạn, bạn thừa nhận tôi. Và bạn vẫn còn có thời gian để suy nghĩ lại. Và tôi cũng có thời gian suy nghĩ vì công viêc này kéo dài thời gian cả một năm trường. Liệu còn khí phách như cách đây 3 năm không. Chưa làm không sợ làm rồi nghĩ lại sợ.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48e.png)
+](http://blog.yahoo.com/_OOMP2ALQWW7JCAWRBCSXVSXFUU)
+
+-  [Nguyễn Đức Luân](http://blog.yahoo.com/_OOMP2ALQWW7JCAWRBCSXVSXFUU)
+
+- Jan 27, 2012 7:00 PM
+
+Chào
+ bác, lâu nay cháu vẫn thường vào blog của bác, đọc bài và
+copy các bài viết của bác vào máy. Ngay cả các mẫu đối thoại
+ ngắn, trả lời của bác với các bloger khác. Bác thực sự là
+một người thầy với nhân sinh quan, thế giới quan tuyệt vời thể
+hiện qua tử vi. Cháu đã thấm nhiều lời khuyên của bác. Đặc
+biệt "Ta là cơ hội vận may cho người", "Tự mình đốt đuốc lên
+mà đi".... Cháu đã xem bác là một người thầy đáng kính. Cháu
+mong được bác cho đọc các bài viết tử vi của bác. Cảm ơn bác
+vì tất cả những gì bác đã viết. Chúc bác mạnh khỏe, vui vẻ
+và hi vọng một ngày nào đó cháu có thể gặp bác. Kính!
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 27, 2012 8:01 P
+
+Cám
+ ơn những nhận xét tốt về bác. Nhưng cái giá bác phải trả cao lắm cháu
+ơi. Khác với các hiệp sĩ chỉ giúp đỡ một lúc là xong, ở đây phải có thời
+ gian, sự kiên trì, suy nghĩ, tâm huyết... và chắc rằng để lại một giai
+thoại cho đời sau.
+
+-   Private comment
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48c.png)
+](http://blog.yahoo.com/_7HOUZBA6HGKCXZWLICZDSLRELE)
+
+-  [tu bi h](http://blog.yahoo.com/_7HOUZBA6HGKCXZWLICZDSLRELE)
+
+- Jan 27, 2012 1:50 AM
+
+Cảm ơn Anh bài viết tâm sự chân tình đầu năm. Chúc chủ nhân blog một năm cát tường và hoàn thành ý tưởng đào tạo từ xa./.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 27, 2012 11:15 AM
+
+Cám
+ ơn hixatubi. 2 chữ Cát Tường rất là quí. Tương đương với từ Việt là tốt
+ đẹp, tốt lành có may mắn. Chúng ta dùng từ Hán rất nhiều, việc học hỏi
+TỬ VI kết hợp tìm hiểu thêm từ Hán là cần thiết. Cái may mắn là người
+Việt chúng ta dùng từ Hán mà không... biết mặt chữ của nó. Điều này lại
+đâm ra có lợi. Còn người giỏi chữ Hán, người Hoa lại đâm ra bất lợi. Đó
+là bí mật rất ly kỳ.
+
+-
+
+[
+![](http://l.yimg.com/a/i/identity2/profile_48a.png)
+](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+-  [linh](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+- Jan 27, 2012 12:31 AM
+
+Hi, thấy bác mở cửa, vội vội vàng vàng vào xông nhà đầu năm.
+
+-
+
+[
+![](http://socialprofiles.zenfs.com/images/4a7b709f99a74a1cf7ed2961adb8fe6f_48.jpeg)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 27, 2012 11:01 AM
+
+Cám ơn cháu ghé thăm. Chúc cháu đừng ăn hiếp chồng.

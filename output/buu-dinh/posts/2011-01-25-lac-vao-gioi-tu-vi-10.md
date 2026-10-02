@@ -1,0 +1,360 @@
+---
+id: bd#2551669493205652887
+title: "Lạc Vào Thế Giới Tử Vi (10)"
+url: https://tuviungdung.blogspot.com/2011/01/lac-vao-gioi-tu-vi-10.html
+published: 2011-01-25T21:27:00.000+07:00
+updated: 2013-02-18T17:06:09.239+07:00
+labels: []
+---
+
+# Lạc Vào Thế Giới Tử Vi (10)
+
+[
+![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uRL14hwmUlD2nsd9PDzJs0KbAiPelg_AJ89H1v9PnbHKkQMvtGlLbTQli5F7iphUaes-J0QrzKrnMOfQ2371ivKlrthz4ZMN-lPyWi3kB-krvp1CUANgKroi8H0wPnZHp3ORyVDwJ-qepw-4FB_Ppy_D-7wQdgGsA5QpXPT_1l41-JHUzdR7vuM8uUSATDEd6i=s0-d)
+](http://blog.yahoo.com/_DEBFJDI5O7HRJ7PWCR5NI7G4CE/articles/80317/date/201101#)
+
+Truyện Tử Vi của Bửu Đình.
+
+[Hồi1
+nhấn đây](http://vn.360plus.yahoo.com/buudinh49@ymail.com/article?mid=8671&prev=8702&next=8611)
+
+**Chương 3. Hồi 10. Ngày Trở Về. **
+
+Ba hôm sau.
+
+Có những người ngày trở lại là niềm vui, là áo gấm về
+làng, biết bao người thân yêu mong đợi... Và cũng có, người trở lại lê gót chân
+về trong bất đắc dĩ, ngày trở về trong buồn tủi, trong bẽ bàng...  Lữ Khách cũng đang quay trở về với tâm trạng
+khác, càng gần kinh đô bao nhiêu nỗi lo lắng càng nhiều bấy nhiêu, càng lúc nỗi
+lo (Việt Bệnh Phù) biến thành nỗi sợ hãi (Cự Kỵ).
+
+[]
+
+Như vậy bộ sao Ngày Tháng đi với Lưu Phục Binh của
+chàng có dấu hiệu bất ổn. Do đeo đuổi việc không đâu vào đâu, bị rơi vào quá
+hạn thời gian (Việt Tuế gia thêm Hình...). Ngẫm cho kỹ, nhà vua đã ra lịnh
+triệu hồi cách đây đã 8 ngày, tức có nghĩa là đã đình chỉ mọi công tác mà chàng
+đang làm. Càng nghĩ càng lo.
+
+Con đường thiên lý, cũng là con đường cái quan bao nhiêu
+triệu người đã đi qua, hằng bao thế kỷ, và cách đây hơn năm năm chàng ta cũng
+hằng đi lại, với niềm háo hức mong trở về, và ra đi mong đến nơi mau chóng.
+Nhưng hôm nay cũng trên con đường này lại mang đầy đủ thất tình hỉ, nộ, ái,
+ố...cũng mong chóng về và cũng mong chậm lại.
+
+ Không gian có
+nơi đã vào xuân nhưng lòng chàng lại héo úa ngổn ngang hơn bao giờ hết. Công
+việc chưa tròn, lại vượt quá kỳ hạn, trong lúc chính chàng ta đòi hỏi những
+người cộng tác đừng vi phạm (Tử Vi Kỵ Hình), hôm nay bản thân lại vi phạm,
+người xử tội chàng không ai khác hơn là nhà vua. Càng nghĩ càng rối bời, càng
+nghĩ cái họa do mình gây ra quá lớn.
+
+Đèo ĐÀ LA được tăng cường hằng trăm quân để bảo vệ con
+đường về an toàn nhất, càng nhiều quân bao nhiêu tội chàng càng to bấy nhiêu,
+đồng thời cũng thấy rõ mối quan tâm của nhà vua đối với quan Khâm sai đệ nhất.
+Đây là nơi, được phong là Thiên Hạ Đệ Nhất Hùng Quan nhưng lòng dạ nào chiêm
+ngưỡng, lại thêm cái giá rét mùa đông đang ngự trị trên đỉnh đèo cao gần một
+dặm. Qua đèo có nghĩa là vào đất xứ Ngọ. Càng đến xứ Ngọ cái lạnh càng nhiều.
+
+Cuốn phim dĩ vãng quay đều trong trí óc.
+
+Thắm thoát đã bao nhiêu năm rồi...
+
+Từ ngày sư phụ chàng mất đi trong đợt ôn dịch giáng
+xuống kinh đô. Bọn kỵ binh trong ngự lâm quân cũng chết rất nhiều. Một đợt
+tuyển chọn kỵ binh cho lính kỵ của bộ binh và của đội ngự lâm quân lần đầu tiên
+mở rộng. Nhờ làm quen với con ngựa của sư phụ, chàng ta với học thức có sẵn
+được tuyển thẳng vào đội Ngự Lâm Quân mà thông thường được tuyển từ quân kỵ binh
+ở chốn Kinh thành. Thời gian đưa chàng kỵ binh Ngự Lâm Quân trở thành đội
+trưởng của một đội Kỵ Binh Ngự Lâm Quân. Cùng với những cơ duyên trở thành Khâm
+Sai thứ 24 của Cơ Mật viện, vào dịp, Khâm Sai thứ 10 bị mất tích, đến tận hôm
+nay được đánh giá do tai nạn do lũ lụt gây ra ở xứ Âm Sửu. Và nhà vua phát hiện
+qua lý lịch, chàng Khâm Sai 24 ngày nay là đứa bé con ngày xưa mà ngài đã một
+lần ôm ấp. Nếu, ngày xưa điều tra lòng người qua lá số Tử Vi mờ mờ ảo ảo, hôm
+nay công việc ấy lại được thăng hoa rất nhiều. Đây là việc làm chàng ta rất ưa
+thích, lại được tiếp xúc với những điều cơ mật ít ai được biết, được gần gũi
+bên vua, trong một ngôi nhà quan trọng chỉ có 24 người, theo dõi các công việc
+bí mật. Bình quân tại đó mỗi người nắm giữ 2 đến 3 nhiệm vụ khác nhau. Mỗi
+người lại ăn mặc không giống ai, đa phần ăn mặc theo quân phục cũ toàn là ngự
+lâm hoặc cấm y thị vệ. Ai cũng thế, cứ tự nhận mình chỉ là làm những công việc vô
+tích sự như thư lại trong Cơ Mật viện. Chỉ có ngài tể tướng và các thượng thư
+biết rõ công việc thật mà thôi. Tất nhiên họ là những người kín miệng, ở chốn
+hoàng cung ai càng kín miệng bao nhiêu, chức vụ càng cao bấy nhiêu.
+
+Mười lăm năm qua, từ Khâm Sai 24, chàng trở thành Khâm
+Sai đệ nhất. Nhờ may mắn cũng có và nhờ tài năng cũng có, một số khâm sai điều
+đi làm tổng đốc, thượng thư lại có người do tuổi tác không còn phù hợp xin về
+hưu. Nhờ thế các khâm sai có cơ hội thăng tiến.
+
+Mười lăm năm sau, lại có Khâm Sai 20, thuộc Vụ phó xứ
+Thìn mất tích và Vụ này cũng do Lữ Khách làm Vụ Trưởng. Vừa là Viện phó Cơ Mật,
+Trưởng phòng Tử Vi. Người cầm đầu Cơ Mật viện là nhà vua nhưng chỉ trên danh
+nghĩa.. Thực tế mọi công việc do Lữ Khách làm cả.
+
+Đường đèo lên cao càng quanh co, đó đây vài nhóm lính
+canh gác trong giá lạnh mùa đông. Vừa đi vừa suy nghĩ, lúc vui lúc buồn, lúc đi
+nhanh lúc đi chậm. Tình cảm thất thường. Lại chợt nghĩ đến vụ án 20.
+
+Vụ án 20.
+
+Tin tức cuối cùng của Khâm sai 20 là: Vào khoảng cuối
+giờ thân, đầu giờ dậu, ngày 7 tháng 10 năm ấy. Khâm sai 20 đặc trách xứ Thìn
+ghé thăm quan Lãnh binh tại tư dinh cũng là doanh trại của y. Vào khoảng đầu
+giờ tuất. Khâm sai và Tổng binh rời khỏi doanh trại. Ba Khâm sai địa phương làm
+trách nhiệm bảo vệ an ninh vòng ngoài, theo yêu cầu của Khâm sai 20. Một giám
+sát từ bên ngoài là XTL 01 (XTL: Xứ Thiên La), quan sát 2 người là Khâm sai 20
+và Tổng binh cùng đi ngựa thong thả qua cổng doanh trại, và đi qua vị trí giám
+sát của XTL 01, tiến về hướng cây cầu gỗ, để vào thị trấn. Khâm sai XTL 01 định
+bám theo vì đã khuất tầm quan sát do trời tối. Đã thấy quan Tổng Binh thong thả
+quay trở lại. Khi Lãnh binh đã qua vị trí của XTL 01. Khâm sai XTL 01 liền rời
+vị trí để theo kịp bảo vệ Khâm sai 20. Khi vào thị trấn đã có khâm sai địa
+phương XTL 03 đón lõng tại đó nhưng không thấy Khâm sai 20 đi qua. Khâm sai XTL
+01 đến gặp Khâm sai XTL 05 tại vị trí lót ổ trước tại Thanh Long Lâu –nơi Khâm
+Sai 20 yêu cầu- cũng không phát hiện Khâm sai 20 vào. Thanh Long lâu là nơi
+quan Lãnh Binh thường dùng để tiếp đãi bạn bè, cũng là điểm có khả năng đến của
+Khâm sai 20..
+
+Khâm Sai 20 mất tích trong khoảng gần cầu và qua bên
+kia thị trấn. Đoạn mất tích chỉ khoảng 100 trượng khuất tầm nhìn của Khâm Sai
+XTL 01 vì bóng đêm và Khâm Sai XTL 03 cách vị trí đó khá xa, một quán nước cũng
+là ngôi nhà đầu tiên, cách cầu trên 100 trượng (trên 330m). Đã cho rà suốt hầu
+hết đất đai và cả con lạch để tìm kiếm người và ngựa của Khâm Sai 20. Nếu có
+giao đấu, bắt cóc hay thủ tiêu xảy ra tất có dấu vết và mọi việc không thể
+nhanh hơn như thế. Có thể nói: Khâm Sai 20 mất tích trước mắt Khâm sai XTL 01.
+
+Tóm lại, Khâm sai 20 có thông báo sẽ vào gặp quan Tổng
+binh vào giờ dậu. Yêu cầu hỗ trợ từ bên ngoài và lót ổ trước tại Thanh Long
+lâu. Cả 2 người đi ra, hướng về phố chợ và mất tích một cách kỳ lạ.
+
+Dự đoán. Lãnh binh tiễn biệt Khâm sai 20 gần cầu và
+quay về. Đã điều tra ngầm (tức Liêm Trinh) những binh sĩ canh gác đều xác nhận
+như vậy, kể cả 2 binh sĩ đi mua rượu uống trong phố chợ. Cũng thấy 2 người chia
+tay ở gần cầu. Hai người này đi từ phố chợ về doanh trại .
+
+Nhiệm vụ của Khâm sai 20 là gì? Là nhiệm vụ kiểm tra
+tin tức định kỳ 3 tháng một lần nhưng lần này đi sớm hơn, vì cần thu thập lại
+tin tức bọn Sơn Đường để báo cáo lại nhà vua, ngoài ra tìm hiểu thêm, các vụ
+mất tích các thiếu nữ đẹp gần đây tại xứ này, đây chỉ là tìm hiểu thật hư mà
+thôi, hay chỉ là tin đồn láo, việc điều tra là của quan lại xứ Thìn. Cụ thể là Án Sát Sứ Ti lo về an ninh, luật pháp. Khâm
+sai 20 là vụ phó vụ Thìn tìm hiểu để báo cáo tình hình an ninh trong xứ thật
+chính xác, chỉ là công việc thường tình. Giải quyết vấn đề không phải trách
+nhiệm của họ.
+
+Vụ mất tích kỳ lạ như bị bốc hơi của Khâm sai 20, được
+báo cáo đầy đủ về Cơ Mật viện, bằng văn bản của cả 3 Khâm sai địa phương, đến
+viện Cơ Mật, chỉ sau 2 hôm, và sự việc đã được báo lên nhà vua. Năm hôm sau vụ
+mất tích. Những báo cáo mới nhất của Khâm sai địa phương về việc tìm kiếm, và
+cả sơ đồ chiếc cầu gỗ, dài 3 trượng với 2 lan can ọp ẹo, từ xứ Thìn gởi về không
+có gì mới lạ, các hoạt động (tức Tử Vi) của Khâm sai 20 tại xứ Thìn được gởi về
+nghiên cứu tỉ mỉ, cho thấy; Việc Khâm sai 20 tiếp xúc với Lãnh binh là việc
+thất thường, các Khâm sai trung ương không được tùy tiện xuất đầu lộ diện
+(Thiên Tướng, hoặc Tướng Quân ngộ Triệt), bất đắc dĩ mới làm. Vì chính họ là
+người điều tra tư cách các quan lại. Việc Khâm Sai 20 yêu cầu có sự bảo vệ bên
+ngoài cũng đánh giá là thường tình. Khi đã xuất đầu lộ diện phải có người biết
+đường để báo cáo, đồng thời cũng chứng minh việc công như sao THIÊN ĐỒNG, chứ
+không phải chuyện riêng tư như sao THIÊN CƠ... Chẳng có quan lại nào mong muốn
+gặp bọn khâm sai cả. Đó cũng là việc thường tình.
+
+Các khâm sai Cơ Mật viện họp bàn để tìm hướng đi đúng
+để điều tra.
+
+Khâm sai Thiên Phủ của Cơ Mật viện, nhận xét: “Đúng
+rồi, Khâm sai 20 không lo lắng phía bên trong doanh trại, lo bên ngoài và nơi
+đến là đúng”. Lời nhận xét này, cho thấy Khâm sai 20 lo sợ cái bên ngoài là
+Triệt, không phải bên trong là Tuần.
+
+Khâm sai Thiên Tướng lại cho là: “Đừng quên, các Khâm
+sai chúng ta khi tiếp xúc với bọn quan lại địa phương, không được phép đem theo
+Khâm sai địa phương vào cuộc vì sợ bọn họ bị lộ diện”. Nhận xét này cho là hợp
+lý.
+
+Khâm sai Cự Môn cho là: Ủng hộ ý kiến của Thiên Tướng.
+Cần phải điều tra tất cả, kể cả đám Khâm sai địa phương, bị đưa vào diện nghi
+vấn. Điều này khiến Lữ Khách khó chịu ra mặt. Vì đám khâm sai này do chàng ta
+quản lý. Vụ trưởng, Vụ Thìn cũng là chàng. Đặc biệt Khâm sai XTL 01, trước đây
+là Khâm Sai 23 nhưng lại xin xuống cấp, về làm khâm sai địa phương để gần gủi
+phụ mẫu của y, được mọi người đánh giá là hiếu tử. Một khâm sai tòng tam phẩm
+ngang với văn quan là Quang lộc tự khanh, Thái học tự khanh... Với võ, ngang
+với Tinh binh vệ úy, Phò mã đô úy, Phó lãnh binh. Đi điều tra một người trước
+đây là đồng sự, đồng môn, lại là hiếu tử, khiến Lữ Khách bực bội vì làm thế mất
+thêm thời gian.
+
+Cuộc họp hôm đó có 9 khâm sai nhưng tới 10 ý kiến.
+
+Ý kiến. Khâm sai 20 bị đánh bất ngờ từ phía sau. Bị
+Khâm sai Thiên Cơ công kích dữ dội. Vì áo giáp của các khâm sai do y chế ra, có
+lót các cây thép cứng bên trong, gươm đao qua thực nghiệm, không chém thủng. Cứ
+cho là bị đánh sau đầu té xuống, tất có dấu vết vì con đường đó là đường đất,
+vào mùa mưa. Lại có 2 tên lính đi ngược chiều trông thấy, cảnh chia tay.
+
+Khâm sai Thiên Đồng cho là 2 tên lính đi ngược chiều
+chỉ là cảnh  dàn dựng, bị Khâm sai Thiên
+Lương phản đối. Làm sao chúng biết bên ngoài có người chúng ta, để dàn dựng
+kịch bản. Hóa ra những công việc chúng ta đang làm chẳng có gì bí mật cả. Có kẻ
+còn bí mật hơn chúng ta.
+
+Kể cả ý kiến, Khâm sai 20 hôm đó đã ăn cơm chiều chưa,
+cũng được nêu ra. Cũng may, trong bản báo cáo của XTL 05 có báo là đã ăn chiều
+tại quán ăn gần, Thanh Long lâu. Đây là ý kiến của khâm sai Liêm Trinh được y
+giải thích. Có thể Khâm sai 20, dự kiến mời Tổng binh ra đó uống rượu mà thôi.
+Hoặc được Tổng binh mời ăn uống ở tư dinh, hay quán ăn khác, thì Khâm sai 20
+viện cớ đến Thanh Long lâu uống rượu vui chơi, xem ả đào múa hát là được. Vì ở
+đó đã lót ổ trước, an toàn hơn.
+
+Các ý kiến đều thống nhất ở điểm. Không điều tra trực
+tiếp vị Tổng binh. Không để y biết chúng ta đang điều tra. Vì đây là nhân vật
+số 2 của xứ Thìn, coi ngó việc binh. Cần tìm hiểu thêm. Vì nếu y là thủ phạm
+chăng nữa thì đã có cuộc chia tay rất hợp lý. Nếu ngoại phạm, thì y cũng chẳng
+biết gì đâu. Vì Khâm sai 20 không thể chia sẻ bí mật cho quan Lãnh binh, nếu có
+tất tiết lộ cho bọn Khâm sai XTL 01. Nhưng một điều không thể chối cãi được.
+Khâm sai 20 tìm đến quan Tông binh là có vấn đề gì đó mà chúng ta không thể
+biết được. Vì nguyên tắc bọn quan lại là đối tượng của các khâm sai.
+
+Và ý kiến thống nhất là cần đưa ngay khâm sai Phá Quân
+phá án (Hình Phá) lần đầu. Khâm sai Phá Quân một khâm sai nổi tiếng về khám phá
+lên đường, với kỳ hạn là 10 ngày dù được hay không cũng trở về. Ngày mai phải
+lên đường. Nhiệm vụ của y là:
+
+Điều tra lại bọn khâm sai địa phương, và hiện trường
+vụ mất tích. Nhắm tìm kiếm về hạ lưu con lạch, và dấu tích (Hà Vũ) bên vệ
+đường. Mở rộng chung quanh 2 đầu cầu. Và tìm hiểu thêm tính cách con người của
+quan Lãnh Binh.
+
+Khâm sai này còn nói đùa:
+
+- Nếu cần ta đến cầu tự tử, xem thử trôi về đâu.
+
+- Này. Trời đang mùa lạnh đấy, đừng có đùa như vậy.
+Cũng không nên đánh động. Cứ lặng thinh như chúng ta chưa biết Khâm sai 20 mất
+tích. Đó là lời nhắc nhở của Khâm sai Thiên Phủ.
+
+Khâm sai Tham Lang cũng được điều động. Đi sau một
+ngày. Nhiệm vụ của y là điều tra về nhân cách của quan Tổng Binh, tìm hiểu các
+vụ cướp đoạt gần đây nhất, đánh giá liệu bọn Sơn Đường nhúng tay vào vụ này
+không, và tìm kiếm tang tích (Tang Vũ) con ngựa, vì con ngựa này do Khâm sai
+Tham Lang cho Khâm sai 20 mượn. Và chuyến đi này Khâm sai Tham Lang lại dùng
+con ngựa của Khâm Sai 20. Biết đâu có thể tìm ra sự bí mật nào đó.
+
+(Chú thích: mỗi
+trượng 3,33m, trượng trong nhà chùa dùng ngắn hơn thế rất nhiều).
+
+Lãnh Binh Liêm Tham.
+
+Bồi hồi nhớ lại xâu chuổi những sự kiện. Lữ Khách nhớ
+lại lý lịch ngày xưa của quan Tổng Binh, khi y còn giữ một chức quan bé xíu giữ
+cổng Chánh Tây môn một trong 10 cửa của kinh thành. Ngày ấy (tức thời cùng với
+sư phụ của y) và đến tận bây giờ, Lữ Khách vẫn ở trọ phía Tây kinh đô thường ra
+vào lối này. Gã Liêm Tham (tức là quan Tổng binh về sau) gây ra vụ tai tiếng
+làm ô nhục (Đào Bệnh Phù) không ít các quan giữ cổng, năm y nổi tiếng nhờ đoạt
+danh hiệu Đại đô vật, y quan hệ cùng lúc với nhiều cô gái khiến có đến 2 cô
+cùng to bụng một lúc. Cả 2 cô cùng tới cửa Chánh Tây bắt đền, y không thừa nhận
+(Phủ Tướng) cô nào cả. Cửa Chánh Tây vốn vắng vẻ trở thành náo nhiệt. Dẫu sao
+cũng là chuyện riêng tư của y, nhưng các quan khác bị tai tiếng không ít, qua
+câu vè:
+
+“Có
+quan giữ cổng, giữ thành.
+
+Lắm
+cô con gái tanh banh vì người”.
+
+Chuyện riêng của một người lại nhục chung cho tập thể.
+Đến tai quan Thập Môn Đề Đốc đuổi xéo y đến xứ Hợi, thế là yên chuyện.
+
+Liêm Tham, dưới con mắt của Lữ Khách là một nam nhân
+kiêu hùng, đẹp trai nhưng điều lạ là y độc thân từ đó đến bây giờ. Đến xứ Hợi y
+gặp may thăng chức liên tiếp đến Phó Lãnh binh. Cách đây 3 năm y được điều về
+làm lãnh binh xứ Thìn, khi vị võ quan xứ này về hưu. Hồ sơ của y được trưởng phòng
+Tử Vi (tức Lữ Khách) tìm hiểu không tìm thấy điều gì khác lạ ngoài những công
+trạng. Nhưng trong tiềm thức mơ hồ, người chuyên đánh giá “thái độ và hành vi”
+lại có mối hoài nghi (Hóa Kỵ)? Về tính cách người này. Y là ai, có liên quan
+đến các vụ mất tích gái đẹp xứ Thìn hay không? Có liên quan gì đến bọn Sơn
+Đường hay không? Các hoài nghi luôn luôn được đặt ra và xóa đi mỗi khi được
+sáng tỏ, nhất là các khâm sai đều báo cáo giống nhau một điểm; là quan Tổng binh
+có hành vi rất kín đáo, tư dinh được canh gác nghiêm mật, cứ như có giặc đâu
+đây. Sự thái quá này khiến Lữ Khách nghi ngờ.
+
+Thế rồi thêm một cái “hình như” lại nẩy sinh. Cần đọc
+lại những tin tức mà báo chí đã viết trong thời gian y ở xứ Hợi có xảy ra những
+vụ mất tích thiếu nữ hay không. Cũng may thư viện Hoàng Gia ở gần kề Cơ Mật
+viện. Thoạt kỳ thủy, nó là văn phòng lưu trữ sách báo của viện Quang Minh, thời
+gian phình to thành thư viện bề thế trong hoàng cung. Thế rồi 3 nhân viên của
+phòng là Tử Vi, Vũ Khúc và Liêm Trinh bỏ cả 2 ngày đọc những bản tin liên quan
+đến xứ Hợi những 3 năm về trước. Chỉ tìm những vụ mất tích thiếu nữ, trong thời
+gian y ở đó. Sợi chỉ mong manh cũng đã tìm thấy, có đến 3 vụ như thế. Trong
+thời gian Liêm Tham tại chức. Lại mất thêm một ngày để đọc tiếp những vụ việc
+như thế còn xảy ra sau khi quan Liêm Tham ra đi không, Và đồng thời liên hệ bộ
+Hình tìm hiểu các  Án Sát Sứ Ti có phát hiện
+được điều gì không? Mọi việc có phần hơi rõ nét. Có thể là Khâm sai 20 tìm ra
+bí mật, và y đã trực tiếp tìm gặp công khai quan Lãnh Binh để thăm dò thái độ.
+Và Lãnh binh đã thủ tiêu quan Khâm sai 20. Nhưng với thời gian ngắn như vậy lại
+thủ tiêu được một con người có tài như Khâm sai 20, cũng đã qua 4 tuổi nghề
+nhưng võ công của khâm sai này rất là cao. Không thể dễ dàng như thế được. Đó
+là động lực thúc đẩy khiến Lữ Khách phải đến trực tiếp hiện trường điều tra vụ
+này.
+
+Ngoài ra còn nhiều vụ việc
+khác như Lãnh Binh Phá Quân Triệt xứ Thân, tổ chức luyện quân, điều binh những
+động thái ấy là gì. Huyện lịnh huyện Thiên Hỉ xứ Tuất  bị cáo buộc tham nhũng... Những vụ việc này đáng lý
+Lữ Khách chia sẻ cùng với nhà vua nhưng y lại thấy, nhà vua đã bề bộn công việc
+lại phải nghe những báo cáo chưa có đầu có đuôi chỉ làm khổ ngài. Nhất là từ
+khi vị Tể Tướng mới là Thượng Thư bộ Hình nắm quyền Tể Tướng, làm việc quá
+thiên về nguyên tắc, đùn đẩy cho nhà vua, khiến cho nhà vua cũng có lần than
+phiền với Khâm sai đệ nhất: “Kể từ ngày ông ấy- Sát Hình Khoa- thay thế Tể
+tướng Phủ Khôi Xương trẫm càng lắm việc”.
+
+Chỉ vì thông cảm với nỗi khó khăn của nhà vua, Lữ
+Khách vô tình hứng tai họa. Việc của y làm, biết đâu nhà vua chỉ búng tay một
+cái là xong. Việc khó với người này nhưng lại dễ dàng với người khác. Nhất là y
+đã đi trái với lộ trình đã vạch. Thay vì đi từ từ Ngọ qua Tị đến Xứ Thìn. Lữ
+Khách lại đi qua xứ Mùi, Thân, Dậu, Tuất qua vùng Hoang Đường đến xứ Thìn. Biết
+được tin nhà vua điên đầu, triệu hồi gấp. Càng điên hơn khi có những tin tức mà
+Lữ Khách không chia sẻ với nhà vua.
+
+**Đường qua - xứ Ngọ - sao - xa quá.Đi mãi - ai ơi! - chẳng thấy nhà.Chỉ thấy mưa buồn - rơi trên lá.Cây đời - lặng lẽ vẫn cho hoa.  Càng xa - xứ Ngọ càng - thương nhớ.Càng đến - càng vương - lắm nỗi sầu.Hôm qua - đuổi giặc - trên mình ngựa.Về Ngọ- là ta phải - cúi đầu.**
+
+Nhưng đó là cái cúi đầu mà
+y thích, y muốn, y cảm thấy hạnh phúc, y mến mộ. Y cúi đầu trước một người
+nhưng ngẩng cao đầu trước vạn người. Than thở là thói quen của mọi người, khi cần
+khoe khoang người ta lại nhân đôi, nhân ba sự việc, khi nói xấu ai đó người ta
+lại lũy thừa...Đời là thế.
+
+[
+![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vM7kGH0btVL_Tcwgxu2rmlxa6-DAO6STPGMn53waCZ06XY87mdG2X9tCNoDKM3eCsjVqN6kks_LeHrrOAYggqqO97clzFcequaTu2K1Y-0ap59sqUi7sn6DVn2wHgem10lhH2xx52OQyM84ZgBeHe5allGjoHFjEYsdsOxkxWkU0eldqLm_IFSsyRZKAe9BMZD=s0-d)
+](http://blog.yahoo.com/_DEBFJDI5O7HRJ7PWCR5NI7G4CE/articles/80317/date/201101#)
+
+Khi cái lạnh của mùa đông thấm sâu vào cơ thể. Kinh đô
+xứ Ngọ đang đắm chìm trong mưa chiều tối. Lữ Khách lại hối hả thúc ngựa nhanh
+về hướng Chánh Tây môn bên ngoài Kinh thành tìm về tổ ấm... độc thân của y.
+
+Đâu đây những tiếng pháo nổ đì đùng của lũ trẻ con,
+báo hiệu ngày tết đã đến gần. Chỉ làm nóng ruột, nóng lòng cho những gia đình
+khó khăn trong những ngày tết đến. Chỉ những người có chức, có quyền, có tiền
+là mong ngày tết. Cũng như một bức tranh mỗi người có một cái nhìn khác nhau.
+Cảnh đời ở đâu và thời nào cũng thế.
+
+Hồi 11.Cuộc Hội Ngộ. Nhà Vua Và Viên Cận
+Thần..
+
+[
+![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tN8z5ZTw1FJzKPbrk1eGdv4xzzOuxtR-Yjn1L1GN057bY1auuaQwVCCKulm3-QZNk81ej3x11LtQZDQ0K7TjMX497mDpU4Wl172xIrT8oIVoQ=s0-d)
+](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+-  [linh](http://blog.yahoo.com/_3FMCYXSAK2ETYBQQ2E4J5I34JU)
+
+- Jan 28, 2011 6:26 PM
+
+Tình
+ cờ, cháu đọc được. Thú vị ghê. Chó mèo cũng biết tu hành.
+Bác vào copy link nhé:
+http://diendan.daitangkinhvietnam.org/viewtopic.php?f=47&t=3942
+
+[
+![](https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_twYgydICqstlkuk5NwCY746QqgWfIr5CJuh5UxHJSCbEmlGJEzDq_fpdw15tyYy7s0gvAQOxZCN8kXddTZBNy5bJyXGTiFKdhF2yqj9HjizquknD53ElVW5u8Ti4dBusSGXFMSupx4pUcFdCU0A5BfkdM=s0-d)
+](http://blog.yahoo.com/TUVIUNGDUNG)
+
+-  [Bửu Đình](http://blog.yahoo.com/TUVIUNGDUNG)
+
+- Jan 28, 2011 7:31 PM
+
+Tặng lại cháu. Cám ơn đường dẫn, cho ta nhiều điều suy nghĩ.

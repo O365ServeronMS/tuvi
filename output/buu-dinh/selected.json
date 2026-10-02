@@ -1,0 +1,4154 @@
+[
+ {
+  "idx": 0,
+  "title": "Giải Thích Một Số Câu Phú.",
+  "chars": 15275,
+  "file": "posts/2008-12-28-giai-thich-mot-so-cau-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 1,
+  "title": "Bạch Hổ Có Bao Nhiêu Loài?",
+  "chars": 20744,
+  "file": "posts/2008-12-28-bach-ho.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 2,
+  "title": "THIÊN PHỦ là gì?",
+  "chars": 35434,
+  "file": "posts/2008-12-29-thien-phu-la-gi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 3,
+  "title": "Những tảng đá trên đường đến với Tử Vi",
+  "chars": 19799,
+  "file": "posts/2008-12-29-nhung-tang-tren-uong-en-voi-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 4,
+  "title": "Huyên náo",
+  "chars": 9681,
+  "file": "posts/2008-12-30-huyen-nao-buu-inh-30-12-2008-hom-nay-ta.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 5,
+  "title": "Số phận định đoạt",
+  "chars": 14150,
+  "file": "posts/2008-12-30-so-phan-inh-oat.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 6,
+  "title": "Ngôi sao Vô Địch",
+  "chars": 9213,
+  "file": "posts/2008-12-31-ngoi-sao-vo-ich.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 7,
+  "title": "Tìm Kiếm",
+  "chars": 12750,
+  "file": "posts/2009-01-01-tim-kiem.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 8,
+  "title": "Tên người có trên Lá Số TỬ VI",
+  "chars": 23276,
+  "file": "posts/2009-01-02-ten-nguoi-co-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 9,
+  "title": "Lần Đầu Tiên",
+  "chars": 5140,
+  "file": "posts/2009-01-03-lan-au-tien.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 10,
+  "title": "Lá số TỬ VI sống mãi",
+  "chars": 15228,
+  "file": "posts/2009-01-04-la-so-tu-vi-song-mai.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 11,
+  "title": "Khúc rẽ cuộc đời",
+  "chars": 27559,
+  "file": "posts/2009-01-05-khuc-re-cuoc-oi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 12,
+  "title": "Người trên lá số TỬ VI",
+  "chars": 4752,
+  "file": "posts/2009-01-06-nguoi-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 13,
+  "title": "Hồn lỡ sa vào đôi mắt em",
+  "chars": 11115,
+  "file": "posts/2009-01-06-hon-lo-sa-vao-oi-mat-em.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 14,
+  "title": "Nói và làm",
+  "chars": 9222,
+  "file": "posts/2009-01-09-noi-va-lam.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 15,
+  "title": "Ten bay dan lac",
+  "chars": 7298,
+  "file": "posts/2009-01-10-ten-bay-dan-lac.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 16,
+  "title": "Mặt trời và mặt trăng trên lá số TỬ VI",
+  "chars": 16749,
+  "file": "posts/2009-01-11-mat-troi-va-mat-trang-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 17,
+  "title": "PHƠI BÀY...",
+  "chars": 13660,
+  "file": "posts/2009-01-12-phoi-bay.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 18,
+  "title": "Mất hay được",
+  "chars": 13233,
+  "file": "posts/2009-01-14-mat-hay-uoc.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 19,
+  "title": "Mạc Đăng Dung người cướp ngôi...",
+  "chars": 14739,
+  "file": "posts/2009-01-15-mac-ang-dung-nguoi-cuop-ngoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 20,
+  "title": "Tuần và Triệt",
+  "chars": 43634,
+  "file": "posts/2009-01-15-tuan-va-triet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 21,
+  "title": "Mạc Đăng Dung phần cuối",
+  "chars": 22643,
+  "file": "posts/2009-01-16-mac-ang-dung-phan-cuoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 22,
+  "title": "Bí Mật ngôi sao TỬ VI",
+  "chars": 21539,
+  "file": "posts/2009-01-17-bi-mat-ngoi-sao-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 23,
+  "title": "Màu sắc trên lá số TỬ VI",
+  "chars": 7539,
+  "file": "posts/2009-01-20-mau-sac-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 24,
+  "title": "Những tảng đá trên đường TỬ VI 2",
+  "chars": 8228,
+  "file": "posts/2009-01-21-nhung-tang-tren-uong-tu-vi-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 25,
+  "title": "Nghe gi?",
+  "chars": 10092,
+  "file": "posts/2009-01-22-nghe-gi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 26,
+  "title": "Các NGÔI SAO đều tốt",
+  "chars": 3742,
+  "file": "posts/2009-01-26-cac-ngoi-sao-eu-tot.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 27,
+  "title": "Tiếng lành đồn xa...",
+  "chars": 11739,
+  "file": "posts/2009-01-27-tieng-lanh-on-xa.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 28,
+  "title": "Vì sao sáng",
+  "chars": 5868,
+  "file": "posts/2009-01-28-vi-sao-sang.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 29,
+  "title": "Ai Chia Rẽ? Ai Đoàn Kết",
+  "chars": 7678,
+  "file": "posts/2009-01-29-ai-chia-re-ai-oan-ket.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 30,
+  "title": "Ngôi Sao Đoàn Kết",
+  "chars": 7632,
+  "file": "posts/2009-01-30-ngoi-sao-oan-ket.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 31,
+  "title": "Người tìm đường",
+  "chars": 16141,
+  "file": "posts/2009-01-31-nguoi-tim-uong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 32,
+  "title": "VỠ NỢ cách",
+  "chars": 3956,
+  "file": "posts/2009-02-01-vo-no-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 33,
+  "title": "Ngôi Sao Tình Yêu",
+  "chars": 12805,
+  "file": "posts/2009-02-02-ngoi-sao-tinh-yeu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 34,
+  "title": "Ngôi Sao Khám Phá",
+  "chars": 8187,
+  "file": "posts/2009-02-03-ngoi-sao-kham-pha.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 35,
+  "title": "Bóng mát... cuộc đời",
+  "chars": 12384,
+  "file": "posts/2009-02-04-bong-mat-cuoc-oi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 36,
+  "title": "Bóng Tối...Tại Người",
+  "chars": 8035,
+  "file": "posts/2009-02-05-bong-toitai-nguoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 37,
+  "title": "Nhất Linh người chống đối",
+  "chars": 12896,
+  "file": "posts/2009-02-06-nhat-linh-nguoi-chong-oi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 38,
+  "title": "Bình Luận Lá Số THAM LANG cư Tý",
+  "chars": 11713,
+  "file": "posts/2009-02-07-binh-luan-la-so-tham-lang-cu-ty.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 39,
+  "title": "Lỡ Bước Sang Ngang",
+  "chars": 17721,
+  "file": "posts/2009-02-09-lo-buoc-sang-ngang.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 40,
+  "title": "Ngôi Sao Linh Ứng",
+  "chars": 14117,
+  "file": "posts/2009-02-10-ngoi-sao-linh-ung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 41,
+  "title": "Chống Ai Theo Ai",
+  "chars": 6814,
+  "file": "posts/2009-02-11-chong-ai-theo-ai.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 42,
+  "title": "Điềm lành",
+  "chars": 15897,
+  "file": "posts/2009-02-12-iem-lanh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 43,
+  "title": "May Mắn và Chọn Lựa",
+  "chars": 12661,
+  "file": "posts/2009-02-13-may-man-va-chon-lua.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 44,
+  "title": "Nhịp Đời Qua Lá Số",
+  "chars": 7493,
+  "file": "posts/2009-02-14-nhip-oi-qua-la-so.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 45,
+  "title": "Khóc và Cười",
+  "chars": 6627,
+  "file": "posts/2009-02-15-khoc-va-cuoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 46,
+  "title": "Ông Vua Thứ Ba ngôi sao CỰ MÔN",
+  "chars": 10761,
+  "file": "posts/2009-02-16-ong-vua-thu-ba-ngoi-sao-cu-mon.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 47,
+  "title": "Chung Một Dòng Sông",
+  "chars": 14903,
+  "file": "posts/2009-02-17-chung-mot-dong-song.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 48,
+  "title": "Kế Hoạch",
+  "chars": 10652,
+  "file": "posts/2009-02-19-ke-hoach.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 49,
+  "title": "Thời Kỳ Tươi Đẹp",
+  "chars": 11307,
+  "file": "posts/2009-02-20-thoi-ky-tuoi-ep.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 50,
+  "title": "Bí Mật Ngôi Sao LIÊM TRINH",
+  "chars": 14375,
+  "file": "posts/2009-02-22-bi-mat-ngoi-sao-liem-trinh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 51,
+  "title": "Nhung Cach Noi Danh",
+  "chars": 17101,
+  "file": "posts/2009-02-23-nhung-cach-noi-danh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 52,
+  "title": "Bí Mật Ngôi Sao LIÊM TRINH phần 2",
+  "chars": 18581,
+  "file": "posts/2009-02-24-bi-mat-ngoi-sao-liem-trinh-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 53,
+  "title": "Nông Cạn và Thâm Sâu (viet lai)",
+  "chars": 24108,
+  "file": "posts/2009-02-25-nong-can-va-tham-sau-viet-lai.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 54,
+  "title": "Còn Đó Trong Tôi Một Nỗi Buồn",
+  "chars": 13739,
+  "file": "posts/2009-02-27-con-o-trong-toi-mot-noi-buon.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 55,
+  "title": "Bàn Về Ngôi SaoTHÁI TUẾ",
+  "chars": 18333,
+  "file": "posts/2009-02-28-ban-ve-ngoi-saothai-tue.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 56,
+  "title": "Kẻ Sỹ Thứ 2 Trên TỬ VI",
+  "chars": 9786,
+  "file": "posts/2009-03-01-ke-sy-thu-2-tren-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 57,
+  "title": "Rồng Xanh THANH LONG",
+  "chars": 22812,
+  "file": "posts/2009-03-02-rong-xanh-thanh-long.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 58,
+  "title": "Trả lời lá số NHÂM DẦN",
+  "chars": 21180,
+  "file": "posts/2009-03-03-tra-loi-la-so-nham-dan.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 59,
+  "title": "Điều Kỳ Lạ Hiện Ra",
+  "chars": 28481,
+  "file": "posts/2009-03-04-ieu-ky-la-hien-ra.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 60,
+  "title": "Nhỏ To Tâm Sự",
+  "chars": 21420,
+  "file": "posts/2009-03-05-nho-to-tam-su.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 61,
+  "title": "Phe Binh la so THIEN PHU",
+  "chars": 26807,
+  "file": "posts/2009-03-06-phe-binh-la-so-thien-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 62,
+  "title": "Phê Bình lá số HỒNG HÀ mênh mông",
+  "chars": 17142,
+  "file": "posts/2009-03-07-phe-binh-la-so-hong-ha-menh-mong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 63,
+  "title": "BÀI VIẾT TIẾP VỀ ĐẠI HAO",
+  "chars": 17142,
+  "file": "posts/2009-03-09-bai-viet-tiep-ve-ai-hao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 64,
+  "title": "Cách HAO THƯƠNG",
+  "chars": 10379,
+  "file": "posts/2009-03-10-cach-hao-thuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 65,
+  "title": "Tìm Hiểu bộ TƯỚNG BINH",
+  "chars": 9711,
+  "file": "posts/2009-03-11-tim-hieu-bo-tuong-binh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 66,
+  "title": "PHỤC BINH Tên Đầy Tớ?",
+  "chars": 10597,
+  "file": "posts/2009-03-12-phuc-binh-ten-ay-to.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 67,
+  "title": "QUỐC ẤN Đâu Rồi QUỐC ẤN Ơi !",
+  "chars": 14906,
+  "file": "posts/2009-03-13-quoc-au-roi-quoc-oi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 68,
+  "title": "BÌNH LUẬN Lá Số TỬ VI cư Tý",
+  "chars": 24137,
+  "file": "posts/2009-03-14-binh-luan-la-so-tu-vi-cu-ty.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 69,
+  "title": "Bình Giải lá số Đinh Tị",
+  "chars": 17877,
+  "file": "posts/2009-03-16-binh-giai-la-so-inh-ti.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 70,
+  "title": "Nửa mảnh hồn tôi giạt về đâu?",
+  "chars": 15448,
+  "file": "posts/2009-03-17-nua-manh-hon-toi-giat-ve-au.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 71,
+  "title": "Trả Lời một số câu hỏi",
+  "chars": 11792,
+  "file": "posts/2009-03-19-tra-loi-mot-so-cau-hoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 72,
+  "title": "Bài viết về Tứ Hóa",
+  "chars": 27226,
+  "file": "posts/2009-03-20-bai-viet-ve-tu-hoa.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 73,
+  "title": "Hai lá số cách TỬ TƯỚNG",
+  "chars": 16933,
+  "file": "posts/2009-03-23-hai-la-so-cach-tu-tuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 74,
+  "title": "Lại Trả Lời Câu Hỏi",
+  "chars": 20975,
+  "file": "posts/2009-03-24-lai-tra-loi-cau-hoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 75,
+  "title": "Bộ KHÔNG KIẾP",
+  "chars": 50491,
+  "file": "posts/2009-03-26-bo-khong-kiep.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 76,
+  "title": "Lưng Trời Gảy Cánh",
+  "chars": 15382,
+  "file": "posts/2009-03-28-lung-troi-gay-canh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 77,
+  "title": "Bàn Về Bộ LINH HỎA",
+  "chars": 35029,
+  "file": "posts/2009-03-30-ban-ve-bo-linh-hoa_30.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 78,
+  "title": "Ai Sẽ Chết Khi Bom Nguyên Tử Nổ",
+  "chars": 15114,
+  "file": "posts/2009-04-01-ai-se-chet-khi-bom-nguyen-tu-no.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 79,
+  "title": "Bộ THIÊN HÌNH THIÊN DIÊU THIÊN Y",
+  "chars": 34190,
+  "file": "posts/2009-04-03-bo-thien-hinh-thien-dieu-thien-y.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 80,
+  "title": "Bàn về Ngôi Sao ĐÀO HOA",
+  "chars": 24022,
+  "file": "posts/2009-04-07-ban-ve-ngoi-sao-ao-hoa.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 81,
+  "title": "Bộ HỒNG LOAN THIÊN HỈ",
+  "chars": 11544,
+  "file": "posts/2009-04-08-bo-hong-loan-thien-hi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 82,
+  "title": "Bí mật về ngôi sao VŨ KHÚC",
+  "chars": 21697,
+  "file": "posts/2009-04-10-bi-mat-ve-ngoi-sao-vu-khuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 83,
+  "title": "Trả Lời Một Số Câu Hỏi",
+  "chars": 23862,
+  "file": "posts/2009-04-12-tra-loi-mot-so-cau-hoi_12.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 84,
+  "title": "Tổng luận về sao THẤT SÁT",
+  "chars": 35146,
+  "file": "posts/2009-04-13-tong-luan-ve-sao-that-sat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 85,
+  "title": "Lá Số của một THẤT SÁT tại Tuất",
+  "chars": 14955,
+  "file": "posts/2009-04-14-la-so-cua-mot-that-sat-tai-tuat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 86,
+  "title": "Anh Biết Em Đi Chẳng Trở Về",
+  "chars": 26413,
+  "file": "posts/2009-04-15-anh-biet-em-i-chang-tro-ve.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 87,
+  "title": "Bộ VŨ SÁT Mão Dậu",
+  "chars": 24368,
+  "file": "posts/2009-04-16-bo-vu-sat-mao-dau.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 88,
+  "title": "LIÊM TRINH Trong Sáng Màu Trinh Bạch…",
+  "chars": 18242,
+  "file": "posts/2009-04-17-liem-trinh-trong-sang-mau-trinh-bach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 89,
+  "title": "PHƯỢNG CÁC ẩn tàng điều bí mật.",
+  "chars": 22919,
+  "file": "posts/2009-04-18-phuong-cac-tang-ieu-bi-mat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 90,
+  "title": "Trả Lời Một Số Câu Hỏi",
+  "chars": 20591,
+  "file": "posts/2009-04-20-tra-loi-mot-so-cau-hoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 91,
+  "title": "ĐƯỜNG PHÙ Lời Nói Ngọt Ngào",
+  "chars": 19786,
+  "file": "posts/2009-04-22-uong-phu-loi-noi-ngot-ngao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 92,
+  "title": "LA TRỜI hay trời la. OÁN ĐẤT hay đất oán.",
+  "chars": 15668,
+  "file": "posts/2009-04-23-la-troi-hay-troi-la-oan-at-hay-at-oan.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 93,
+  "title": "HOA CÁI là cái chi chi vậy?",
+  "chars": 20201,
+  "file": "posts/2009-04-24-hoa-cai-la-cai-chi-chi-vay.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 94,
+  "title": "THAM LANG ngôi sao tham vọng",
+  "chars": 20044,
+  "file": "posts/2009-04-24-tham-lang-ngoi-sao-tham-vong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 95,
+  "title": "LIÊM TRINH Dần Thân cách",
+  "chars": 19127,
+  "file": "posts/2009-04-25-liem-trinh-dan-than-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 96,
+  "title": "THIÊN KHÔI THIÊN VIỆT Ngôi Sao Bửu Bối",
+  "chars": 17856,
+  "file": "posts/2009-04-27-thien-khoi-thien-viet-ngoi-sao-buu-boi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 97,
+  "title": "Cách LIÊM SÁT Sửu Mùi",
+  "chars": 20075,
+  "file": "posts/2009-04-28-cach-liem-sat-suu-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 98,
+  "title": "CÔ GIA hay QUẢ NHÂN?",
+  "chars": 19168,
+  "file": "posts/2009-04-29-co-gia-hay-qua-nhan.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 99,
+  "title": "KÌNH ĐÀ CÓ PHẢI LÀ SÁT TINH?",
+  "chars": 63646,
+  "file": "posts/2009-05-01-kinh-co-phai-la-sat-tinh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 100,
+  "title": "Cách VŨ TƯỚNG Dần Thân",
+  "chars": 21567,
+  "file": "posts/2009-05-05-cach-vu-tuong-dan-than.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 101,
+  "title": "Mệnh Thân Hạn khác nhau như thế nào",
+  "chars": 40887,
+  "file": "posts/2009-05-07-menh-than-han-khac-nhau-nhu-nao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 102,
+  "title": "Xin Chào ĐiẾU KHÁCH",
+  "chars": 25360,
+  "file": "posts/2009-05-09-xin-chao-ieu-khach.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 103,
+  "title": "Bài Tổng Hợp TUẦN và TRIỆT",
+  "chars": 51736,
+  "file": "posts/2009-05-11-bai-tong-hop-tuan-va-triet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 104,
+  "title": "PHÁ TOÁI Ngôi Sao Phiền Toái",
+  "chars": 16427,
+  "file": "posts/2009-05-12-pha-toai-ngoi-sao-phien-toai.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 105,
+  "title": "NHỮNG ĐIỀU CẦN BIẾT về HÓA KỴ.",
+  "chars": 54248,
+  "file": "posts/2009-05-13-nhung-ieu-can-biet-ve-hoa-ky.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 106,
+  "title": "Bộ PHỦ TƯỚNG đơn thủ.",
+  "chars": 48411,
+  "file": "posts/2009-05-15-bo-phu-tuong-on-thu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 107,
+  "title": "Bộ ĐỒNG LƯƠNG Dần Thân",
+  "chars": 42068,
+  "file": "posts/2009-05-17-bo-ong-luong-dan-than.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 108,
+  "title": "Bộ ÂM DƯƠNG Sửu Mùi",
+  "chars": 41147,
+  "file": "posts/2009-05-19-bo-am-duong-suu-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 109,
+  "title": "CỰ CƠ Tý Ngọ cách",
+  "chars": 95366,
+  "file": "posts/2009-05-21-cu-co-ty-ngo-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 110,
+  "title": "PHÁ QUÂN bài tổng hợp",
+  "chars": 69430,
+  "file": "posts/2009-05-23-pha-quan-bai-tong-hop.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 111,
+  "title": "THAM VŨ đồng hành",
+  "chars": 59021,
+  "file": "posts/2009-05-25-tham-vu-ong-hanh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 112,
+  "title": "Cơ Lương Thìn Tuất",
+  "chars": 46794,
+  "file": "posts/2009-05-27-co-luong-thin-tuat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 113,
+  "title": "Tình Yêu và nỗi lo sợ",
+  "chars": 22125,
+  "file": "posts/2009-05-28-tinh-yeu-va-noi-lo-so.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 114,
+  "title": "Trả lời một câu hỏi",
+  "chars": 14864,
+  "file": "posts/2009-05-30-tra-loi-mot-cau-hoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 115,
+  "title": "THIÊN CƠ Sửu Mùi",
+  "chars": 27417,
+  "file": "posts/2009-06-01-thien-co-suu-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 116,
+  "title": "VÔ CHÍNH DIỆU là gì?",
+  "chars": 69420,
+  "file": "posts/2009-06-02-vo-chinh-dieu-la-gi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 117,
+  "title": "LÀM THẾ NÀO LUẬN ĐOÁN HẠN CHUYỂN ĐỘNG.",
+  "chars": 23715,
+  "file": "posts/2009-06-05-lam-nao-luan-oan-han-chuyen-ong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 118,
+  "title": "HiTLER đi bán kem",
+  "chars": 13167,
+  "file": "posts/2009-06-06-hitler-i-ban-kem.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 119,
+  "title": "TỬ PHỦ Dần Thân",
+  "chars": 18042,
+  "file": "posts/2009-06-08-tu-phu-dan-than.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 120,
+  "title": "Liêm Tham Tị Hợi cách",
+  "chars": 26787,
+  "file": "posts/2009-06-10-liem-tham-ti-hoi-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 121,
+  "title": "TỬ SÁT Tị Hợi Cách.",
+  "chars": 29057,
+  "file": "posts/2009-06-12-tu-sat-ti-hoi-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 122,
+  "title": "Ngôi Sao TỬ VI phần 2.",
+  "chars": 14901,
+  "file": "posts/2009-06-14-ngoi-sao-tu-vi-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 123,
+  "title": "VCD Có LIÊM THAM xung",
+  "chars": 16365,
+  "file": "posts/2009-06-17-vcd-co-liem-tham-xung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 124,
+  "title": "CỰ NHẬT Cách",
+  "chars": 32725,
+  "file": "posts/2009-06-18-cu-nhat-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 125,
+  "title": "Đồng Âm Tý Ngọ",
+  "chars": 20210,
+  "file": "posts/2009-06-20-ong-am-ty-ngo.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 126,
+  "title": "VCD có CỰ NHẬT xung",
+  "chars": 26919,
+  "file": "posts/2009-06-26-vcd-co-cu-nhat-xung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 127,
+  "title": "TỬ THAM Mão Dậu cách",
+  "chars": 18158,
+  "file": "posts/2009-06-28-tu-tham-mao-dau-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 128,
+  "title": "LƯU HÀ",
+  "chars": 37617,
+  "file": "posts/2009-07-01-luu-ha.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 129,
+  "title": "TRẢ LỜI MỘT SỐ CÂU HỎI",
+  "chars": 28895,
+  "file": "posts/2009-08-08-tra-loi-mot-so-cau-hoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 130,
+  "title": "LIÊM PHỦ Thìn Tuất cách",
+  "chars": 41426,
+  "file": "posts/2009-08-12-liem-phu-thin-tuat-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 131,
+  "title": "XƯƠNG KHÚC",
+  "chars": 33279,
+  "file": "posts/2009-08-18-xuong-khuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 132,
+  "title": "Lá số một nữ Phú Gia",
+  "chars": 27052,
+  "file": "posts/2009-08-20-la-so-mot-nu-phu-gia.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 133,
+  "title": "THIÊN LƯƠNG Sửu Mùi",
+  "chars": 32365,
+  "file": "posts/2009-08-22-thien-luong-suu-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 134,
+  "title": "DUONG LUONG Mao Dau",
+  "chars": 34528,
+  "file": "posts/2009-08-26-duong-luong-mao-dau.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 135,
+  "title": "VŨ PHÁ Tị Hợi Cách",
+  "chars": 17415,
+  "file": "posts/2009-08-28-vu-pha-ti-hoi-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 136,
+  "title": "PHÁ QUÂN Tý Ngọ cách",
+  "chars": 67534,
+  "file": "posts/2009-09-06-pha-quan-ty-ngo-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 137,
+  "title": "Tâm tình của một người THÁI DƯƠNG cư Tị",
+  "chars": 25470,
+  "file": "posts/2009-09-10-tam-tinh-cua-mot-nguoi-thai-duong-cu-ti.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 138,
+  "title": "Ngôi sao Bạch Hổ",
+  "chars": 45699,
+  "file": "posts/2009-09-12-ngoi-sao-bach-ho.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 139,
+  "title": "BẠCH HỔ phần 2",
+  "chars": 29090,
+  "file": "posts/2009-09-15-bach-ho-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 140,
+  "title": "CỰ ĐỒNG Sửu Mùi.",
+  "chars": 35644,
+  "file": "posts/2009-09-18-cu-ong-suu-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 141,
+  "title": "Chung Trời nhưng Cách Biệt",
+  "chars": 13638,
+  "file": "posts/2009-09-21-chung-troi-nhung-cach-biet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 142,
+  "title": "Mất anh rồi...Xa anh rồi.",
+  "chars": 25190,
+  "file": "posts/2009-09-23-mat-anh-roixa-anh-roi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 143,
+  "title": "THIÊN ĐỒNG ngộ KHÔNG KIẾP bất cát.",
+  "chars": 90302,
+  "file": "posts/2009-09-26-thien-ong-ngo-khong-kiep-bat-cat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 144,
+  "title": "Ai giết vua Quang Trung",
+  "chars": 28853,
+  "file": "posts/2009-10-01-ai-giet-vua-quang-trung.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 145,
+  "title": "THIÊN LƯƠNG Tị Hợi cách",
+  "chars": 51629,
+  "file": "posts/2009-10-29-thien-luong-ti-hoi-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 146,
+  "title": "CÁI NHÌN TỔNG HỢP.",
+  "chars": 43412,
+  "file": "posts/2010-02-28-cai-nhin-tong-hop.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 147,
+  "title": "THÁI ÂM bài tổng hợp. Phần 2",
+  "chars": 33979,
+  "file": "posts/2010-03-15-thai-am-bai-tong-hop-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 148,
+  "title": "THÁI ÂM bài tổng hợp. Phần 3",
+  "chars": 36495,
+  "file": "posts/2010-03-23-thai-am-bai-tong-hop-phan-3.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 149,
+  "title": "THÁI ÂM bài tổng hợp P4",
+  "chars": 40106,
+  "file": "posts/2010-03-29-thai-am-bai-tong-hop-p4.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 150,
+  "title": "KIẾP SÁT Kẻ Cướp Đoạt...",
+  "chars": 33186,
+  "file": "posts/2010-04-02-kiep-sat-ke-cuop-oat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 151,
+  "title": "Kẻ Hà Hiếp.",
+  "chars": 32287,
+  "file": "posts/2010-04-07-ke-ha-hiep.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 152,
+  "title": "TRẢ LỜI MỘT SỐ CÂU HỎI lần thứ.. n",
+  "chars": 33372,
+  "file": "posts/2010-04-14-tra-loi-mot-so-cau-hoi-lan-thu-n.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 153,
+  "title": "Ban Bố Tình Trạng Khẩn Cấp.",
+  "chars": 30336,
+  "file": "posts/2010-04-17-ban-bo-tinh-trang-khan-cap.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 154,
+  "title": "NHAN HỒI Yểu Tử",
+  "chars": 19093,
+  "file": "posts/2010-04-21-nhan-hoi-yeu-tu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 155,
+  "title": "AI LÀM NƯỚC MẤT NHÀ TAN.",
+  "chars": 27101,
+  "file": "posts/2010-04-24-ai-lam-nuoc-mat-nha-tan.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 156,
+  "title": "NGÔI SAO Yểu.",
+  "chars": 21478,
+  "file": "posts/2010-04-29-ngoi-sao-yeu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 157,
+  "title": "Lá Số Phạm Quỳnh.",
+  "chars": 31901,
+  "file": "posts/2010-05-04-la-so-pham-quynh_4.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 158,
+  "title": "Song Lộc trùng phùng...",
+  "chars": 24239,
+  "file": "posts/2010-05-09-song-loc-trung-phung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 159,
+  "title": "LỘC TỒN Tý Ngọ",
+  "chars": 24306,
+  "file": "posts/2010-05-18-loc-ton-ty-ngo.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 160,
+  "title": "Từ Một Câu Phú.",
+  "chars": 14172,
+  "file": "posts/2010-05-24-tu-mot-cau-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 161,
+  "title": "Từ Một Câu Phú phần 2.",
+  "chars": 18190,
+  "file": "posts/2010-05-28-tu-mot-cau-phu-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 162,
+  "title": "LONG TRÌ QUAN PHÙ",
+  "chars": 27222,
+  "file": "posts/2010-06-03-long-tri-quan-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 163,
+  "title": "TỬ VI Hoàn Toàn Khoa Học",
+  "chars": 41223,
+  "file": "posts/2010-06-08-tu-vi-hoan-toan-khoa-hoc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 164,
+  "title": "TỪ MỘT CÂU PHÚ.",
+  "chars": 24652,
+  "file": "posts/2010-11-24-tu-mot-cau-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 165,
+  "title": "Chu Du dỏm",
+  "chars": 28864,
+  "file": "posts/2010-11-29-chu-du-dom.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 166,
+  "title": "Cấm Vua hay là Vua Cấm.",
+  "chars": 27082,
+  "file": "posts/2010-12-03-cam-vua-hay-la-vua-cam.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 167,
+  "title": "Một vài nhận xét về tuổi Quý Sửu.",
+  "chars": 35631,
+  "file": "posts/2010-12-08-mot-vai-nhan-xet-ve-tuoi-quy-suu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 168,
+  "title": "Bộ CƠ ÂM Dần Thân",
+  "chars": 45305,
+  "file": "posts/2010-12-14-bo-co-am-dan-than.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 169,
+  "title": "Lạc Vào Thế Giới Tử Vi (1)",
+  "chars": 21263,
+  "file": "posts/2010-12-20-lac-vao-gioi-tu-vi-1.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 170,
+  "title": "Lạc Vào Thế Giới Tử Vi (2)",
+  "chars": 30864,
+  "file": "posts/2010-12-25-lac-vao-gioi-tu-vi-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 171,
+  "title": "Lạc Vào Thế Giới Tử Vi 3",
+  "chars": 17201,
+  "file": "posts/2010-12-30-lac-vao-gioi-tu-vi-3.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 172,
+  "title": "Lạc Vào Thế Giới Tử Vi (4)",
+  "chars": 28436,
+  "file": "posts/2011-01-04-lac-vao-gioi-tu-vi-4_4.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 173,
+  "title": "Lạc Vào Thế Giới Tử Vi (5)",
+  "chars": 14274,
+  "file": "posts/2011-01-09-lac-vao-gioi-tu-vi-5.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 174,
+  "title": "Lạc Vào Thế Giới Tử Vi (6)",
+  "chars": 23661,
+  "file": "posts/2011-01-13-lac-vao-gioi-tu-vi-6.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 175,
+  "title": "Lạc Vào Thế Giới Tử Vi (7)",
+  "chars": 13174,
+  "file": "posts/2011-01-16-lac-vao-gioi-tu-vi-7.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 176,
+  "title": "Lạc Vào Thế Giới Tử Vi (8)",
+  "chars": 21202,
+  "file": "posts/2011-01-19-lac-vao-gioi-tu-vi-8.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 177,
+  "title": "Lạc Vào Thế Giới Tử Vi (9)",
+  "chars": 19527,
+  "file": "posts/2011-01-22-lac-vao-gioi-tu-vi-9.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 178,
+  "title": "Lạc Vào Thế Giới Tử Vi (10)",
+  "chars": 19348,
+  "file": "posts/2011-01-25-lac-vao-gioi-tu-vi-10.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 179,
+  "title": "Lạc Vào Thế Giới Tử Vi (11)",
+  "chars": 38560,
+  "file": "posts/2011-01-28-lac-vao-gioi-tu-vi-11.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 180,
+  "title": "Lạc Vào Thế Giới Tử Vi (12)",
+  "chars": 15853,
+  "file": "posts/2011-02-09-lac-vao-gioi-tu-vi-12.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 181,
+  "title": "Lạc Vào Thế Giới Tử Vi (13)",
+  "chars": 16863,
+  "file": "posts/2011-02-11-lac-vao-gioi-tu-vi-13.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 182,
+  "title": "Lạc Vào Thế Giới Tử Vi (14)",
+  "chars": 19206,
+  "file": "posts/2011-02-13-lac-vao-gioi-tu-vi-14.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 183,
+  "title": "Lạc Vào Thế Giới Tử Vi (15)",
+  "chars": 22581,
+  "file": "posts/2011-02-16-lac-vao-gioi-tu-vi-15.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 184,
+  "title": "Lạc Vào Thế Giới Tử Vi (16)",
+  "chars": 54081,
+  "file": "posts/2011-02-19-lac-vao-gioi-tu-vi-16.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 185,
+  "title": "Ba Năm Nhìn Lại Một Chặng Đường",
+  "chars": 56333,
+  "file": "posts/2012-01-26-ba-nam-nhin-lai-mot-chang-uong.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 186,
+  "title": "Giới Thiệu và Hướng Dẫn cách dùng phần mềm Học TỬ VI",
+  "chars": 9197,
+  "file": "posts/2012-02-08-gioi-thieu-va-huong-dan-cach-dung-phan_8.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 187,
+  "title": "THUẬN THIÊN CAO HOÀNG HẬU",
+  "chars": 7656,
+  "file": "posts/2012-02-12-thuan-thien-cao-hoang-hau.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 188,
+  "title": "ANNA FRANK",
+  "chars": 19760,
+  "file": "posts/2012-02-13-anna-frank.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 189,
+  "title": "Ác quỉ Marc Dutroux",
+  "chars": 16592,
+  "file": "posts/2012-02-14-ac-qui-marc-dutroux.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 190,
+  "title": "MẸ TERESA",
+  "chars": 36745,
+  "file": "posts/2012-02-24-me-teresa.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 191,
+  "title": "Rasputin nhân vật kỳ dị.",
+  "chars": 19867,
+  "file": "posts/2012-02-26-rasputin-nhan-vat-ky-di.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 192,
+  "title": "Ai giết hại hoa hậu nhí JonBenet Ramsey",
+  "chars": 8499,
+  "file": "posts/2012-02-28-ai-giet-hai-hoa-hau-nhi-jonbenet-ramsey.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 193,
+  "title": "THÂN PHỤ HOA HẬU NHÍ",
+  "chars": 15310,
+  "file": "posts/2012-03-01-than-phu-hoa-hau-nhi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 194,
+  "title": "Họa Sĩ Van Gogh",
+  "chars": 25642,
+  "file": "posts/2012-03-08-hoa-si-van-gogh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 195,
+  "title": "Edward M. Kennedy.Jr bệnh nhân Ung Thư.",
+  "chars": 7004,
+  "file": "posts/2012-03-14-edward-m-kennedyjr-benh-nhan-ung-thu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 196,
+  "title": "Cái chết bí ẩn trong phòng ngủ",
+  "chars": 34294,
+  "file": "posts/2012-03-25-ay-la-vu-anxon-xao-2-bo-ai-tay-duong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 197,
+  "title": "MARIE CURIE",
+  "chars": 32082,
+  "file": "posts/2012-03-27-marie-curie.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 198,
+  "title": "NGUYỄN DU",
+  "chars": 19773,
+  "file": "posts/2012-04-13-nguyen-du.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 199,
+  "title": "Vui với bộ ÂM DƯƠNG LƯƠNG",
+  "chars": 26298,
+  "file": "posts/2012-07-30-vui-voi-bo-am-duong-luong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 200,
+  "title": "KIẾP NÀO CÓ YÊU NHAU",
+  "chars": 14583,
+  "file": "posts/2012-09-28-kiep-nao-co-yeu-nhau.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 201,
+  "title": "ĐỊNH MỆNH",
+  "chars": 6715,
+  "file": "posts/2012-10-14-inh-menh-sang-tac-song-ngoc-1.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 202,
+  "title": "HAI SẮC HOA TI GÔN",
+  "chars": 34429,
+  "file": "posts/2012-10-18-hai-sac-hoa-ti-gon.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 203,
+  "title": "TUẦN và TRIỆT đối đáp (1 và 2).",
+  "chars": 58705,
+  "file": "posts/2012-11-05-tuan-va-triet-oi-ap-1-va-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 204,
+  "title": "THƯƠNG BINH và NỖI NHỚ",
+  "chars": 41338,
+  "file": "posts/2012-11-15-thuong-binh-va-noi-nho.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 205,
+  "title": "HOÀI CẢM",
+  "chars": 43510,
+  "file": "posts/2012-11-24-hoai-cam.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 206,
+  "title": "NGÀY VỀ",
+  "chars": 6981,
+  "file": "posts/2012-12-07-ngay-ve.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 207,
+  "title": "Chào cả nhà",
+  "chars": 7,
+  "file": "posts/2012-12-07-chao-ca-nha.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 208,
+  "title": "BÀI THƠ CUỐI CÙNG",
+  "chars": 44220,
+  "file": "posts/2012-12-15-bai-tho-cuoi-cung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 209,
+  "title": "Vì sao cần tập an sao?",
+  "chars": 6156,
+  "file": "posts/2013-01-17-vi-sao-can-tap-sao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 210,
+  "title": "Cách THAM ĐÀ",
+  "chars": 6849,
+  "file": "posts/2013-01-29-cach-tham-a.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 211,
+  "title": "THAM XƯƠNG cư MỆNH",
+  "chars": 6127,
+  "file": "posts/2013-02-11-tham-xuong-cu-menh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 212,
+  "title": "Mua tên miền buudinh.com",
+  "chars": 3344,
+  "file": "posts/2013-02-19-mua-ten-mien-buudinhcom.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 213,
+  "title": "Câu Hỏi Là Bài Học Hay 1",
+  "chars": 5453,
+  "file": "posts/2013-02-27-cau-hoi-la-bai-hoc-hay-1.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 214,
+  "title": "VŨ ĐÀO cách",
+  "chars": 4162,
+  "file": "posts/2013-03-07-vu-ao-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 215,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 2)",
+  "chars": 8065,
+  "file": "posts/2013-03-13-cau-hoi-la-bai-hoc-hay-bai-2.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 216,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 3)",
+  "chars": 10228,
+  "file": "posts/2013-03-26-cau-hoi-la-bai-hoc-hay-bai-3-nov-17.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 217,
+  "title": "CÂY ĐÀN BỎ QUÊN",
+  "chars": 9409,
+  "file": "posts/2013-04-01-cay-bo-quen-st-nhac-sy-pham-duy-hom-xua.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 218,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 4)",
+  "chars": 11977,
+  "file": "posts/2013-04-08-cau-hoi-la-bai-hoc-hay-bai-4.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 219,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 5)",
+  "chars": 10934,
+  "file": "posts/2013-04-15-cau-hoi-la-bai-hoc-hay-bai-5.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 220,
+  "title": "CHỜ NGƯỜI",
+  "chars": 11971,
+  "file": "posts/2013-04-21-cho-nguoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 221,
+  "title": "CÂU HỎI LÀ BÀI HỌC HAY (bài 6)",
+  "chars": 9856,
+  "file": "posts/2013-05-01-cau-hoi-la-bai-hoc-hay-bai-6.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 222,
+  "title": "LÒNG MẸ",
+  "chars": 6897,
+  "file": "posts/2013-05-10-long-me-nhac-si-y-van.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 223,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 7)",
+  "chars": 19398,
+  "file": "posts/2013-05-14-cau-hoi-la-bai-hoc-hay-bai-7.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 224,
+  "title": "EM HIỀN NHƯ MA SOEUR",
+  "chars": 6118,
+  "file": "posts/2013-05-20-em-hien-nhu-ma-soeur-ua-em-ve-duoi-mua.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 225,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 8)",
+  "chars": 12402,
+  "file": "posts/2013-05-27-cau-hoi-la-bai-hoc-hay-bai-8.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 226,
+  "title": "Trả Lại Em Yêu",
+  "chars": 7961,
+  "file": "posts/2013-06-01-tra-lai-em-yeu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 227,
+  "title": "CÂU HỎI LÀ BÀI HỌC HAY NHẤT (b9)",
+  "chars": 7247,
+  "file": "posts/2013-06-11-cau-hoi-la-bai-hoc-hay-nhat-b9.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 228,
+  "title": "CÂU HỎI LÀ BÀI HỌC HAY (b10)",
+  "chars": 13970,
+  "file": "posts/2013-06-28-cau-hoi-la-bai-hoc-hay-b10.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 229,
+  "title": "CÂU HỎI LÀ BÀI HỌC HAY (b 11)",
+  "chars": 10653,
+  "file": "posts/2013-07-16-cau-hoi-la-bai-hoc-hay-b-11.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 230,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 12)",
+  "chars": 9704,
+  "file": "posts/2013-08-01-cau-hoi-la-bai-hoc-hay-bai-12.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 231,
+  "title": "TRẢ LỜI CÂU HỎI CỦA BẠN",
+  "chars": 13903,
+  "file": "posts/2013-08-12-tra-loi-cau-hoi-cua-ban.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 232,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 13)",
+  "chars": 8035,
+  "file": "posts/2013-08-19-cau-hoi-la-bai-hoc-hay-bai-13.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 233,
+  "title": "Trang Thử Nghiệm Các Đường link",
+  "chars": 355,
+  "file": "posts/2013-08-26-trang-thu-nghiem-cac-uong-link.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 234,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 14)",
+  "chars": 11073,
+  "file": "posts/2013-09-02-cau-hoi-la-bai-hoc-hay-bai-14.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 235,
+  "title": "Câu Hỏi Là Bài Học Hay Bài 15.",
+  "chars": 7982,
+  "file": "posts/2013-09-18-cau-hoi-la-bai-hoc-hay-bai-15.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 236,
+  "title": "Chiếc Lá Cuối Cùng",
+  "chars": 609,
+  "file": "posts/2013-09-25-chiec-la-cuoi-cung.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 237,
+  "title": "CÂU HỎI Là Bài Học Hay (bài 16)",
+  "chars": 7705,
+  "file": "posts/2013-10-04-cau-hoi-la-bai-hoc-hay-bai16-dec-16.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 238,
+  "title": "Câu Hỏi Là Bài Học Hay 17",
+  "chars": 8966,
+  "file": "posts/2013-10-18-cau-hoi-la-bai-hoc-hay-17.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 239,
+  "title": "Tử Vi và Toán Học",
+  "chars": 12245,
+  "file": "posts/2013-11-09-tu-vi-va-toan-hoc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 240,
+  "title": "Tìm Mãi Thương Yêu",
+  "chars": 2356,
+  "file": "posts/2013-11-19-tim-mai-thuong-yeu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 241,
+  "title": "Trình An Sao Của Nhóm TVUD.",
+  "chars": 2641,
+  "file": "posts/2013-11-28-trinh-sao-cua-nhom-tvud.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 242,
+  "title": "Người Đi Qua Đời Tôi",
+  "chars": 6165,
+  "file": "posts/2013-12-06-nguoi-i-qua-oi-toi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 243,
+  "title": "Anh Cho Em Mùa Xuân.",
+  "chars": 7508,
+  "file": "posts/2013-12-23-anh-cho-em-mua-xuan.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 244,
+  "title": "Lời Cầu Chúc Đầu Năm Mới",
+  "chars": 10793,
+  "file": "posts/2014-01-23-loi-cau-chuc-au-nam-moi.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 245,
+  "title": "Vết Thù Trên Lưng Ngựa Hoang.",
+  "chars": 10667,
+  "file": "posts/2014-02-06-vet-thu-tren-lung-ngua-hoang.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 246,
+  "title": "Tu Vi Chart is a portrait of a person",
+  "chars": 6482,
+  "file": "posts/2014-02-16-tu-vi-chart-is-portrait-of-person.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 247,
+  "title": "Biết Đến Bao Giờ.",
+  "chars": 13242,
+  "file": "posts/2014-02-21-biet-en-bao-gio.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 248,
+  "title": "BACH HO",
+  "chars": 9002,
+  "file": "posts/2014-02-27-bach-ho.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 249,
+  "title": "Mùa Đông Của Anh",
+  "chars": 12610,
+  "file": "posts/2014-03-06-mua-ong-cua-anh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 250,
+  "title": "DAO HOA",
+  "chars": 12067,
+  "file": "posts/2014-03-14-dao-hoa.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 251,
+  "title": "Thà Như Giọt Mưa",
+  "chars": 12925,
+  "file": "posts/2014-03-22-tha-nhu-giot-mua.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 252,
+  "title": "KHOI VIET",
+  "chars": 8661,
+  "file": "posts/2014-03-29-khoi-viet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 253,
+  "title": "Trăm Nhớ Ngàn Thương",
+  "chars": 11178,
+  "file": "posts/2014-04-06-tram-nho-ngan-thuong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 254,
+  "title": "LUU HA",
+  "chars": 9023,
+  "file": "posts/2014-04-13-ban-dich-tran-quang-hoan-va-mai-anh-luu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 255,
+  "title": "Thương Về Cố Đô",
+  "chars": 16214,
+  "file": "posts/2014-04-22-thuong-ve-co-o.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 256,
+  "title": "VU KHUC",
+  "chars": 16013,
+  "file": "posts/2014-04-28-vu-khuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 257,
+  "title": "Diễm Xưa",
+  "chars": 13687,
+  "file": "posts/2014-05-05-diem-xua.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 258,
+  "title": "LIEM TRINH",
+  "chars": 13126,
+  "file": "posts/2014-05-10-ban-dich-cua-tran-quang-hoan-vamai-anh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 259,
+  "title": "Việt Nam vi hữu chủ.",
+  "chars": 25279,
+  "file": "posts/2014-05-20-viet-nam-vi-huu-chu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 260,
+  "title": "THIEN TUONG",
+  "chars": 15574,
+  "file": "posts/2014-05-28-thien-tuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 261,
+  "title": "Chủ Quyền Quốc Gia",
+  "chars": 23649,
+  "file": "posts/2014-06-07-chu-quyen-quoc-gia.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 262,
+  "title": "THAT SAT",
+  "chars": 15622,
+  "file": "posts/2014-06-13-that-sat.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 263,
+  "title": "Câu Hỏi Tháng 6",
+  "chars": 12802,
+  "file": "posts/2014-06-18-cau-hoi-thang-6.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 264,
+  "title": "THAM LANG",
+  "chars": 10859,
+  "file": "posts/2014-06-26-tham-lang.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 265,
+  "title": "XUẤT QUÂN",
+  "chars": 15823,
+  "file": "posts/2014-07-04-xuat-quan.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 266,
+  "title": "THIEN CO",
+  "chars": 17167,
+  "file": "posts/2014-07-12-thien-co.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 267,
+  "title": "Câu Hỏi Tháng 7",
+  "chars": 17728,
+  "file": "posts/2014-07-20-cau-hoi-thang-7.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 268,
+  "title": "THIEN LUONG",
+  "chars": 13705,
+  "file": "posts/2014-07-25-thien-luong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 269,
+  "title": "HAI PHƯƠNG TRỜI CÁCH BIỆT",
+  "chars": 13860,
+  "file": "posts/2014-08-02-hai-phuong-troi-cach-biet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 270,
+  "title": "TUVI",
+  "chars": 12786,
+  "file": "posts/2014-08-14-tuvi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 271,
+  "title": "Nắng Chiều",
+  "chars": 10581,
+  "file": "posts/2014-08-19-nang-chieu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 272,
+  "title": "THIEN PHU",
+  "chars": 12444,
+  "file": "posts/2014-08-25-thien-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 273,
+  "title": "Giã Từ Vũ Khí.",
+  "chars": 12346,
+  "file": "posts/2014-09-03-gia-tu-vu-khi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 274,
+  "title": "CU MON",
+  "chars": 11232,
+  "file": "posts/2014-09-12-cu-mon.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 275,
+  "title": "Những Chiều Không Có Em",
+  "chars": 16199,
+  "file": "posts/2014-09-17-nhung-chieu-khong-co-em.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 276,
+  "title": "PHA QUAN",
+  "chars": 14129,
+  "file": "posts/2014-09-27-pha-quan.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 277,
+  "title": "NGÀY ĐÓ.",
+  "chars": 12462,
+  "file": "posts/2014-10-03-ngay-o.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 278,
+  "title": "THAI AM",
+  "chars": 14235,
+  "file": "posts/2014-10-13-thai-am.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 279,
+  "title": "CÂU HỎI: F20.",
+  "chars": 14486,
+  "file": "posts/2014-10-26-cau-hoi-f20.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 280,
+  "title": "THIEN DONG",
+  "chars": 18068,
+  "file": "posts/2014-11-06-thien-dong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 281,
+  "title": "Chữ “ÂN” trên lá số Tử Vi",
+  "chars": 4140,
+  "file": "posts/2014-11-18-chu-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 282,
+  "title": "Học chữ \"SA\" thôi phải thở dài.",
+  "chars": 5051,
+  "file": "posts/2014-11-28-hoc-chu-sa-thoi-phai-tho-dai.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 283,
+  "title": "THAI DUONG",
+  "chars": 12863,
+  "file": "posts/2014-12-06-thai-duong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 284,
+  "title": "Sát Nhân Joker",
+  "chars": 6619,
+  "file": "posts/2014-12-17-sat-nhan-joker.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 285,
+  "title": "Ai Ơi! Học Lấy Chữ Đồng.",
+  "chars": 6701,
+  "file": "posts/2014-12-27-ai-oi-hoc-lay-chu-ong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 286,
+  "title": "PHI TINH ẤT MÙI",
+  "chars": 8687,
+  "file": "posts/2015-01-08-phi-tinh-at-mui.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 287,
+  "title": "THAI TUE",
+  "chars": 11847,
+  "file": "posts/2015-01-14-thai-tue.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 288,
+  "title": "Học Chữ Tranh Thôi Kẻo Muộn Màng",
+  "chars": 5346,
+  "file": "posts/2015-01-24-hoc-chu-tranh-thoi-keo-muon-mang.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 289,
+  "title": "LOC TON",
+  "chars": 7546,
+  "file": "posts/2015-02-01-loc-ton.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 290,
+  "title": "Trong La có Đô.",
+  "chars": 6930,
+  "file": "posts/2015-02-09-trong-la-co-o.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 291,
+  "title": "Bài Ca Sao",
+  "chars": 6691,
+  "file": "posts/2015-02-17-bai-ca-sao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 292,
+  "title": "CO THÁN QUA TU",
+  "chars": 11022,
+  "file": "posts/2015-02-26-co-than-qua-tu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 293,
+  "title": "DAI HAO",
+  "chars": 14099,
+  "file": "posts/2015-03-18-dai-hao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 294,
+  "title": "PHUONG CAC",
+  "chars": 10737,
+  "file": "posts/2015-04-04-phuong-cac.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 295,
+  "title": "Cung Tử Tức.",
+  "chars": 8913,
+  "file": "posts/2015-04-12-cung-tu-tuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 296,
+  "title": "TUONG QUAN",
+  "chars": 9272,
+  "file": "posts/2015-04-18-tuong-quan.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 297,
+  "title": "THIEN HINH THIEN DIEU THIEN Y.",
+  "chars": 20023,
+  "file": "posts/2015-04-24-thien-hinh-thien-dieu-thien-y.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 298,
+  "title": "Cung No Boc",
+  "chars": 10438,
+  "file": "posts/2015-05-02-cung-no-boc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 299,
+  "title": "Cung Thiên Di",
+  "chars": 10488,
+  "file": "posts/2015-05-10-cung-thien-di.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 300,
+  "title": "LUC SI",
+  "chars": 6794,
+  "file": "posts/2015-05-16-luc-si.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 301,
+  "title": "TAU THU",
+  "chars": 11538,
+  "file": "posts/2015-05-23-tau-thu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 302,
+  "title": "Cung Phuc Duc",
+  "chars": 9345,
+  "file": "posts/2015-06-12-cung-phuc-duc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 303,
+  "title": "Lá Số Tử Vi Là Gì?",
+  "chars": 10294,
+  "file": "posts/2015-07-08-la-so-tu-vi-la-gi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 304,
+  "title": "Cung Tài Bạch",
+  "chars": 5478,
+  "file": "posts/2015-07-21-cung-tai-bach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 305,
+  "title": "Gió ơi! Đừng thổi...",
+  "chars": 6329,
+  "file": "posts/2015-08-03-gio-oi-ung-thoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 306,
+  "title": "Cung Phu Thê",
+  "chars": 6910,
+  "file": "posts/2015-08-13-cung-phu-the.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 307,
+  "title": "Anh Nằm Xuống.",
+  "chars": 5661,
+  "file": "posts/2015-09-05-anh-nam-xuong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 308,
+  "title": "Chữ THAM hãy thuộc  nằm lòng",
+  "chars": 8197,
+  "file": "posts/2015-09-21-chu-tham-hay-thuoc-nam-long.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 309,
+  "title": "Tốt Hay Xấu.",
+  "chars": 6793,
+  "file": "posts/2015-10-07-tot-hay-xau.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 310,
+  "title": "Chính tinh và bàng tinh...",
+  "chars": 4287,
+  "file": "posts/2015-10-19-chinh-tinh-va-bang-tinh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 311,
+  "title": "Cung Tật Ách.",
+  "chars": 5755,
+  "file": "posts/2015-11-03-cung-tat-ach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 312,
+  "title": "PHÔI PHAI.",
+  "chars": 5064,
+  "file": "posts/2015-11-17-phoi-phai.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 313,
+  "title": "Sầu Lẻ Bóng.",
+  "chars": 6185,
+  "file": "posts/2015-11-28-sau-le-bong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 314,
+  "title": "Không Bao Giờ Ngăn Cách.",
+  "chars": 5028,
+  "file": "posts/2015-12-13-khong-bao-gio-ngan-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 315,
+  "title": "Cho Người Tình Lỡ.",
+  "chars": 3025,
+  "file": "posts/2015-12-24-cho-nguoi-tinh-lo.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 316,
+  "title": "Hướng Dẫn Sử Dụng Tốt Flash F5BD.",
+  "chars": 3056,
+  "file": "posts/2016-01-15-huong-dan-su-dung-tot-flash-f5bd.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 317,
+  "title": "Nhân Định Thắng Thiên?",
+  "chars": 6075,
+  "file": "posts/2016-02-02-nhan-inh-thang-thien.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 318,
+  "title": "Phi Tinh Năm Bính Thân.",
+  "chars": 10037,
+  "file": "posts/2016-02-11-phi-tinh-nam-binh-than.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 319,
+  "title": "THẾ XUNG CHIẾU, TAM HỢP, NHỊ HỢP VÀ LỤC HỘI.",
+  "chars": 10979,
+  "file": "posts/2016-02-25-the-xung-chieu-tam-hop-nhi-hop-va-luc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 320,
+  "title": "Nhóm Phi Phục Thanh.",
+  "chars": 6498,
+  "file": "posts/2016-03-05-nhom-phi-phuc-thanh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 321,
+  "title": "Linh Xương La Vũ cách.",
+  "chars": 11693,
+  "file": "posts/2016-03-18-linh-xuong-la-vu-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 322,
+  "title": "Nhóm SÁT PHÁ THAM",
+  "chars": 9574,
+  "file": "posts/2016-03-31-nhom-sat-pha-tham_31.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 323,
+  "title": "Cung Quan Lộc.",
+  "chars": 6355,
+  "file": "posts/2016-04-07-cung-quan-loc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 324,
+  "title": "Những Sai Lầm Khi Đến Với TỬ VI.",
+  "chars": 11828,
+  "file": "posts/2016-04-25-nhung-sai-lam-khi-en-voi-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 325,
+  "title": "Mê Tín Dị Đoan.",
+  "chars": 11704,
+  "file": "posts/2016-05-04-me-tin-di-oan.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 326,
+  "title": "Tử Vi Ứng Dụng là gì?",
+  "chars": 7196,
+  "file": "posts/2016-05-17-tu-vi-ung-dung-la-gi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 327,
+  "title": "Giao với Lưu.",
+  "chars": 7145,
+  "file": "posts/2016-05-30-giao-voi-luu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 328,
+  "title": "So Sánh Về Từ “Nói”.",
+  "chars": 4441,
+  "file": "posts/2016-06-12-so-sanh-ve-tu-noi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 329,
+  "title": "Vào Ra Hai Chữ Giản Đơn.",
+  "chars": 6495,
+  "file": "posts/2016-07-19-vao-ra-hai-chu-gian-on.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 330,
+  "title": "Mất và Xa.",
+  "chars": 4848,
+  "file": "posts/2016-08-01-mat-va-xa_1.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 331,
+  "title": "Lên... Xuống.",
+  "chars": 6483,
+  "file": "posts/2016-09-09-len-xuong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 332,
+  "title": "Học Chữ Bỏ...",
+  "chars": 6761,
+  "file": "posts/2016-10-05-hoc-chu-bo.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 333,
+  "title": "Nhìn Xem Trông Thấy.",
+  "chars": 6153,
+  "file": "posts/2016-10-23-nhin-xem-trong-thay.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 334,
+  "title": "TỬ VI KỲ DIỆU",
+  "chars": 12994,
+  "file": "posts/2016-11-16-tu-vi-ky-dieu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 335,
+  "title": "Đắc Hãm Miếu Vượng Địa?",
+  "chars": 7258,
+  "file": "posts/2016-12-14-ac-ham-mieu-vuong-ia.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 336,
+  "title": "Cung Điền Trạch",
+  "chars": 7007,
+  "file": "posts/2017-01-03-cung-ien-trach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 337,
+  "title": "Phi Tinh  Đinh Dậu",
+  "chars": 8975,
+  "file": "posts/2017-01-21-phi-tinh-inh-dau.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 338,
+  "title": "Nghiệp và Ách.",
+  "chars": 8339,
+  "file": "posts/2017-02-17-nghiep-va-ach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 339,
+  "title": "Thật Và Giả.",
+  "chars": 8508,
+  "file": "posts/2017-03-04-that-va-gia.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 340,
+  "title": "Thay đổi, tồn tại hay tan rã.",
+  "chars": 4109,
+  "file": "posts/2017-04-20-thay-oi-ton-tai-hay-tan-ra.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 341,
+  "title": "Nhị Tính Diên Sinh",
+  "chars": 5123,
+  "file": "posts/2017-05-18-nhi-tinh-dien-sinh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 342,
+  "title": "Những Vòng Tròn Quanh Ta.",
+  "chars": 5285,
+  "file": "posts/2017-06-06-nhung-vong-tron-quanh-ta.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 343,
+  "title": "Đọc Tin Trên Báo...",
+  "chars": 4420,
+  "file": "posts/2017-06-23-oc-tin-tren-bao.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 344,
+  "title": "Chữ KHAI trong TỬ VI.",
+  "chars": 6598,
+  "file": "posts/2017-07-12-chu-khai-trong-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 345,
+  "title": "Ngày Kỷ Niệm.",
+  "chars": 12220,
+  "file": "posts/2017-10-22-ngay-ky-niem.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 346,
+  "title": "Những lời chúc mừng nhân ngày Nhà Giáo.",
+  "chars": 6755,
+  "file": "posts/2017-11-20-nhung-loi-chuc-mung-nhan-ngay-nha-giao.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 347,
+  "title": "Tuyển Chọn Học Viên Khoá 7 Tử Vi Ứng Dụng.",
+  "chars": 3788,
+  "file": "posts/2017-12-01-tuyen-choc-hoc-vien-khoa-7-tu-vi-ung.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 348,
+  "title": "Câu Chuyện Đầu Năm.",
+  "chars": 5399,
+  "file": "posts/2018-02-15-cau-chuyen-au-nam.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 349,
+  "title": "Thầy Trò Vấn Đáp.",
+  "chars": 30551,
+  "file": "posts/2018-03-07-thay-tro-van-ap.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 350,
+  "title": "CẢNH BÁO IN LẬU SÁCH  TỬ VI ỨNG DỤNG BỬU ĐÌNH.",
+  "chars": 5795,
+  "file": "posts/2018-08-22-canh-bao-in-lau-sach-tu-vi-ung-dung-buu.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 351,
+  "title": "Tà Áo Cưới.",
+  "chars": 21,
+  "file": "posts/2018-10-31-ta-ao-cuoi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 352,
+  "title": "Video Rồng Xanh THANH LONG",
+  "chars": 41,
+  "file": "posts/2018-11-02-video-rong-xanh-thanh-long.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 353,
+  "title": "Video PHƯỢNG CÁC ẩn tàng điều bí mật.",
+  "chars": 31,
+  "file": "posts/2018-11-05-video-phuong-cac-tang-ieu-bi-mat.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 354,
+  "title": "Video Chống Ai Theo Ai.",
+  "chars": 41,
+  "file": "posts/2018-11-07-video-chong-ai-theo-ai.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 355,
+  "title": "Video ĐƯỜNG PHÙ Lời Nói Ngọt Ngào.",
+  "chars": 56,
+  "file": "posts/2018-11-10-video-uong-phu-loi-noi-ngot-ngao_10.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 356,
+  "title": "BẠCH HỔ Có Bao Nhiêu Loài?",
+  "chars": 28,
+  "file": "posts/2018-11-12-bach-ho-co-bao-nhieu-loai.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 357,
+  "title": "Video Ngày Tạm Biệt.",
+  "chars": 51,
+  "file": "posts/2018-11-21-video-ngay-tam-biet.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 358,
+  "title": "Video Điềm Lành",
+  "chars": 20,
+  "file": "posts/2018-11-25-video-iem-lanh.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 359,
+  "title": "Video LIÊM TRINH",
+  "chars": 54,
+  "file": "posts/2018-11-30-video-liem-trinh_30.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 360,
+  "title": "Video Huyên Náo",
+  "chars": 39,
+  "file": "posts/2018-12-03-video-huyen-nao.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 361,
+  "title": "Video Bàn Về Sao Đào Hoa",
+  "chars": 42,
+  "file": "posts/2018-12-08-video-ban-ve-sao-ao-hoa.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 362,
+  "title": "Video Hoa Cái Là cái chi chi?",
+  "chars": 44,
+  "file": "posts/2018-12-13-video-hoa-cai-la-cai-chi-chi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 363,
+  "title": "Video THIÊN PHỦ",
+  "chars": 50,
+  "file": "posts/2018-12-18-video-thien-phu.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 364,
+  "title": "Video Hạn Chuyển Động,",
+  "chars": 75,
+  "file": "posts/2018-12-23-video-han-chuyen-ong.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 365,
+  "title": "Video THIÊN CƠ",
+  "chars": 70,
+  "file": "posts/2019-01-03-video-thien-co.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 366,
+  "title": "Video Cô Gia hay Quả Nhân.",
+  "chars": 21,
+  "file": "posts/2019-01-06-video-co-gia-hay-qua-nhan.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 367,
+  "title": "May Mắn và Chọn Lựa.",
+  "chars": 69,
+  "file": "posts/2019-01-10-may-man-va-chon-lua.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 368,
+  "title": "Video THIÊN LƯƠNG",
+  "chars": 35,
+  "file": "posts/2019-01-14-video-thien-luong.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 369,
+  "title": "Video LA VÕNG",
+  "chars": 24,
+  "file": "posts/2019-01-19-video-la-vong.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 370,
+  "title": "Video THIÊN ĐỒNG",
+  "chars": 35,
+  "file": "posts/2019-01-24-video-thien-ong.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 371,
+  "title": "Video Nhịp Đời Qua Lá Số.",
+  "chars": 27,
+  "file": "posts/2019-01-28-video-nhip-oi-qua-la-so.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 372,
+  "title": "Video THAM LANG",
+  "chars": 31,
+  "file": "posts/2019-02-04-video-tham-lang.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 373,
+  "title": "Lỡ Bước Sang Ngang.",
+  "chars": 22,
+  "file": "posts/2019-02-16-lo-buoc-sang-ngang.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 374,
+  "title": "Video KHÔI VIỆT",
+  "chars": 25,
+  "file": "posts/2019-02-21-video-khoi-viet.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 375,
+  "title": "Video Những Cách Nổi Danh",
+  "chars": 27,
+  "file": "posts/2019-02-27-video-nhung-cach-noi-danh.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 376,
+  "title": "Video Chữ Ân Trên Lá Sô Tử Vi.",
+  "chars": 35,
+  "file": "posts/2019-03-03-video-chu-tren-la-so-tu-vi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 377,
+  "title": "Video Bóng Tối Tại Người.",
+  "chars": 26,
+  "file": "posts/2019-03-07-video-bong-toi-tai-nguoi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 378,
+  "title": "Video ĐIẾU KHÁCH",
+  "chars": 25,
+  "file": "posts/2019-03-14-video-ieu-khach.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 379,
+  "title": "Video Khóc Và Cười.",
+  "chars": 27,
+  "file": "posts/2019-03-20-video-khoc-va-cuoi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 380,
+  "title": "Video NGHIỆP và ÁCH",
+  "chars": 105,
+  "file": "posts/2019-03-27-video-nghiep-va-ach.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 381,
+  "title": "Luận Về Ăn Uống.",
+  "chars": 10439,
+  "file": "posts/2019-11-21-luan-ve-uong_21.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 382,
+  "title": "Luận Về Ngày Tháng Năm",
+  "chars": 11884,
+  "file": "posts/2019-11-28-luan-ve-ngay-thang-nam.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 383,
+  "title": "Học Chữ “Truy” Để Sửa Mình.",
+  "chars": 7342,
+  "file": "posts/2019-12-05-hoc-chu-truy-e-sua-minh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 384,
+  "title": "Sống Ảo",
+  "chars": 10074,
+  "file": "posts/2019-12-12-song-ao.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 385,
+  "title": "Cơ Lai Bảo Khứ Cách.",
+  "chars": 5681,
+  "file": "posts/2019-12-20-co-lai-bao-khu-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 386,
+  "title": "Con Số & Cuộc Đời.",
+  "chars": 5578,
+  "file": "posts/2020-01-08-con-so-cuoc-oi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 387,
+  "title": "LỆNH & LẠC.",
+  "chars": 7820,
+  "file": "posts/2020-01-16-lenh-lac.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 388,
+  "title": "PHÒNG BỆNH & TRỊ BỆNH TRONG TỬ VI.",
+  "chars": 9332,
+  "file": "posts/2020-02-14-phong-benh-tri-benh-trong-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 389,
+  "title": "FlashVideo HaiPhuongTroiCachBiet",
+  "chars": 0,
+  "file": "posts/2020-03-04-flashvideo-haiphuongtroicachbiet.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 390,
+  "title": "FlashVideo Thu Sầu",
+  "chars": 0,
+  "file": "posts/2020-03-05-flashvideo-thu-sau.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 391,
+  "title": "FlashVideo ChoNguoi",
+  "chars": 0,
+  "file": "posts/2020-03-06-flashvideo-chonguoi.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 392,
+  "title": "FlashVideo Kỷ Niệm Nào Buồn",
+  "chars": 0,
+  "file": "posts/2020-03-09-flashvideo-ky-niem-nao-buon.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 393,
+  "title": "FlashVideo Gợi Giấc Mơ Xưa  Khánh Hà",
+  "chars": 0,
+  "file": "posts/2020-03-12-flashvideo-goi-giac-mo-xua-khanh-ha.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 394,
+  "title": "FlashVieo Chiều Mưa Biên Giới   Thanh Tuyền",
+  "chars": 0,
+  "file": "posts/2020-03-15-flashvieo-chieu-mua-bien-gioi-thanh.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 395,
+  "title": "FlashVieo Nếu 2 Đứa Mình Thiên Trang",
+  "chars": 0,
+  "file": "posts/2020-03-19-flashvieo-neu-2-ua-minh-thien-trang.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 396,
+  "title": "FlashVideo Qua Cơn Mê   Duy Khánh",
+  "chars": 0,
+  "file": "posts/2020-03-24-flashvideo-qua-con-me-duy-khanh.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 397,
+  "title": "FlashVideo Bóng Mát   Lệ Thu",
+  "chars": 0,
+  "file": "posts/2020-03-29-flashvideo-bong-mat-le-thu.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 398,
+  "title": "FlashVideo Cuộc Tình Đã Mất   Khánh Ly",
+  "chars": 0,
+  "file": "posts/2020-04-03-flashvideo-cuoc-tinh-mat-khanh-ly.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 399,
+  "title": "FlashVideo Hòn Vọng Phu !   Nguyễn Phi Hùng",
+  "chars": 0,
+  "file": "posts/2020-04-09-flashvideo-hon-vong-phu-nguyen-phi-hung.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 400,
+  "title": "FlashVideo 10 Năm Tình Cũ và Nhà Anh Nhà Em",
+  "chars": 0,
+  "file": "posts/2020-04-16-flashvideo-10-nam-tinh-cu-va-nha-anh.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 401,
+  "title": "FlashVideo TRIỆT PHÁ Cách",
+  "chars": 0,
+  "file": "posts/2020-04-21-flashvideo-triet-pha-cach.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 402,
+  "title": "VideoFlash Mưa Trên Phố Huế và Cách LIÊM TRIỆT",
+  "chars": 0,
+  "file": "posts/2020-04-25-videoflash-mua-tren-pho-hue-va-cach.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 403,
+  "title": "FlashVideo 2 Chính Tinh TƯỚNG và CƠ",
+  "chars": 0,
+  "file": "posts/2020-05-01-flashvideo-2-chinh-tinh-tuong-va-co.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 404,
+  "title": "FlashVideo 2 Chính Tinh VŨ và CƠ",
+  "chars": 0,
+  "file": "posts/2020-05-06-flashvideo-2-chinh-tinh-vu-va-co.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 405,
+  "title": "Những lá số TỬ VI thú vị 1.",
+  "chars": 8180,
+  "file": "posts/2020-07-12-nhung-la-so-tu-vi-thu-vi-1.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 406,
+  "title": "Những lá số TỬ VI thú vị 2.",
+  "chars": 7815,
+  "file": "posts/2020-07-20-nhung-la-so-tu-vi-thu-vi-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 407,
+  "title": "Những lá số TỬ VI thú vị 3.",
+  "chars": 6295,
+  "file": "posts/2020-07-28-nhung-la-so-tu-vi-thu-vi-3.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 408,
+  "title": "Những lá số Tử Vi thú vị 4.",
+  "chars": 12233,
+  "file": "posts/2020-08-06-nhung-la-so-tu-vi-thu-vi-4.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 409,
+  "title": "Những lá số Tử Vi thú vị 5.",
+  "chars": 7998,
+  "file": "posts/2020-08-15-nhung-la-so-tu-vi-thu-vi-5.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 410,
+  "title": "Lá Số Tử Vi Thú Vị 5B.",
+  "chars": 8740,
+  "file": "posts/2020-08-23-la-so-tu-vi-thu-vi-5b.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 411,
+  "title": "Những Lá số Tử Vi Thú Vị 6. Ma Cà Rồng Peter Kurten.",
+  "chars": 10000,
+  "file": "posts/2020-08-31-nhung-la-so-tu-vi-thu-vi-6-ma-ca-rong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 412,
+  "title": "Những Lá Sô Tử Vi Thú Vị 7 Thống Đốc Yarrington,",
+  "chars": 7104,
+  "file": "posts/2020-09-08-la-so-tu-vi-thu-vi-7-thong-oc-yarrington.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 413,
+  "title": "Lá sô Tử Vi Thú Vị 8. Trùm Ma Tuý",
+  "chars": 7016,
+  "file": "posts/2020-09-18-la-so-tu-vi-thu-vi-8-trum-ma-tuy.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 414,
+  "title": "Học chữ vỡ thôi kẻo muộn màng.",
+  "chars": 8506,
+  "file": "posts/2020-09-28-hoc-chu-vo-thoi-keo-muon-mang.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 415,
+  "title": "Cảm nghĩ 1 số mail nhân ngày nhà giáo 2020.",
+  "chars": 5894,
+  "file": "posts/2020-12-03-cam-nghi-1-so-mail-nhan-ngay-nha-giao.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 416,
+  "title": "Trả Lời 1 Số Câu Hỏi Về Flash Bị Khóa.",
+  "chars": 2442,
+  "file": "posts/2021-01-15-tra-loi-1-so-cau-hoi-ve-flash-bi-khoa.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 417,
+  "title": "Luận Về Niên Can Tân Sửu.",
+  "chars": 5606,
+  "file": "posts/2021-01-25-luan-ve-nien-can-tan-suu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 418,
+  "title": "Xuân Tân Sửu",
+  "chars": 0,
+  "file": "posts/2021-02-09-xuan-tan-suu.md",
+  "keep": false,
+  "reason": "ngắn"
+ },
+ {
+  "idx": 419,
+  "title": "Biến Hóa",
+  "chars": 6989,
+  "file": "posts/2021-02-20-bien-hoa.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 420,
+  "title": "Cách Luận Đoán Mệnh Tử Vi...",
+  "chars": 7498,
+  "file": "posts/2021-03-01-cach-luan-oan-menh-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 421,
+  "title": "Luận Đoán Mệnh Tử Vi cư Ngọ có LỘC TỒN.",
+  "chars": 8503,
+  "file": "posts/2021-03-07-luan-oan-menh-tu-vi-cu-ngo-co-loc-ton.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 422,
+  "title": "Ai Sợ TRIỆT? Ai Cần TRIỆT?",
+  "chars": 6177,
+  "file": "posts/2021-03-16-ai-so-triet-ai-can-triet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 423,
+  "title": "Nhóm TỬ VŨ LIÊM",
+  "chars": 6561,
+  "file": "posts/2021-03-24-nhom-tu-vu-liem.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 424,
+  "title": "KHAI TRỪ  Cách.",
+  "chars": 7557,
+  "file": "posts/2021-03-30-khai-tru-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 425,
+  "title": "Các Bộ Sao Trên Lá Số Tử Vi.",
+  "chars": 5474,
+  "file": "posts/2021-04-05-cac-bo-sao-tren-la-so-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 426,
+  "title": "Nhóm PHỦ TƯỚNG,",
+  "chars": 14869,
+  "file": "posts/2021-04-12-nhom-phu-tuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 427,
+  "title": "Nhóm PHỦ TƯỚNG phần 2.",
+  "chars": 12235,
+  "file": "posts/2021-04-16-nhom-phu-tuong-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 428,
+  "title": "Nhóm PHỦ TƯỚNG phần cuối.",
+  "chars": 12184,
+  "file": "posts/2021-04-23-nhom-phu-tuong-phan-cuoi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 429,
+  "title": "Bộ TỬ PHỦ VŨ TƯỚNG LIÊM",
+  "chars": 13248,
+  "file": "posts/2021-05-03-bo-tu-phu-vu-tuong-liem.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 430,
+  "title": "Bộ QUẢ BÁO.",
+  "chars": 13037,
+  "file": "posts/2021-05-09-bo-qua-bao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 431,
+  "title": "HƯ VÔ CÁCH.",
+  "chars": 6626,
+  "file": "posts/2021-05-17-hu-vo-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 432,
+  "title": "TRÁI PHÉP CÁCH",
+  "chars": 11445,
+  "file": "posts/2021-05-23-trai-phep-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 433,
+  "title": "TRỊ TỘI HAY TRỊ BỊNH",
+  "chars": 9225,
+  "file": "posts/2021-06-01-tri-toi-hay-tri-binh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 434,
+  "title": "KẺ BÁN, NGƯỜI MUA.",
+  "chars": 3914,
+  "file": "posts/2021-06-08-ke-ban-nguoi-mua.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 435,
+  "title": "F8 hay F7BD",
+  "chars": 5491,
+  "file": "posts/2021-06-10-f8-hay-f7bd.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 436,
+  "title": "CÂU HỎI CỦA HỌC VIÊN 1.",
+  "chars": 7595,
+  "file": "posts/2021-10-26-cau-hoi-cua-hoc-vien-1.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 437,
+  "title": "TRẢ LỜI CÂU HỎI 2",
+  "chars": 11700,
+  "file": "posts/2021-10-30-tra-loi-cau-hoi-2.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 438,
+  "title": "Biến Không Thành Có?",
+  "chars": 7925,
+  "file": "posts/2021-11-05-bien-khong-thanh-co.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 439,
+  "title": "Trả Lời Câu Hỏi 3",
+  "chars": 6563,
+  "file": "posts/2021-11-12-tra-loi-cau-hoi-3.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 440,
+  "title": "TRẢ LỜI CÂU HỎI 4",
+  "chars": 5553,
+  "file": "posts/2021-11-27-tra-loi-cau-hoi-4.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 441,
+  "title": "BẠCH HỔ bài thứ 3.",
+  "chars": 12009,
+  "file": "posts/2021-12-19-bach-ho-bai-thu-3.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 442,
+  "title": "Niềm vui nho nhỏ.",
+  "chars": 5971,
+  "file": "posts/2022-02-04-niem-vui-nho-nho.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 443,
+  "title": "Niềm vui nho nhỏ 2.",
+  "chars": 5094,
+  "file": "posts/2022-02-15-niem-vui-nho-nho-2.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 444,
+  "title": "Những hiểu lầm về TỬ VI 1",
+  "chars": 5427,
+  "file": "posts/2022-02-27-nhung-hieu-lam-ve-tu-vi-1.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 445,
+  "title": "Những hiểu lầm về TỬ VI p2.",
+  "chars": 10571,
+  "file": "posts/2022-03-04-nhung-hieu-lam-ve-tu-vi-p2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 446,
+  "title": "Những hiểu lầm về TỬ VI p3.",
+  "chars": 14124,
+  "file": "posts/2022-03-17-nhung-hieu-lam-ve-tu-vi-p3.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 447,
+  "title": "Phân tích 1 câu trong bài báo",
+  "chars": 3562,
+  "file": "posts/2022-04-09-phan-tich-1-cau-trong-bai-bao.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 448,
+  "title": "Bộ Song Hỉ.",
+  "chars": 5523,
+  "file": "posts/2022-04-18-bo-song-hi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 449,
+  "title": "Bộ TAM ÁM",
+  "chars": 8832,
+  "file": "posts/2022-05-02-bo-tam-am.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 450,
+  "title": "49 Chưa Qua, 53 Đã Tới",
+  "chars": 5948,
+  "file": "posts/2022-05-12-49-chua-qua-53-toi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 451,
+  "title": "TRẢ LỜI CÂU HỎI 5",
+  "chars": 7855,
+  "file": "posts/2022-05-26-tra-loi-cau-hoi-5.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 452,
+  "title": "Điều Tra, Bắt Giữ, Khởi Tố.",
+  "chars": 6717,
+  "file": "posts/2022-06-04-ieu-tra-bat-giu-khoi-to.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 453,
+  "title": "Điều tra, bắt giữ và khởi tố. p 2",
+  "chars": 7162,
+  "file": "posts/2022-06-24-ieu-tra-bat-giu-va-khoi-to-p-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 454,
+  "title": "Bộ HÌNH KIẾP",
+  "chars": 6140,
+  "file": "posts/2022-09-26-bo-hinh-kiep.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 455,
+  "title": "Nữ Nô Tì Sát Thủ Gian Ác  Chuyên Bóp Cổ..",
+  "chars": 9390,
+  "file": "posts/2022-10-05-nu-no-ti-sat-thu-gian-ac-chuyen-bop-co.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 456,
+  "title": "Bộ HÌNH KHÔNG",
+  "chars": 5059,
+  "file": "posts/2022-10-13-bo-hinh-khong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 457,
+  "title": "Sát Thủ Giết Người Móc Mắt (Lá số 9).",
+  "chars": 6734,
+  "file": "posts/2022-10-21-sat-thu-giet-nguoi-moc-mat-la-so-9.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 458,
+  "title": "Lá Số (10) Có Bộ Song LỘC nhưng",
+  "chars": 5338,
+  "file": "posts/2022-10-28-la-so-10-co-bo-song-loc-nhung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 459,
+  "title": "GOÁ PHỤ ÁO ĐEN.",
+  "chars": 12001,
+  "file": "posts/2022-11-07-goa-phu-ao-en.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 460,
+  "title": "Kẻ Lừa Đảo có bộ Song LỘC (ls12).",
+  "chars": 11785,
+  "file": "posts/2022-11-17-ke-lua-ao-co-bo-song-loc-ls12.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 461,
+  "title": "Vua Lừa. Bernard  Madoff.",
+  "chars": 10642,
+  "file": "posts/2022-11-27-vua-lua-bernard-madoff.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 462,
+  "title": "HỔ ĐỘI LỐT NGƯỜI",
+  "chars": 8539,
+  "file": "posts/2022-12-07-ho-oi-lot-nguoi.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 463,
+  "title": "TẮC KÈ HOA. (LSố 15)",
+  "chars": 13949,
+  "file": "posts/2022-12-17-tac-ke-hoa-lso-15.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 464,
+  "title": "Lá Số Tử Vi Thái Thiên PHƯỢNG.",
+  "chars": 10246,
+  "file": "posts/2023-03-11-la-so-tu-vi-thai-thien-phuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 465,
+  "title": "Kẻ Ám Sát Hitler Không Thành (ls 17)",
+  "chars": 11444,
+  "file": "posts/2023-04-03-ke-am-sat-hitler-khong-thanh-ls-17.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 466,
+  "title": "Bộ PHI HÌNH.",
+  "chars": 6914,
+  "file": "posts/2023-05-03-bo-phi-hinh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 467,
+  "title": "Hai Người Con Bất Hiếu.",
+  "chars": 8441,
+  "file": "posts/2023-05-26-hai-nguoi-con-bat-hieu.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 468,
+  "title": "HAI VỢ CHỒNG BẤT HẠNH",
+  "chars": 9367,
+  "file": "posts/2023-06-25-hai-vo-chong-bat-hanh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 469,
+  "title": "Bạọ Lực Gia Đình.",
+  "chars": 7508,
+  "file": "posts/2023-07-25-bao-luc-gia-inh.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 470,
+  "title": "THIÊN LƯƠNG",
+  "chars": 5201,
+  "file": "posts/2023-09-06-thien-luong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 471,
+  "title": "Ngôi Sao TỬ VI.",
+  "chars": 7539,
+  "file": "posts/2023-09-18-ngoi-sao-tu-vi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 472,
+  "title": "Cái Bẫy.",
+  "chars": 8216,
+  "file": "posts/2023-10-01-cai-bay.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 473,
+  "title": "NGÔI SAO THÁI DƯƠNG",
+  "chars": 8420,
+  "file": "posts/2023-10-12-ngoi-sao-thai-duong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 474,
+  "title": "Ngôi Sao VŨ KHÚC.",
+  "chars": 7099,
+  "file": "posts/2023-10-22-ngoi-sao-vu-khuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 475,
+  "title": "PHỐI HỢP 2 CHÍNH TINH.",
+  "chars": 7974,
+  "file": "posts/2023-11-01-phoi-hop-2-chinh-tinh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 476,
+  "title": "Tài Năng Và Thời Cơ",
+  "chars": 13689,
+  "file": "posts/2023-11-12-tai-nang-va-thoi-co.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 477,
+  "title": "Bộ PHI KHÔI",
+  "chars": 7235,
+  "file": "posts/2023-12-01-bo-phi-khoi.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 478,
+  "title": "Bộ QUYỀN LỘC Trùng Phùng",
+  "chars": 8433,
+  "file": "posts/2023-12-16-bo-quyen-loc-trung-phung.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 479,
+  "title": "Tuổi Tý nhưng phe Ngọ...",
+  "chars": 8106,
+  "file": "posts/2024-01-15-tuoi-ty-nhung-phe-ngo.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 480,
+  "title": "Hạn CỰ NHẬT năm Giáp Thìn.",
+  "chars": 7604,
+  "file": "posts/2024-02-18-han-cu-nhat-nam-giap-thin.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 481,
+  "title": "HẠN LƯỠNG TRIỆT.",
+  "chars": 6601,
+  "file": "posts/2024-03-01-han-luong-triet.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 482,
+  "title": "Cách LỘC MÃ Tối Hỉ Giao Trì…",
+  "chars": 5244,
+  "file": "posts/2024-03-15-cach-loc-ma-toi-hi-giao-tri.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 483,
+  "title": "Bộ VŨ KHÚC THIÊN TƯỚNG",
+  "chars": 4190,
+  "file": "posts/2024-03-28-bo-vu-khuc-thien-tuong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 484,
+  "title": "LỘC TỒN BÁC SĨ",
+  "chars": 5886,
+  "file": "posts/2024-04-10-loc-ton-bac-si.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 485,
+  "title": "THÁI TUẾ",
+  "chars": 3893,
+  "file": "posts/2024-04-19-thai-tue.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 486,
+  "title": "Bộ BINH HÌNH TƯỚNG ẤN.",
+  "chars": 5045,
+  "file": "posts/2024-05-04-bo-binh-hinh-tuong-an.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 487,
+  "title": "HẠN Ngộ THIÊN MÃ",
+  "chars": 10408,
+  "file": "posts/2024-05-18-han-ngo-thien-ma.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 488,
+  "title": "Nhóm Sao Ẩn & Lộ.",
+  "chars": 7841,
+  "file": "posts/2024-06-15-nhom-sao-lo.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 489,
+  "title": "HẠN NGỘ THÁI ÂM",
+  "chars": 6157,
+  "file": "posts/2024-07-19-han-ngo-thai-am.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 490,
+  "title": "Bộ Tam KHÔNG.",
+  "chars": 10142,
+  "file": "posts/2024-08-11-bo-tam-khong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 491,
+  "title": "Bộ HỎA HAO·",
+  "chars": 8796,
+  "file": "posts/2024-08-30-bo-hoa-hao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 492,
+  "title": "CỰ MÔN và THIÊN LƯƠNG",
+  "chars": 8975,
+  "file": "posts/2024-09-21-cu-mon-va-thien-luong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 493,
+  "title": "KHI LÒNG THAM TRỖI DẬY.",
+  "chars": 7528,
+  "file": "posts/2024-10-11-khi-long-tham-troi-day.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 494,
+  "title": "KIẾP KHÔNG lâm Tài, Phúc…",
+  "chars": 8311,
+  "file": "posts/2024-11-02-kiep-khong-lam-tai-phuc.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 495,
+  "title": "Bộ KỴ KIẾP",
+  "chars": 7426,
+  "file": "posts/2024-12-01-bo-ky-kiep.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 496,
+  "title": "Cách: PHÁ KÌNH TẢ HỮU",
+  "chars": 11291,
+  "file": "posts/2024-12-15-cach-pha-kinh-ta-huu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 497,
+  "title": "HẠN TAM TAI",
+  "chars": 7192,
+  "file": "posts/2025-01-09-han-tam-tai.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 498,
+  "title": "ĐÀO HOA 2",
+  "chars": 8506,
+  "file": "posts/2025-01-19-ao-hoa-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 499,
+  "title": "12 bến nước.",
+  "chars": 5938,
+  "file": "posts/2025-02-08-12-ben-nuoc.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 500,
+  "title": "Vì Sao. Các Sao Lại Có Tên Riêng?",
+  "chars": 15666,
+  "file": "posts/2025-02-18-vi-sao-cac-sao-lai-co-ten-rieng.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 501,
+  "title": "Thay Lòng Đổi Dạ cách.",
+  "chars": 7846,
+  "file": "posts/2025-03-08-thay-long-oi-da-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 502,
+  "title": "TANG MÔN",
+  "chars": 5878,
+  "file": "posts/2025-05-05-tang-mon.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 503,
+  "title": "Vì Nghe, Tại Nghe...",
+  "chars": 8513,
+  "file": "posts/2025-06-11-vi-nghe-tai-nghe.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 504,
+  "title": "Bộ PHI HỒNG",
+  "chars": 7622,
+  "file": "posts/2025-07-11-bo-phi-hong.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 505,
+  "title": "Bình Luận Câu Phú.",
+  "chars": 4231,
+  "file": "posts/2025-08-05-binh-luan-cau-phu.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 506,
+  "title": "CỰ ĐÀ Cách.",
+  "chars": 8966,
+  "file": "posts/2025-10-22-cu-cach.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 507,
+  "title": "Dòng Máu Anh Hùng.",
+  "chars": 11154,
+  "file": "posts/2025-12-01-dong-mau-anh-hung.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 508,
+  "title": "Giờ Tháng Sinh Và Số Mệnh.",
+  "chars": 24009,
+  "file": "posts/2025-12-22-gio-thang-sinh-va-so-menh.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 509,
+  "title": "LÁ SỐ TỔNG THỐNG MADURO",
+  "chars": 8646,
+  "file": "posts/2026-01-05-la-so-tong-thong-maduro.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 510,
+  "title": "Vua MINH TƯ TÔNG.",
+  "chars": 13142,
+  "file": "posts/2026-02-05-vua-minh-tu-tong.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 511,
+  "title": "TRÒ CHUYỆN VỚI GEMINI 3",
+  "chars": 15049,
+  "file": "posts/2026-02-08-tro-chuyen-voi-gemini-3.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 512,
+  "title": "Thử tài Gemini 3.",
+  "chars": 20054,
+  "file": "posts/2026-02-11-thu-tai-gemini-3.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 513,
+  "title": "GEMINI 3 VỚI THÀNH NGỮ",
+  "chars": 16996,
+  "file": "posts/2026-03-01-gemini-3-voi-thanh-ngu.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 514,
+  "title": "GEMINI Cha Mẹ Sinh Con...",
+  "chars": 25490,
+  "file": "posts/2026-03-09-gemini-cha-me-sinh-con.md",
+  "keep": false,
+  "reason": "video/quảng bá/Gemini"
+ },
+ {
+  "idx": 515,
+  "title": "Luận Về Sự Đi Lại.",
+  "chars": 13708,
+  "file": "posts/2026-04-05-luan-ve-su-i-lai.md",
+  "keep": false,
+  "reason": "không phải bài lý thuyết (kể chuyện, thơ, tiểu sử, hỏi đáp, lá số người nổi tiếng)"
+ },
+ {
+  "idx": 516,
+  "title": "CÁC NHÓM SAO",
+  "chars": 8828,
+  "file": "posts/2026-05-15-cac-nhom-sao.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 517,
+  "title": "CÁC NHÓM SAO phần 2.",
+  "chars": 8162,
+  "file": "posts/2026-06-25-cac-nhom-sao-phan-2.md",
+  "keep": true,
+  "reason": ""
+ },
+ {
+  "idx": 518,
+  "title": "CÁC NHÓM SAO TỬ VI PHẦN 3.",
+  "chars": 17572,
+  "file": "posts/2026-08-11-cac-nhom-sao-tu-vi-phan-3.md",
+  "keep": true,
+  "reason": ""
+ }
+]

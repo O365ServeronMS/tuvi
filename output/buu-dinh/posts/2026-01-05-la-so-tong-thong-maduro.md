@@ -1,0 +1,162 @@
+---
+id: bd#6190038875589009204
+title: "LÁ SỐ TỔNG THỐNG MADURO"
+url: https://tuviungdung.blogspot.com/2026/01/la-so-tong-thong-maduro.html
+published: 2026-01-05T10:09:00.001+07:00
+updated: 2026-01-05T10:09:36.370+07:00
+labels: []
+---
+
+# LÁ SỐ TỔNG THỐNG MADURO
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_R_TrRgJ8x7-OkUIyWoGEApy74xXW48zTdrhbMKPHKbDK_wbGm3rc-mvhP1IBAB2AxLKnpwbfWWBK8x0cXZj4GACXJm1O4B6emOok_e0niR4_6WRARZ0UDl4Dnp6yDUK3bJyh3AcWDxS17NBCey1zTSDYu6yUnDF_vRlrDzj2UhlHdnXCIWswMTtzx1v/s16000/N.MADURO.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_R_TrRgJ8x7-OkUIyWoGEApy74xXW48zTdrhbMKPHKbDK_wbGm3rc-mvhP1IBAB2AxLKnpwbfWWBK8x0cXZj4GACXJm1O4B6emOok_e0niR4_6WRARZ0UDl4Dnp6yDUK3bJyh3AcWDxS17NBCey1zTSDYu6yUnDF_vRlrDzj2UhlHdnXCIWswMTtzx1v/s520/N.MADURO.gif)
+
+Chuyện 1 tổng thống bị lật đổ, bị giết,
+bị bắt là chuyện rất bình thường. Nhưng bị đối phương bắt giữ một cách dễ dàng
+khi đang tại chức gây ra chấn động toàn thế giới. Điều này gây người viết tò mò
+và tìm hiểu lá số TỬ VI của ông ta. Ngày tháng năm lấy tại trang Wiki.
+
+Chỉ có ngày sinh, do đó phải lập ra 12
+lá số TỬ VI và chọn lá số chính xác nhất. Thỏa mãn cách bị bắt giữ, cách đã làm
+tổng thống và còn đòi hỏi phải đúng với gia đạo của ông ta. Có 2 đời vợ và có
+con trai Hạn bị bắt giữ và hạn chết là những hạn quan trọng thường xuất hiện rất
+rõ trên lá số.
+
+Ông ta sinh ngày 23/11/ 1962 tức ngày 27
+tháng 10 năm Nhâm Dần. Sinh tháng 10 luôn luôn có THIÊN KHÔNG đeo bám trên cung
+Mệnh. Xem bài Giờ Sinh Và Số Mệnh. Tính theo tuổi tây ông ta 63 tuổi. Tuổi mụ,
+tuổi TỬ VI là 64 tuổi.
+
+Vậy thì làm sao biết ông ta bị họa do
+THIÊN KHÔNG gây ra. Bị bắt họa do cách PHÁ QUÂN ngộ KIẾP dễ lầm với họa bị “sờ
+gáy” do CỰ MÔN bị tố cáo gây nên.
+
+Các họa lớn thường xuất hiện trong đại hạn,
+tiểu hạn rất rõ. Vì.
+
+Vì đại hạn là quảng đường và tiểu hạn là
+khúc đường, đoạn đường đang đi. Quảng đường thì xấu, khúc đường đang nguy hiểm.
+Và điều quan trọng nhất là Mệnh Hạn lại không cảnh giác còn ba hoa chích chòe
+hoặc nghĩ vớ vẩn, vu vơ họa sẽ đến.
+
+Ví dụ cụ thể đại hạn là đèo Hải Vân mây
+bay lộng gió. tiểu hạn là khúc cua tay áo. Trong khi Mệnh nghêu ngao “Vạn lý
+phong sương vạn lý sầu... Hồn về tiên cảnh đến rất mau”..Đó là lý do Tử Vi Ứng
+Dụng chỉ quan tâm đến 3 Hạn mà thôi. Chính Mệnh Hạn của mình mới là quan trọng.
+Người may mắn họ có thể đi sớm hoặc đến trễ khi có tai nạn xảy ra. Chỉ có kẻ ngốc
+mới quan niệm lạ lùng thách đố người may mắn dám uông thuốc độc không? Có dám mở
+lưu đạn để dưới chân nghe nổ không? Người may mắn đang đi có người cảnh báo. “”
+đoạn đường phía trước rất xấu”’ Thế là họ đi chậm lại. Quí nhân có thể là 1 câu
+nói bình thường mà thôi.
+
+Chúng ta trở lại với câu chuyện 1 tổng
+thống và vợ bị đối phương bắt. Lá số sinh giờ Thân được chọn thỏa mãn các điều
+kiện. Bị bắt, có con trai và có 2 vợ.
+
+**Bị Bắt Vì Đại Hạn. 64-73 tại Dậu.**
+
+có THIÊN PHỦ PHỤC BINH HỎA TINH có THIÊN
+KHÔI tam hợp cùng lúc Lưu PHỤC BINH( mở FBD năm Ất Tị sẽ thấy).
+
+Lưu PHỤC BINH kích thích PHỤC BINH cố định
+dậy hoạt động .Cách BINH HỎA là cách chiến tranh. Cách KHÔI HỎA là đám tro tàn
+to tổ bố. Chẳng có đám cháy nào quan trọng có chăng là sự nghiệp tan tành mây
+khói. PHỤC BINH là hạn thường xấu thường gặp chuyện không may do sao này gây
+ra. Vì nó là nhóm Hung Bàng Tinh.
+
+**Bị Bắt Vì Tiểu Hạn năm Ất Tị tại Mùi. **
+
+Đây là tiểu hạn cực xấu. Vốn là hạn Các
+Xứ Tàng Hung do nhóm SÁT PHÁ THAM đi với LỘC TỒN nay lại là năm Ất Tị lưu LỘC TỒN
+lại thêm 1 Cát Xứ Tàng Hung nữa. Nhưng chưa phải là điều quan trọng, có nhiều
+người gặp phải chứ không phải là không. Đây là cung Quan Lộc công danh của ông
+ta có còn có các cách.
+
+“LINH phùng SÁT PHÁ hạn hành.
+
+Văn VƯƠNG xưa cũng giam mình ngục trung”
+
+Vương chỉ sau vua 1 tước mà thôi. Bị bắt
+giam cũng là chuyệnj bình thường, có bị giết cũng là chuyện viết đầy trong sử
+sách. Vương dùng PHÁ QUÂN để quậy, Vương dùng THẤT SÁT để chiếm đoạt ngai vàng...
+tình nghi hình như là... đem giam là hay nhất TỬ PHỦ phán xét sau. Ngôi sao
+LINH TINH rụng rời chân tay khi đi với SÁT PHÁ. Vô cùng éo le hết chỗ nói. đại
+hạn ngộ HỎA TINH, tiểu hạn gặp LINH TINH thế là gặp đủ bộ HỎA TINH nhưng vẫn
+chưa vẫn còn. tiểu hạn có đủ bộ KHÔNG KIẾP. Vậy là đủ bộ Tứ Sát tinh mạnh nhất
+trên TỬ VI các Bàng tinh còn lại tiếp tay cho các sát tinh này gây họa lớn.
+
+Tiểu Hạn tại cách TỬ PHÁ cư Mùi lại gặp Ất
+Tị lưu TRIỆT LỘ. Đây là sao lưu kỵ nhất với TỬ VI, cho nên năm Ất Tị và các năm
+Tị khác đưa đến tình huống khác nhau. Trong lúc Lưu TRIỆT LỘ tại tiểu hạn. Tại Mệnh
+cung gặp Lưu TUẦN TRUNG.vô ình tạo thành cách Tam KHÔNG.
+
+Vẫn còn nhiều chuyện để nói về tiểu hạn lạ
+lùng hiếm thấy. 2 lần Cát Xứ Tàng Hung, Tứ Sát tinh và cách BỆNH PHÙ QUỐC ẤN là
+cách nhục quốc thể hoàn toàn không phù hợp đi với SÁT PHÁ. PHÁ QUÂN dù có đi với
+QUỐC ẤN TƯỚNG QUÂN thì PHÁ QUÂN cũng bỏ ấn. Muốn vất ấn thì số phận éo le phải
+cho cầm cái QUỐC ẤN để sau này có dịp bỏ, mới gọi là Cát Xứ Tàng Hung. Cung
+Quan Lộc cũng là cung an Thân nên ông ta khoái cầm ấn lắm. Nhìn qua cung Mệnh
+thấy THẤT SÁT đi với TƯỚNG QUÂN. Đây là cách Tướng mất quân, Tướng thất trận.
+TƯỚNG QUÂN ngộ THIÊN KHÔNG cũng là quân trời ơi! Nó chưa đảo chính là may lắm rồi.
+
+Theo người viết, các bạn không nên tin
+điều này. Mỹ bao vây Vênê không ngoài mục đích chờ bên trong lật đổ, nổi dậy.
+Chờ không được Xì Trum chuyển qua bắt cóc, Cái này vi phạm luật pháp quốc tế sẽ
+sinh ra nhiều chuyện phức tạp về sau.
+
+**Bị Bắt Vì Mệnh Hạn.VŨ SÁT tại Mão.**
+
+Cách VŨ SÁT đã có bài viết trên blog.
+
+Trong khi 2 Hạn đại hạn, tiểu hạn xấu
+cũng đủ gặp nạn cho dù Mệnh cung có tốt đi mấy nữa, Chẳng lẽ sống hoài sao?
+Đáng nói là ngài tổng thống Mệnh Hạn lại vô cùng xấu. Cũng Cát Xứ Tàng Hung như
+ai lại thêm Lưu Cát Xứ Tàng Hung. Mệnh THIÊN KHÔNG tất gặp nhiều chuyện không
+ngờ, may mắn là có sao TRIỆT LỘ nó ngăn lại. Vô duyên là sao TRIỆT đi với sao
+HÓA KỴ thành bộ KỴ TRIỆT. Đây là bộ sao bị ghét bỏ và loại trừ cũng may là
+không có sao THIÊN HÌNH nhé. Nếu có đừng mong làm tổng thống. Nhờ đó từ 1 tài xế
+gia nhập đảng Xã Hội Thống Nhất. Venezuela leo trèo lên chủ tịch đảng, rồi phó
+tổng thống bây giờ là tổng thống. Hiện tại thì THIÊN KHÔNG vạn sự giai không.
+
+Nói chung đây là lá số của 1 gian hùng
+dùng mọi thủ đoạn để leo cao rồi té nặng. Một tổng thống bị bắt nhưng 1 số dân
+chúng l;ại vui mừng. Một VŨ KHÚC ưa dùng vũ lực chiếm đoạt để rồi cũng bị người
+khác dùng vũ lực áp đặt nên mới có câu chuyện ngày hôm nay. Dưới triều đại của
+tổng thống này. Trang Wili viết như sau.
+
+Năm 2018,
+Maduro được tái đắc cử và [tuyên thệ
+nhậm chức](https://en.wikipedia.org/wiki/Second_inauguration_of_Nicol%C3%A1s_Maduro) trong sự lên án rộng rãi. Chủ tịch Quốc hội, [Juan
+Guaidó](https://en.wikipedia.org/wiki/Juan_Guaid%C3%B3) , được cơ quan lập pháp phe đối lập tuyên bố là tổng thống
+lâm thời—khởi đầu [một cuộc khủng hoảng tổng thống](https://en.wikipedia.org/wiki/Venezuelan_presidential_crisis) kéo
+dài gần bốn năm và [chia rẽ cộng
+đồng quốc tế](https://en.wikipedia.org/wiki/Responses_to_the_Venezuelan_presidential_crisis) . Năm 2024, Maduro tranh cử nhiệm kỳ
+thứ ba trong [một cuộc bầu cử](https://en.wikipedia.org/wiki/2024_Venezuelan_presidential_election) mà
+CNE liên kết với Maduro tuyên bố ông đã thắng—mà không cung cấp bằng chứng—khởi
+đầu một [cuộc khủng hoảng chính trị](https://en.wikipedia.org/wiki/2024_Venezuelan_political_crisis) khác. Kết
+quả kiểm phiếu do phe đối lập thu thập cho thấy ứng cử viên của họ, [Edmundo González](https://en.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez) ,
+đã giành được nhiều phiếu bầu nhất. Vào tháng 11 năm 2025, Maduro bị Hoa Kỳ
+chỉ định là thành viên của một tổ chức khủng bố nước ngoài.
+
+Đã THIÊN
+KHÔNG đi với ĐÀO HOA không có cũng đào ra cho có. Vô tình biến Không thành Có.
+Bây giờ là có đấy, là tai họa không ngờ Bộ ĐÀO VIỆT bộ sao phát sinh mạnh nhất
+là bộ sao y như hoa đào hé nở đẹp vô cùng khi đi với Cát tinh, Hỉ tinh nhất là
+nhóm CƠ NGUYỆT ĐỒNG LƯƠNG. Đây là bài học thực tê về bộ sao này đi với SÁT PHÁ
+THAM vốn không hay lại thêm Tứ Sát tinh lại cộng dồn HÓA KỴ. Cũng là 1 bằng chứng
+thú vị ông THIÊN KHÔNG hạn đến THIÊN HƯ TUẾ PHÁ (54-63) biến thành ngài tổng thống.
+Một kẻ 1 chút cũng không có đến cung Nô Bộc láo lếu, gian lận gặp nhau lại
+thành công. Đúng mèo mả gặp chó đồng. Qua hạn 64- 73 gặp cụ THIÊN PHỦ chơi phủ
+đầu mọi việc thành ra phũ phàng.
+
+Trong
+nghiên cứu TỬ VI chúng ta sẽ thấy làm lạ. Vì sao ông ta lại qua được đại hạn
+44-53 một hạn cực kỳ đáng sợ. Nhất là người Mệnh KHÔNG đến hạn KIẾP. Điều này
+nhờ bởi sao TRIỆT LỘ tại Mệnh. Vì sao ông ta gặp họa trong năm này do sao Lưu
+TUẦN TRUNG KHÔNG VONG. Vì Mệnh ông ta vốn có bộ NHỊ VONG là TRIỆT LỘ KHÔNG
+VONG, THIÊN KHÔNG KHÔNG VONG. Vô hình chung Mệnh hình thành bộ Tam KHÔNG. Lưu
+TUẦN tại đây kể từ 2024 đến 2033 mới di chuyển qua cung Tý Sửu. Nói không sợ
+sai mọi việc sẽ chấm dứt hoàn toàn tại đây khi ngôi sao thòng lọng viếng thăm kẻ
+thủ đoạn VŨ KHÚC luôn luôn có ngôi sao âm mưu tại cung Tật Ách.

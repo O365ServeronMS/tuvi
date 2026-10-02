@@ -1,0 +1,135 @@
+---
+id: bd#6078098962152699005
+title: "Câu Chuyện Đầu Năm."
+url: https://tuviungdung.blogspot.com/2018/02/cau-chuyen-au-nam.html
+published: 2018-02-15T21:39:00.000+07:00
+updated: 2018-02-15T21:39:25.123+07:00
+labels: []
+---
+
+# Câu Chuyện Đầu Năm.
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUKJe1uCMkgUs-f5QyayAOrcfK-cclqE3aSdYuuPPk5Y0xsaVlANLHLm1zJVnTCCiXlRnOGcG2Geu53YDlCKVgqGZ-59wDTeP9oCtS2v6Al7AjKswkubc1pJlSzSAeE7MfJF4I0fAtzw9h/s1600/CCDNdong.gif)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUKJe1uCMkgUs-f5QyayAOrcfK-cclqE3aSdYuuPPk5Y0xsaVlANLHLm1zJVnTCCiXlRnOGcG2Geu53YDlCKVgqGZ-59wDTeP9oCtS2v6Al7AjKswkubc1pJlSzSAeE7MfJF4I0fAtzw9h/s1600/CCDNdong.gif)
+
+Câu Chuyện Đầu Xuân.
+
+Mặc dù bận rộn, trong lúc tìm tư
+liệu, bỗng dưng dẫn đến trang có đề cập đến Tử Vi lại là 1 người quá nổi tiếng.
+
+Các đoạn in nghiêng là nguyên văn.
+
+Song ám ảnh tôi nhất vẫn là lá số đầu đời, lá số do một người đồng đội
+của cha tôi lập trong một đêm vằng vặc ánh trăng, dưới giao thông hào, khi cha
+nhận được lá thư mẹ báo tin đã sinh ra tôi vào đêm ngày 15 tháng 2 năm 1972.
+Người đồng đội của cha, vốn xuất thân trong một gia đình Nho học nổi tiếng xứ
+Nghệ, vội kê tờ giấy lên chiếc ba lô bạc màu, nguệch ngoạc kẻ một hình bát quái
+rồi ghi kín cả một trang giấy học trò lời tiên lượng về số phận của cô bé Phan
+Thị Bích Hằng.
+
+Tuyệt vời, vô cùng thú vị. Cái năm
+1972. Mùa hè đỏ lửa ấy, thoáng về trong trí nhớ. Thời điểm đầu năm này, người
+viết rất nhàn và đúng nửa năm sau lại lao đầu vào tháng ngày dầu sôi lửa bỏng...
+
+Chợt nghĩ. Cứ cho là ngày rằm trăng
+sáng nhất,  khó tin có người lập được lá
+số Tử Vi dưới ánh sáng đó. Ngay cả đọc sách thôi cũng khó nói gi viết. Không lạ
+lùng những đêm đen ngữa bàn tay không thấy, đêm trăng vằng vặc di chuyển phải
+thấp người xuống.
+
+Tình hình căng thẳng phải ra giao
+thông hào chiến đấu. Chứ đâu phải ra đó viết thư tình. Tiểu đội trưởng, trung đội
+trưởng có để yên đâu. Bé ơi! Đừng hoang tưởng.
+
+Lại càng khó tin hơn, một bộ đội
+cụ Hồ lại mê tín đem Tử Vi ra ngoài mặt trận. Thế thì đoàn viên, đảng viên, chi
+bộ không phản ứng sao? Lại có người nhờ lập lá số Tử Vi nữa. Thôi thì, cứ cho là
+bao che đồng đội là chuyện thường tình. Hoá ra, có đến 2 người đem Tử Vi ra mặt
+trận. Trùng hợp là chuyện bình thường. Rõ ràng người miền Bắc này quá giỏi. Nếu
+như đây là câu chuyện có thật.
+
+Dòng suy nghĩ lại chảy trong đầu.
+Lần đầu tiên trong cuộc đời tìm hiểu Tử Vi, lại đọc thấy lập lá số Tử Vi hình bát
+quái bao giờ. Nhưng cứ cho là dân ngoại đạo hiểu nhầm 12 cung số là hình bát quái
+cũng được. Đâu phải chuyện quan trọng.
+
+Nhận xét. Căn cứ vào ngày tháng
+sinh suy ra âm lịch. Nếu sinh vào rạng sáng ngày 15 tháng 2 là ngày mồng 1 tết
+năm Nhâm Tý. Chà 1 ngày rất ấn tượng, dễ nhớ không thể lầm lẫn. Nhưng ghi rõ ràng
+đêm 15/2 tức mồng 1 tết. Được quyền suy luận rằng; có thể sinh vào giờ Hợi ngày
+mồng 1 tết, lại cũng có thể sinh ngày mồng 2 giờ Tý và mồng 2 giờ Sửu. Do giờ
+sinh không rõ ràng. Mở rộng ra nữa. Có thể sinh vào giờ Tuất ngày 1 tết. Vị
+chi, coi chừng nghiền ngẫm 4 lá số chứ không phải là ít.
+
+Ông run run trải tờ giấy lên bàn, khuôn mặt lộ rõ vẻ lo âu, căng thẳng.
+Từng chữ, từng chữ hiện lên trước mắt tôi. Cung mệnh ghi: “Số bôn ba mà nhàn.
+Địa không hoá quyền. Tài đảm, sau hoạch phát, có danh lợi nhưng đề phòng sau
+đến thân”. Lúc đó, tôi không hiểu địa không là gì, hoá quyền là gì? Rồi tiếp
+đến là đào hoa, thiên riêu, thiếu dương… và lời giải là: Thông minh, tài vượt
+lực học, giang hồ mà sung sướng, có biệt tài…
+
+Khuôn mặt cha cứ sáng dần lên, sáng dần lên. Đôi mắt ánh lên niềm vui
+sướng. Tiếp đến là “đế vượng, sau thịnh phát giàu có”. “Lưu niên văn tinh” là
+“văn hay chữ tốt”. Rồi đến cung phụ mẫu: Liêm trinh, thất sát, tang môn. Lời
+giải là: Khắc cha mẹ. Mẹ thọ hơn, sau có lần sinh con thiếu tháng. Rồi đến cung
+thân phúc: Có sao thiên việt, tấu thư, đường phù. Lời giải là nhà có ngôi mộ
+hình bút, phát văn, có ẩn tài phán đoán việc trừu tượng.
+
+Đây rồi... Mệnh có ĐỊA KHÔNG, tức
+Tử Vi Ứng Dụng là THIÊN KHÔNG. Nếu có ngôi sao này tại Mệnh không bao giờ là
+sinh tháng giêng.
+
+Đến đây đành tự an ủi: Mình rõ ngốc.
+Có lẽ là ngày 15 tháng 2 âm lịch của năm 1972. Vì có nhiều người lẫn lộn ÂM
+DƯƠNG đảo điên như thế.
+
+Vậy ta tiếp tục. Giờ Tuất, Hợi ngày
+15, giờ Tý ngày 16, giờ Sửu ngày 16. Tức sinh ngày 15 tháng 2 năm Nhâm Tý. Hoàn
+toàn âm lịch thuần chủng.
+
+Cuộc chơi lại tiếp tục. Nhưng chưa
+cần đem đồ nghề ra.
+
+Lại thấy, cung Phụ Mẫu có LIÊM
+TRINH, THẤT SÁT +TANG MÔN. Nếu thừa nhận cung Phụ Mẫu như thế. Phải thừa nhận Mệnh
+có THIÊN LƯƠNG Tý Ngọ.
+
+Oi! Mệnh THIÊN LƯƠNG cư Tý Ngọ “có
+thể” rất tuyệt vời. Nhưng tại sao tuổi Nhâm Tý lại có TANG MÔN tại các cung Sửu.
+Phải ở cung Dần trời ạ.
+
+Làm gì Mệnh THIÊN LƯƠNG sinh năm
+Nhâm mà có HOÁ QUYỀN tại Mệnh. Hay là còn có môn phái TỬ VI mới lạ nữa sao.
+
+Sức chịu đựng con người có giới hạn.
+Vượt quá sẽ gây hậu quả trầm trọng.
+
+Cho nên người viết không dại gì
+chơi tiếp.
+
+Đem lá số ảo ra phỉnh phờ người khác.
+Với chứng minh hùng hồn vớ vẩn, tự bịa, tô son điểm phấn.
+
+Thông minh, tài vượt lực học, giang hồ mà sung sướng, có biệt tài…
+
+Lại viết:
+
+cung thân phúc: Có sao thiên việt, tấu thư, đường phù. Lời giải là nhà
+có ngôi mộ hình bút, phát văn, có ẩn tài phán đoán việc trừu tượng.
+
+Thân cư Phúc (tức Sinh giờ Sửu Mùi).
+Bộ THIÊN VIỆT TẤU THƯ ĐƯỜNG PHÙ hoạ may tuổi Tân Hợi gần nhất mới có.
+
+Chẳng bao giờ có lá số Tử Vi như
+thế này trên cõi đời. Chỉ đúng tự tán, ẩn tài đoán việc trừu tượng.
+
+Cần nhớ. Một điều bất tín, vạn sự
+không tin.
+
+Người viết rất khó chịu khi có ai
+đó mượn Tử Vi tô son điểm phấn.
+
+Người viết tin rằng; Các Học viên
+khoá 7 mới học 2 tháng, có đến 90%  cũng
+biết lá số bịa.

@@ -74,7 +74,7 @@ FILE_MAX_BYTES = 100 * 1024
 INDEX_WARN_BYTES = 60 * 1024
 QUOTE_MAX_CHARS = 400
 
-LABEL_RE = re.compile(r"^\[(TB|TL|TĐ|NPL)\]\s+\S")
+LABEL_RE = re.compile(r"^\[(TB|TL|TĐ|NPL|BĐ)\]\s+\S")
 BULLET_RE = re.compile(r"^\s*[-+*]\s+(.*)$")
 H2_RE = re.compile(r"^##\s+(.+?)\s*$")
 QUOTE_RE = re.compile(r"^[\"“](.+)[\"”]\s*\(([^()\s]+)\)\s*$", re.S)
@@ -329,7 +329,7 @@ def check_card(path: Path, ctype: str, stars: dict, palaces: dict, chunks: dict,
                 continue
             code = LABEL_TO_CODE[f"[{lm.group(1)}]"]
             if name == CROSS_SECTION and code not in CROSS_CODES:
-                rep.error(path, f"[{name}] chỉ nhận nhãn [TĐ]/[NPL], gặp [{lm.group(1)}]")
+                rep.error(path, f"[{name}] chỉ nhận nhãn [TĐ]/[NPL]/[BĐ], gặp [{lm.group(1)}]")
             if name != CROSS_SECTION and code not in PRIMARY_CODES:
                 rep.error(path, f"[{name}] chỉ nhận nhãn [TB]/[TL], gặp [{lm.group(1)}]: {content[:60]!r}")
             if code in PRIMARY_CODES and code not in primary:

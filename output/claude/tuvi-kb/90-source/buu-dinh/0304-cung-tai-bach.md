@@ -1,0 +1,74 @@
+---
+id: bd#0304-cung-tai-bach
+book: buu-dinh
+book_code: bd
+book_title: "Tử Vi Ứng Dụng (blog Bửu Đình)"
+title: "Cung Tài Bạch"
+heading_path: ["Cung Tài Bạch"]
+level: 1
+ordinal: 304
+part: 1
+parts: 1
+source_file: output/buu-dinh/posts/2015-07-21-cung-tai-bach.md
+source_url: "https://tuviungdung.blogspot.com/2015/07/cung-tai-bach.html"
+published: 2015-07-21
+chars: 5016
+stars_detected: [hoa-loc, thien-hinh, hoa-quyen, lam-quan, thien-luong, tu-vi, vu-khuc]
+stars_in_title: []
+palaces_detected: [tai-bach, menh, quan-loc, than, phu-the]
+non_luan: false
+---
+
+CUNG TÀI BẠCH.
+
+Cung Tài Bach là cường cung quan trọng, luôn luôn tam hợp với 2 cung quan trọng khác là cung Mệnh và Quan Lộc xung chiếu với cung Phúc, mang ý có phúc mới dễ có tiền của. Nói cách khác 1 số người nhờ bà con. Tiền bạc có thể sinh ra từ các cung Quan Lộc do công việc mang lại. Có thể phát sinh nhờ cung Mệnh may mắn, tài giỏi. Cung Tài là nơi quản lý, nơi đánh giá.
+
+Cung Tài Bạch nhị hợp hay lục hội với cung nào cũng có liên quan đến các cung ấy. Liên quan đó có thể tốt hoặc xấu. Các cung nhị hợp hay lục hội với Tài luôn luôn là các cung nhược. Có người tiền bạc còn kiếm được từ nhà đất do 2 cung nhị hợp với nhau. Nhờ cung kia sinh ra HOÁ LỘC. Lại có người do bệnh tật tai ách nhờ thế lại có tiền... Vậy nguồn gốc của tiền bạc bắt nguồn tốt xấu, từ các cung Mệnh Quan Phúc và các cung nhị hợp lục hội. Tiền bạc làm ra được cũng chi tiêu chủ yếu vào các cung nhược. Ví dụ. Làm ra tiền để chữa bệnh anh à. Kiếm tiền để dành cho con, xây nhà...
+
+Ngoài vấn đề tiền bạc, cung này còn nói lên nghề nghiệp, tính cách của một số người thể hiện qua cách sử dụng tiền bạc... rộng rãi, hà tiện, xem trọng, coi nhẹ đồng tiền... đến dùng tiền bạc để mua chuộc, hối lộ.
+
+Cung cách tiêu tiền có câu:
+
+“Xuất thế vinh hoa Quyền Lộc thủ Tài, Quan chi vị.
+
+Sinh lai bần tiện Kiếp Không lâm Tài, Phúc chi hương”
+
+Người có Quyền Lộc ở Tài, Quan hội họp ra đời chơi không thua kém chi ai. Xuất thế vinh hoa nghĩa là thế. Vì vừa có quyền, vừa có tiền chơi sao cho xứng.
+
+Sinh lai bần tiện là chơi kiểu nghèo hèn, chứ không phải là sinh ra chốn nghèo hèn. Mặc dù có tiền chăng nữa cũng ưa “tay không bắt giặc”. Hôm nay không mang tiền theo tụi bây ráng trả nhé.
+
+Cung Tài Bạch còn là nơi ghi dấu những tai hoạ liên quan đến tiền bạc. Đồng tiền bất chính, đồng tiền bất minh, mờ ám.. đến đồng tiền vấy máu.
+
+Cung Tài bạch có nghĩa là tài sản, tiền của và sự minh bạch của nó. Vì thế hung, sát Kỵ Hình tinh, thị phi tinh hội họp tại đây dễ có những tai hoạ liên quan đến tiền bạc.
+
+Từ đó, ta lại có. Phú mà không quý.
+
+Những câu chuyện rắc rối trên đời liên quan đến tiền bạc rất là nhiều. Tham ô, tham nhũng, trộm cướp, chiếm đoạt, gian lận, lừa đảo, đào mồ cuốc mả, đào mỏ khảo của... Tất cả đều chỉ vì tiền. Đến kẻ mua quan, người bán chức cũng vì tiền. Đến chuyện tình yêu, tình cảm được xây dựng trên đồng tiền. Có tiền là có tình, không tiền là hết tình. Tình nghĩa đôi ta chỉ thế thôi. Không tiền đừng nói nữa ai ơi!. Chữ tình bị lạm dụng còn chữ tiền thì không.
+
+Lại đến chuyện, dù có hiếu thảo đến đâu nhưng không có tiền dễ trở thành bất hiếu.
+
+Một khi cung Tài Bạch mất giá, kéo theo cung Mệnh cũng mất giá theo. Có câu.
+
+“Vai mang bị bạc lè kè.
+
+Nói láo, nói khoét chúng nghe rầm rầm.”
+
+Ca dao này chứng minh tiền bạc làm tăng giá trị con người. Và người giàu thường có lý. Vì chứng minh được rằng; tui thành công. Thế nhân thường đo lường tài năng 1 người qua sự giàu có. Dù có lý lẽ giỏi đến đâu, tài năng đến đâu. Kẻ không tiền đành chào thua.kẻ có tiền. Khi gặp sự cố, kẻ có tiền sẽ chứng minh được rằng; “Đồng bạc đâm toạc tờ giấy”. Có người còn nói rằng;... “Đời trước làm quan cũng thế a”.
+
+Tiền bạc không mua được hạnh phúc nhưng nhiều tiền vẫn mua được.
+
+Tiền bạc có thể mua được cả tự do.
+
+Trên lá số TỬ VI có cung Tài Bạch, lại có sao tài sản là VŨ KHÚC và cả sao lương thực, lương tiền là THIÊN LƯƠNG, hoá khí thành tiền bạc là HOÁ LỘC. Việc các sao nằm đúng vị trí của nó. Tức là Tài cư tài vị cũng nói lên tính hợp lý, ít gặp rắc rối về tiền bạc.. Nhưng không phải ai cũng có các sao hợp lý nằm đúng nơi, đúng chỗ. Cung Tài Bạch lại không chứa các sao tiền của sinh tài, lại chứa quá nhiều hung tinh, thị phi tinh, sát tinh. Kỵ Hình tinh. Chỉ cần 1 chút suy luận nho nhỏ thôi cũng biết tai hoạ vì tiền. Với nhiều dạng, nhiều kiểu và đủ cách. Cũng không thiếu các cự phú khi phá sản tự sát, vì nghĩ rằng biết bao công khó mới lập lại như xưa.
+
+Có một số người sinh ra là cậu ấm cô chiêu. Bản thân bất tài vô tướng, khi lập gia đình bố mẹ bù lỗ cho phía đối tác nào là nhà, nào là xe kèm theo tiền mặt quý kim. Chạy vạy cho 1 địa vị dễ ngó. Cứ tưởng ta đây tài giỏi. Chính xác là may mắn.
+
+Lại có kẻ khi trẻ tiền bạc dồi dào. Chẳng qua là gặp vận hạn tốt thế thôi, cứ nghĩ. Khi hết lại có khi vơi lại đầy. Đến khi có tuổi ăn nhờ ở đậu không có mảnh đất cắm dùi, vì thời vận không còn nữa.
+
+Có người trẻ ăn chơi về già lo làm, tu tâm sửa tánh. Có người trẻ lo làm ăn chân chính về già sinh hư đốn. Cho nên mới có cảnh tiền bần hậu phú, tiền phú hậu bận. Rất cuộc cà lăm không biết kết luận là tốt hay là xấu. Chỉ tốt xấu thôi nhiều khi không biết đường mà luận. Chưa hết, người ta ăn xài xả láng dám nói về sau ăn cơm rau mồng tơi. Thế đấy, sự đời đâu dễ nói.
+
+Một số người sinh giờ Thìn Tuất cung an Thân tại Tài, nói lên những người quan tâm đến tiền bạc hơn kẻ khác..Điều này cũng đúng thôi, có tiền mới giải quyết được vấn đề.
+
+Dù Thân cư Tài Bach hay là không.
+
+Các trường hợp Mệnh có Sát tinh Không hay Kiếp. Cung Tài Bạch có sao còn lại là xấu. Vì nó báo trước tai hoạ không ngờ vì tài bạch.

@@ -1,0 +1,81 @@
+---
+id: bd#1302000885299922933
+title: "LÒNG MẸ"
+url: https://tuviungdung.blogspot.com/2013/05/long-me-nhac-si-y-van.html
+published: 2013-05-10T10:14:00.002+07:00
+updated: 2020-09-19T20:30:41.052+07:00
+labels: []
+---
+
+# LÒNG MẸ
+
+>Lòng mẹ bao la như biển thái bình dạt dào
+Tình mẹ tha thiết như dòng suối hiền ngọt ngào
+Lời ru êm ái như đồng lúa chiều rì rào
+Tiếng ru bên thềm trăng tà soi bóng, mẹ yêu
+
+Lòng mẹ thương con như vầng trăng tròn mùa thu
+Tình mẹ yêu mến như làn gió đùa mặt hồ
+Lời ru man mác êm như sáo diều dật dờ
+Nắng mưa sớm chiều vui cùng tiếng hát trẻ thơ
+
+Thương con thao thức bao đêm trường, con đã yên giấc
+Mẹ hiền vui sướng biết bao
+Thương con khuya sớm bao tháng ngày
+Lặng lội gieo neo nuôi con tới ngày lớn khôn
+
+Dù cho mưa gió không quảng thân gầy mẹ hiền
+Một sương hai nắng cho bạc mái đầu buồn phiền
+Ngày đêm sớm tối vui cùng con nhỏ một niềm
+Tiếng ru êm đềm mẹ hiền năm tháng triền miên
+
+Lòng mẹ chan chứa trên bao sớm làng gần xa
+Tình mẹ dẫn tới trăng ngàn đứng lặng để nghe
+Lời ru xao xuyến núi đối suối rộng rặng tre
+Xóm ven thái bình im lìm khi tiếng mẹ ru
+
+Thương con mẹ hát câu êm đềm
+Ru lòng thơ ấu, quãng gì khi thức trắng đêm
+Bao năm nước mắt như suối nguồn
+Chảy vào tim con, mái tóc trắng đầy đẫm sương
+
+Dù ai xa vắng trên đường sớm chiều về đâu
+Dù tin mưa gió tháng ngày trông đợi bể dâu
+Dù cho phai nắng nhưng lòng thương chẳng bạc màu
+Vẫn mong quay về, vui vầy dưới bóng mẹ yêu.
+
+LÒNG MẸ.
+
+Từ bất cứ lá số TỬ VI nào ta cũng dễ dàng tìm thấy bộ ÂM LƯƠNG nằm đâu đó.
+
+Tạm thời ta gọi là bộ sao vì có 2 sao THÁI ÂM và THIÊN LƯƠNG. Cái gì cũng thế, muốn vào trung cấp phải qua sơ cấp. ÂM LƯƠNG là gì? Là tiếng nói tốt lành, là tháng ngày êm đềm, là hình ảnh người mẹ hiền, người đàn bà may mắn là bóng mát êm đềm.... Và còn nhiều nữa.
+
+Quay trở lại với bộ ÂM LƯƠNG là tiếng nói tốt lành của người mẹ, đa phần là thế. Mở rộng là tiếng nói tốt lành, thu hẹp là tiếng nói của người lớn tuổi hơn. Vì THIÊN LƯƠNG biểu tượng của nó cao nhất. Nhưng để đoán không sai, ít sai nên chọn tiếng nói tốt lành, tiếng bày tỏ của người mẹ. Được nghe bất kỳ một điều gì tốt lành đều là ÂM LƯƠNG cả. Tuy nhiên, cái mà ta dễ hiểu lầm, những lời hay ý đẹp của Phật, của Chúa... đến các văn hào, thi sĩ là những điều tốt lành. Điều đó hoàn toàn không sai. những lời nói tốt lành có khi rất giản dị. Như:
+
+Anh ơi! Đừng lên đó/ Vì sao hả chị?/ Mìn không hà. Cụm từ “Anh ơi! Đừng lên đó” rất giản dị, không có gì là minh triết, là hàn lâm cũng không phải là cao siêu.... Nhưng nó cứu sống 1 người đang mất cảnh giác. Và đây là ví dụ thứ 2.
+
+Mệt quá trời ạ/ Để em. Người nói “Để em” hứng nguyên quả lựu đạn và bị thương. Người nói “Mệt quá trời ạ” ngồi khóc. Tiếng nói tốt lành rất giản dị không cầu kỳ “Để em”.... người viết muốn bày tỏ tiếng nói tốt lành không cần thiết văn chương hoa mỹ, không triết lý cao siêu nhằm giúp một ai đó tránh phải sai lầm, có khi hy sinh cả mạng sống. Tất nhiên những lời hay ý đẹp nhất định là tiếng nói tốt lành khỏi bàn luận.
+
+Người mẹ thường nói với người con những điều tốt lành, kể sao cho hết. Cầu mong người con sống nên người, cho ra con người. Đứa con là ai? Là bộ CƠ ĐỒNG, tức là đứa bé hay hỏi, cật vấn người mẹ ÂM LƯƠNG. Người mẹ lại bày tỏ lại với người con. Vì thế bộ CƠ NGUYỆT ĐỒNG LƯƠNG được ca ngợi là hợp cách, con cái đi với người mẹ. Người mẹ lo toan lương thực cho đứa con lo phần đói no (đói là CƠ, no là ĐỒNG) cho nó. Chỉ xét về mặt tình cảm thôi, ta đã thấy hoàn chỉnh. Thật sự hoàn chỉnh khi hội đủ 4 sao. Lúc đó bộ  CỰ NHẬT là hình ảnh người đàn ông đi làm ăn ở xa. Người mẹ ở nhà lo việc cơm nước cho con cái. Là hình ảnh thường thấy trong cuộc đời. Bộ CƠ NGUYỆT ĐỒNG LƯƠNG chỉ hay khi có đủ 4 sao thừa thiếu gây nên sự mâu thuẫn.
+
+Người mẹ nên nằm ở đâu trên lá số TỬ VI là hợp lý? Tất nhiên là cung Phụ Mẫu quá hợp lý. Đúng rồi, Mệnh có bộ PHỦ TƯỚNG (được thương yêu che chở) tất bộ ÂM LƯƠNG tại Phu  Mẫu cung.
+
+Nhì là bộ ÂM LƯƠNG có thể đóng tại Mệnh cung, tất Tử cung có bộ Tham Phá. Bộ Tham Phá vốn hung tinh nhưng lại có người mẫu thân lành tính. Nhờ thế giảm bớt tính hung của bộ sao này.
+
+Cũng thuộc hạng nhì là nằm tại cung Điền. Mẹ thì ở trong nhà là hợp lý. Bộ sao này đóng tại cung Điền được đánh giá là tốt. Vì THIÊN LƯƠNG còn chủ mái nhà, THÁI ÂM chủ nền nhà. Bóng mát THIÊN LƯƠNG che bóng im THÁI ÂM. Khi Điền cung có bộ sao này tức Mệnh cung có bộ PHÁ THAM đứa con được quấn quít, gắn bó bên mẹ. Khi Điền cung có THÁI ÂM, tất Tật Ách cung có THIÊN LƯƠNG. Sao này đóng tại Tật có rất nhiều điểm lợi. Vì nó còn chủ tiền bạc, thuốc men lời nói tốt lành... không có gì buồn bằng khi mang bệnh, lại không có tiền, không có tiền là ông bác sĩ, à quên ông THIÊN LƯƠNG không chịu làm việc.
+
+Bộ ÂM LƯƠNG có chi tiết đặc thù là thọ, bởi THIÊN LƯƠNG chủ thọ cao. Phù hợp với thực tế là phụ nữ thọ cao hơn nam giới. Trên TỬ VI khó gặp bộ Dương Lương thường dễ gặp bộ CỰ NHẬT.
+
+Nhưng liệu mọi sự có tốt đẹp như thế không. Tất cả tuỳ thuộc vào hung, cát KỴ HÌNH tinh tụ tập tại Mệnh và biểu tượng của người mẹ. ÂM LƯƠNG là người mẹ hiền, là người phụ nữ chăm lo lương thực trong gia đình, là tiếng nói tốt lành, là bóng mát cuộc đời. Mẹ hiền là nơi an ủi. Người mẹ có thể nói dối với con mà không xấu hổ để con cái được ăn no, được học tốt. Thậm chí âm thầm chịu đựng đau ốm, thiếu thốn để con cái an lòng.
+
+Và bây giờ trở lại với chủ đề, LÒNG MẸ là bộ ĐỒNG ÂM. THIÊN ĐỒNG chủ tấm lòng và THÁI ÂM chủ người mẹ. Tất nhiên bộ sao này thật sự hay ho khi nằm trong bộ CƠ NGUYỆT ĐỒNG LƯƠNG hoàn chỉnh (4 sao), hình thành nhiều bộ sao hay như bộ ĐỒNG LƯƠNG, bộ  CƠ LƯƠNG, bộ CƠ ÂM và bộ ĐỒNG ÂM.
+
+Trên tất cả lá số TỬ VI chỉ có 1 nửa hình thành bộ CƠ NGUYỆT ĐỒNG LƯƠNG nằm ở đâu đó. Trong 1 nửa đó còn bị mất tác dụng bởi KHÔNG KIẾP đem lại sự không may cho bộ CƠ NGUYỆT ĐỒNG LƯƠNG. Còn bị phản tác dụng bởi bộ HOẢ LINH  chủ giận hờn, người mẹ giận hờn coi như ngày tháng dầu sôi lửa bỏng. Bộ ÂM LƯƠNG này lại còn phản tác dụng bởi bộ HAO KÌNH ĐÀ chủ sự chống đối. Trừ trường hợp KÌNH PHƯỢNG chủ tán dương ngưỡng mộ. Lại còn kể đến các bộ KỴ KIẾP, KỴ KÌNH HÌNH.... làm cho giữa cha mẹ và con cái không tìm thấy tiếng nói chung.
+
+Ngoài bộ CƠ NGUYỆT ĐỒNG LƯƠNG. Ta còn bắt gặp bộ ÂM DƯƠNG LƯƠNG không có CỰ MÔN hội họp, cũng được đánh giá là tốt đẹp nhất là khi có NHẬT NGUYỆT sáng.
+
+Trên là những điều cơ bản trong thực tế, căn cứ vào sao tụ tập để nhận xét. Có những người chưa sinh con đã phá thai. Sinh con đem vất bỏ. Bỏ con theo trai (bỏ chồng cũng được đi). Lại có trường hợp con cái bỏ rơi người mẹ. Con cái có hiếu lại càng bị người mẹ áp bức...
+
+Và không gì buồn bằng người mẹ hiền đúng nghĩa, cả đời gánh vác cho con cái và đau lòng khi con cái hư hỏng, không đạt như sở nguyện của mình hoặc lìa bỏ gia đình, hoặc lìa đời vì đau ốm hay vì bất cứ tai nạn gì. Cho nên để có bộ ÂM LƯƠNG tốt đẹp với nghĩa người đàn bà (THÁI ÂM) may mắn (THIÊN LƯƠNG) lại cần đi với Hỉ tinh, Cát tinh mới toàn mỹ.
+
+ÂM LƯƠNG là tiếng nói tốt lành, tuy nhiên không phải điều tốt nào cũng được mọi người dễ dàng chấp nhận. Có người lại chọn những lời nói chanh chua, cay nghiệt... làm lẽ sống. Chỉ ngần ấy thôi, ta có thể suy đoán ngược họ đối xử với cha mẹ họ như thế nào.

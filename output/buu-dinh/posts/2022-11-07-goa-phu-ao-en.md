@@ -1,0 +1,168 @@
+---
+id: bd#6065707196337893110
+title: "GOÁ PHỤ ÁO ĐEN."
+url: https://tuviungdung.blogspot.com/2022/11/goa-phu-ao-en.html
+published: 2022-11-07T18:33:00.000+07:00
+updated: 2022-11-07T18:33:28.585+07:00
+labels: []
+---
+
+# GOÁ PHỤ ÁO ĐEN.
+
+[
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh55369mlM-sfmuqXsUYz_41gee-7-bH1m4F_VS43wGQO-DqSlwCZpuoCDWhTNFQsnehn9vhZccOqzU875dg3J2a51TTt4EmZfqnwIBwpTov9zKluK9QT_Ww5Duune-Ox-xxtfsUjAC7HozdeJm2gIlK_G1qFZg7K7SGocmeMnD2HPWvnRbUSSixTYF_Q/s16000/GoaPhu.jpg)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh55369mlM-sfmuqXsUYz_41gee-7-bH1m4F_VS43wGQO-DqSlwCZpuoCDWhTNFQsnehn9vhZccOqzU875dg3J2a51TTt4EmZfqnwIBwpTov9zKluK9QT_Ww5Duune-Ox-xxtfsUjAC7HozdeJm2gIlK_G1qFZg7K7SGocmeMnD2HPWvnRbUSSixTYF_Q/s518/GoaPhu.jpg)
+
+ **Héra Mirtel Goá phụ áo đen là tên 1 loài nhện
+cực độc có màu đen và vài vệt đỏ trên lưng. Sau khi làm tình xong, con cái
+thường ăn thịt con đực. Đó là lý do người ta đặc tên nó là Goá phụ áo đen. Cụm
+từ này được dùng mô tả những phụ nữ giết chồng. Chúng ta tìm hiểu lá số Tử Vi của
+1 nữ văn sĩ Pháp đã giết đến 2 người chồng.Phụ nữ giết chồng có nhiều lý do.Bạo lực gia đình đưa đến xô xát
+gây ngộ sát ngoài ý muốn.Giết chồng để chiếm đoạt tài sản.Giết chồng do dâm dục đưa đến kẻ
+gian phụ, người dâm phụ...Đặc biệt nữ văn sĩ này lại không
+thuộc các lý do thường gặp, trái lại 1 lý do vô cùng vớ vẩn. Lý do lẵng lơ cũng
+có nhưng không phải lý do chính là giết chồng. Bà ta sinh ra ở Lyon, Pháp. Do là
+1 văn sĩ nên bà ta có nhiều danh xưng. Nào là nhũ danh, bút danh, nghệ danh.
+Nhưng nổi tiếng nhất là bút danh Hêra Mirtel. Bà ta viết những gì? Viết văn,
+làm thơ, kịch, nhà nữ quyền hăng hái nhất, cố vấn hôn nhân cho các phụ nữ khác,
+tất nhiên bà ta cũng viết báo, chủ đề “Những lá thư phụ nữ”... Ngoài ra còn là
+thợ làm tóc, giảng viên và theo chủ nghĩa tâm linh Blach Mass có tính mê tín.Dù là văn sĩ viết nhiều thể loại
+nhưng bà vẫn không mấy nổi tiếng. Vì thời ấy, tại Pháp vô số văn nghệ sĩ xuất
+hiện. Đề tài bà ta viết thuộc dạng trào lưu, phong trào. Giá như bà ta viết đề
+tài “Làm Thế Nào Để Giết Một Người Chồng” chắc chắn trở thành best seller. Cho
+nên những điều người ta nói, người ta viết thường không đi đôi với nhau. Sau khi đến Mexico do
+công việc của bố bà ta có cửa hàng ở đấy. Khoảng năm 1892 đến năm 1897 Đinh
+Dậu, 30 tuổi ta. Bà ta kết hôn với 1 thương gia bản xứ giàu có, kinh doanh
+thành công ở Mexico và cả Châu Âu. Ông này tuổi đời gấp đôi tuổi của
+bà ta. Sau kết hôn họ chuyển đến Paris. Sinh 2 cố con gái Paule
+(1898) và Louise (1904 ?). Và từ đây bà ta bắt đầu tham gia vào công tác văn
+nghệ thành lập một salon văn học. Nhưng ở Paris các văn nhân nổi tiếng rất
+nhiều, kể cả phụ nữ. Bà ta khó mà theo kịp họ. Vì thế bà ta muốn trở lại Mexico ở
+đó bà ta có lợi thế hơn. Ác thay ông chồng hiền lành và có phần nhu nhược đang
+thành công ở Châu Âu lại không muốn. Tác phẩm ra đời sớm nhất của bà
+là năm 1907. Tác phẩm cuối cùng là năm 1920 Canh Thân, năm bà giết người chồng
+thứ 2 và bị bắt. Để trở lại xứ Mexico. Bà ta
+lên kế hoạch (THIÊN CƠ) giết ông chồng này bằng thuốc độc (HOÁ KỴ) bỏ trong tô
+súp. Mọi việc không qua mắt người hầu gái và người này cảnh báo với ông chủ.
+Ông ta lấy mẫu, nhờ nhà hoá học phân tích, đó là chất độc. Chuyện xảy ra vào
+đầu năm 1914 Giáp Dần. Năm ấy bà ta 47 tuổi ta.  Ngày 7 tháng 3 dương lịch
+năm ấy. Người ta phát hiện ông chồng bị bắn vào đầu được cho là tự sát. Về sau
+người ta còn khẳng định rằng: ông ấy sợ vợ quá nên tự sát. Chuyện nghe cũng lạ.
+Sự thật vào năm đó nước Pháp đang bắt đầu đi vào cuộc chiến thế giới lần thứ
+nhất. Chẳng ai bận tâm đến các vụ tự sát hay bị giết. Đó là lý do người ta
+chẳng điều tra vụ này. Trở thành 1 goá phụ giàu có, và
+cứ tiếp tục như thế dễ trở thành siêu giàu. Bà ta quay trở lại Mexico như
+ước muốn. Với cái mác nữ văn sĩ thần bí lại sang giàu mở 1 thẩm mỹ viện. Tính
+đến năm 1916 Bính Thìn bà ta đã 49 tuổi ta, bà vẫn câu được một tên đàn ông bí
+ẩn, làm ăn phi pháp, đẹp trai. Và có số bị vợ giết cho hợp với số phận mới kết
+giao với bà. Cùng năm cặp đôi trở lại Pháp. Trở lại Pháp bà ta sống rất xa
+hoa lại thành lập một salon văn học mới, các thành viên do bà lựa chọn. Ước
+muốn của người có KHÔI XƯƠNG KHÚC vẫn cháy bỏng như ngọn HOẢ TINH. Cái tuổi hồi
+xuân khiến bà ta càng lẵng lơ hơn. Thời điểm này lại thêm cái nạn nghiện ma
+tuý. Điều này khiến ông chồng đâm khó chịu. Nhưng bà ta nắm được cái thóp ông
+này làm ăn phi pháp, bà doạ tố cáo. Thế là ông ấy ngậm bồ hòn làm ngọt.Một lần
+năm 1918  Có lẽ bà ta học theo vụ Nữ Nô Tì Chuyên Bóp Cổ vốn nổi tiếng
+cách đó 10 năm. Bà ta bóp cổ chồng thứ 2. Có lẽ học không đúng sách. Bóp cổ mấy
+đứa con nít thì thành công. Bóp cổ người ngang sức mình rõ ràng thất bại. Người
+chồng thoát chết. Bà ta tuyên bố tỉnh bơ. "Tôi không biết điều gì
+đã xảy ra với tôi."Cuộc sống đầy rẫy nguy cơ kéo dài
+đến ngày 8 tháng 7 năm 1920. Ông chồng thứ 2 suýt bị bắn chết nhưng đến 31/7
+cùng năm ông ta bị bắn chết. Bỏ xác ông ta vào 1 cái thùng, gởi đến Nancy,
+Pháp. Mọi việc bị phát hiện do người tài xế không thấy ông chủ xuất hiện liền
+đi báo với cảnh sát. Kể lại những việc trước đó anh ta từng chứng kiến. Thế là
+cảnh sát vào cuộc. Ban đầu còn chối quanh co, vu oan cho chồng. Khi chiếc thùng
+được phát hiện, một người đàn ông bị bắn vào đầu và mặt bị đánh nát. Bà ta đành
+thú nhận. Có điều đánh nói là cảnh sát hồ nghi cô con gái đầu tức là Paule có
+nhúng tay vào tội ác. Việc đóng thùng, gửi thùng đi không thể 1 người làm. Rõ
+ràng cô ta biết việc làm của mẹ nhưng là con không thể vì thế mà đứng ra tố
+cáo. Cũng từ vụ án này, người ta lại
+lôi ra vụ người chồng thứ nhất chết cách đó 6 năm. Nhưng chẳng tìm thấy bằng
+chứng nào cả. Bà ta bị bắt vào năm ấy và năm
+sau ra toà. Bị buộc tội 20 năm tù. Cô con gái được trắng án. Không làm là không
+có tội. Đến năm Tân Tị, 64 tuổi. Bà ta chết nguyên nhân không xác định.Xem hình Quả Phụ Áo Đen. [
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4dlXuonUceiUJRMzHGIZUcaX74M8v2sYc9ok7MvhLItYKaUy3S8zsgMtYQ_I27_SxDmv1PDdFR47vjhgwtgHIfihYmtvKlSPHukCfnwV9rv1fzFlmoEjlsYPujKxqdfsfxPcrHiAbqUt1imKEPD3TTsFjUyFborL7NzPF2FL5EtiQklzJUiGGlOiuqg/s1600/180px-Mugshot,_H%C3%A9ra_Mirtel.png)
+](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4dlXuonUceiUJRMzHGIZUcaX74M8v2sYc9ok7MvhLItYKaUy3S8zsgMtYQ_I27_SxDmv1PDdFR47vjhgwtgHIfihYmtvKlSPHukCfnwV9rv1fzFlmoEjlsYPujKxqdfsfxPcrHiAbqUt1imKEPD3TTsFjUyFborL7NzPF2FL5EtiQklzJUiGGlOiuqg/s267/180px-Mugshot,_H%C3%A9ra_Mirtel.png)
+
+PHÂN TÍCH LÁ SỐ TỬ VI.Lá sô thuộc cách CỰ ĐỒNG Sửu Mùi
+nói riêng. Nói chung là cách CỰ ĐỒNG CƠ. Đây là cách rất dễ gặp, thường chiêu
+lấy thị phi. Vì 3 sao. THIÊN CƠ chất vấn, THIÊN ĐỒNG đáp. CỰ MÔN phản đối. Nói
+qua nói lại thường sinh chuyện. Thậm chí 1 nhóm vài ba người thôi cũng sinh
+chuyện, sau đó là chia rẽ mỗi người mỗi nơi. Hai vợ chồng có cùng cách này khó
+mà bền lâu. Xem bài viết  Chung Trời Cách Biệt. Cách này ở cung Phối cũng
+sinh chuyện.  Tức Mệnh có bộ DƯƠNG LƯƠNG tốt đẹp.**
+
+“CỰ ĐỒNG cùng ở cung Phu,
+
+Một sầu góa bụa, hai sầu lỡ duyên”
+
+Cách: Đa bất  mãn hoài. Dễ nhớ và dễ
+hiểu là cách Cùng nhau (THIÊN ĐỒNG) cãi cọ (CỰ MÔN).
+
+**Học viên có FBD là lúc nên coi
+lại bài viết cách CỰ ĐỒNG Sửu Mùi. Người viết không tiện nhắc lại. Có chăng là
+đi sâu vào trường hợp rất đặc biệt của nữ văn sĩ này. Khi nói đến các từ phản đối, phản
+bội, phản dân hại nước, phản trắc đến phản loạn, phản động. Ta có quyền nghĩ
+đến ngôi sao CỰ MÔN. Vì nó là ngôi sao chủ sự phản. Lòng dạ phản bội chính là
+bộ sao CỰ ĐỒNG. Lòng dạ là THIÊN ĐỒNG, phản bội là CỰ MÔN. Vấn đề còn lại là sự
+phản bội đúng hay sai mà thôi. Lỡ dại theo làm tay sai cho cái ác, cái xấu,
+băng đảng, tà ma ngoại đạo... phản bội lại cái xấu, cái ác là điều đáng hoan
+nghênh. Chuyện vợ chồng phản bội lẫn nhau
+là chuyện thường gặp trong xã hội nhưng đưa đến giết hại nhau là hiếm gặp.
+Nhưng trước hết cần biết người phụ nữ này thuộc loại dị chí.“CỰ ĐỒNG HOẢ LINH tất sinh dị
+chí”. So sánh với cách “CỰ MÔN ĐÀ LA  tất sinh dị chí” thì cách CỰ ĐỒNG có
+HOẢ LINH đáng sợ rất nhiều. Vì bộ sát tinh này từ giận hờn, chuyển qua khùng
+điên làm những chuyện bậy bạ rất dễ gặp. Tại đây có thêm HOÁ KỴ đi với HOẢ
+TINH. Từ đố kỵ, ganh ghét...là HOÁ KỴ chuyển qua nóng giận HOẢ TINH. Càng kỳ
+khôi, kỳ cục khi có THIÊN KHÔI. Vì thế Goá phụ áo đen làm những chuyện ly kỳ.
+Chính sao THIÊN KHÔI trong trường hợp này lại là vô duyên nhất.Lá số này. Các năm, nếu có thêm
+lưu KHÔI VIỆT đi với lưu ĐÀ LA hay lưu KÌNH DƯƠNG, lưu ĐÀO HOA . Cái khùng điên
+nổi lên mạnh mẽ. Do hình thành bộ VIỆT KÌNH HOẢ hoặc VIỆT ĐÀO KÌNH HOẢ. Lửa
+điên bốc lên mạnh do mình gây ra và tạo nên là bộ VIỆT ĐÀO.Xét về hung tinh, ta có PHỤC BINH
+hung bàng tinh, Sát tinh có bộ HOẢ LINH, do là 1 bộ sao nên trong ngoài đều
+được kể. Lại có thêm KỴ tinh, còn HÌNH tinh bắn trúng ngay chóc cung Phối. Cung
+này xui xẻo lại có cả HOẢ LINH và THIÊN VIỆT CÁO PHỤ. Nếu như không có HOẢ TINH, HOÁ
+KỴ. Sao THIÊN KHÔI trong trường hợp này đi với bộ XƯƠNG KHÚC rất hay. Chủ văn
+chương vượt trội hơn người. Nhưng có HOÁ KỴ đâm ra kỳ khôi. Viết 1 đường trong
+lòng nghĩ 1 nẻo. Đi với HOẢ TINH thành bộ KHÔI HOẢ trở thành tro bụi. Ở đây
+không có đám cháy nào xảy ra cả nhưng sự nghiệp văn chương của bà ta trở thành
+tro bụi. Lại có cả PHI LIÊM càng tiêu tan. Còn bị người đời cười nhạo sự ham
+muốn nổi danh của bà ta. Sự thật các văn sĩ mấy ai giàu có. Do dị chí ưa vượt
+trội hơn người, vô tình làm những chuyện khôi hài. Văn sĩ người ta trọng vì tài
+chứ không phải vì tiền. Quan trọng là những gì người ta viết. Xét về tâm bệnh bà ta thuộc loại
+thần kinh, đồng bóng. Nhưng nói bà ta thần kinh nhất định bà ta không chju.
+Thần kinh mà biết viết văn, làm thơ... Loại thần kinh thể trạng nhẹ rất nhiều
+trong xã hội. Văn sĩ lại xưng văn sĩ thần bí, theo tà đạo, lại giết chồng.
+Những người chồng này lại rất hiền lành. Chưa hết vẫn còn. Bà ta cho là hồi mới
+qua Mexico nhiều thanh niên tự tử vì bà. Nếu nói bà ta giết dễ tin
+hơn là tự tử. Căn cứ vào lá số Tử Vi. Thời điểm bà ta qua Mexico ở
+đại hạn có bộ VIỆT LINH HÌNH. Một bộ sao đáng sợ đối với người có bộ KỴ HOẢ tại
+Mệnh. Tại sao bà ta nhắm vào các người
+chồng thay vì các văn nhân trong salon văn học. Điều này dễ dàng tìm thấy trên
+lá số Tử Vi của chính bà ta. Cung Phu Quân cũng hội đủ 2 sao HOẢ LINH, chính vì
+thế bà ta căm cái cung này, lại có thêm THIÊN HÌNH. Như thế hình thành bộ HÌNH
+LINH lịnh xé xác. Đã thế lại có thêm THIÊN VIỆT chủ phát sinh. Sinh ra bộ VIỆT
+LỊNH HÌNH. Tính chất cực kỳ mạnh mẽ. Lịnh xé xác có khi chỉ hăm he cho oai.
+Nhưng mỗi khi có THIÊN VIỆT chủ phát sinh hay ĐÀO HOA chủ tạo ra. Cái lịnh đó
+cực kỳ mạnh.Một chi tiết đáng nói cung PHU có
+CÁO PHỤ nhưng cả 2 ông chồng chưa hề tố cáo bà ta là vũ thê, sát thê. Chỉ có
+cái xác chết tố cáo mà thôi. Nghĩ cũng éo le. Bàn về Hạn của Goá Phụ Áo Đen.Rất bài bản, người có tính cách
+hung dữ mọi sự việc thường xảy ta tại các cung Tài, Quan. Vì đó là nới bộc lộ
+tính cách của Mệnh rõ nhất. Cho nên hạn 49 chưa qua 53 đã tới xảy ra trong khoảng
+đại hạn tại đây. Xem bài viết  cùng tên. Trong khoảng thời gian 10 năm tại
+đây. Những ngôi sao còn thiếu trong bản Mệnh. Như, ĐÀO HOA tạo ra. THIÊN VIỆT
+phát sinh ra, ĐÀ LA giận tràn hông, KÌNH DƯƠNG lửa bốc. Với những người khác
+các sao vừa nói kể như vô hại, có khi còn tốt là khác. Nhưng với Goá Phụ Áo Đen
+nó kích thích cái điên vốn có. Giả thích về sao PHỤC BINH. Nếu
+như Goá phụ Áo Đen phục vụ trong giới văn nghệ cũng hợp số. Nhưng viết có vễ
+không mấy phù hợp. Vì ngôi sao ngòi bút, chủ viết không nằm ở Mệnh Thân. Bộ
+“Văn phòng tứ bảo” không đi với XƯƠNG KHÚC KHÔI. Cho dù có cũng hỏng cách vì bộ
+KỴ KHÔI HOẢ.PHỤC BINH có đặc điểm “lại lần
+nữa”. Do đó bà làm thịt 2 ông chồng. Nếu không bị PHÁ QUÂN KIẾP tóm, có thể có
+ông thứ 3, thứ 4 dính đạn. Nhất là các “phi công trẻ” ham tiền. Vì bà ta giờ
+đây giàu quá cỡ. Đâu có cần gì Song LỘC, Minh LỘC Ám LỘC... chỉ cần có ông
+chồng có LỘC TỒN, HOÁ LỘC. Con đường ngắn nhất trở nên sang giàu.  Con
+đường làm quan tắt là kiếm ông chồng có KHOA QUYỀN.Sao PHỤC BINH của Goá Phụ còn có
+đặc điểm là khéo chìu chuộng hết lòng, t như tôi đòi, tì nữ,  khi “Tình
+chỉ đẹp khi còn dang dở”... Tình mất vui vì “BINH KỴ HOẢ LINH”. Đó là lý do, vì
+sao, chân dung goá phụ thấy ớn lạnh vẫn có người bị dính đạn. Đến đây, các bạn hết
+thắc mắc. Có thế mới xếp vào Tứ Hung.**
