@@ -35,11 +35,11 @@ from kiem_bai import BULLET_RE, DAU_DONG, HEADING_RE, MIEN_TRU, NGUON_RE, TONG_K
 
 TRAN = 90_000  # byte; người dùng nâng từ 30.000 sau khi đo bài thang-pham-v3 (405 KB, hạn hai năm)
 BYTE_TOKEN = 1.9
-SACH = ("TB", "TL", "TĐ", "NPL")
+SACH = ("TB", "TL", "TĐ", "NPL", "BĐ")
 MIEN = MIEN_TRU + ("Tổng luận",)
 SO_MUC_RE = re.compile(r"^(\d+(?:\.\d+)*)\.\s")
-NHAN_DAU_RE = re.compile(r"^" + DAU_DONG + r"\s+[`*]*((?:\[(?:TB|TL|TĐ|NPL|Claude)\][`*]*\s*)+)")
-NHAN_RE = re.compile(r"\[(TB|TL|TĐ|NPL|Claude)\]")
+NHAN_DAU_RE = re.compile(r"^" + DAU_DONG + r"\s+[`*]*((?:\[(?:TB|TL|TĐ|NPL|BĐ|Claude)\][`*]*\s*)+)")
+NHAN_RE = re.compile(r"\[(TB|TL|TĐ|NPL|BĐ|Claude)\]")
 TONG_KET_RE = re.compile(r"^\**" + re.escape(TONG_KET) + r":?\**:?\s*")
 KHAC_RE = re.compile(
     r"khác (?:với )?(?:TB|TL|Tân Biên|Thiên Lương)\b"
@@ -252,6 +252,13 @@ def run(nguon: Path, tran: int) -> int:
     out = pack / "tong-luan-nguon.md"
     out.write_text(ra, encoding="utf-8")
     n = _nbyte(ra)
+    la_so = bai_dir.parent / (bai_dir.name + ".json")  # output/luan-giai/<tên>.json cạnh thư mục bài
+    if la_so.is_file():
+        from ban_do_quan_he import dung
+        (pack / "ban-do-quan-he.md").write_text(dung(la_so), encoding="utf-8")
+        print(f"đã ghi {pack / 'ban-do-quan-he.md'}")
+    else:
+        print(f"CẢNH BÁO không thấy {la_so}: không dựng được ban-do-quan-he.md", file=sys.stderr)
     print(f"đã ghi {out} ({n} byte, ~{round(n / BYTE_TOKEN / 1000, 1)} nghìn token; "
           f"{len(muc)} mục, {sum(len(m.don_vi) for m in muc)} đơn vị)")
     return 0

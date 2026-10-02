@@ -14,13 +14,13 @@ tiếng Việt. Hai việc diễn ra trong repo này, đừng lẫn chúng:
 |---|---|
 | `input/*.clean.md` | 4 sách nguồn đã OCR: Tân Biên, Thiên Lương, Trần Đoàn, Nguyễn Phát Lộc. Không sửa tay. |
 | `output/claude/tuvi-kb/` | **KB chính thức**, dùng cho mọi luận giải. 1596 file md. |
-| `output/claude/tuvi-kb/90-source/` | 664 khúc nguyên văn, id ổn định (`tb#0039-...`). Nguồn sự thật cho mọi trích dẫn. **Không sửa.** |
+| `output/claude/tuvi-kb/90-source/` | 664 khúc nguyên văn của 4 sách, cộng khúc blog Bửu Đình ở `buu-dinh/` (`bd#…`, dựng bằng `scripts/crawl_buudinh.py` + `chunk_buudinh.py`), id ổn định (`tb#0039-...`). Nguồn sự thật cho mọi trích dẫn. **Không sửa.** |
 | `output/claude/tuvi-kb/10-stars/` … `60-phu/` | 111 thẻ sao, 364 thẻ cung, 22 cách cục, 63 thẻ hạn, 39 quy tắc, 325 thẻ phú. |
 | `output/claude/tuvi-kb/00-index/` | Sổ đăng ký `stars.md`, `palaces.md`; bảng tra `lookup*.md` (sinh tự động); `chart-reading.md` (cách đọc ảnh lá số). |
 | `output/claude/tuvi-kb/SKILL.md` | Quy trình 7 bước luận giải. Sub-agent `xem-tu-vi` bám theo file này. |
 | `output/claude/tuvi-kb/scripts/tra_cuu.py` | Nhận lá số JSON → in danh sách thẻ cần đọc, hoặc (`--pack`) dựng gói ngữ cảnh cho các lượt sub-agent (A, R, B, C, E, D…, T… nếu xem hạn tháng; Z tổng luận). Không luận giải. |
-| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py`, `trich_tong_ket.py` | Ghép các phần bài (có `phan-z.md` thì chèn mục 0 sau "Cách đọc"); kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật; mục 0: trần 10.000 ký tự, chỉ nhãn TB/TL); lấy mẫu gạch đầu dòng cho `kiem-nguon`; rút các dòng Tổng kết thành đầu vào lượt Z. `kb_the.py` là thư viện chung. |
-| `.claude/agents/` | `xem-tu-vi` (Sonnet high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tong-luan` (Sonnet, viết mục 0. Tổng luận), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
+| `output/claude/tuvi-kb/scripts/` `ghep_bai.py`, `kiem_bai.py`, `lay_mau_nguon.py`, `trich_tong_ket.py`, `ban_do_quan_he.py` | Ghép các phần bài (có `phan-z.md` thì chèn mục 0 sau "Cách đọc"); kiểm bài (nhãn nguồn, tổng kết `[Claude]`, dòng `Nguồn:`, thẻ có thật; mục 0: 12.000–20.000 ký tự, nhãn TB/TL/[Claude] kèm chú dẫn `(← số mục)`); `ban_do_quan_he.py` dựng bản đồ vị trí các cung (tam hợp, xung chiếu, tứ hóa, Tuần/Triệt) từ JSON lá số; lấy mẫu gạch đầu dòng cho `kiem-nguon`; rút các dòng Tổng kết (và bản đồ quan hệ nếu có `<D>.json`) thành đầu vào lượt Z. `kb_the.py` là thư viện chung. |
+| `.claude/agents/` | `xem-tu-vi` (Sonnet high, luận giải), `kiem-nguon` (Sonnet, kiểm truy nguồn bài đã ghép), `tong-luan` (Sonnet high, "thầy luận": viết mục 0. Tổng luận thành bài luận văn xuôi có mạch, 12.000–20.000 ký tự), `tra-the` (Sonnet, câu hỏi lẻ không có lá số). |
 | `scripts/` | Toolchain KB đang dùng: `tuvi_kb_common.py`, `chunk_sources.py`, `validate_kb.py`, `build_lookup.py`, `dump_chunks.py`. |
 
 Lưu ý đường dẫn: KB nằm ở `output/claude/tuvi-kb/`, không phải `output/tuvi-kb/`
@@ -83,14 +83,18 @@ Sub-agent `xem-tu-vi` đã cấu hình Sonnet, effort high tại
    báo người dùng kèm danh sách, không tự sửa.
 6. **Đợt 3 — tổng luận** (lượt Z, sau khi bước 5 đã sửa xong):
    ```bash
-   python3 $S/trich_tong_ket.py $D          # sinh $D/pack/tong-luan-nguon.md
+   python3 $S/trich_tong_ket.py $D          # sinh $D/pack/tong-luan-nguon.md và $D/pack/ban-do-quan-he.md
    ```
-   Gọi `tong-luan` (không phải `xem-tu-vi`), prompt gồm đường dẫn `$D` và
-   `$D/pack/`. Nó ghi `$D/phan-z.md` (mục `## 0. Tổng luận`, ≤ 10.000 ký tự, mỗi ý
-   `[TB]`/`[TL]`). Rồi ghép và kiểm lại như bước 4; `ghep_bai.py` tự chèn mục 0 sau
-   "Cách đọc". `kiem_bai.py` báo E7/E8 thì `SendMessage` cho `tong-luan` sửa. Nội
-   dung các mục khác sau đó mà sửa thì chạy lại cả bước này. File nguồn quá 45 KB
-   thì ghi sẵn trong prompt điểm chia khúc để agent đọc theo `offset`/`limit`.
+   (`ban-do-quan-he.md` cần file lá số `$D.json` cạnh thư mục bài.) Gọi `tong-luan` (không
+   phải `xem-tu-vi`), prompt gồm đường dẫn `$D` và `$D/pack/`. Nó ghi `$D/phan-z.md` (mục
+   `## 0. Tổng luận`, 12.000–20.000 ký tự, văn xuôi như một thầy luận: nối cung theo
+   tam phương tứ chính, xếp mạch chính, nêu mâu thuẫn). Rồi ghép và kiểm lại như bước 4;
+   `ghep_bai.py` tự chèn mục 0 sau "Cách đọc". `kiem_bai.py` báo E7–E10 thì `SendMessage`
+   cho `tong-luan` sửa. Nội dung các mục khác sau đó mà sửa thì chạy lại cả bước này. File
+   nguồn quá 45 KB thì ghi sẵn trong prompt điểm chia khúc để agent đọc theo
+   `offset`/`limit`. Báo cáo của `tong-luan` có danh sách "chỗ thiếu chất liệu": nếu dày
+   và người dùng thấy bài còn mỏng thì cân nhắc mở rộng đầu vào (cho nó đọc thêm thẻ),
+   chưa làm mặc định.
    Người dùng chỉ đưa **bài đã ghép sẵn** (không có `phan-*.md`): chép vào
    `output/luan-giai/<tên>.md`, chạy `trich_tong_ket.py output/luan-giai/<tên>.md`
    (gói ra `output/luan-giai/<tên>/pack/`), gọi `tong-luan` với `D=output/luan-giai/<tên>`,
@@ -125,17 +129,18 @@ một câu trong sách, chứ không phải ở chỗ bài luận nghe hay.
 1. **Chỉ dùng kiến thức trong thẻ** `10-stars/` … `60-phu/`. Không dùng hiểu
    biết Tử Vi ngoài thẻ, dù có vẻ đúng.
 2. **Mỗi nhận định mang nhãn nguồn**: `[TB]` Tân Biên, `[TL]` Thiên Lương là
-   nguồn chính; `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc chỉ đối chứng, lấy từ
+   nguồn chính; `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc, `[BĐ]` Bửu Đình (blog tuviungdung.blogspot.com, khúc `bd#…`) chỉ đối chứng, lấy từ
    mục **Đối chứng** của thẻ. Ghép hai thẻ hoặc suy ra điều thẻ không viết thì
    mang nhãn `[Claude]`. Mỗi sao/cách cục/quy tắc/cung/điểm hạn kết thúc bằng
    `**[Claude] Tổng kết:**` và dòng `Nguồn:` liệt kê đường dẫn thẻ.
-   **Ngoại lệ duy nhất: mục `## 0. Tổng luận`** (người dùng đã chốt). Mục này chỉ
-   gom các dòng Tổng kết của bài bên dưới, không thêm ý; mỗi ý gắn `[TB]`, `[TL]`
-   hoặc `[TB][TL]` theo sách đỡ ý đó trong đơn vị gốc, không `[Claude]`, không
-   dòng Tổng kết/`Nguồn:`; ý chỉ có `[TĐ]`/`[NPL]`/`[Claude]` đỡ thì bỏ. Người đọc
-   đối chiếu ở mục cùng tên bên dưới.
+   **Ngoại lệ duy nhất: mục `## 0. Tổng luận`** (người dùng đã chốt lại: bài luận của
+   "thầy", không phải bản gom cơ học). Văn xuôi, không dòng Tổng kết/`Nguồn:`. Ý lấy thẳng
+   từ sách gắn `[TB]`/`[TL]`/`[TB][TL]` đúng sách đỡ ý đó trong đơn vị gốc; ý ghép, so
+   sánh, xếp ưu tiên gắn `[Claude]` và **bắt buộc** kèm chú dẫn `(← 2, 5.3)` về các mục
+   của bài (kiểm bằng E9, E10). Tiền đề của mọi phép ghép phải là điều một dòng Tổng kết
+   hoặc bản đồ vị trí đã có; cấm thêm kiến thức Tử Vi ngoài bài, cấm `[TĐ]`/`[NPL]`/`[BĐ]`.
 3. **TB và TL khác nhau thì nêu cả hai**, không chọn thay người dùng. `[TĐ]`,
-   `[NPL]` không được dùng để bác TB/TL.
+   `[NPL]`, `[BĐ]` không được dùng để bác TB/TL.
 4. **Chỉ dùng gạch đầu dòng thật sự thỏa lá số**: đúng địa chi, đúng miếu/hãm,
    đúng nam/nữ, đúng sao đồng cung hay hội chiếu như thẻ ghi.
 5. Không có thẻ cho một bộ sao thì nói thẳng "sách trong kho không có đoạn riêng
