@@ -16,9 +16,9 @@ skill). Thư mục tự chứa đủ thẻ, chỉ mục và script, chép đi đ
    bảng chuẩn hoá (Bước 1), hỏi đúng/sai, dừng lại chờ trả lời.
 2. **Mỗi nhận định mang nhãn nguồn** sao chép từ gạch đầu dòng của thẻ:
    `[TB]` Tân Biên, `[TL]` Thiên Lương là nguồn chính; `[TĐ]` Trần Đoàn,
-   `[NPL]` Nguyễn Phát Lộc chỉ lấy từ mục **Đối chứng**. Ghép hai thẻ hoặc
+   `[NPL]` Nguyễn Phát Lộc, `[BĐ]` Bửu Đình (blog) chỉ lấy từ mục **Đối chứng**. Ghép hai thẻ hoặc
    suy ra điều thẻ không viết thì mang nhãn `[Claude]`.
-3. **TB và TL nói khác nhau thì nêu cả hai**, không tự chọn. `[TĐ]`/`[NPL]`
+3. **TB và TL nói khác nhau thì nêu cả hai**, không tự chọn. `[TĐ]`/`[NPL]`/`[BĐ]`
    chỉ để đối chiếu, không dùng để bác TB/TL.
 4. **Chỉ dùng gạch đầu dòng có điều kiện thật sự thỏa lá số**: đúng vị trí
    (địa chi), đúng miếu/hãm (sáng sủa/mờ ám), đúng nam/nữ, đúng sao đồng
@@ -163,7 +163,7 @@ Dùng phần Hạn của script:
 Cấu trúc: (1) bảng lá số đã xác nhận; (2) Mệnh, Thân; (3) từng cung;
 (4) cách cục thành/phá; (5) hạn năm xem. Mỗi sao/cách cục/quy tắc/cung/điểm
 hạn là một đơn vị: các gạch đầu dòng ý rút gọn mở bằng nhãn `[TB]`/`[TL]`/
-`[TĐ]`/`[NPL]`/`[Claude]` (ngắn lời, không bớt ý), rồi dòng
+`[TĐ]`/`[NPL]`/`[BĐ]`/`[Claude]` (ngắn lời, không bớt ý), rồi dòng
 `**[Claude] Tổng kết:**` chỉ gom các ý trên, rồi dòng `Nguồn:` liệt kê đường dẫn
 thẻ trong backtick. Không có mục "Nguồn đã dùng" cuối bài. Mọi câu nhận định
 theo đúng 5 ràng buộc ở đầu. Khi người

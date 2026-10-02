@@ -24,7 +24,7 @@ YAML tối giản: `khoá: giá trị`, `khoá: [a, b]`, hoặc `khoá:` rồi c
 | id | có | chuỗi | theo bảng trên |
 | type | có | chuỗi | tên type theo thư mục |
 | primary | có | danh sách | tập con không rỗng của `[tb, tl]` |
-| cross | không | danh sách | tập con của `[td, npl]` |
+| cross | không | danh sách | tập con của `[td, npl, bd]` |
 | chunks | có | danh sách | id khúc trong `90-source/`, ít nhất một |
 | stars | tuỳ type | danh sách | id trong `00-index/stars.md`; han-card được dùng `luu-<id>` |
 | palace | palace-card | danh sách | id trong `00-index/palaces.md`, cùng thư mục |
@@ -49,9 +49,9 @@ Dòng đầu là tiêu đề `# ...`. Các mục là `## Tên mục` đúng chí
 
 ## 4. Nhãn nguồn
 
-- Mỗi gạch đầu dòng (`- `, `+ `, `* `) bắt đầu bằng đúng một nhãn: `[TB]`, `[TL]`, `[TĐ]`, `[NPL]`, rồi một khoảng trắng.
+- Mỗi gạch đầu dòng (`- `, `+ `, `* `) bắt đầu bằng đúng một nhãn: `[TB]`, `[TL]`, `[TĐ]`, `[NPL]`, `[BĐ]`, rồi một khoảng trắng.
 - Ngoài mục Đối chứng chỉ được dùng `[TB]` và `[TL]`, và chỉ nhãn có trong `primary`.
-- Trong mục Đối chứng chỉ được dùng `[TĐ]` và `[NPL]`. Mỗi nguồn trong `cross` nên có ít nhất một dòng.
+- Trong mục Đối chứng chỉ được dùng `[TĐ]`, `[NPL]` và `[BĐ]` (blog Bửu Đình, khúc `bd#…` trong `90-source/buu-dinh/`; chỉ đối chứng, không thay TB/TL). Mỗi nguồn trong `cross` nên có ít nhất một dòng.
 - Các mục không cần nhãn: Nguyên văn, Phú liên quan, Sao và cung liên quan, Thành phần, Cung áp dụng, Câu phú.
 
 ## 5. Mục Nguyên văn

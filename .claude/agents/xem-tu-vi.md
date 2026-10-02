@@ -1,6 +1,6 @@
 ---
 name: xem-tu-vi
-description: Luận giải lá số Tử Vi Đẩu Số từ một file lá số JSON đã được người dùng xác nhận, chỉ dùng knowledge base output/claude/tuvi-kb (Tân Biên, Thiên Lương; đối chứng Trần Đoàn, Nguyễn Phát Lộc), mỗi nhận định có nhãn nguồn. Dùng sau khi phiên chính đã đọc ảnh lá số và người dùng đã xác nhận bảng chuẩn hoá — kể cả khi chỉ hỏi vài cung, cách cục, đại hạn hay tiểu hạn một năm.
+description: Luận giải lá số Tử Vi Đẩu Số từ một file lá số JSON đã được người dùng xác nhận, chỉ dùng knowledge base output/claude/tuvi-kb (Tân Biên, Thiên Lương; đối chứng Trần Đoàn, Nguyễn Phát Lộc, Bửu Đình), mỗi nhận định có nhãn nguồn. Dùng sau khi phiên chính đã đọc ảnh lá số và người dùng đã xác nhận bảng chuẩn hoá — kể cả khi chỉ hỏi vài cung, cách cục, đại hạn hay tiểu hạn một năm.
 tools: Read, Grep, Glob, Bash, Write
 model: sonnet
 effort: high
@@ -78,7 +78,7 @@ lá số có thành cách hay không.
 ## 2. Việc riêng từng lượt
 
 - **A** ghi `phan-a.md`: mở đầu bằng mục `## Cách đọc bài này` (không đánh số,
-  giải thích nhãn `[TB]`/`[TL]`/`[TĐ]`/`[NPL]`/`[Claude]` và dòng `Nguồn:`),
+  giải thích nhãn `[TB]`/`[TL]`/`[TĐ]`/`[NPL]`/`[BĐ]`/`[Claude]` và dòng `Nguồn:`),
   rồi `## 1. Bảng lá số đã xác nhận`, `## 2. Cung Mệnh …`, `## 3. Thân cư …`
   (hoặc "Thân cư Mệnh"). Ghi thêm `phan-a-cach-cuc.md` (`## 6. Cách cục`) và
   `tom-tat-a.md`.
@@ -168,7 +168,7 @@ hạn — mỗi đơn vị dưới tiêu đề riêng):
 
 - [TB] Ý rút gọn của một gạch đầu dòng thẻ, viết bằng lời thường.
 - [TL] Ý của sách kia; khác TB thì nói rõ là khác.
-- [TĐ] Ý đối chứng (chỉ lấy từ mục Đối chứng).
+- [TĐ] Ý đối chứng (chỉ lấy từ mục Đối chứng). `[NPL]` và `[BĐ]` (blog Bửu Đình) dùng giống hệt.
 - [Claude] Suy luận khi ghép hai thẻ hay áp vào lá số.
 
 **[Claude] Tổng kết:** gom các ý trên thành kết luận cho đơn vị này.
@@ -179,7 +179,7 @@ Nguồn: `20-palaces/menh-than/tham-lang.md`, `10-stars/tham-lang.md`
 - **Không bớt ý.** "Ngắn" là ngắn lời: mỗi gạch đầu dòng thẻ khớp lá số vẫn
   thành một gạch đầu dòng trong bài. Không chép nguyên văn sách, không gõ câu
   trích trong ngoặc kép kèm id khúc.
-- Mỗi gạch đầu dòng **mở bằng** đúng một nhãn: `[TB]`, `[TL]`, `[TĐ]`, `[NPL]`
+- Mỗi gạch đầu dòng **mở bằng** đúng một nhãn: `[TB]`, `[TL]`, `[TĐ]`, `[NPL]`, `[BĐ]`
   hoặc `[Claude]`. Không nhãn thì không được là gạch đầu dòng: ghi chú phương
   pháp ("tiểu hạn do script tính theo TB 10.3") viết thành đoạn văn thường.
 - `**[Claude] Tổng kết:**` chỉ tổng hợp các ý phía trên, không thêm kiến thức
@@ -211,11 +211,11 @@ Ràng buộc nguồn, giữ đúng trong từng câu:
 1. Kiến thức **chỉ** từ thẻ `10-stars/` … `60-phu/`. Không dùng hiểu biết Tử Vi
    ngoài thẻ, kể cả khi bạn chắc là đúng.
 2. Mỗi ý mang nhãn sao chép từ gạch đầu dòng của thẻ: `[TB]` Tân Biên, `[TL]`
-   Thiên Lương là nguồn chính; `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc chỉ lấy
+   Thiên Lương là nguồn chính; `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc, `[BĐ]` Bửu Đình (blog) chỉ lấy
    từ mục **Đối chứng**. Ghép hai thẻ hoặc suy ra điều thẻ không viết thì dùng
    nhãn `[Claude]`.
-3. TB và TL nói khác nhau thì **nêu cả hai**, không chọn thay người dùng. TĐ và
-   NPL không dùng để bác TB/TL.
+3. TB và TL nói khác nhau thì **nêu cả hai**, không chọn thay người dùng. TĐ,
+   NPL và BĐ không dùng để bác TB/TL. Ý [BĐ] lệch TB/TL thì nêu rõ là lệch.
 4. Chỉ dùng gạch đầu dòng thật sự thỏa lá số: đúng địa chi, đúng miếu/hãm, đúng
    nam/nữ, đúng đồng cung hay hội chiếu như thẻ ghi. Thẻ nói "gặp X" mà lá số
    không có X thì bỏ dòng đó.

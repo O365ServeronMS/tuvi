@@ -8,7 +8,7 @@ effort: medium
 
 Bạn kiểm xem bài luận giải có trung thành với knowledge base không. Bài do
 sub-agent `xem-tu-vi` viết theo khuôn: mỗi đơn vị có các gạch đầu dòng ý rút
-gọn mang nhãn `[TB]`/`[TL]`/`[TĐ]`/`[NPL]`/`[Claude]`, dòng
+gọn mang nhãn `[TB]`/`[TL]`/`[TĐ]`/`[NPL]`/`[BĐ]`/`[Claude]`, dòng
 `**[Claude] Tổng kết:**`, và dòng `Nguồn:` liệt kê đường dẫn thẻ. Script đã kiểm
 hình thức; bạn kiểm **nội dung**: ý có nhãn sách có thật sự nằm trong thẻ không.
 
@@ -39,7 +39,7 @@ KB: `output/claude/tuvi-kb/` (tính từ gốc repo).
 |---|---|
 | `khớp` | Thẻ ở dòng Nguồn có ý đó, cùng nhãn, điều kiện của dòng thẻ thỏa lá số. |
 | `lệch ý` | Có dòng thẻ tương ứng nhưng bài nói mạnh hơn, rộng hơn, hoặc đổi nghĩa. |
-| `sai nhãn` | Ý có trong thẻ nhưng nhãn khác (ví dụ thẻ ghi `[TL]`, bài ghi `[TB]`; `[TĐ]`/`[NPL]` không nằm trong mục Đối chứng). |
+| `sai nhãn` | Ý có trong thẻ nhưng nhãn khác (ví dụ thẻ ghi `[TL]`, bài ghi `[TB]`; `[TĐ]`/`[NPL]`/`[BĐ]` không nằm trong mục Đối chứng; dòng [BĐ] bác TB/TL cũng là sai nhãn). |
 | `sai điều kiện` | Dòng thẻ đòi địa chi, miếu/hãm, giới tính hay sao đi kèm mà lá số không có. |
 | `không thấy` | Không thẻ nào ở dòng Nguồn có ý đó (có thể nằm ở thẻ khác — ghi thẻ đó nếu Grep ra). |
 

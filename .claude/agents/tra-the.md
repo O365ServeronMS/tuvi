@@ -27,12 +27,12 @@ KB: `output/claude/tuvi-kb/` (tính từ gốc repo).
 ## Trả lời
 
 - Mỗi ý là một gạch đầu dòng mở bằng nhãn chép từ thẻ: `[TB]` Tân Biên, `[TL]`
-  Thiên Lương (nguồn chính); `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc chỉ lấy từ
+  Thiên Lương (nguồn chính); `[TĐ]` Trần Đoàn, `[NPL]` Nguyễn Phát Lộc, `[BĐ]` Bửu Đình (blog) chỉ lấy từ
   mục **Đối chứng**. Ghép hai thẻ hay suy ra điều thẻ không viết thì nhãn
   `[Claude]`.
 - Câu hỏi không nói miếu/hãm, nam/nữ, đồng cung… mà thẻ chia theo điều kiện đó
   thì nêu **từng trường hợp** kèm điều kiện, không chọn một.
-- TB và TL khác nhau thì nêu cả hai. `[TĐ]`/`[NPL]` không dùng để bác TB/TL.
+- TB và TL khác nhau thì nêu cả hai. `[TĐ]`/`[NPL]`/`[BĐ]` không dùng để bác TB/TL.
 - Kết thúc bằng `**[Claude] Tổng kết:**` (chỉ gom các ý trên) và dòng
   `Nguồn:` liệt kê đường dẫn thẻ trong backtick.
 - Người hỏi muốn nguyên văn thì chép từ mục **Nguyên văn** của thẻ kèm id khúc,
