@@ -4,7 +4,7 @@ type: star-card
 stars: [thai-duong]
 tags: [quy-tinh, quan-loc, cha, chong, nhat-nguyet]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day
@@ -12,6 +12,7 @@ chunks:
   - tl#0037-nhat-nguyet-o-12-vi-tri-su-thiet-yeu-bao-gio
   - td#0012-sao-thai-duong
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0283-thai-duong
 ---
 # Thái Dương (Nam Đẩu tinh, Dương Hỏa, Quý tinh)
 
@@ -43,6 +44,10 @@ chunks:
 - [TĐ] Khác về miếu hãm: miếu Ngọ Mão, vượng Dần Thìn Tị, hãm Tuất Hợi Tí.
 - [TĐ] Bổ sung: bị Hình Kị dễ hư mắt hoặc khắc phụ mẫu; ghét Cự Môn hãm địa che ánh sáng; ở Thiên Di thường ly tổ đi xa.
 - [NPL] Không xếp Thái Dương cố định vào một trong 10 loại chính tinh như các sao khác; nhận định Thái Dương "vừa là quý tinh vừa là phú tinh" (đa nghĩa).
+- [BĐ] Thái Dương là sao công khai, ban ngày, ánh sáng, biểu tượng nam tính; người nữ thủ Mệnh có Thái Dương thì tính cách mạnh mẽ như nam nhân. Đồng ý với TB/TL về nghĩa mặt trời, nam tính.
+- [BĐ] Thái Dương là sao "giương lên thái quá", kiêu hãnh, hay khoe khoang (nhưng không phải ai có sao này thủ Mệnh cũng khoe, tùy sao hỗ trợ); gặp Kình Dương là một cách không hay. Gặp Triệt (nhất là Kỵ Triệt) khi sáng sủa thì nhiều bất lợi (cùng hướng với TB: miếu vượng gặp Triệt thì bị che).
+- [BĐ] Hay đi với Cự Môn (bộ Cự Dương: ngày mới bắt đầu, tốt đẹp, nhưng cũng dấy lên sự phản đối, bất mãn); đi với Thái Âm là bộ Âm Dương, đi với Xương Khúc là một cách hay (âm thanh văn chương); đi với Đào Hồng Hỷ là ngày vui, đi với Thiên Hư, Tuế Phá, Tang Môn, Điếu Khách là ngày buồn.
+- [BĐ] Thái Dương trong cơ thể là con mắt; chủ những điều trông thấy. Điểm lệch: [BĐ] không nói Thái Dương là sao quan lộc hay phú quý như TB/TL/TĐ, chỉ luận theo hình tượng công khai, kiêu hãnh.
 
 ## Nguyên văn
 > "Biểu tượng của mặt trời, của cha, của ông nội, đối với đàn bà còn là biểu tượng của chồng - Miếu địa: Tỵ, Ngọ" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -64,3 +69,11 @@ chunks:
 > "Thái Dương bị Hình Kị dễ hư mắt hoặc khắc phụ mẫu." (td#0012-sao-thai-duong)
 
 > "Thái Dương có thể vừa là quý tinh vừa là phú tinh, Tử-Vi vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "Trên lá số Tử Vi ngôi sao THÁI ÂM là phụ nữ. Ta lại có THÁI DƯƠNG là ngôi sao mang biểu tượng của đàn ông, nam tử, con trai, giống đực, nam tính..." (bd#0283-thai-duong)
+
+> "Một người nữ sao này thủ mệnh có tính cách mạnh mẽ như nam nhân." (bd#0283-thai-duong)
+
+> "THÁI DƯƠNG là sao giương lên thái quá." (bd#0283-thai-duong)
+
+> "Đó là lý do THÁI DƯƠNG gặp KÌNH DƯƠNG là 1 cách không hay." (bd#0283-thai-duong)

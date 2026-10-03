@@ -4,11 +4,12 @@ type: star-card
 stars: [loc-ton]
 tags: [quy-tinh, tai-loc, quyen-tuoc, phuc-tho, vong-loc-ton]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh
   - tl#0008-nen-rat-chat-che
   - td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la
+  - bd#0289-loc-ton
 ---
 # Lộc Tồn (Bắc Đẩu tinh, Dương Thổ đới Thủy, Quý tinh)
 
@@ -33,6 +34,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý chủ quý tước và thọ; phò Tử Vi, Thiên Tướng để tăng quyền, phò Nhật Nguyệt để tăng sáng; mười hai cung đều là miếu địa, không có hãm địa.
 - [TĐ] Bổ sung: một mình đứng cung Mệnh thường là loại thủ tài nô keo bẩn; hãm khi gặp Không Vong, Hoả Tinh, Không Kiếp; Song Lộc trùng phùng chung thân phú quý.
 - [TĐ] Nữ mệnh: người nhân từ chính trực, con gái thanh tú, khéo léo.
+- [BĐ] Lộc Tồn đứng đầu các sao hàng Can, luôn đồng cung Bác Sĩ, cầm đầu chòm Kình Dương, Đường Phù, Quốc Ấn, Đà La; chủ sự tồn tại, còn lại, và cái còn lại có thể tốt hoặc xấu. Lệch với TB/TL/TĐ: [BĐ] không nói Lộc Tồn là quý tinh quyền tước, phúc thọ.
+- [BĐ] Lộc Tồn chủ dành dụm, cái kho (phối Thiên Phủ, bộ Phủ Vũ Lộc Tồn được ca ngợi); trái với tính tiêu pha của sao Hao. Gặp Phá Quân hay Cự Môn dễ gặp chuyện không hay.
+- [BĐ] Tính chất bài xích, bài bác thường gán cho Lộc Tồn thật ra là của Bác Sĩ đi chung; Lộc Tồn phối Bác Sĩ thành cách bảo thủ, có tính thị phi, cần xa các sao thị phi khác.
 
 ## Nguyên văn
 > "Chủ quyền tước, tài lộc, phúc thọ" (tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh)
@@ -50,3 +54,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Sao Lộc Tồn thuộc hành thổ. Thập nhị cung đều là miếu địa. Không có hãm địa đối với Lộc Tồn." (td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la)
 
 > "Lộc Tồn vào nữ mệnh người nhân từ chính trực, con gái thanh tú, khéo léo." (td#0031-sao-loc-ton-thuoc-hanh-tho-thap-nhi-cung-deu-la)
+
+
+> "LỘC TỒN là sao đứng đầu các sao hàng Can, luôn luôn đồng cung với sao BÁC SĨ." (bd#0289-loc-ton)
+
+> "Là ngôi sao chủ sự dành dụm, để dành, dồn cất... trái với tính tiêu pha mua sắm của sao HAO" (bd#0289-loc-ton)
+
+> "Đó là lý do vì sao LỘC TỒN gặp PHÁ QUÂN hay CỰ MÔN dễ gặp chuyện không hay." (bd#0289-loc-ton)

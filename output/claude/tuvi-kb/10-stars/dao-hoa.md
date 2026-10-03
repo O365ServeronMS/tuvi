@@ -4,13 +4,15 @@ type: star-card
 stars: [dao-hoa]
 tags: [tam-minh, da-tinh, lang-lo, cuoi-hoi, tham-vong]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0030-tam-thai-thuy-bat-toa-moc
   - tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep
   - tl#0093-nghia-vu-bo-tam-minh-ra-sao-ma-thien-hi-lai
   - tl#0014-cho-nen-coi-thuong-quyen-uy-cua-dau-quan
   - td#0039-cung-phuc-duc-va-tai-bach-moi-sinh-ra-da-ngheo
+  - bd#0080-ban-ve-ngoi-sao-dao-hoa-p01
+  - bd#0250-dao-hoa-p01
 ---
 # Đào Hoa (Mộc)
 
@@ -31,6 +33,10 @@ chunks:
 
 ## Đối chứng
 - [TĐ] Phú nôm về Thiên Không Đào Hoa: cầm kỳ thi họa tài ba, cơ mưu quyền biến, nhưng "ngàn năm mệnh bạc là đời tài hoa". Sách gốc: Tử Vi gặp Đào Hoa thì nữ mệnh phiêu lãng phong trần (xem thẻ Tử Vi).
+- [BĐ] Đào Hoa chủ ồn ào (vui vẻ, thị phi ẩu đả hay tai họa tùy hung cát tinh đi cùng), là sao chủ động tạo ra, gây ra; xung chiếu thì khách quan, ta thụ động. BĐ nói Đào Hoa gây nhiều tai họa hơn vui mừng.
+- [BĐ] Đào Hoa chủ cái đẹp: ở Mệnh thường xinh đẹp, da trắng, trừ khi gặp hung sát tinh hay hành Mệnh không hợp; kỵ Hỏa Linh (hoa héo), kỵ Kiếp Không (hoa nạn).
+- [BĐ] Đào Hoa chỉ đóng Tý Ngọ Mão Dậu, luôn tam hợp Kiếp Sát (nhóm Đào Sát: vui mừng do đoạt được); đi Hồng Hỷ và Cơ Nguyệt Đồng Lương thành đóa hoa hồng, quả ngọt; Đào Hoa còn là sao học tập (cùng Tuần Trung, Đà La, nhờ Xương Khúc, Khoa, Khôi Việt).
+- [BĐ] Điểm lệch với TB/TL: BĐ nhấn ồn ào, tạo tác và học tập, ít nhấn đa tình lẳng lơ; TB nói Đào Hoa đem lại nhiều vui mừng, BĐ nói gây tai họa nhiều hơn.
 
 ## Nguyên văn
 > "Vui vẻ, mau mắn, đa tình, lẳng lơ, hoa nguyệt. Chủ mọi sự thuộc về đàn bà, con gái. - Có ảnh hưởng đến vợ hay chồng. Có lý do đến việc cưới hỏi, lợi ích cho việc thi cử, cầu công danh. Đem lại nhiều sự vui mừng. - Làm cho Tử, Phủ, Nhật, Nguyệt thêm rực vỡ, tốt đẹp." (tb#0030-tam-thai-thuy-bat-toa-moc)
@@ -46,3 +52,9 @@ chunks:
 > "Đào hoa lắm tham vọng sinh ra lắm mưu nhiều mẹo quỷ quyệt rồi ra cũng nước lã ra sông" (tl#0014-cho-nen-coi-thuong-quyen-uy-cua-dau-quan)
 
 > "Thiên Không hội với Đào Hoa Cầm Kỳ thi hoạ tài ba tuyệt vời Cơ mưu quyền biến hơn người Ngàn năm mệnh bạc là đời tài hoa." (td#0039-cung-phuc-duc-va-tai-bach-moi-sinh-ra-da-ngheo)
+
+> "Chủ sự ồn ào. Ồn ào do vui vẻ, ồn ào vì thị phi ẩu đả, ồn ào vì tai hoạ. Nói chung đó là sao tạo ra sự ồn ào, mà nội dung của nó tuỳ thuộc vào hung cát tinh." (bd#0080-ban-ve-ngoi-sao-dao-hoa-p01)
+
+> "ĐÀO HOA chủ cái đẹp, ở Mệnh thường là người xinh đẹp, da trắng trừ các trường hợp gặp Hung, Sát tinh hoặc hành Mệnh không phù hợp." (bd#0080-ban-ve-ngoi-sao-dao-hoa-p01)
+
+> "Đặc biệt ĐÀO HOA chỉ đóng tại 4 cung Tý Ngọ Mão Dậu mà thôi. ĐÀO HOA nằm trong 1 nhóm sao, vì nó luôn luôn tam hợp có sao KIẾP SÁT." (bd#0250-dao-hoa-p01)

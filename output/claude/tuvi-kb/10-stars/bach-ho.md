@@ -4,13 +4,14 @@ type: star-card
 stars: [bach-ho]
 tags: [vong-thai-tue, bai-tinh, nghia-khi, cuong-quyet, tu-linh]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh
   - tl#0023-boi-dau-bach-ho-duong-phu-tro-nen-ac-hai
   - tl#0010-bua-me-thuoc-lu-khoa-quyen-loc
   - tl#0047-ban-the-thuc-chat-cua-thai-tue
   - td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu
+  - bd#0248-bach-ho
 ---
 # Bạch Hổ (Kim, Bại tinh)
 
@@ -31,6 +32,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
 - [TĐ] Tử Vi Việt (do người dịch ghi): chủ oai hách quyền uy ở miếu địa, hình thương tai họa ở hãm địa; miếu địa là Dậu; các cách Bạch Hổ hàm kiếm (với Thiên Hình tại Dần), Bạch Hổ Tấu Thư, Bạch Hổ Kình Dương, giáp Hổ giáp Long; Phượng Long Cái Hổ là tứ linh, hội đủ thì không sợ hung sát tinh.
+- [BĐ] Bạch Hổ là lời nói, lời bày tỏ, lập trường của một người; thuộc tam hợp Thái Tuế, Bạch Hổ, Quan Phủ (Tuế Hổ Phù). Lời ấy có thể hung dữ như hổ gầm, cũng có thể trấn an hay viết thành văn thơ, tùy hung cát tinh đi cùng.
+- [BĐ] Màu trắng vừa là trong sáng, sạch sẽ vừa là tang tóc, buồn phiền; Bạch Hổ luôn xung chiếu Tang Môn (chủ bẩn); trong cơ thể ứng với bộ xương. Bạch Hổ bị xếp hung tinh nhưng chỉ nhìn một sao mà quyết đoán là sai lầm.
+- [BĐ] Hay nhất: Bạch Hổ Phượng Các của tuổi Sửu Mùi, hổ phi phượng của Ất Sửu, hoặc hổ có nhiều cát tinh phò trợ; xấu nhất là đi với Kỵ, Hình. Lệch với TB: BĐ nhấn mạnh lời nói/lập trường và không nêu miếu hãm hay tang thương hao tài như TB; hai bên không mâu thuẫn trực tiếp ở điểm Kỵ Hình xấu.
 
 ## Nguyên văn
 > "Đắc địa: Dần, Thân, Mão, Dậu - Dũng mãnh, bạo tợn, bi thảm. Gây tang thương, bệnh tật, tai họa. Làm hao hụt tài lộc. Nếu hãm địa: lại phương hại đến công danh." (tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh)
@@ -48,3 +52,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 > "Bạch Hổ : Chủ oai hách quyền uy nếu ở miếu địa. Chủ hình thương tai hoạ nếu rơi vào hãm địa. Miếu địa cuả nó là cung Dậu" (td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu)
 
 > "Phượng Long Cái Hổ : là tứ linh tức Phượng Các, Long Trì, Hoa Cái, Bạch Hổ. Hội đủ bốn sao này cho Mệnh Thân thì sẽ không còn sợ hung sát tinh nữa." (td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu)
+
+> "Bạch Hổ là lời nói, lời bày tỏ, lời thổ lộ của một con người. Lời nói ấy có khi quá hung dữ, thiếu văn hoá." (bd#0248-bach-ho)
+
+> "BẠCH HỔ luôn luôn nằm trong tam hợp TUẾ HỔ PHÙ (THÁI TUẾ, BẠCH HỔ, QUAN PHỦ). Bộ 3 sao chủ bày tỏ thái độ quan điểm tức là lập trường của 1 con người." (bd#0248-bach-ho)
+
+> "Con hổ xấu nhất là đi với Sát tinh KỴ HÌNH." (bd#0248-bach-ho)

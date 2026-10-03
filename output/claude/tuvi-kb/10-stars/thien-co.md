@@ -4,13 +4,15 @@ type: star-card
 stars: [thien-co]
 tags: [thien-tinh, huynh-de, phuc-tho, muu-co]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0010-sao-thien-co
   - td#0011-sao-thien-luong-de-chan-tran-tuc-ua-mien-tang
   - npl#0035-y-nghia-lien-doi-giua-cac-sao
+  - bd#0266-thien-co-p01
+  - bd#0266-thien-co-p02
 ---
 # Thiên Cơ (Nam Đẩu tinh, Âm Mộc, Thiện tinh)
 
@@ -35,6 +37,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Nữ mệnh: gặp hung càng hung, gặp sát càng sát; cặp Thiên Lương là người tháo vát nội trợ giỏi; hãm địa chủ dâm; gặp Kình Đà Hoá Kị xung phá thì khắc phu hại tử.
 - [TĐ] Phú: Cự hãm Thiên Cơ là phá cách; Cơ Nguyệt Đồng Lương không có cát tinh khác chỉ làm công chức quèn.
 - [NPL] Cho ý nghĩa cơ hữu của Thiên Cơ là "ghen tuông"; nếu đồng cung Phục Binh thì tính ghen trở nên quá khích, biểu hiện ra hành động (bắt ghen, rình rập) chứ không chỉ ở nội tâm.
+- [BĐ] Thiên Cơ là sao thời cơ, thời kỳ, duyên cớ; tam hợp Thiên Đồng thành bộ Cơ Đồng (Cơ riêng tư, Đồng chung); dễ mất tác dụng trước Không Kiếp, khi đó thành nguy cơ.
+- [BĐ] Là sao tính toán, mưu trí, khéo léo (cần cho mình có lợi nhất); gặp Thái Âm thành bộ "Âm mưu", gặp Thiên Lương thành kế hoạch tốt, vừa khéo vừa giỏi. Gần ý TB/TL về mưu cơ, khôn khéo.
+- [BĐ] Cơ Đồng Cự có tính thị phi (Cơ hỏi, Đồng đáp, Cự phản đối), kỵ thêm thị phi tinh; Cơ Nguyệt Đồng Lương là nhóm "dân lành", thêm Cự Môn thì lộn xộn. Kỵ nhất Tang Môn; có Phượng Các thì đỡ ngại. Lệch: BĐ không nêu miếu hãm; BĐ xếp Thiên Cơ hiền lành chung nhóm Cơ Nguyệt Đồng Lương, TL nêu thêm mặt Cơ Cự mưu trí thủ đoạn.
 
 ## Nguyên văn
 > "Chủ huynh đệ, phúc thọ - Miếu địa: Thìn, Tuất, Mão, Dậu" (tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh)
@@ -48,3 +53,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Các cung Tí, Ngọ là miếu địa của Thiên Cơ. Bình thường Tị Hợi, Thìn Tuất, hãm địa là Sửu, Mùi" (td#0011-sao-thien-luong-de-chan-tran-tuc-ua-mien-tang)
 
 > "sao Thiên Cơ có nghĩa ghen tuông, đi với sao Phục Binh thì nết ghen đó rất quá khích, chẳng những có trong nội tâm mà còn thể hiện bằng hành động như bắt ghen, rình rập, gây tai tiếng cho chồng vợ." (npl#0035-y-nghia-lien-doi-giua-cac-sao)
+
+> "Sao THIÊN CƠ ngôi sao của thời cơ, kẻ cơ hội." (bd#0266-thien-co-p01)
+
+> "THIÊN CƠ dễ dàng gặp THÁI ÂM tạo thành bộ Âm Mưu. Gặp THIÊN LƯƠNG thành kế hoạch tốt." (bd#0266-thien-co-p02)
+
+> "THIÊN CƠ chủ hỏi, THIÊN ĐỒNG chủ đáp và CỰ MÔN chủ phản đối." (bd#0266-thien-co-p02)

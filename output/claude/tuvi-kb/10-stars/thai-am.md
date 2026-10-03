@@ -4,13 +4,15 @@ type: star-card
 stars: [thai-am]
 tags: [phu-tinh, dien-trach, me, vo, nhat-nguyet]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh
   - tl#0035-thai-duong-o-ngo-thai-am-than-thai-duong-o-day
   - tl#0037-nhat-nguyet-o-12-vi-tri-su-thiet-yeu-bao-gio
   - td#0018-sao-thai-am
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0278-thai-am-p01
+  - bd#0278-thai-am-p02
 ---
 # Thái Âm (Bắc Đẩu tinh, Âm Thủy, Phú tinh)
 
@@ -41,6 +43,9 @@ chunks:
 - [TĐ] Miếu hãm gần giống: miếu Dậu Hợi Tuất, vượng Tí Sửu, hãm Ngọ Dần Thìn Tị Mão (Tân Biên xếp Sửu là đắc, Thân là vượng).
 - [TĐ] Bổ sung: rất sợ Dương Đà đồng cung; Thái Âm ngộ Dương Đà thì người xa của mất; ở Tật Ách hãm gặp Kình Đà có mục tật; "Nguyệt diệu Thiên Lương nữ dâm bần"; Thái Âm ở Hợi là cách Nguyệt lãng Thiên Môn nắm quyền lớn.
 - [NPL] Xếp Thái Âm đứng thứ hai (sau Thiên Phủ) trong thứ tự các sao mạnh về tài lộc.
+- [BĐ] Thái Âm là sao âm thầm (khác Thái Dương công khai), sao phụ nữ (nam thủ Mệnh có nét chưng diện, hay tính toán so đo), sao ban đêm và tháng; tam hợp Thiên Lương thành Âm Lương, nhị hợp Vũ Khúc. Đồng ý TB/TL về mặt trăng, âm tính.
+- [BĐ] Là bóng tối (Thái Dương ánh sáng, Thiên Lương bóng mát), là tai (nghe), là âm thanh, mồ mả; đi với Xương Khúc là cách hay; bị tam Ám (Thiên Riêu, Đà La, Hóa Kỵ) thì tối tăm.
+- [BĐ] Lệch: BĐ không nêu miếu hãm và không nhắc điền trạch/phú túc như TB; BĐ coi Thái Âm là mồ mả, thế giới khác, ý không có trong TB/TL. Về Hóa Kỵ, BĐ xếp trong bộ tam Ám xấu, TB nói đắc địa gặp Kỵ đồng cung là toàn mỹ (lệch).
 
 ## Nguyên văn
 > "Chủ điền trạch - Biểu tượng của mặt trăng, của mẹ, của bà nội và của vợ" (tb#0023-thien-co-nam-dau-tinh-am-moc-thien-tinh)
@@ -58,3 +63,9 @@ chunks:
 > "Rất sợ Dương Đà đồng cung, sợ Liêm Trinh phạm Thất Sát xung phá dễ bị tàn tật." (td#0018-sao-thai-am)
 
 > "Về tài lộc: Phủ, Âm, Vủ, Tồn, Lộc, Sinh, Vượng." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "THÁI ÂM là ngôi sao chủ sự âm thầm, lặng lẽ, thầm lặng... gần giống với TỬ VI kín đáo, bí mật." (bd#0278-thai-am-p01)
+
+> "Giới tính của sao THÁI ÂM là phụ nữ, đàn bà, giống cái... ngược với THÁI DƯƠNG là nam giới, đàn ông, giống đực." (bd#0278-thai-am-p01)
+
+> "THÁI ÂM là ngôi sao của bóng tối." (bd#0278-thai-am-p02)

@@ -4,12 +4,14 @@ type: star-card
 stars: [thien-hinh]
 tags: [sat-phat, quan-su, hinh-nguc, y-duoc, hinh-rieu]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0029-thien-hinh-hoa
   - tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0040-sao-thien-thuong-thien-su
+  - bd#0297-thien-hinh-thien-dieu-thien-y-p01
+  - bd#0297-thien-hinh-thien-dieu-thien-y-p02
 ---
 # Thiên Hình (Hỏa)
 
@@ -31,6 +33,10 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; phú nôm về "Hì
 
 ## Đối chứng
 - [TĐ] Sách gốc: thủ Mệnh Thân không đi tu thì cô độc, lắm tai nạn; nhưng bài ca nói "Thiên Hình không hẳn là hung tinh", nhập miếu là Hỷ Thần, hội Xương Khúc thành đại nghiệp, nắm binh nơi biên cương. Phú nôm: Thiên Hình gặp Kình Dương, Kiếp Sát dễ vào tù.
+- [BĐ] Thiên Hình tam hợp luôn có Thiên Diêu, Thiên Y: Hình chủ "hình như là" (hoài nghi, mù mờ), Y chủ "y như là" (tin là thật); hợp Hóa Kỵ thành bộ Kỵ Hình là kẻ tình nghi bị bắt, bị đánh đập; thêm Đà Kỵ thành tam Ám thì mù quáng tăng.
+- [BĐ] Thiên Hình còn là hình thức, mẫu mực, phép tắc, luật pháp, trừng phạt (cũng bắt bẻ, đay nghiến trong gia đình); đi Xương Khúc thành bộ lễ phép, đi Tướng Quân Quốc Ấn thì nắm luật pháp để trừng phạt, cần Hóa Quyền và tránh Hóa Kỵ (Kỵ Hình chủ vi phạm điều cấm kỵ).
+- [BĐ] Thiên Hình là một trong các sao chủ giết (cùng Thất Sát, Kiếp Sát, Lưu Hà), kỵ thêm Hóa Kỵ, Không, Kiếp; cần gặp văn tinh, Khoa, Quyền, cát tinh thì tự hóa giải từ xấu thành tốt. Cũng là sao y thuật; kèm Kình Dương thì kháng thuốc.
+- [BĐ] Điểm lệch với TB/TL: BĐ không nêu miếu hãm Dần Thân Mão Dậu, xem tốt xấu hoàn toàn tùy sao tụ tập; nghĩa "hình như là, mù mờ, hoài nghi" và "hình thức, y phục" không có ở TB/TL.
 
 ## Nguyên văn
 > "Đắc địa: Dần, Thân, Mão, Dậu" (tb#0029-thien-hinh-hoa)
@@ -50,3 +56,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; phú nôm về "Hì
 > "Thiên Hình thủ Mệnh Thân nếu không đi tu thì cũng cô độc, lắm tai lắm nạn, không non yểu thì nghèo khổ." (td#0040-sao-thien-thuong-thien-su)
 
 > "Thiên Hình gặp Kình Dương và Kiếp Sát dễ vào tù." (td#0040-sao-thien-thuong-thien-su)
+
+> "Sao THIÊN HÌNH chủ sự hình như là... Vì tam hợp luôn luôn có sao THIÊN DIÊU một cái gì mù mờ, không rõ ràng." (bd#0297-thien-hinh-thien-dieu-thien-y-p01)
+
+> "Muốn được như thế cần có sao HOÁ QUYỀN, xa lánh bằng được sao HOÁ KỴ. VÌ kết thành bộ KỴ HÌNH, chủ sư vi phạm điều luật pháp cấm kỵ." (bd#0297-thien-hinh-thien-dieu-thien-y-p02)
+
+> "Vậy, THIÊN HÌNH cần gặp các sao Văn Tinh, Khoa tinh, Quyền tinh, Cát tinh... Tự nó hoá giảị, từ xấu trở thành tốt." (bd#0297-thien-hinh-thien-dieu-thien-y-p02)

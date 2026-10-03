@@ -4,13 +4,15 @@ type: star-card
 stars: [vu-khuc]
 tags: [tai-tinh, tai-loc, cuong-nghi, co-doc]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0013-sao-vu-khuc
   - td#0014-trich-tu-vi-ao-bi-cua-viet-viem-tu
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p01
+  - bd#0474-ngoi-sao-vu-khuc
 ---
 # Vũ Khúc (Bắc Đẩu tinh, Âm Kim, Tài tinh)
 
@@ -36,6 +38,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Bổ sung xấu: hãm địa cặp Tham Lang thành người khó chơi, tham lam, bủn xỉn; hội Phá Quân tiền đến tay là hết; đồng cung Thất Sát, Hoả Tinh vì tiền mà bị hại; ngộ Dương Đà thì cô khắc.
 - [TĐ] Nam nữ: thủ Mệnh là người cương cường quả đoán, tuổi Giáp Kỷ phúc hậu xuất tướng nhập tướng; nữ mệnh nhiều cát tinh là mệnh phụ, bị xung phá tất cô khắc.
 - [NPL] Xếp Vũ Khúc vào nhóm "tài tinh" (cùng Thiên Phủ) trong 10 loại chính tinh.
+- [BĐ] Vũ Khúc nhị hợp Thái Âm, tam hợp Tử Vi và Liêm Trinh, là cánh tay phải của Tử Vi; đa tài, hay nhất là cách Nhị Khúc (gặp Văn Khúc), thành đạt ngoài 30 tuổi; chủ công trạng, cần gặp Thanh Long, gặp Kỵ thì khen chê phức tạp.
+- [BĐ] Vũ Khúc là tài sản, hợp nhất ở cung Tài; kỵ Phá Quân (phá sản bỏ của), kỵ Thất Sát (bị đoạt của, khủng hoảng); nhóm Tử Vũ Liêm cần Thiên Phủ làm kho; Khôi Việt cư miếu vượng là quan tài chánh, ngân hàng.
+- [BĐ] Vũ Khúc là sao vũ lực, kỵ Hỏa Tinh; tình cảm dễ cắt bỏ, đoạn tuyệt, "Vũ Khúc vi Quả Tú"; kỵ đi với Hư (Tang Hư Khách). Chủ khúc ngoặt, ngắn ngủi, chém bằng miệng; giỏi luồn lách, móc nối.
+- [BĐ] Điểm lệch với TB/TL: BĐ không nêu miếu hãm; TL nhấn cô độc, dễ bị lợi dụng còn BĐ nhấn đa tài, công trạng; cái ý "Vũ như Cô Quả" thì BĐ khớp với TB.
 
 ## Nguyên văn
 > "Chủ tài lộc" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -55,3 +61,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Vũ Khúc miếu địa Sửu, Mùi, Tuất, vượng Tí Ngọ, bình thường Tị Hợi." (td#0014-trich-tu-vi-ao-bi-cua-viet-viem-tu)
 
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "Tài năng, tài ba, đa tài là sao này. Hay nhất là cách NHỊ KHÚC tức gặp thêm VĂN KHÚC." (bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p01)
+
+> "Tài sản, tiền của, của cải đóng tại Tài cung là hợp nhất. Kị gặp PHÁ QUÂN hội họp. Chủ phá sản bỏ của." (bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p01)
+
+> "Ngôi sao vũ lực, bạo lực vì thế kỵ HOẢ TINH. Về tình cảm dễ cắt bỏ, đoạn tuyệt với người. Vì thế có câu. VŨ KHÚC vi QUẢ TÚ." (bd#0474-ngoi-sao-vu-khuc)

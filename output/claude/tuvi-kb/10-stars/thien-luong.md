@@ -4,13 +4,15 @@ type: star-card
 stars: [thien-luong]
 tags: [tho-tinh, am-tinh, phu-mau, phuc-tho, nhan-hau, giai-benh]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0022-sao-thien-luong
   - td#0023-sao-thien-luong-thuoc-tho-nam-dau-tinh-hao-khi
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0470-thien-luong
+  - bd#0268-thien-luong-p01
 ---
 # Thiên Lương (Nam Đẩu tinh, Âm Mộc, Thọ tinh, Ấm tinh)
 
@@ -37,6 +39,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Miếu hãm gần giống: miếu Tuất Thìn Ngọ, vượng Sửu Mùi Tí Mão Dần Thân, hãm Tị Hợi Dậu.
 - [TĐ] Nữ mệnh: miếu địa vượng phu ích tử, hội Xương Khúc Tả Hữu là mệnh phụ, rất kỵ Dương Đà xung phá gây tiếng xấu; phú "Nguyệt diệu Thiên Lương nữ dâm bần" khi Thái Âm hãm.
 - [NPL] Xếp Thiên Lương vào nhóm "phúc tinh" (cùng Thiên Đồng) trong 10 loại chính tinh.
+- [BĐ] Thiên Lương là sao may mắn, thọ cao, "bóng mát cuộc đời", thuộc nhóm Âm Lương; hay kết bộ Âm Dương Lương, Cơ Nguyệt Đồng Lương. Đồng ý với TB về thọ, giải bệnh; nhưng nhấn "không phải có Thiên Lương là may mắn": sao mất tác dụng thì ngược lại (thọ cao nhưng nghèo).
+- [BĐ] Thiên Lương tọa thủ Thân Mệnh thì tuổi thọ thường cao; tác dụng tốt cả ở Mệnh lẫn Tật Ách; Mệnh có Thiên Lương luôn nhị hợp Liêm Trinh (cung Mệnh tính cách tốt), Nô cung luôn có Phá Quân (kèm Xương Khúc là cách Quế Sứ Hoa Thương: Thiên Lương không may).
+- [BĐ] Bị mất tác dụng khi gặp Hỏa, Linh, Không, Kiếp, Kỵ, Hình; phối Cơ, Đồng (bộ Cơ Đồng Lương) thì phát huy tốt nhất. Khác biệt với TB/TL (chỉ nêu mặt giải trừ bệnh tật, nhân hậu): [BĐ] lệch ở chỗ còn gọi Thiên Lương là sao "nông nổi, phơi bày" tâm sự vì tam hợp có Thái Âm, phần nhiều là xấu.
+- [BĐ] Thiên Lương chủ lương thực rồi lương tiền, tài sản; so với Vũ Khúc thì Vũ Khúc mới là sao tài sản chính hiệu. Hợp ngành y (tam hợp có Thiên Cơ, lành tính, "lương y").
 
 ## Nguyên văn
 > "Chủ phụ mẫu, phúc thọ" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -56,3 +62,11 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Thiên Lương miếu địa Tuất, Thìn, Ngọ, vượng địa Sửu, Mùi, Tí, Mão, Dần, Thân, hãm Tị, Hợi, Dậu." (td#0023-sao-thien-luong-thuoc-tho-nam-dau-tinh-hao-khi)
 
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "THIÊN LƯƠNG thuộc nhóm ÂM LƯƠNG, thường kết hợp thành bộ ÂM DƯƠNG LƯƠNG hoặc bộ CƠ NGUYỆT ĐỒNG LƯƠNG. Ngôi sao may mắn." (bd#0470-thien-luong)
+
+> "Có nghĩa là không phải có THIÊN LƯƠNG là may mắn." (bd#0470-thien-luong)
+
+> "Bị mất tác dụng trước HOẢ LINH, kể cả KHÔNG KIẾP, KỴ HÌNH." (bd#0268-thien-luong-p01)
+
+> "THIÊN LƯƠNG toạ thủ tại Thân Mệnh tuổi thọ thường cao." (bd#0268-thien-luong-p01)

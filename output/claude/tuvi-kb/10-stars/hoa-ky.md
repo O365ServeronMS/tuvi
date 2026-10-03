@@ -4,12 +4,14 @@ type: star-card
 stars: [hoa-ky]
 tags: [tu-hoa, ky-tinh, thi-phi, giu-cua, tam-am]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0027-thien-khong-hoa
   - tl#0010-bua-me-thuoc-lu-khoa-quyen-loc
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0034-sao-hoa-ki-nhap-mieu-lai-thanh-hay
+  - bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p01
+  - bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p02
 ---
 # Hóa Kỵ (Thủy)
 
@@ -35,6 +37,10 @@ chunks:
 - [TĐ] Sách gốc coi Hoá Kỵ hoàn toàn xấu: ở Thân Mệnh suốt đời bất thuận, hạn gặp thì lận đận; người dịch ghi nhận tiền nhân ta giải kỹ hơn: ở Tài Bạch, Điền Trạch là thần giữ cửa, hội Hoá Quyền thành mưu lược, hội Thanh Long, Long Đức thành mây che rồng.
 - [TĐ] Miếu hãm theo truyền thống Việt do người dịch ghi: miếu Tí Hợi, vượng Dần Mão Dậu Thân; khác Tân Biên coi Thìn Tuất Sửu Mùi là đắc địa.
 - [TĐ] Nữ mạng bần yểu, chỉ trông vào hạn.
+- [BĐ] Hóa Kỵ là ghen tức, đố kỵ (tài hơn ta gọi là kỵ), chuyển thành nghi ngờ, cấm đoán, khuyên răn, rồi sợ hãi; thêm Diêu thành nhị ám, thêm Đà La thành tam ám thì cái gì cũng ngờ vực.
+- [BĐ] Hóa Kỵ không có đắc địa, nhưng gặp sao cứu giải (Thanh Long và Lưu Hà thành bộ Long Kỵ Hà, Hóa Khoa, Thiên Không) thì chuyển thành kỳ tài, kỳ lạ; hợp Tử Vi, Vũ Khúc, Thiên Cơ, Thiên Đồng, Thiên Lương vì các sao này chủ tài năng.
+- [BĐ] Kỵ kèm Thiên Hình là xấu: Tử Vi Kỵ Hình vi phạm pháp luật dù có Khoa; Thất Sát Kỵ Hình yểu tử, kèm Kình Đà thêm đáng sợ; Liêm Trinh Kỵ bị nghi ngờ, theo dõi, ngại Hình, Bạch Hổ, Triệt; Tham Lang Kỵ ngại thêm Đào Hoa.
+- [BĐ] Điểm lệch với TB/TĐ: BĐ nói Kỵ không có đắc địa, còn TB cho Thìn Tuất Sửu Mùi đắc địa và TĐ cho miếu Tý Hợi; BĐ không nêu miếu hãm theo cung mà luận theo sao cứu giải.
 
 ## Nguyên văn
 > "Đắc địa: Thìn, Tuất, Sửu, Mùi - Độc hiểm, ích kỷ, hay ghen ghét, hay nhầm lẫn, gây bệnh tật, tai họa, thị phi, kiện cáo, nhưng giữ của cải bền vững." (tb#0027-thien-khong-hoa)
@@ -56,3 +62,9 @@ chunks:
 > "Miếu địa của sao Hoá Kị là hai cung Tí Hợi, Hoá Kị tính chất thuộc hành thuỷ. Vượng địa của nó cũng ở các cung Dần, Mão, Dậu, Thân." (td#0034-sao-hoa-ki-nhap-mieu-lai-thanh-hay)
 
 > "Nữ mạng bần yểu chỉ trông vào hạn mà thôi." (td#0034-sao-hoa-ki-nhap-mieu-lai-thanh-hay)
+
+> "Đẹp hơn ta gọi là đố, tài hơn ta gọi là kỵ. Đố kỵ tức là sự ghen tức." (bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p01)
+
+> "Không, nhưng có những sao cứu giải cho Kỵ chuyển Kỵ thành Kỳ lạ, Kỳ tài, Kỳ nhân…" (bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p01)
+
+> "Kỵ hợp cho một số chính tinh như TỬ VI, VŨ KHÚC, THIÊN CƠ (THIÊN ĐỒNG) và THIÊN LƯƠNG. Vì các sao trên chủ tài năng." (bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p02)
