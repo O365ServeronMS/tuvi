@@ -4,12 +4,14 @@ type: star-card
 stars: [quan-phu]
 tags: [vong-thai-tue, ly-luan, phap-luat, kien-cao, suy-tinh]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0034-quan-phu-hoa
   - tl#0047-ban-the-thuc-chat-cua-thai-tue
   - tl#0010-bua-me-thuoc-lu-khoa-quyen-loc
   - td#0044-cung-doi-chieu-voi-tang-mon-an-bach-ho-cung-doi
+  - bd#0162-long-tri-quan-phu-p01
+  - bd#0162-long-tri-quan-phu-p02
 ---
 # Quan Phù (Hỏa, vòng Thái Tuế)
 
@@ -29,6 +31,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
 - [TĐ] Tử Vi Việt (do người dịch ghi): chủ thông minh, cơ mưu, quyền bính; rất hợp với Thái Tuế, Tuế Phá, hội Cơ Lương, Tang Hổ Hình miếu địa thêm rực rỡ về văn chương, binh nghiệp; hội Tuế Đà Hình Kỵ hãm địa khó tránh ngục hình.
+- [BĐ] Quan Phù chủ quan điểm, lập trường (Thái Tuế thái độ, Bạch Hổ bày tỏ, thành bộ Tuế Hổ Phù); luôn đồng cung Long Trì, xung chiếu Điếu Khách, nhị hợp Thiên Hỉ, lục hội Hồng Loan. Dễ gặp Phượng Các hoặc Khôi Việt thì quan điểm được nhiều người ngưỡng mộ, dấu hiệu thành công.
+- [BĐ] Tai hại: bày tỏ quan điểm dễ bị chụp mũ; Quan Phù cũng như Bạch Hổ đều kỵ Liêm Trinh; đi Quyền hay Khoa thì vô hại, đi Kỵ hay Kỵ Hình dễ ốm đòn; kỵ Không Kiếp, Địa Võng.
+- [BĐ] Có tính quan sự: tốt (cát tinh, Quyền) là làm cho cửa quan hoặc nhờ cậy cửa quan, xấu là bị cửa quan hành; thị phi cao, kỵ thêm sao kiện cáo. Lệch với TB/TL: TB nhấn xét đoán, lý luận, giúp đỡ, thị phi kiện cáo; TL nhấn suy tính kỹ trước khi nhận phận sự; BĐ nhấn quan điểm, lập trường; không mâu thuẫn trực tiếp.
 
 ## Nguyên văn
 > "Biết xét đoán, lý luận. Hay giúp đỡ." (tb#0034-quan-phu-hoa)
@@ -44,3 +49,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 > "Quan Phù : Chủ thông minh, cơ mưu, quyền bính. Quan Phù rất hợp với Thái Tuế, Tuế Phá hay hội với Cơ Lương, Tang Hổ Hình miếu địa tăng thêm phần rực rỡ tốt đẹp về văn chương, binh nghiệp" (td#0044-cung-doi-chieu-voi-tang-mon-an-bach-ho-cung-doi)
 
 > "Hội với Tuế Đà Hình Kị cư hãm địa thì khó tránh được ngục hình hoặc thị phi nơi công môn." (td#0044-cung-doi-chieu-voi-tang-mon-an-bach-ho-cung-doi)
+
+> "Hai sao này luôn luôn đồng cung với nhau. Gọi tắt là bộ PHÙ TRÌ. Xung chiếu luôn luôn có ĐIẾU KHÁCH, nhị hợp luôn luôn có THIÊN HỈ, Lục hội luôn luôn có HỒNG LOAN," (bd#0162-long-tri-quan-phu-p01)
+
+> "QUAN PHÙ chủ quan điểm. BẠCH HỔ chủ bày tỏ. THÁI TUẾ chủ thái độ." (bd#0162-long-tri-quan-phu-p01)
+
+> "Vì thế QUAN PHÙ cũng như BẠCH HỔ đều kỵ LIÊM TRINH." (bd#0162-long-tri-quan-phu-p02)

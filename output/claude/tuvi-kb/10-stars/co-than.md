@@ -4,11 +4,12 @@ type: star-card
 stars: [co-than]
 tags: [co-qua, co-doc, khac-nghiet, giu-cua, hon-nhan]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0032-thien-duc-hoa-nguyet-duc-hoa
   - tl#0011-gop-mat-chung-voi-thai-tue
   - td#0047-sao-hong-loan-hoi-cung-tu-phu
+  - bd#0292-co-than-qua-tu
 ---
 # Cô Thần (Thổ)
 
@@ -29,6 +30,10 @@ chunks:
 
 ## Đối chứng
 - [TĐ] Sách gốc không có Cô Thần, Quả Tú; Tử Vi Việt: chủ đơn côi, cô quả nếu ở Thân Mệnh không có cát tinh.
+- [BĐ] Cô Thần luôn ở Dần Thân Tỵ Hợi (khớp TL: tứ Sinh); là sao kết cục, đoạn kết (kết quả hay hậu quả do các sao quanh quyết định), cô đơn, mồ côi cha mẹ, hiếm anh em con cái; không được kết luận chỉ từ một yếu tố, phải có thêm Thất Sát, Linh Tinh, Tang Môn, Thiên Khốc, Tuần Triệt Thiên Không và xét cung tương ứng (Phụ Mẫu, Phu Thê, Tử Tức).
+- [BĐ] Vũ Khúc có giá trị như Quả Tú thứ hai (khớp TB); đi với Vũ Khúc cho kết thúc ngắn ngủi, cuộc tình chớp nhoáng, bạc mệnh.
+- [BĐ] Cô Quả giữ gìn khư khư kết cục của mình nên đắc lực ở cung Tài, Điền (giữ của), tiêu pha hà tiện; đi với cát tinh, quyền tinh, quý tinh là "cô gia, quả nhân"; đi với Kỵ Hình, Phi Liêm là cố ý làm trái luật.
+- [BĐ] Không thấy điểm lệch với TB/TL, BĐ nhấn thêm mặt kết quả/hậu quả và giữ gìn; không nêu miếu hãm.
 
 ## Nguyên văn
 > "Cô độc, lạnh lùng, khó tính, khắc nghiệt, không thích giao thiệp." (tb#0032-thien-duc-hoa-nguyet-duc-hoa)
@@ -40,3 +45,9 @@ chunks:
 > "Cô Quả luôn ở trong hoàn cảnh bất đắc ý đến có nhiều hành động phải khắc nghiệt bị ghép vào lý vị kỷ" (tl#0011-gop-mat-chung-voi-thai-tue)
 
 > "Theo Tử Vi Việt : Cô Thần, Quả Tú chủ về sự đơn côi, cô quả nếu chúng ở Thân Mệnh mà không có cát tinh." (td#0047-sao-hong-loan-hoi-cung-tu-phu)
+
+> "Bộ sao này có tính cô đon. CÔ THẦN có tính mồ côi cha mẹ. QUẢ TÚ có tính goá bụa trong hôn nhân." (bd#0292-co-than-qua-tu)
+
+> "CÔ QUẢ còn mang ý. Ít không nhiều. Hiếm, hiếm anh em, hiếm con.." (bd#0292-co-than-qua-tu)
+
+> "Về mặt tình cảm bộ sao này ít giao du tiếp xúc." (bd#0292-co-than-qua-tu)

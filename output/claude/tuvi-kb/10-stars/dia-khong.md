@@ -4,13 +4,15 @@ type: star-card
 stars: [dia-khong]
 tags: [luc-sat, sat-phat, pha-tan, hoanh-phat, hoanh-pha]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh
   - tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep
   - tl#0019-hung-khi-cua-luc-sat-tinh
   - tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu
   - td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu
+  - bd#0075-bo-khong-kiep-p01
+  - bd#0075-bo-khong-kiep-p02
 ---
 # Địa Không (Âm Hỏa, Sát tinh)
 
@@ -32,6 +34,8 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 
 ## Đối chứng
 - [TĐ] Sách gốc coi Không Kiếp hoàn toàn xấu, không có chỗ đắc vị; người dịch ghi nhận Tử Vi Việt cho Không Kiếp cực tốt khi đóng Tỵ Hợi miếu địa, "hoạnh phát tựa thì sấm ran".
+- [BĐ] Thiên Không (tức Địa Không) chủ không ngờ: điều tin tưởng nhất không thể xảy ra lại xảy ra; chủ thiên tai do trời gây, dịch bệnh; "trời không dung"; cũng là con số không, không có gì, và là sao lừa đảo.
+- [BĐ] Thiên Không làm mất tác dụng tốt của sao khác (Đồng Lương thành bất hạnh, Tử Phủ không bao che được); tuy nguy hiểm nhưng có chỗ đắc dụng, như "Mệnh Vô Chính Diệu đắc Tam Không hựu Song Lộc" khả phú quý nhưng không bền. BĐ không bàn miếu hãm theo cung như TB/TL.
 
 ## Nguyên văn
 > "Chủ sát, phá tán - Đắc địa: Dần, Thân, Tỵ, Hợi: thâm trầm, gian nguyệt, hoạnh phát, hoạnh phá." (tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh)
@@ -45,3 +49,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Kim Mệnh gặp Không Kiếp, dầu đắc địa đi nữa cũng khốn khổ đảo điên, phải có Triệt bẻ gãy Không Kiếp mới mong tránh được tai hoạ." (tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu)
 
 > "Theo Tử Vi Việt thì hai sao Không Kiếp sẽ cực nếu chúng được đóng vào hai cung Tỉ Hợi miếu địa" (td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu)
+
+> "THIÊN KHÔNG: Chủ không ngờ, cái mà ta tin tưởng nhất không thể xẩy ra thì nó lại xẩy ra." (bd#0075-bo-khong-kiep-p01)
+
+> "THIÊN KHÔNG là trời không dung...và ĐỊA KIẾP là đất không tha." (bd#0075-bo-khong-kiep-p01)
+
+> "THIÊN KHÔNG là một sao làm mất đi tác dụng tốt của sao khác biến tốt thành xấu." (bd#0075-bo-khong-kiep-p02)

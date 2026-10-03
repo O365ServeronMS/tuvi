@@ -6,10 +6,12 @@ positions: [dan, than, ty, ngo]
 gender: any
 tags: []
 primary: [tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan
   - td#0086-cach-cuc
+  - bd#0084-tong-luan-ve-sao-that-sat-p05
+  - bd#0136-pha-quan-ty-ngo-cach-p01
 ---
 # Thất Sát triều đẩu, ngưỡng đẩu
 
@@ -31,6 +33,9 @@ Cung Mệnh ở Dần, Thân (triều đẩu) hoặc Tí, Ngọ (ngưỡng đẩ
 
 ## Đối chứng
 - [TĐ] Thất Sát triều đẩu (Thất Sát thủ mệnh ở Dần Thân Tí Ngọ) được liệt vào Quí cách.
+- [BĐ] Thất Sát đắc địa ở Tý Ngọ Dần Thân (BĐ chép "Dân"): Dần Thân chủ đoạt địa vị, Tý Ngọ chủ đoạt tiền của; dĩ nhiên cần cát tinh mới thành.
+- [BĐ] Ở vị trí khác, kể cả Tử Sát Tỵ Hợi, vẫn bị xem là thua thiệt; có cát tinh vẫn tốt, thậm chí hay hơn nơi đắc địa mà không có cát tinh.
+- [BĐ] Phá Quân Tý Ngọ: hữu hợp có Thất Sát "triều đẩu", tả hợp có Tham Lang, ba sao đứng vào vị trí hay nhất. BĐ không bàn riêng cách "ngưỡng đẩu"; điểm Thất Sát triều Phá Quân Tý Ngọ không lệch TL.
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -40,3 +45,7 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Nếu cho ngưỡng và triều Tử Vi tất phải danh chính ngôn thuận (ngưỡng triều Đế Vị), thấy không có mối liên hệ gì trong tam hợp (nội bộ) và vị trí Tử Vi cũng đứng không đẹp gì để hưởng ngưỡng triều." (tl#0084-that-sat-nguong-va-trieu-dau-tu-vi-hay-pha-quan)
 
 > "Thất Sát triều đẩu (Thất Sát thủ mệnh ở Dần Thân Tí Ngọ)" (td#0086-cach-cuc)
+
+> "Ở 4 cung Tý Ngọ Dân Thân. Ở Dần Thân chủ đoạt được địa vị. Ở Tý Ngọ chủ đoạt được tiền của. Dĩ nhiên cần có Cát tinh mới thành." (bd#0084-tong-luan-ve-sao-that-sat-p05)
+
+> "Hữu hợp có THẤT SÁT triều đẩu, Tả hợp có THAM LANG mộ cung cả 3 sao đứng vào vị trí hay nhất." (bd#0136-pha-quan-ty-ngo-cach-p01)

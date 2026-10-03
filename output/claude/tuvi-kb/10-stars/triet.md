@@ -4,7 +4,7 @@ type: star-card
 stars: [triet]
 tags: [tuan-triet, khong-vong, pha-nat, an-ngu]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0012-sao-luu-ha
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
@@ -12,6 +12,9 @@ chunks:
   - tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0042-sao-thien-khoc-thien-hu
+  - bd#0020-tuan-va-triet-p02
+  - bd#0103-bai-tong-hop-tuan-va-triet-p01
+  - bd#0103-bai-tong-hop-tuan-va-triet-p02
 ---
 # Triệt (Triệt Lộ Không Vong)
 
@@ -35,6 +38,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; xem thẻ cung Mệ
 
 ## Đối chứng
 - [TĐ] Sách gốc không có lời giải đoán nào về Tuần Triệt, coi như Thiên Không hãm địa; người dịch ghi nhận tiền nhân ta có câu "Tam phương xung sát hạnh nhất Triệt nhi khả bằng" và cho Phá Quân gặp Triệt ít hại hơn Sát, Tham vì Phá Quân thuộc Thuỷ mà Triệt là Kim.
+- [BĐ] Triệt là "kẻ ngoài cuộc", chủ bên ngoài, chủ nửa chừng; Triệt Lộ Không Vong hành Kim, âm tính, chu kỳ 5 năm, không án ngữ ở Tuất và Hợi (bd#0020 p01/p02, bd#0103 p01).
+- [BĐ] Chính tinh rất kỵ Triệt: Tử Vi, Thiên Phủ, Thiên Tướng, cả Thất Sát; Phá Quân và Tham Lang rất cần Triệt mới hay (bd#0020 p02). Khớp TB về Tử Vi, Thiên Phủ, Thiên Tướng kỵ Triệt.
+- [BĐ] Triệt ở cung Thân (an Thân) mang ý "nửa chừng xuân", thân thể không vẹn toàn, nhất là gặp Thiên Tướng; Triệt cũng có thể là quán triệt, không phạm sai lầm khi ở Thân Dậu (bd#0020 p02, bd#0103 p02).
 
 ## Nguyên văn
 > "8.37.2. Triệt Lộ không vong Tùy theo hàng Can của năm sinh" (tb#0012-sao-luu-ha)
@@ -52,3 +58,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; xem thẻ cung Mệ
 > "Triệt có ý nghĩa nặng nề phá nát , Tuần chỉ là ngăn cản" (tl#0020-hung-sat-tinh-ngo-che-la-dang-qui)
 
 > "Sát phá Tham tối kị Triệt Tuần nhưng Phá Quân nếu gặp Triệt thì ít bị hại hơn hai sao kia vì lẽ Phá Quân thuộc Thuỷ mà Triệt là Kim đời Thuỷ." (td#0042-sao-thien-khoc-thien-hu)
+
+> "Các chính tinh sau đây rất kỵ TRIỆT là TỬ VI, THIÊN PHỦ, THIÊN TƯỚNG và ngay cả THẤT SÁT đòi làm vua, chỉ TRIỆT một cái làm dân cũng run." (bd#0020-tuan-va-triet-p02)
+
+> "TRIỆT tên đầy đủ LÀ TRIỆT LỘ KHÔNG VONG. TRIỆT hành Kim, âm tính" (bd#0103-bai-tong-hop-tuan-va-triet-p01)
+
+> "Còn Triệt chỉ nửa chừng rồi thôi, rất kỵ gặp THIÊN TƯỚNG, đóng tại Thân dễ nửa chừng xuân, thân thể không vẹn toàn vì bị trừ." (bd#0103-bai-tong-hop-tuan-va-triet-p02)

@@ -4,12 +4,14 @@ type: star-card
 stars: [linh-tinh]
 tags: [luc-sat, sat-phat, doan-tho, chi-khi]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh
   - tl#0019-hung-khi-cua-luc-sat-tinh
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0038-sao-linh-tinh
+  - bd#0077-ban-ve-bo-linh-hoa-p01
+  - bd#0040-ngoi-sao-linh-ung-p01
 ---
 # Linh Tinh (Nam Đẩu tinh, Âm Hỏa đới Kim, Sát tinh)
 
@@ -32,6 +34,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý là đại sát tinh; thủ Thân Mệnh tính trầm ngâm lầm lì, tướng mạo kỳ quái nhưng oai nghiêm; gặp Tham Lang công danh hiển hách; hãm địa thành kẻ cô bần.
 - [TĐ] Bổ sung: gặp Thất Sát chết nơi trận tiền, gặp Phá Quân vong gia bại sản, gặp Liêm Trinh, Dương Đà hay Kiếp Không có tai nạn đao binh; đắc địa gặp Tham Lang phú quý vô tả.
 - [TĐ] Nữ mệnh: hình khắc, ít bà con họ hàng, suốt đời tình trường bất khiết.
+- [BĐ] Linh Tinh chủ lạnh, hàn (Hỏa Tinh chủ nóng, nhiệt), dùng đoán bệnh lý; thấy cả nóng lạnh thì điều hòa, chỉ một yếu tố thì khổ vì quá nóng hoặc quá lạnh.
+- [BĐ] Lạc hãm thì Linh chủ lạnh nhạt, lạnh lùng; Linh dễ nổi điên, nổi loạn, chống đối; Linh Hỏa là bộ sao của bệnh tâm thần; phú "Linh Xương La Vũ hạn chí đầu hà" được giải là phát điên vì nghe lời xúi bậy mà chết.
+- [BĐ] Linh Tinh là sao linh ứng, sáng suốt, lanh lợi trong suy nghĩ hành động; phải sáng, đi với nhóm sao hợp, có 1-2 sao Lộc mới ra tiền; ưa chỉ huy thì cần Hóa Quyền; Linh thiên về điện, cần Hóa Khoa (ngành điện tử). BĐ nhấn tính lạnh, điên, linh ứng; không nêu "đoản thọ" như TB.
 
 ## Nguyên văn
 > "Chủ sát phạt - Đắc địa: Dần, Mão, Thìn, Tỵ, Ngọ" (tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh)
@@ -47,3 +52,11 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Đắc địa gặp Tham Lang phú quí vô tả." (td#0038-sao-linh-tinh)
 
 > "Nữ mệnh có sao Linh Tinh tất hình khắc ít bà con họ hàng, suốt đời lăng nhăng tình trường bất khiết" (td#0038-sao-linh-tinh)
+
+> "HOẢ TINH: CHỦ NÓNG, NHIỆT. LINH TINH: CHỦ LẠNH, HÀN." (bd#0077-ban-ve-bo-linh-hoa-p01)
+
+> "Khi lạc hãm HOẢ chủ giận hờn, LINH chủ lạnh nhạt, lạnh lùng" (bd#0077-ban-ve-bo-linh-hoa-p01)
+
+> "LINH TINH là sao dễ nổi điên, nổi loạn phát sinh ra sự chống đối." (bd#0077-ban-ve-bo-linh-hoa-p01)
+
+> "LINH TINH là ngôi sao linh ứng, LINH phải sáng, phải đi với nhóm sao phù hợp với LINH, phải có 1, 2 sao LỘC nữa mới nói ra tiền của." (bd#0040-ngoi-sao-linh-ung-p01)

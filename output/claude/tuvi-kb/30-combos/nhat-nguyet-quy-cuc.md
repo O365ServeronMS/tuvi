@@ -6,11 +6,14 @@ positions: [mao, hoi, ty, suu, mui]
 gender: any
 tags: []
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0096-quy-cuc-co-danh-chuc-quyen-quy
   - tb#0098-phu-luan
   - td#0086-cach-cuc
+  - bd#0134-duong-luong-mao-dau-p01
+  - bd#0125-dong-am-ty-ngo-p03
+  - bd#0111-tham-vu-dong-hanh-p05
 ---
 # Nhật Xuất Phù Tang, Nguyệt Lãng Thiên Môn, Minh Châu Xuất Hải, Nhật Nguyệt Đồng Lâm, Nhật Nguyệt Tịnh Minh, Nhật Nguyệt Giáp Mệnh
 
@@ -36,6 +39,9 @@ Cung Mệnh hoặc Quan Lộc tại Mão, Hợi, Tí, Sửu, Mùi tùy từng c�
 
 ## Đối chứng
 - [TĐ] Nhật xuất phù tang (Thái Dương tại cung Mão thủ mệnh hoặc quan lộc cung), Nguyệt lạc Hợi cung (Thái Âm cư Hợi thủ mệnh, còn gọi là nguyệt lãng thiên môn cách), Nguyệt sinh sương hải (Thái âm ở cung Tí, thủ điền trạch), Nhật Nguyệt tinh minh (Thái Âm, Thái Dương đều đứng ở miếu vượng địa chiếu sáng) được liệt vào Quí cách, khớp phần lớn với Tân Biên.
+- [BĐ] Nhật Xuất Phù Tang: BĐ gán tên này cho thế Dương Lương (Thái Dương đồng cung Thiên Lương) tại Mão, Thái Dương sáng lại có Thái Âm sáng hội chiếu; sớm toại chí, may mắn. Khi bị phá cách thì bị phơi bày tội lỗi sai trái của mình; tốt xấu tùy hung cát tinh. Khớp TB về Nhật ở Mão. (bd#0134-duong-luong-mao-dau-p01)
+- [BĐ] Nguyệt Lãng Thiên Môn: lệch TB. BĐ dẫn phú "Đồng Âm cư Tí, Nguyệt Lãng Thiên Môn dung nhan mỹ ái" (Thiên Đồng, Thái Âm tại Tý), nữ Mệnh xinh đẹp nhưng nhiều nước mắt đường tình nếu gặp Hổ, Khốc, Diêu, Tang; còn TB đặt Nguyệt Lãng Thiên Môn ở Hợi, Nguyệt tọa thủ. (bd#0125-dong-am-ty-ngo-p03)
+- [BĐ] Nhật Nguyệt giáp Mệnh: BĐ nhắc, ở thế Tham Vũ tại Sửu được giáp Nhật Nguyệt sáng, kỵ gặp Kình Dương (câu phú "Nhật Nguyệt giáp Mệnh, giáp Tài bất quyền tất phú gia, Dương Đà xung thủ nghi tăng đạo"); càng tồi tệ hơn khi thêm Cô Quả. Chỉ là chú thích điều kiện kỵ, TB không nêu. (bd#0111-tham-vu-dong-hanh-p05)
 
 ## Nguyên văn
 > "Cung Mệnh hay Quan Lộc an tại Mão, có Nhật tọa thủ." (tb#0096-quy-cuc-co-danh-chuc-quyen-quy)
@@ -45,3 +51,9 @@ Cung Mệnh hoặc Quan Lộc tại Mão, Hợi, Tí, Sửu, Mùi tùy từng c�
 > "Phú cục và Quý cục rất cần gặp Khoa, Quyền, Lộc hội hợp, như vậy mới được toàn mỹ." (tb#0098-phu-luan)
 
 > "Nhật xuất phù tang (Thái Dương tại cung Mão thủ mệnh hoặc quan lộc cung)" (td#0086-cach-cuc)
+
+> "Được đặt tên riêng để mô tả cách này “Nhật Xuất Phù Tang” Một trong số những cách hay, được dương cao." (bd#0134-duong-luong-mao-dau-p01)
+
+> "“ĐỒNG ÂM cư Tí. NGUYỆT LÃNG THIÊN MÔN dung nhan mỹ ái." (bd#0125-dong-am-ty-ngo-p03)
+
+> "“NHẬT NGUYỆT giáp Mệnh, giáp Tài bất quyền tất phú gia DƯƠNG ĐÀ xung thủ nghi tăng đạo”" (bd#0111-tham-vu-dong-hanh-p05)

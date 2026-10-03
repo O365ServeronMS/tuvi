@@ -4,7 +4,7 @@ type: star-card
 stars: [tuan]
 tags: [tuan-triet, khong-vong, ngan-can, an-ngu]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0012-sao-luu-ha
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
@@ -12,6 +12,9 @@ chunks:
   - tl#0039-tuan-triet-co-loi-ich-gi-cho-menh-co-chinh-dieu
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0042-sao-thien-khoc-thien-hu
+  - bd#0020-tuan-va-triet-p02
+  - bd#0103-bai-tong-hop-tuan-va-triet-p01
+  - bd#0020-tuan-va-triet-p01
 ---
 # Tuần (Tuần Trung Không Vong)
 
@@ -35,6 +38,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; xem thẻ cung Mệ
 
 ## Đối chứng
 - [TĐ] Sách gốc không có lời giải đoán nào về Tuần Triệt, coi cả hai như Thiên Không ở hãm địa, hoàn toàn xấu; người dịch ghi nhận tiền nhân ta cho Tuần Triệt có cả cát phúc, và Sát Phá Tham tối kỵ Tuần Triệt.
+- [BĐ] Tuần là "kẻ trong cuộc", chủ bên trong, chủ sự trọn vẹn, trung thành, chung thủy; Tuần cũng có thể tốt hay rất xấu tùy nội dung bên trong và chính tinh có tương thích không (bd#0020 p01/p02). Khác TL ở chỗ coi Tuần chủ yếu là cái thắng ngăn cản.
+- [BĐ] Tuần Trung Không Vong hành Hỏa, âm tính, di chuyển ngược chiều kim đồng hồ, chu kỳ 60 năm (bd#0103 p01); khớp TL về hành Hỏa.
+- [BĐ] Tuần và Triệt cùng đóng trên hai cung, tác động đến sáu cung tam hợp xung chiếu; không hiểu hai sao này thì luận đoán dễ sai (bd#0020 p01).
 
 ## Nguyên văn
 > "8.37.1. Tuần Trung không vong Tùy theo năm sinh, trong khoảng mười năm đã được giới hạn theo Can từ Giáp đến Quý." (tb#0012-sao-luu-ha)
@@ -52,3 +58,7 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ; xem thẻ cung Mệ
 > "Tuần Triệt ở giữa 2 cung không phải 2 cung đều chịu ảnh hưởng như nhau. Theo luật âm dương phải cân nhắc theo tuổi số như người dương (dương nam hay dương nữ) ảnh hưởng bên cung dương nặng hơn có nghĩa là đến 70 %, bên cung âm chỉ còn 30 %." (tl#0020-hung-sat-tinh-ngo-che-la-dang-qui)
 
 > "Tuần và Triệt trong Tử Vi đẩu số toàn thư không thấy có một lời giải đoán hay phú đoán nào cả." (td#0042-sao-thien-khoc-thien-hu)
+
+> "Trọn vẹn là trọn đời đeo đuổi mục đích ấy, lời thề ấy, đi theo con người ấy, không bỏ cuộc… tức TUẦN chủ sự trung thành, tận trung, chung thủy." (bd#0020-tuan-va-triet-p02)
+
+> "TUẦN tên đầy đủ là TUẦN TRUNG KHÔNG VONG. TUẦN hành HOẢ, âm tính" (bd#0103-bai-tong-hop-tuan-va-triet-p01)

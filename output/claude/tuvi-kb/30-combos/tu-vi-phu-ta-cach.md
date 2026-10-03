@@ -6,11 +6,13 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0096-quy-cuc-co-danh-chuc-quyen-quy
   - tb#0098-phu-luan
   - td#0086-cach-cuc
+  - bd#0119-tu-phu-dan-than-p01
+  - bd#0119-tu-phu-dan-than-p03
 ---
 # Kim Dư Phù Giá, Tử Phủ Triều Viên, Phụ Bật Củng Chủ, Quân Thần Khánh Hội, Phủ Tướng Triều Viên
 
@@ -35,6 +37,8 @@ Cung Mệnh hoặc cung Quan Lộc.
 
 ## Đối chứng
 - [TĐ] Phụ bật củng chủ (Tử Vi thủ mệnh được Tả Phụ Hữu Bật chiếu, xung), Quân thần khánh hội (Tử Vi, Tả Hữu cùng ở cung mệnh, lại gặp Vũ Khúc, Thiên Tướng chiếu) được liệt vào Quí cách, cách phối hợp gần giống bên Tân Biên.
+- [BĐ] Tử Phủ đồng cung "tối vi phúc hậu" (bao che, bảo trợ) nhưng "thiết hiềm nội trở Triệt Tuần": cả hai sao đều sợ Tuần Triệt, Triệt chủ trừ bỏ, Tuần chủ phong tỏa. Gần ý TB về Tuần Triệt phá cách; BĐ nói về Tử Phủ đồng cung Dần Thân, không bàn Tử Phủ Triều Viên.
+- [BĐ] Tả Hữu là ưu tiên hàng đầu để hưởng cách "Nhất hô bách nặc", cần Tả Phù Hữu Bật mới đắc lực; thêm Lộc Tồn mà không bị phá cách thì phú quý hơn người. BĐ không đối chiếu riêng Kim Dư Phù Giá, Quân Thần Khánh Hội hay Phủ Tướng Triều Viên.
 
 Chưa đối chiếu Nguyễn Phát Lộc.
 
@@ -46,3 +50,7 @@ Chưa đối chiếu Nguyễn Phát Lộc.
 > "Phụ bật củng chủ (Tử Vi thủ mệnh được Tả Phụ Hữu Bật chiếu, xung) - Quân thần khánh hội (Tử Vi, Tả Hữu cùng ở cung mệnh, lại gặp Vũ Khúc, Thiên Tướng chiếu)" (td#0086-cach-cuc)
 
 > "Phú cục và Quý cục trình bày sơ lược ở trên rất cần phải xa lánh Tuần, Triệt, Sát tinh và Bại tinh." (tb#0098-phu-luan)
+
+> "“TỬ PHỦ đồng cung tối vi phúc hậu, thiết hiềm nội trở TRIỆT TUẦN”" (bd#0119-tu-phu-dan-than-p01)
+
+> "TẢ HỮU: ưu tiên hàng đầu để hưởng cách “Nhất hô bách nặc”. Và cần thiết có TẢ PHÙ, HỮU BẬT mới đắc lực." (bd#0119-tu-phu-dan-than-p03)

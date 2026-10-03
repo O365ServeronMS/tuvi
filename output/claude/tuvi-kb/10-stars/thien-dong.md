@@ -4,12 +4,14 @@ type: star-card
 stars: [thien-dong]
 tags: [phuc-tinh, phuc-tho, canh-cai]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0015-cung-nao-giang-phuc-cho-cung-ay
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0280-thien-dong-p01
+  - bd#0280-thien-dong-p02
 ---
 # Thiên Đồng (Nam Đẩu tinh, Dương Thủy, Phúc tinh)
 
@@ -33,6 +35,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Khác về miếu hãm: miếu Tị Hợi, vượng Tí Thân, hãm Ngọ Sửu Mùi Dậu (Tân Biên xếp Dần Thân là miếu, Tỵ Hợi chỉ đắc).
 - [TĐ] Nữ mệnh: "Nữ mệnh Thiên Đồng tắt thị hiền"; hãm địa có Tứ Sát xung phá thì hình phu khắc tử; hội Thiên Lương có Thái Âm chiếu thì làm lẽ hoặc đi tu.
 - [NPL] Xếp Thiên Đồng vào nhóm "phúc tinh" (cùng Thiên Lương) trong 10 loại chính tinh.
+- [BĐ] Thiên Đồng cùng Thiên Cơ thành nhóm Cơ Đồng, tam hợp với nhau, nhị hợp Tham Lang; là "trẻ con hay hỏi", trong cơ thể là cái bụng, về tình cảm chủ lòng dạ (tấm lòng vàng đến lòng lang dạ sói, tùy bàng tinh); Cơ hỏi, Đồng đáp; Cơ đói, Đồng no; chủ phúc (ăn no, có con nối dõi).
+- [BĐ] Thiên Đồng đóng Thân, Mệnh tốt đẹp thì không sợ tai ương (nhờ ngẫu nhiên xa nơi nguy hiểm, nhờ thông minh tránh tai nạn). Là sao trọng hậu, thâm sâu, để bụng: thâm sâu tốt thì về sau phúc càng to, thâm sâu xấu thì họa càng lớn; về tài sản chủ ruộng vườn.
+- [BĐ] Mất tác dụng trước Không Kiếp (vô phúc) và Hỏa Linh (giận hờn, lòng dạ không an vui); không còn tốt khi đi với Kỵ Hình. Ngược lại hóa giải được Tang Môn, Điếu Khách, Bạch Hổ, Phục Binh (làm việc phúc, việc thiện).
+- [BĐ] Lệch/khác: BĐ không nêu miếu hãm; TB nêu tính canh cải, thất thường còn BĐ nhấn trọng hậu, thâm sâu, bắt chước, thông minh. BĐ nói Không Kiếp Hỏa Linh làm mất tác dụng, khác TĐ (không sợ Tứ Sát phá phách). Không dùng BĐ để bác TB/TL.
 
 ## Nguyên văn
 > "Chủ phúc thọ" (tb#0022-thien-dong-nam-dau-tinh-duong-thuy-phuc-tinh)
@@ -48,3 +54,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Thiên Đồng miếu địa, Tị, Hợi vượng Tí Thân, hãm địa Ngọ, Sửu, Mùi, Dậu." (td#0015-cung-nao-giang-phuc-cho-cung-ay)
 
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "THIÊN CƠ chủ hỏi, THIÊN ĐỒNG chủ đáp." (bd#0280-thien-dong-p01)
+
+> "Cho nên sao THIÊN ĐỒNG đóng tại Thân, Mệnh tốt đẹp không sợ tai ương." (bd#0280-thien-dong-p02)
+
+> "THIÊN ĐỒNG là ngôi sao trọng hậu xem trọng về sau." (bd#0280-thien-dong-p02)

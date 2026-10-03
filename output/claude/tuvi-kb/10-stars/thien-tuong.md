@@ -4,12 +4,14 @@ type: star-card
 stars: [thien-tuong]
 tags: [quyen-tinh, dung-tinh, quan-loc, phuc-thien, an-tinh]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0024-tham-lang-bac-dau-tinh-am-thuy-hung-tinh-dam
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - td#0021-sao-thien-tuong-thi-nhieu-phuc-nhieu-tien-dang
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0260-thien-tuong-p01
+  - bd#0260-thien-tuong-p02
 ---
 # Thiên Tướng (Nam Đẩu tinh, Dương Thủy, Quyền tinh, Dũng tinh)
 
@@ -37,6 +39,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Bổ sung: Thiên Tướng giáp Liêm Trinh và Kình Dương phần đông gặp tù ngục; phú nôm nói "Thiên Tướng chẳng kị sát tinh, chỉ hiềm Triệt lộ".
 - [TĐ] Nữ mệnh: thông minh, đoan trang, chí cao như kẻ trượng phu; gặp xung phá thành thân phận tì thiếp; thủ mệnh tất sinh quý tử, chồng hiền.
 - [NPL] Xếp Thiên Tướng vào nhóm "thiện tinh" (cùng Thiên Phủ, Thất Sát) trong 10 loại chính tinh.
+- [BĐ] Thiên Tướng cùng Thiên Phủ một nhóm: tam hợp phải có Thiên Phủ, lục hội có Thiên Cơ, xung chiếu có Phá Quân; âm tính, hành thủy. Chủ thương yêu, tương trợ, che chở, ủng hộ ("ngôi sao hiệp sĩ"); đi với sao tốt thành tốt, đi với sao xấu thành xấu, tùy hung cát tinh quanh đó.
+- [BĐ] Rất sợ Triệt (bị vạch mặt, lộ diện); trong cơ thể là dung mạo, càng dễ gây cảm tình khi đi với Hồng Loan, với nữ Mệnh là cách quý nhân hảo phối; tính chọn lựa mạnh hơn khi đi với Đào Hoa, Tướng Quân.
+- [BĐ] Phá Quân và Thiên Tướng luôn đối nhau, đòi hỏi quân bình, tương đương, hòa hợp nhưng rất dễ đổ vỡ; Thiên Tướng tốt nhất là hiệp sĩ được nhiều người thương yêu, xấu nhất là ác quỷ nhiều bộ mặt.
+- [BĐ] Lệch/khác: BĐ không nêu miếu hãm; BĐ nói đi với sao xấu thành xấu, khác TĐ (không bị sao ác làm biến đổi); BĐ nêu sợ Triệt, khớp TĐ "chỉ hiềm Triệt lộ"; thế đối xung Phá Quân khớp TL (Tướng xung Phá). Không dùng BĐ để bác TB/TL.
 
 ## Nguyên văn
 > "Chủ quan lộc, phúc thiện - Miếu địa: Dần, Thân" (tb#0024-tham-lang-bac-dau-tinh-am-thuy-hung-tinh-dam)
@@ -54,3 +60,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Số đàn bà Thiên Tướng thủ mệnh thông minh, đoan trang, chí cao như kẻ trượng phu, nếu gặp xung phá thành thân phận tì thiếp" (td#0021-sao-thien-tuong-thi-nhieu-phuc-nhieu-tien-dang)
 
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "THIÊN TƯỚNG là ngôi sao hiệp sĩ." (bd#0260-thien-tuong-p01)
+
+> "THIÊN TƯỚNG rất sợ sao TRIỆT vì nó chủ bị vạch mặt, lộ diện" (bd#0260-thien-tuong-p01)
+
+> "PHÁ QUÂN và THIÊN TƯỚNG luôn luôn đối nhau." (bd#0260-thien-tuong-p02)

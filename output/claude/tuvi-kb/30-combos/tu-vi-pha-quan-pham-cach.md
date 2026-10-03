@@ -6,9 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tl]
-cross: []
+cross: [bd]
 chunks:
   - tl#0083-pham-cach-giua-tu-vi-va-pha-quan
+  - bd#0110-pha-quan-bai-tong-hop-p01
+  - bd#0136-pha-quan-ty-ngo-cach-p02
 ---
 # Phẩm cách giữa Tử Vi và Phá Quân
 
@@ -29,9 +31,16 @@ Tử Vi và Phá Quân là hai chính tinh đối diện nhau trên địa bàn,
 Không tại một cung cố định; đánh giá qua vị trí Mệnh của mỗi lá số cụ thể.
 
 ## Đối chứng
+- [BĐ] Phá Quân là kẻ cầm đầu nhóm Sát Phá Tham, so với Tử Vi là kẻ lãnh đạo; bên cạnh Phá Quân luôn có Tham Lang, Tử Vi luôn có Thiên Tướng tương trợ.
+- [BĐ] Phá Quân Tý Ngọ lý tưởng nhất có thể làm vua chúa vì tính ưa cầm đầu; BĐ cũng nói Phá Quân đi với Kình mới là câu "quân tử đại trượng phu". Gần ý TL không cứ Phá Quân là tiểu nhân; BĐ không bàn riêng cách Tử Vi Phá Quân đồng cung.
+
 Sách Trần Đoàn không bàn riêng chủ đề phẩm cách Tử Vi và Phá Quân theo hướng triết lý này; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Nguyên văn
 > "Tử Vi là phe chánh quyền mà Phá Quân là phái đối lập. Tất nhiên trong cả hai phe phái đều có người thành thực đức hạnh, kẻ gian trá bất nhân, không thể cứ nhất quyết Phá Quân là tiểu nhân mà Tử Vi lúc nào cũng quân tử." (tl#0083-pham-cach-giua-tu-vi-va-pha-quan)
 
 > "Trường hợp Phá Quân ở Thìn Tuất dám thẳng thắn đối diện tư tưởng công khai nghênh địch không còn úp mở là trường hợp nguy hiểm cho đế quyền nên phải đặt ngay câu phú (Trai bất nhẫn Phá Quân Thìn Tuất)" (tl#0083-pham-cach-giua-tu-vi-va-pha-quan)
+
+> "PHÁ QUÂN là kẻ cầm đầu thuộc nhóm SÁT PHÁ THAM, so sánh với TỬ VI là kẻ lảnh đạo, bên cạnh PHÁ QUÂN luôn có THAM LANG tham gia thì TỬ VI luôn có THIÊN TƯỚNG sẵn sàng tương trơ." (bd#0110-pha-quan-bai-tong-hop-p01)
+
+> "Một PHÁ QUÂN Tý Ngọ lý tưởng nhất có thể làm vua chúa vì tính chất ưa cầm đầu của sao này," (bd#0136-pha-quan-ty-ngo-cach-p02)

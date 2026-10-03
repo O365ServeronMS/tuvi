@@ -4,7 +4,7 @@ type: star-card
 stars: [tu-vi]
 tags: [de-tinh, uy-quyen, tai-loc, phuc-duc, giai-hung]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
@@ -12,6 +12,9 @@ chunks:
   - td#0008-cung-va-ta-huu-ho-ve-tat-lam-tai-phu-chi-quan
   - td#0009-cung-dau-bi-tu-saut-la-kinh-da-hoa-linh-vay-ham
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0022-bi-mat-ngoi-sao-tu-vi-p01
+  - bd#0471-ngoi-sao-tu-vi-p01
+  - bd#0471-ngoi-sao-tu-vi-p02
 ---
 # Tử Vi (Nam Bắc Đẩu tinh, Dương Thổ, Đế tinh)
 
@@ -45,6 +48,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Bổ sung: Tử Vi hội Liêm Trinh không thấy Tả Hữu thường làm tiểu lại; Tử Vi ở Tật Ách, Nô Bộc là sái, giảm uy quyền; Tử Phá Thìn Tuất Sửu Mùi là tôi bất trung con bất hiếu.
 - [TĐ] Nữ mệnh: hội nhiều sao tốt lấy chồng sang quý; gặp Đào Hoa thì phiêu lãng phong trần; Tử Vi tại Dần Ngọ Thân vượng phu ích tử.
 - [NPL] Xếp Tử Vi vào nhóm "đế tinh" trong 10 loại chính tinh (đế, phúc, thiện, tài, đào hoa, âm, hung); vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt.
+- [BĐ] Tử Vi đứng đầu nhóm Tử Vũ Liêm, thường phối với bộ Phủ Tướng hoặc Sát Phá Tham; là sao lãnh đạo, Mệnh có Tử Vi là "định mệnh đã an bài", có thể tốt hoặc xấu, lớn hoặc nhỏ, thành hoặc không. Đi với Thiên Phủ thành bộ bao che lẫn nhau (tốt: được bao bọc; xấu: bao bọc kẻ xấu).
+- [BĐ] Tử Vi chủ bí mật, bí ẩn, kín đáo nên rất cần Thiên Phủ che đậy; BĐ cho rằng cách Tử Phủ hay nhờ hợp lý, đắc ý chứ không phải đắc địa. Tử Vi có thể hợp Hóa Kỵ (kỳ tài, bí quyết) và hợp Hỏa Linh (tinh vi, hành động nhanh).
+- [BĐ] Mệnh Tử Vi lục hội luôn có Cự Môn; cung Nô luôn có Thái Dương, cung Tật luôn có Thiên Đồng; hai cung Nô, Tật tốt thì Mệnh Tử Vi có phúc thần che chở.
+- [BĐ] Lệch/khác: BĐ không nêu miếu hãm hay phúc đức như TB; BĐ nói Tử Vi hợp Hỏa Linh, còn TB chỉ nói Tử Vi bị sát tinh vây hãm thì như vua bị hung đồ làm hại (TĐ nói Tử Vi chế phục Hỏa Linh); BĐ đặt cung Nô, Tật tốt là điều kiện cho Mệnh Tử Vi, TĐ lại cho Tử Vi ở Tật Ách, Nô Bộc là sái. Không dùng BĐ để bác TB/TL.
 
 ## Nguyên văn
 > "Chủ uy quyền, tài lộc, phúc đức - Miếu địa: Tỵ, Ngọ, Dần, Thân: thông minh, trung hậu, nghiêm cẩn, uy nghi." (tb#0021-tu-vi-nam-bac-dau-tinh-duong-tho-de-tinh)
@@ -64,3 +71,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
 
 > "Tử-Vi vì là đế tinh nên có cả ý nghĩa phú, quý, thọ, phúc, thiện đồng loạt." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "TỬ VI có thể hợp với HOÁ KỴ, sinh ra các từ kỳ tài, bí quyết." (bd#0471-ngoi-sao-tu-vi-p01)
+
+> "Do TỬ VI là bí mật, kín đáo do đó rất cần thiết phải có THIÊN PHỦ chủ che đậy phối hợp mới hay." (bd#0022-bi-mat-ngoi-sao-tu-vi-p01)
+
+> "Cho nên cách TỬ PHỦ được khen hay nhờ hợp lý, đắc ý chứ không phải là đắc địa." (bd#0022-bi-mat-ngoi-sao-tu-vi-p01)

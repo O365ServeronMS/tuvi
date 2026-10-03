@@ -6,10 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [bd]
 chunks:
   - tb#0099-ban-tien
   - tb#0100-biet-tai-ve-van-nghe
+  - bd#0100-cach-vu-tuong-dan-than-p01
 ---
 # Văn chức, Võ chức, Uy dũng
 
@@ -31,6 +32,9 @@ Ba nhận xét số mệnh (20.8, 20.10, 20.11 Tân Biên) phân biệt quan vă
 Ba cung Mệnh, Thân, Quan Lộc.
 
 ## Đối chứng
+- [BĐ] Chỉ có phần Vũ Tướng: Vũ Khúc chủ tài năng, Thiên Tướng chủ tướng mạo; cần Văn Khúc, Hồng Loan, Khôi Việt hỗ trợ thi cử, thi tài; kỵ Tam Không, nhất là Triệt đương đầu.
+- [BĐ] Có Lực Sĩ thì thiên về sức cơ bắp; tùy hung cát tinh mà thành kẻ vũ phu lỗ mãng hay nghĩa sĩ anh hùng. Cách Vũ Tướng khá hay nhưng hung cát tinh quyết định số phận. BĐ không có đoạn riêng cho phần văn chức và uy dũng của thẻ này.
+
 Sách Trần Đoàn và Nguyễn Phát Lộc không bàn riêng ba mục nhận xét số mệnh này theo cách phân loại của Tân Biên.
 
 ## Nguyên văn
@@ -39,3 +43,9 @@ Sách Trần Đoàn và Nguyễn Phát Lộc không bàn riêng ba mục nhận 
 > "Ba cung Mệnh, Thân, Quan Lộc có Vũ, Tướng, Sát, Phá, Liêm, Tham sáng sủa tốt đẹp, lại gặp nhiều Sát tinh sáng sủa tốt đẹp hội hợp cùng với Tả, Hữu, Thai, Tọa, Khoa, Quyền, Lộc, Binh, Hình, Tướng, Ấn, như vậy chắc chắn là có võ chức lớn, có uy quyền hiển hách." (tb#0100-biet-tai-ve-van-nghe)
 
 > "Quyền thủ Mệnh, Thân gặp nhiều sao sáng sủa tốt đẹp hội hợp, nên ra ngoài có oai được nhiều người kính nể." (tb#0100-biet-tai-ve-van-nghe)
+
+> "Một sao chủ tài năng (VŨ KHÚC), một sao chủ tướng mạo (THIÊN TƯỚNG ). Tốt là vừa có tài lại đẹp tướng, tài sắc vẹn toàn." (bd#0100-cach-vu-tuong-dan-than-p01)
+
+> "Nếu thấy có LỰC SĨ là người thiên về dùng sức mạnh cơ bắp, Tuỳ thuộc hung cát tinh để luận đoán kẻ vũ phu lỗ mãng, hay nghĩa sĩ anh hùng." (bd#0100-cach-vu-tuong-dan-than-p01)
+
+> "Cách Vũ Tướng được đánh giá là khá hay nhưng Hung, Cát tinh quyết định só phận, cái mà ta đánh giá chỉ là cái nhìn chung chung mà thôi." (bd#0100-cach-vu-tuong-dan-than-p01)

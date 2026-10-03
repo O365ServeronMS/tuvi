@@ -4,13 +4,14 @@ type: star-card
 stars: [hoa-khoa]
 tags: [tu-hoa, van-tinh, khoa-giap, giai-hung, nhan-hau]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0027-thien-khong-hoa
   - tl#0010-bua-me-thuoc-lu-khoa-quyen-loc
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha
   - td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi
+  - bd#0072-bai-viet-ve-tu-hoa-p02
 ---
 # Hóa Khoa (Mộc đới Thủy)
 
@@ -33,6 +34,9 @@ chunks:
 ## Đối chứng
 - [TĐ] Đồng ý coi thi cử văn chương; thủ Thân Mệnh gặp Quyền Lộc chức vị nhất phẩm; hội Xương Khúc Khôi Việt công danh sáng lạng.
 - [TĐ] Nữ mệnh có Hoá Khoa chủ quý, không sợ gặp ác tinh; phú nôm ta ghi miếu Hợi Dần Thân Tị.
+- [BĐ] Hóa Khoa là hóa khí của Vũ Khúc, Thái Âm, Xương Khúc, Thiên Cơ, Tả Hữu, Thiên Lương; chủ trình độ hiểu biết, tính chuyên khoa một môn, lợi thi cử; như sao cứu giải nhờ hiểu biết rộng mà tự cứu (như Triệt); đi với văn tinh, Khôi tinh rất hợp cách.
+- [BĐ] Hóa Khoa chủ to lớn, tăng giá trị cát tinh: đi với Quyền làm quyền to thêm, đi với Hóa Lộc làm lộc to thêm.
+- [BĐ] Chủ khoe khoang, phóng đại như Đường Phù: ý riêng của BĐ, TB/TL không nêu; BĐ không nhắc nhân hậu, từ thiện như TB/TL.
 
 ## Nguyên văn
 > "Thông minh, lịch lãm, uyên bác, nhân hậu, từ thiện. - Tăng phúc, tăng thọ. Giải trừ bệnh tật, tai họa. Cứu khổn, phò nguy." (tb#0027-thien-khong-hoa)
@@ -48,3 +52,9 @@ chunks:
 > "Nữ mệnh có Hoá Khoa chủ qui không sợ gặp các ác tinh." (td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha)
 
 > "Sao Hoá Khoa nhập Mệnh không phải loại tầm thường, hội với Xương Khúc, Khôi Việt công danh sáng lạng." (td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi)
+
+> "Chủ trình độ hiểu biết và đồng thời có tính chuyên khoa một môn nào đó." (bd#0072-bai-viet-ve-tu-hoa-p02)
+
+> "Chủ khoe khoang có tính phóng đại như sao ĐƯỜNG PHÙ" (bd#0072-bai-viet-ve-tu-hoa-p02)
+
+> "Đi với QUYỀN làm quyền thêm to, đi với HÓA LỘC làm lộc càng thêm to lớn." (bd#0072-bai-viet-ve-tu-hoa-p02)

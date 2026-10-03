@@ -4,13 +4,15 @@ type: star-card
 stars: [dai-hao]
 tags: [bai-tinh, hao-tan, ly-tan, song-hao]
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tb#0027-thien-khong-hoa
   - td#0043-sao-loc-ton-tren-day-de-phat-trien-loi-giang
   - td#0042-sao-thien-khoc-thien-hu
+  - bd#0293-dai-hao-p01
+  - bd#0063-bai-viet-tiep-ve-dai-hao-p02
 ---
 # Đại Hao (Hỏa, Bại tinh)
 
@@ -30,6 +32,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 ## Đối chứng
 - [TĐ] Đồng ý hao tán: "đóng ở đâu hao đấy", Đại Hao phá tổ nghiệp; bổ sung: riêng hai cung Mão Dậu được Song Hao mỗi sao một cung lại rất hay, cách chúng thuỷ triều đông, nhất là khi chính diệu ở đó là Cự Môn, Thiên Cơ.
 - [TĐ] Trong sách gốc Đại Hao thuộc chòm Lộc Tồn.
+- [BĐ] Đại Hao chủ sự to lớn (Tiểu Hao xung chiếu chủ bé nhỏ), tiếng rống lớn gào thét (Bạch Hổ Đại Hao là hổ gầm), tin tức trao đổi, thay đổi, màu đen, bộ máy tiêu hóa; thuộc chòm Bác Sĩ, bộ Lực Sĩ Tấu Thư Đại Hao.
+- [BĐ] Chủ tốn kém nhiều (Tiểu Hao tốn kém ít); hao nhất là đi Phá Quân; đi Đào Hoa là phung phí. Thay đổi tốt (đổi nhà, chức vụ) hoặc xấu (thay lòng đổi dạ).
+- [BĐ] Lệch với TB/TĐ: BĐ phê các sách xếp Song Hao vào Bại tinh gây ngộ nhận, vì hao chưa chắc là hao tài mà có thể vui khi mua món ưa thích; nêu rõ lệch với cách đọc hao tán của TB. TB ghi đắc địa Dần Thân Mão Dậu; BĐ không nêu miếu hãm.
 
 ## Nguyên văn
 > "Đắc địa: Dần, Thân, Mão, Dậu" (tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh)
@@ -43,3 +48,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Hai sao này đóng ở đâu hao đấy, chỉ duy hai cung Mão Dậu được Song Hao mỗi sao đóng một cung lại rất hay, nó thuộc cách chúng thuỷ triều đông trăm ngọn nước chảy về biển đông nhất là chính diệu của hai cung đó Cự Môn, Thiên Cơ, người giàu sang lắm." (td#0043-sao-loc-ton-tren-day-de-phat-trien-loi-giang)
 
 > "Đại Hao phá tổ nghiệp" (td#0042-sao-thien-khoc-thien-hu)
+
+> "ĐẠI HAO chủ sự to lớn, trái lại TIỂU HAO chủ bé nhỏ." (bd#0293-dai-hao-p01)
+
+> "ĐẠI HAO là tiếng rống lớn, gào thét. TIỂU HAO lại là tiếng rít nho nhỏ." (bd#0293-dai-hao-p01)
+
+> "Các sách TỬ VI cứ xếp 2 sao nầy vào nhóm bại tinh khiến gây ngộ nhận không ít. Cứ thấy HAO cho là hao tài, chắc gì hao mà còn sung sướng vui vẻ khi mua món hàng mình thích." (bd#0063-bai-viet-tiep-ve-dai-hao-p02)

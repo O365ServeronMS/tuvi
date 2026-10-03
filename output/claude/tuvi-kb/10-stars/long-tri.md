@@ -4,12 +4,15 @@ type: star-card
 stars: [long-tri]
 tags: [long-phuong, may-man, cuoi-hoi, chinh-danh, thai-tue, tu-linh]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0029-thien-hinh-hoa
   - tl#0009-danh-du-cua-long-phuong-ta-huu-xuong-khuc
   - tl#0021-pham-chat-rieng-biet-giua-van-xuong-va-van-khuc
   - td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu
+  - bd#0162-long-tri-quan-phu-p01
+  - bd#0162-long-tri-quan-phu-p02
+  - bd#0162-long-tri-quan-phu-p03
 ---
 # Long Trì (Thủy)
 
@@ -31,6 +34,11 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
 - [TĐ] Sách gốc không có lời đoán; Tử Vi Việt: chủ cao sang, đài các, vui mừng, đi với Nhật Nguyệt rất hợp cách; phú nôm "Phượng Long Mão Dậu đôi miền, vượng thì kim bảng đề tên ở đầu".
+- [BĐ] Quan Phù và Long Trì luôn đồng cung (bộ Phù Trì), thuộc chòm Thái Tuế; xung chiếu có Điếu Khách, nhị hợp có Thiên Hỉ, lục hội có Hồng Loan.
+- [BĐ] Quan Phù Long Trì dễ gặp Phượng Các hoặc Khôi Việt: quan điểm, lập trường được nhiều người ngưỡng mộ nên thành công; thêm Hoa Cái thành bộ Tứ Linh.
+- [BĐ] Long Trì là ao hồ, làm đẹp nhà đất, hợp Phượng Các và nhóm Đường Phù, Cơ Nguyệt Đồng Lương; còn mang ý thành trì phòng ngự, đi với Tử Phủ Vũ Tướng Liêm là vững lâu dài.
+- [BĐ] Đi với Không Kiếp dễ thủy tai, gặp Hỏa Linh có thể bỏng nước nóng, đi với Kỵ Hình tinh dễ bệnh về mũi (Long Trì là cái mũi).
+- [BĐ] BĐ tách Long Trì khỏi cặp Long Phượng của TL và luận theo bộ Phù Trì, hình tượng ao hồ; TB/TL luận Long Phượng là bộ trung tinh của Thái Tuế, BĐ không nêu điểm này.
 
 ## Nguyên văn
 > "Thông minh nhân hậu, ôn hòa, vui vẻ, bình thường." (tb#0029-thien-hinh-hoa)
@@ -42,3 +50,11 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 > "Bộ Long Phượng là bộ mặt của Tam Hợp Thái Tuế, nhưng với người tuổi âm mới đủ 4 sao Long Phượng Hổ Cái là quí cách của người được định mệnh giao phó trách nhiệm để làm việc cao cả. Người tuổi dương chỉ có 3, nhường Phượng các cho đối phương (Tuế Phá)" (tl#0021-pham-chat-rieng-biet-giua-van-xuong-va-van-khuc)
 
 > "Tử Vi đẩu số toàn thư không có lời giải đoán cho Long Trì Phượng Các, Tử Vi Việt giải đoán Long Trì, Phượng Các là những sao chủ về sự cao sang, đài các và vui mừng. Chúng đi với Nhật Nguyệt rất hợp cách." (td#0045-trich-tu-vi-ao-bi-cua-viet-viem-tu)
+
+> "Từ vị trí Quan Phù Long Trì ta dễ gặp PHƯỢNG CÁC hoặc KHÔI VIỆT." (bd#0162-long-tri-quan-phu-p02)
+
+> "Hai sao này luôn luôn đồng cung với nhau. Gọi tắt là bộ PHÙ TRÌ." (bd#0162-long-tri-quan-phu-p01)
+
+> "LONG TRÌ là cái ao, hồ làm tăng thêm vẻ đẹp trong nhà cửa." (bd#0162-long-tri-quan-phu-p03)
+
+> "Vậy thì đi với các sao tai nạn tai họa KHÔNG KIẾP dễ bị thủy tai không có gì lạ." (bd#0162-long-tri-quan-phu-p03)

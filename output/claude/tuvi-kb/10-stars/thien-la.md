@@ -4,9 +4,13 @@ type: star-card
 stars: [thien-la]
 tags: [la-vong, kim-ham, giam-cam, thin, da-la]
 primary: [tb, tl]
+cross: [bd]
 chunks:
   - tb#0033-thien-tai-tho
   - tl#0015-the-nao-la-thien-la-dia-vong
+  - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01
+  - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p02
+  - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p03
 ---
 # Thiên La (Thổ)
 
@@ -26,7 +30,11 @@ chunks:
 Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
-Sách Trần Đoàn không có sao Thiên La, Địa Võng; chưa đối chiếu Nguyễn Phát Lộc.
+Sách Trần Đoàn không có sao Thiên La, Địa Võng; chưa đối chiếu Nguyễn Phát Lộc. Bửu Đình đối chứng như sau.
+- [BĐ] Thiên La là lưới của trời chụp xuống, Địa Võng là lưới dưới đất giăng ra; ở Thìn Tuất (La Võng chi địa) dễ bị người ta nghi ngờ oan ức, hàm oan nặng nhẹ tùy các sao quan sự như Quan Phù, Quan Phủ, nhất là Đường Phù thổi phồng (khúc bd#0092 p01).
+- [BĐ] Kỵ gặp thêm Đà La thành "Tam La", cùng Không Kiếp thì như kiếp nạn vì oan tình; Đà La được coi là cái lưới di động làm xấu thêm cho La Võng (p01, p03). Khác TL chỉ coi La Võng thành hình khi có Đà La.
+- [BĐ] Câu phú "Tang Môn thậm khô Thiên La", "Quan Phù đa kinh ư Địa Võng": BĐ nói chỉ mang tính gợi ý về quan sự khi bị vu, không nên tin để lo lắng; chỉ đáng ngại khi có bộ Kỵ Hình hoặc Không Kiếp (p02).
+- [BĐ] Thiên La và Địa Võng đóng cạnh nhau: Địa Võng chủ nói vu, nói khống nên lợi thế hơn, Thiên La lãnh hậu quả (p03); không có ở TB/TL.
 
 ## Nguyên văn
 > "Hiểm ác, kìm hãm. Gây rắc rối, ngăn trở mọi công việc. Chủ sự bắt bớ, giam cầm." (tb#0033-thien-tai-tho)
@@ -38,3 +46,9 @@ Sách Trần Đoàn không có sao Thiên La, Địa Võng; chưa đối chiếu
 > "Tóm lại Thiên la địa võng là Đà la, Đà la đắc địa ở tứ sinh mà hãm dịa ở tứ mộ" (tl#0015-the-nao-la-thien-la-dia-vong)
 
 > "Mười tuổi hàng Can , 5 tuổi Giáp Đinh Kỷ Canh Quí không tơ hào liên luỵ La Võng, còn lại Ất Bính Mậu phải để ý Thiên La, Tân Nhâm nên thận trọng ở Địa võng." (tl#0015-the-nao-la-thien-la-dia-vong)
+
+> "THIÊN LA là cái lưới của trời chụp xuống. Địa võng cũng là cái lưới dưới đất đang giăng ra là nơi bị trời đất đang giăng lưới." (bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01)
+
+> "Nằm ở 2 cung Thìn Tuất tức là rơi vào la võng chi địa dễ bị người ta nghi ngờ rất oan ức." (bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01)
+
+> "ĐỊA VÕNG lợi thế hơn THIÊN LA vì ĐỊA VÕNG chủ nói vu, nói khống làm cho THIÊN LA lãnh hậu quả." (bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p03)

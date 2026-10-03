@@ -4,13 +4,14 @@ type: star-card
 stars: [thai-tue]
 tags: [vong-thai-tue, tu-cach, hanh-kiem, thien-thoi, ly-luan, thi-phi]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0033-thien-tai-tho
   - tl#0047-ban-the-thuc-chat-cua-thai-tue
   - tl#0043-an-soi-o-thi-khong-ai-tuong-nho-giay-rach-phai
   - tl#0029-nhung-dang-duc-hanh-cao-day-khong-co-gi-ngan-p02
   - td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi
+  - bd#0287-thai-tue
 ---
 # Thái Tuế (Hỏa)
 
@@ -34,6 +35,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
 - [TĐ] Sách gốc coi Thái Tuế mang tính chất hung tai: nhập hạn hoặc đóng cung Quan hãm địa mà không có cát tinh thì người chức vị gặp nhiều chuyện phù trầm. Thiên Lương phản bác cách nhìn "sợ Thái Tuế hơn cọp dữ" này.
+- [BĐ] Thái Tuế là sao thái độ, lý lẽ, lập trường: bên tả có Quan Phù Long Trì (quan điểm), bên hữu có Bạch Hổ (bày tỏ), thành bộ Tuế Hổ Phù; đứng đầu chòm Thái Tuế, dễ gặp Phượng Các, Hoa Cái. Tuế Hổ Phù hợp Xương Khúc thì hùng biện, văn chương; càng tốt hơn khi thêm Hóa Quyền, Khôi Việt, Khoa Quyền Lộc, Lộc Tồn, không Kỵ Hình, Không Kiếp.
+- [BĐ] Thái Tuế còn là sao chủ năm (năm tốt, thêm Hoa Cái), người cao tuổi, sự thật/thành/nên; đối xung Thiên Hư Tuế Phá chủ giả/bại/hư. Cả hai chưa phải đáp số cuối cùng: đáp số nằm ở Khoa Quyền Lộc, Không Kiếp, Kỵ Hình; Thái Tuế mất tác dụng trước Không Kiếp, Kỵ Hình.
+- [BĐ] Lệch với TB/TĐ: TB nhấn khinh người, lạnh lùng, ít cảm tình và gặp Đà Kỵ thì thị phi kiện cáo; TĐ coi Thái Tuế hung tai; BĐ nhìn Thái Tuế là sao thái độ trung tính, không nêu tính khinh người hay hung tai.
 
 ## Nguyên văn
 > "Khinh người, lạnh lùng, không thích giao thiệp, ít cảm tình. Biết xét đoán, hay lý luận." (tb#0033-thien-tai-tho)
@@ -53,3 +57,9 @@ Không nguồn chính nào nêu điểm riêng cho nam nữ.
 > "1/ - Hạn Thái Tuế là phải đắc ý" (tl#0029-nhung-dang-duc-hanh-cao-day-khong-co-gi-ngan-p02)
 
 > "Sao Thái Tuế vốn mang tinh chất hung tai, nếu có nhật hạn hoặc đóng cung Quan hãm địa mà không có cát tinh phù trợ, người chức vị thường gặp lắm chuyện phù trầm." (td#0056-sao-hoa-khoa-la-van-tinh-thu-menh-cung-la-nguoi)
+
+> "THÁI TUẾ là ngôi sao của thái độ, bên trái của nó có bộ sao QUAN PHÙ LONG TRÌ chủ quan điểm, bên phải của nó luôn có BẠCH HỔ ngôi sao bày tỏ." (bd#0287-thai-tue)
+
+> "THÁI TUẾ là ngôi sao chủ sự thật. Trái với sự thật là sự giả dối tại vị trí sao THIÊN HƯ TUẾ PHÁ." (bd#0287-thai-tue)
+
+> "Đáp số cuối cùng nằm tại các bộ KHOA QUYỀN LỘC KHÔNG KIẾP KỴ HÌNH." (bd#0287-thai-tue)

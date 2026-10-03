@@ -4,12 +4,13 @@ type: star-card
 stars: [dia-kiep]
 tags: [luc-sat, sat-phat, pha-tan, hoanh-phat, hoanh-pha]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh
   - tl#0018-oan-trai-nghiep-qua-hinh-rieu-khong-kiep
   - tl#0019-hung-khi-cua-luc-sat-tinh
   - td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu
+  - bd#0075-bo-khong-kiep-p01
 ---
 # Địa Kiếp (Dương Hỏa, Sát tinh)
 
@@ -31,6 +32,8 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 
 ## Đối chứng
 - [TĐ] Sách gốc: Địa Kiếp vào Mệnh đã có tật bệnh từ lúc mới ra đời, gặp Dương Đà thì tàn khổ; người dịch ghi nhận Tử Vi Việt cho Không Kiếp cực tốt ở Tỵ Hợi miếu địa.
+- [BĐ] Địa Kiếp chủ tai họa do đất gây ra (đất sạt lở, nhà cửa mồ mả phải di dời, tranh giành chiếm đoạt đất đai) và tai họa do thời cuộc đổi thay (biến động).
+- [BĐ] Không Kiếp: Thiên Không chủ tai họa không ngờ, Địa Kiếp chủ tai nạn do ức hiếp, cướp đoạt, đánh đập, lừa đảo; dễ mất mát do trộm cướp, lừa đảo; trời không dung, đất không tha nên khó tránh. BĐ không bàn miếu hãm theo cung như TB/TL.
 
 ## Nguyên văn
 > "Chủ sát, phá tán - Đắc địa: Dần, Thân, Tỵ, Hợi: thâm trầm, gian nguyệt, hoạnh phát, hoạnh phá." (tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh)
@@ -44,3 +47,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Không Kiếp - dám nói, dám làm Kình Đà - Kiêu căng, bất khuất" (tl#0019-hung-khi-cua-luc-sat-tinh)
 
 > "Sao Địa Kiếp vào Mệnh đã có tật bệnh ngay từ lúc mới ra đời, cuộc sống như sâu bọ" (td#0055-sao-thien-khong-thu-menh-la-so-xuat-gia-di-tu)
+
+> "CHỦ: Tai hoạ do đất gây ra như đất đai sạt lỡ, biến dạng, mấp mô, võng xuống khiên ta gặp tai nạn." (bd#0075-bo-khong-kiep-p01)
+
+> "ĐỊA KIẾP còn chủ tai hoạ do thời cuộc, thời thế đổi thay tác động đến cuộc đời ta thường gọi là BIẾN ĐỘNG." (bd#0075-bo-khong-kiep-p01)
+
+> "THIÊN KHÔNG chủ tai hoạ không ngờ, ĐỊA KIẾP chủ tai nạn, tai hoạ do ức hiếp, cướp đoạt, đánh đập, lừa đảo." (bd#0075-bo-khong-kiep-p01)

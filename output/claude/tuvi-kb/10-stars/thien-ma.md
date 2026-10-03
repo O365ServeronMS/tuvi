@@ -4,10 +4,12 @@ type: star-card
 stars: [thien-ma]
 tags: [dich-ma, di-chuyen, thao-vat, cong-danh]
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh
   - td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha
+  - bd#0487-han-ngo-thien-ma-p01
+  - bd#0487-han-ngo-thien-ma-p02
 ---
 # Thiên Mã (Hỏa)
 
@@ -31,6 +33,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 ## Đối chứng
 - [TĐ] Đồng ý về các cách Mã: Lộc Mã giao trì, Phù Liễn Mã với Tử Phủ, Phù Thi Mã với Hình Sát, Chiến Mã với Hoả Tinh, Thư Hùng Mã với Nhật Nguyệt, Triết Túc Mã với Đà La; thêm Vong Mã khi gặp Không Vong.
 - [TĐ] Bổ sung: Dịch Mã ở Thân Mệnh cần Lộc Tồn, Tử Vi, Thiên Phủ, Xương Khúc thủ hay chiếu mới thật tốt; "Mã ngộ Không Vong chung thân bôn tẩu"; sách gốc không ghi Thiên Mã thuộc hành gì.
+- [BĐ] Thiên Mã là tay chân, bàn tay, cũng là xe cộ, phương tiện: làm nên cả việc xấu lẫn việc tốt; đi với hung sát tinh thì rất xấu; Thiên Mã hạn thường đồng cung bàng tinh nhóm Tang Hư Khách, thuộc nhóm bại tinh, dễ té ngã, tai nạn xe, thất bại.
+- [BĐ] Thất Sát Mã dễ mất đà tai nạn xe; Kình Mã, Đà Mã là xung đột (bị thương); Phá Quân Mã, Thất Sát Mã đi với sao quyền lực là "bàn tay sắt".
+- [BĐ] Thiên Mã đi với Cự Môn, Vũ Khúc, Thiên Đồng, Tham Lang là bốn chính tinh lợi cho đi lại; hạn gặp Không Kiếp Hỏa Linh Kỵ Hình thì cần Văn tinh, Khoa, Tam Hóa mới thành công.
+- [BĐ] Điểm lệch: BĐ viết về hạn gặp Mã và nhấn vào mặt tai nạn, tay chân, bàn tay; không nêu miếu hãm theo cung như TB (Tỵ, Dần), cũng không bàn các cách Lộc Mã, Phù Thi Mã.
 
 ## Nguyên văn
 > "Đắc địa: Tỵ, Dần." (tb#0028-dai-hao-hoa-tieu-hao-hoa-bai-tinh)
@@ -50,3 +56,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Đồng cung với Lộc Tồn kêu bằng Lộc Mã giao trì hay triết chiên mã." (td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha)
 
 > "Mã ngộ Không Vong chung thân bôn tẩu." (td#0032-cung-trang-sinh-gap-cung-the-o-do-vo-con-nha)
+
+> "THIÊN MÃ là bàn tay. Bàn tay ta làm nên tất cả. Từ việc xấu đến việc tốt." (bd#0487-han-ngo-thien-ma-p01)
+
+> "Vậy THIÊN MÃ đi với hung sát tinh là rất xấu." (bd#0487-han-ngo-thien-ma-p01)
+
+> "THIÊN MÃ có khuynh hướng đi xa. Khi đi với CỰ MÔN, VŨ KHÚC. Cùng đi với là THIÊN ĐỒNG. Tham gia đi là THAM LANG. Đó là 4 chính tinh lợi cho đi lại." (bd#0487-han-ngo-thien-ma-p02)

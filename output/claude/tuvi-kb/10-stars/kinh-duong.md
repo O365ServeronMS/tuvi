@@ -4,13 +4,14 @@ type: star-card
 stars: [kinh-duong]
 tags: [luc-sat, hinh-tinh, sat-phat, kieu-cang]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0019-hung-khi-cua-luc-sat-tinh
   - tl#0020-hung-sat-tinh-ngo-che-la-dang-qui
   - td#0035-sao-kinh-duong
   - td#0036-cung-tam-hop-xung-chieu-menh-than-ma-gap-ta-huu
+  - bd#0099-kinh-da-co-phai-la-sat-tinh-p01
 ---
 # Kình Dương (Bắc Đẩu tinh, Dương Kim đới Hỏa, Sát tinh, Hình tinh)
 
@@ -35,6 +36,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Chi tiết hơn về miếu hãm: miếu Thìn Tuất Sửu Mùi, vượng Tí Hợi Thân, hãm Mão Tị Dậu Ngọ; phú "Kình Dương Tí Ngọ Mão Dậu phi yểu chiết tất hình thương", nhưng Trần Đoàn ghi nhận phú nôm ta lại có "Mệnh viên Ngọ toạ Kình Dương, mã đầu đới kiếm biên cương trị vì".
 - [TĐ] Bổ sung: tuổi Giáp, Mậu bị hung hoạ dù giàu sang cũng không bền; Dương Hoả đồng cung ở tứ mộ uy quyền áp chúng; Dương Đà giáp Kỵ là bại cục.
 - [TĐ] Nữ mệnh nhập miếu có cát tinh trợ lực là thượng cách, bị xung phá thì khắc và hạ tiện.
+- [BĐ] Kình luôn đứng trước Lộc Tồn, Đà luôn đứng sau Lộc Tồn; theo khúc, Kình không đóng Dần Thân Tị Hợi. Tác giả viết bài nhằm chứng minh Kình Đà không nên gọi là Sát tinh (lệch với TB/TL xếp Kình là Sát tinh, Hình tinh).
+- [BĐ] Kình Đà đi với Thái Tuế thiên về thái độ chống đối; với Thiên Hư, Tuế Phá thiên về chống đỡ khó khăn; với Đào Hoa, Kiếp Sát hay Thiên Hỉ thiên về tranh giành, vui mừng, đắc ý; với Hồng Loan thiên về dâm tính, ồn ào.
+- [BĐ] Kình chủ dậy lên, phất lên, thăng; Đà chủ hạ xuống, giảm xuống; lên hay xuống đều có thể tốt hoặc xấu tùy cái gì lên xuống và sao đi cùng.
 
 ## Nguyên văn
 > "Chủ sát phạt - Kình Dương: Hình tinh" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -56,3 +60,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Nữ mệnh Kình Dương nhập miếu có cát tinh trợ lực là thượng cách, nếu Hao cách xung phá thì khắc và hạ tiện." (td#0035-sao-kinh-duong)
 
 > "Hoá khí của Kình Dương là Hình, hoá khí của Đà La là Kị." (td#0036-cung-tam-hop-xung-chieu-menh-than-ma-gap-ta-huu)
+
+> "KÌNH DƯƠNG luôn đứng trước LỘC TỒN. ĐÀ LA luôn đứng sau LỘC TỒN. Do đó KÌNH không đóng các cung Dần Thân Tị Hợi, ĐÀ không đóng các cung Tý Ngọ Mão Dậu." (bd#0099-kinh-da-co-phai-la-sat-tinh-p01)
+
+> "Bài viết hôm nay nhằm chứng minh KÌNH ĐÀ không nên gọi là Sát Tinh." (bd#0099-kinh-da-co-phai-la-sat-tinh-p01)
+
+> "KÌNH chủ: DẬY LÊN, PHẤT LÊN, DƯƠNG LÊN, TĂNG LÊN, DỰNG LÊN, THĂNG, ĐƯA LÊN…ĐÀ chủ: HẠ XUỐNG, ĐƯA XUỐNG, THẤP XUỐNG, GIẢM XUỐNG, HẠ, ĐƯA XUỐNG…" (bd#0099-kinh-da-co-phai-la-sat-tinh-p01)

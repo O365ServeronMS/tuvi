@@ -6,9 +6,11 @@ positions: []
 gender: any
 tags: []
 primary: [tl]
-cross: []
+cross: [bd]
 chunks:
   - tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao
+  - bd#0064-cach-hao-thuong-p02
+  - bd#0072-bai-viet-ve-tu-hoa-p01
 ---
 # Tam Hóa liên châu
 
@@ -31,6 +33,9 @@ Hóa Khoa, Hóa Quyền, Hóa Lộc — ba Hóa nối tiếp nhau theo thứ t�
 Mệnh, hoặc liên châu từ cung Phụ Mẫu, Huynh Đệ ráp vào Mệnh; xét thêm cung Tử Tức khi luận hạn chế của cách.
 
 ## Đối chứng
+- [BĐ] Việc tuổi Canh có tam Hóa liên châu hay không tùy cách an Hóa Kỵ: an theo "Nhật Vũ Đồng Âm" thì lá số Khổng Tử có tam Hóa liên châu ở Quan Nô Di, an theo "Nhật Vũ Âm Đồng" thì không; BĐ cho cách sau là đúng. Lệch: TL nói trường hợp nào tuổi Canh cũng có tam Hóa liên châu.
+- [BĐ] Tứ Hóa, tam Hóa giúp đánh giá sự thành đạt của chính tinh nhưng chưa phải đáp số cuối cùng, tùy thuộc hung tinh, hình tinh quyết định.
+
 Sách Trần Đoàn không bàn riêng cách này; chưa đối chiếu Nguyễn Phát Lộc.
 
 ## Nguyên văn
@@ -39,3 +44,7 @@ Sách Trần Đoàn không bàn riêng cách này; chưa đối chiếu Nguyễn
 > "Còn liên châu nhập Mệnh gồm Phụ có 1 Hóa, Bào có 1 Hóa, ráp vào với Hóa của Mệnh tức là Mệnh đắc hạnh phúc nguyên nhân nhờ gia đình sẵn nếp vinh quang, tất nhiên hưởng rực rỡ hơn tam Hóa cùng Mệnh." (tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao)
 
 > "Bộ tam Hóa liên châu, một kho ngọc quí, nhận xét cho kỹ nhập Mệnh có vẻ kém phần thích đáng như ở cung Tử cả 2 tuổi Canh cũng như Ất." (tl#0090-tam-hoa-lien-chau-dem-hanh-phuc-toi-muc-do-nao)
+
+> "Chú ý: Nếu an theo câu: Nhật Vũ Đồng Âm thì KhổngTử có cách Tam hóa liên châu tại 3 cung Quan Nô Di. Nếu an theo câu Nhật Vũ Âm Đồng thì không hưởng cách trên." (bd#0064-cach-hao-thuong-p02)
+
+> "nhưng chưa phải là đáp số cuối cùng, tùy thuộc các Hung tinh, Hình tinh quyết định." (bd#0072-bai-viet-ve-tu-hoa-p01)

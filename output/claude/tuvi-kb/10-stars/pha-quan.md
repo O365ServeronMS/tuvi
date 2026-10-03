@@ -4,13 +4,15 @@ type: star-card
 stars: [pha-quan]
 tags: [hung-tinh, hao-tinh, phu-the, hao-tan, bat-khuat]
 primary: [tb, tl]
-cross: [td, npl]
+cross: [td, npl, bd]
 chunks:
   - tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh
   - tl#0038-muoi-bon-chinh-tinh-dau-la-ngoc-chau-qui-gia
   - tl#0022-a-liem-sat-suu-mui
   - td#0026-sao-pha-quan
   - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - bd#0276-pha-quan-p01
+  - bd#0276-pha-quan-p02
 ---
 # Phá Quân (Bắc Đẩu tinh, Âm Thủy, Hung tinh, Hao tinh)
 
@@ -37,6 +39,10 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Miếu hãm gần giống: miếu Tí Ngọ, vượng Thìn Tuất Sửu Mùi, hãm Tị Hợi Dần Thân Mão Dậu.
 - [TĐ] Nam nữ: nữ mệnh bị xung phá thì dâm đãng, thường theo trai táng tiết; nam mệnh thủ Mệnh Thân Tí Ngọ có Tham Lang, Thất Sát củng chiếu làm nên chức lớn, thực tốt với tuổi Canh, Quý.
 - [NPL] Xếp Phá Quân vào nhóm "hung tinh" (cùng Tham Lang, Liêm Trinh) trong 10 loại chính tinh.
+- [BĐ] Phá Quân thuộc chòm Thiên Phủ (cách Thiên Phủ 1 cung), cầm đầu nhóm Sát Phá Tham, luôn có Thiên Tướng xung, nhị hợp Thiên Cơ. Là sao khám phá, đánh phá, săn lùng; tốt hay xấu do bàng tinh hội họp.
+- [BĐ] Phá Quân chủ nắm và thả, bỏ và gắn bó, đóng và mở; ưa thay đổi, hay gây rối ren, bất ổn nơi đóng (Điền cung có Phá Quân có khi nhà to thành nhà nhỏ; Tật Ách thì rối loạn thần kinh, mạch máu, dễ bị bỏ rơi, bị bắt, bị ép buộc, tùy bàng tinh). Phá Quân tốt giữ được bản thân, xấu thì buông thả.
+- [BĐ] Phá Quân đòi công bằng, cùng Thiên Tướng xung chiếu đòi tương đương; Phá Quân gắn bó thì được Thiên Tướng thương yêu, nhưng cán cân rất dễ mất thăng bằng.
+- [BĐ] Lệch/khác: BĐ không nêu miếu hãm và không nhấn hung bạo, hao tán như TB, mà nhấn ưa thay đổi, hay bỏ, tốt xấu do bàng tinh; thế Phá Quân đối Thiên Tướng khớp TL. Không dùng BĐ để bác TB/TL.
 
 ## Nguyên văn
 > "Chủ phu thê, hao tán" (tb#0025-thien-luong-nam-dau-tinh-am-moc-tho-tinh-am-tinh)
@@ -54,3 +60,9 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 > "Phá Quân miếu Tí Ngọ, vượng Thìn, Tuất, Sửu, Mùi, hãm Tị Hợi Dần Thân Mão Dậu." (td#0026-sao-pha-quan)
 
 > "Đối với chính tinh, ta chia tổng quát thành 10 loại: đế tinh(Tử-Vi), phúc tinh(Thiên Đồng, Thiên Lương), thiện tinh(Thiên Phủ, Thiên Tướng, Thất Sát), tài tinh(Vũ Khúc, Thiên Phủ), đào hoa tinh(Liêm Trinh), âm tinh(Cự Môn), và hung tinh(Tham Lang, Phá Quân, Liêm Trinh)." (npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao)
+
+> "PHÁ QUÂN là ngôi sao giỏi về khám phá." (bd#0276-pha-quan-p01)
+
+> "Trong động tác PHÁ QUÂN chủ nắm hay thả." (bd#0276-pha-quan-p01)
+
+> "PHÁ QUÂN là ngôi sao đòi hỏi sự công bằng, bên ngoài xung chiếu với nó là THIÊN TƯỚNG cũng đòi hỏi sự tương đương như vậy." (bd#0276-pha-quan-p02)
