@@ -31,7 +31,11 @@ skill). Thư mục tự chứa đủ thẻ, chỉ mục và script, chép đi đ
 
 Đọc ảnh theo [`00-index/chart-reading.md`](00-index/chart-reading.md). In:
 
-- Giới tính, năm sinh âm lịch (can chi), âm/dương nam/nữ, Cục, Bản Mệnh (nạp âm).
+- Giới tính, năm sinh âm lịch (can chi), âm/dương nam/nữ.
+- **Cục, Bản Mệnh (nạp âm), tháng sinh âm, giờ sinh (địa chi): bắt buộc.** Cả bốn đều in ở
+  cột giữa của ảnh ("Mệnh: …", "Cục: …", "Tháng: dương (âm)", "Giờ: … can chi"). Chép nguyên
+  chữ trên ảnh, không tự suy từ bảng lập Cục hay bảng nạp âm. Ảnh thiếu hoặc mờ thì hỏi
+  người dùng, không điền thay.
 - Mệnh ở cung (địa chi) nào, Thân cư cung nào.
 - Bảng 12 dòng: địa chi | tên cung | số đại hạn | sao tọa thủ kèm miếu/hãm | Tuần/Triệt.
 - Năm người dùng muốn xem hạn (hỏi nếu chưa nói).
@@ -73,9 +77,9 @@ Sau khi người dùng xác nhận, ghi file JSON vào `output/luan-giai/<tên>-
   Xem hạn nhiều năm thì `nam_xem` là danh sách, ví dụ `[2026, 2027]`: gói có một
   `han-<năm>.md` và một lượt `D1`, `D2`… cho mỗi năm.
 - `thang_sinh` (tháng âm 1–12), `gio_sinh` (địa chi), `cuc`, `ban_menh` (chép
-  nguyên chữ trên ảnh): không bắt buộc nhưng **nên ghi đủ**. Script in chúng ra
-  `00-nen.md`; thiếu thì lượt R phải treo các quy tắc Bản Mệnh–Cục, nạp âm, mùa
-  sinh và giờ sinh, còn lượt hạn không xét được sinh khắc Bản Mệnh.
+  nguyên chữ trên ảnh): **bắt buộc**, `tra_cuu.py` từ chối lá số thiếu một trong bốn.
+  Script in chúng ra `00-nen.md` cho lượt R (quy tắc Bản Mệnh–Cục, nạp âm, mùa sinh,
+  giờ sinh) và lượt hạn (sinh khắc Bản Mệnh).
 - `thang_xem` (không bắt buộc): tháng âm lịch cần xem lưu nguyệt hạn, dạng danh
   sách (áp cho mọi năm trong `nam_xem`) hoặc `{"2026": [8, 9], "2027": [1]}`.
   Có `thang_xem` thì gói thêm `han-thang-<năm>.md` và lượt `T` (hoặc `T1`,

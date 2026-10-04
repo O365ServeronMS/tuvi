@@ -16,8 +16,10 @@ Lá số vẽ trên một hình vuông chia 4×4 = 16 ô:
   (xem mục 2), không đổi dù lá số của ai.
 - **4 ô giữa** (2×2) — không phải cung, dùng ghi thông tin lá số:
   - Họ tên, giới tính, âm lịch/dương lịch ngày giờ sinh.
-  - **Cột giữa ghi tuổi và Cục**: tuổi (can chi năm sinh) và Ngũ Hành Cục
-    (ví dụ "Thủy Nhị Cục", "Hỏa Lục Cục").
+  - **Cột giữa ghi tuổi (can chi năm sinh), Bản Mệnh và Cục**: dòng "Mệnh: …" (nạp âm, ví dụ
+    "Kiếm Phong Kim") và "Cục: …" (ví dụ "Thủy Nhị Cục", "Hỏa Lục Cục"). Chép nguyên chữ, không
+    tự suy từ bảng. Dòng "Tháng: dương (âm)" lấy số trong ngoặc làm tháng ÂM; dòng "Giờ" ghi
+    can chi, lấy địa chi.
   - Mệnh chủ, Thân chủ (sao chủ quản theo cung Mệnh/Thân).
   - Có trang còn in thêm bảng Đại Hạn/Tiểu Hạn dạng danh sách ở đây thay vì
     ghi trong từng ô cung.

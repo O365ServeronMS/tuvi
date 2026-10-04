@@ -383,16 +383,17 @@ def load_chart(path: Path, reg):
 
 
 def kiem_truong_phu(data: dict) -> list[str]:
-    """Kiểm các trường không bắt buộc: cuc, ban_menh, thang_sinh, gio_sinh, thang_xem, nguyet_han_cach."""
+    """Kiểm cuc, ban_menh, thang_sinh, gio_sinh (bắt buộc, đọc từ ảnh) và thang_xem, nguyet_han_cach (tuỳ chọn)."""
     errors = []
     for k in ("cuc", "ban_menh"):
-        if k in data and not (isinstance(data[k], str) and data[k].strip()):
-            errors.append(f"{k} phải là chuỗi chép từ ảnh lá số (ví dụ \"Thổ Ngũ Cục\", \"Kiếm Phong Kim\")")
+        if not (isinstance(data.get(k), str) and data[k].strip()):
+            errors.append(f"thiếu {k}: bắt buộc, chép nguyên chữ trên ảnh lá số (ví dụ \"Thổ Ngũ Cục\", "
+                          "\"Kiếm Phong Kim\"); không tự suy từ bảng, thiếu thì hỏi lại người dùng")
     ts = data.get("thang_sinh")
-    if ts is not None and not (isinstance(ts, int) and not isinstance(ts, bool) and 1 <= ts <= 12):
-        errors.append("thang_sinh phải là tháng âm lịch 1–12")
-    if data.get("gio_sinh") is not None and branch_index(data["gio_sinh"]) is None:
-        errors.append(f"gio_sinh phải là địa chi (dùng: {', '.join(BRANCHES)}; ty=Tý, ti=Tỵ)")
+    if not (isinstance(ts, int) and not isinstance(ts, bool) and 1 <= ts <= 12):
+        errors.append("thiếu hoặc sai thang_sinh: bắt buộc, tháng ÂM lịch 1–12 (ảnh ghi dạng \"dương (âm)\", lấy số trong ngoặc)")
+    if data.get("gio_sinh") is None or branch_index(data["gio_sinh"]) is None:
+        errors.append(f"thiếu hoặc sai gio_sinh: bắt buộc, địa chi của giờ sinh (dùng: {', '.join(BRANCHES)}; ty=Tý, ti=Tỵ)")
     cach = data.get("nguyet_han_cach")
     if cach is not None and not (isinstance(cach, list) and cach and all(c in NGUYET_HAN_CACH for c in cach)):
         errors.append(f"nguyet_han_cach phải là danh sách lấy từ: {', '.join(NGUYET_HAN_CACH)}")

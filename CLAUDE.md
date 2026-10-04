@@ -36,7 +36,7 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
 
 1. Đọc ảnh theo `output/claude/tuvi-kb/00-index/chart-reading.md`.
 2. In bảng chuẩn hoá: giới tính; năm sinh âm lịch (can chi); âm/dương nam/nữ;
-   Cục; Bản Mệnh (nạp âm); Mệnh ở địa chi nào; Thân cư cung nào; bảng 12 dòng
+   Cục; Bản Mệnh (nạp âm); tháng sinh âm; giờ sinh (địa chi); Mệnh ở địa chi nào; Thân cư cung nào; bảng 12 dòng
    (địa chi | tên cung | số đại hạn | sao tọa thủ kèm miếu/hãm | Tuần/Triệt);
    năm muốn xem hạn.
 3. Ô nào đọc không chắc thì đánh dấu `?` và hỏi riêng. **Dừng lại chờ người
@@ -44,8 +44,10 @@ làm phần cần đọc nhiều thẻ và suy luận sâu.
    bỏ bước này để "đi cho nhanh".
 4. Sau khi người dùng xác nhận, ghi lá số ra JSON theo mẫu ở mục "Bước 2" của
    `output/claude/tuvi-kb/SKILL.md`, đặt tại `output/luan-giai/<tên>-<năm>.json`
-   (thư mục này đã gitignore vì chứa dữ liệu cá nhân). Ghi cả `thang_sinh`,
-   `gio_sinh`, `cuc`, `ban_menh` lấy từ bảng; người dùng hỏi thời điểm theo
+   (thư mục này đã gitignore vì chứa dữ liệu cá nhân). **Bắt buộc** ghi
+   `thang_sinh` (tháng âm), `gio_sinh`, `cuc`, `ban_menh`: cả bốn có sẵn ở cột giữa của
+   ảnh, chép nguyên chữ từ ảnh, **không tự suy** từ bảng lập Cục hay nạp âm; thiếu thì
+   hỏi người dùng. `tra_cuu.py` từ chối lá số thiếu một trong bốn; người dùng hỏi thời điểm theo
    tháng thì thêm `thang_xem` (tháng **âm lịch**; đổi từ dương lịch trước).
 
 ### Bước B — dựng gói ngữ cảnh, giao 6 lượt cho `xem-tu-vi`, lượt tổng luận cho `tong-luan`
