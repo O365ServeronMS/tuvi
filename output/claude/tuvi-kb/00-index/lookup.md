@@ -137,6 +137,7 @@ Bảng/danh sách này để riêng vì quá lớn: xem `00-index/lookup-palaces
 | liem-tham-ty-hoi-liem-sat-suu-mui | Liêm Tham Tỵ Hợi, Liêm Sát Sửu Mùi | liem-trinh+tham-lang+that-sat | `30-combos/liem-tham-ty-hoi-liem-sat-suu-mui.md` |
 | loc-ma-hinh-an-cach | Lộc Mã Bội Ấn, Hình Tù Giáp Ấn, Mã Đầu Đới Kiếm, Kình Dương Nhập Mệnh | thien-tuong+loc-ton+thien-ma+kinh-duong+liem-trinh | `30-combos/loc-ma-hinh-an-cach.md` |
 | nhat-nguyet-quy-cuc | Nhật Xuất Phù Tang, Nguyệt Lãng Thiên Môn, Minh Châu Xuất Hải, Nhật Nguyệt Đồng Lâm, Nhật Nguyệt Tịnh Minh, Nhật Nguyệt Giáp Mệnh | thai-duong+thai-am | `30-combos/nhat-nguyet-quy-cuc.md` |
+| nhom-thi-phi | Nhóm Thị Phi: Cự Môn, Hóa Kỵ, Phi Liêm, Bác Sỹ | cu-mon+hoa-ky+phi-liem+bac-sy | `30-combos/nhom-thi-phi.md` |
 | phuc-tho-thong-minh-giau-co | Hưởng phúc và sống lâu, Thông minh, Giàu có | thien-dong+thien-luong+tu-vi+thien-phu+vu-khuc+pha-quan+liem-trinh+tham-lang+van-xuong+van-khuc+thien-khoi+thien-viet+ta-phu+huu-bat+thien-tuong | `30-combos/phuc-tho-thong-minh-giau-co.md` |
 | sat-pha-liem-tham | Sát Phá Liêm Tham | that-sat+pha-quan+liem-trinh+tham-lang | `30-combos/sat-pha-liem-tham.md` |
 | tam-hoa-lien-chau | Tam Hóa liên châu | hoa-khoa+hoa-quyen+hoa-loc | `30-combos/tam-hoa-lien-chau.md` |
@@ -156,6 +157,7 @@ Bảng/danh sách này để riêng vì quá lớn: xem `00-index/lookup-palaces
 - `duong-cung-la-dat-phi-nhieu-am-cung-bat-on` (am-duong, 14-chinh-tinh, cung-vi) → `50-rules/duong-cung-la-dat-phi-nhieu-am-cung-bat-on.md`
 - `nghich-ly-am-duong-di-kem-phuc-tinh-cuu-vot` (am-duong, phuc-tinh, sat-tinh, nghich-ly) → `50-rules/nghich-ly-am-duong-di-kem-phuc-tinh-cuu-vot.md`
 - `ban-menh-sinh-cuc-tot-hon-cuc-sinh-ban-menh` (ban-menh, cuc, ngu-hanh, phuong-phap) → `50-rules/ban-menh-sinh-cuc-tot-hon-cuc-sinh-ban-menh.md`
+- `menh-cuc-tuong-sinh-thuong-cach-tuong-khac-trung-cach` (ban-menh, cuc, ngu-hanh, thuong-cach, trung-cach) → `50-rules/menh-cuc-tuong-sinh-thuong-cach-tuong-khac-trung-cach.md`
 - `menh-o-sinh-vuong-bai-tuyet-dia-theo-ban-menh` (ban-menh, sinh-dia, vuong-dia, bai-dia, tuyet-dia, tuyet-xu-phung-sinh) → `50-rules/menh-o-sinh-vuong-bai-tuyet-dia-theo-ban-menh.md`
 - `nguyen-the-ban-menh-khac-nhau-du-cung-hanh` (ban-menh, nap-am, ngu-hanh, phuong-phap) → `50-rules/nguyen-the-ban-menh-khac-nhau-du-cung-hanh.md`
 - `bao-no-manh-yeu-theo-menh` (bao, no, menh, dac-dia, ham-dia) → `50-rules/bao-no-manh-yeu-theo-menh.md`

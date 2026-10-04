@@ -3,7 +3,7 @@
   "bd": {
    "chunks": 681,
    "non_luan": 0,
-   "referenced": 1,
+   "referenced": 128,
    "unreferenced": [
     "bd#0000-giai-thich-mot-so-cau-phu-p01",
     "bd#0000-giai-thich-mot-so-cau-phu-p02",
@@ -19,12 +19,9 @@
     "bd#0010-la-so-tu-vi-song-mai-p02",
     "bd#0012-nguoi-tren-la-so-tu-vi",
     "bd#0016-mat-troi-va-mat-trang-tren-la-so-tu-vi",
-    "bd#0020-tuan-va-triet-p01",
-    "bd#0020-tuan-va-triet-p02",
     "bd#0020-tuan-va-triet-p03",
     "bd#0020-tuan-va-triet-p04",
     "bd#0020-tuan-va-triet-p05",
-    "bd#0022-bi-mat-ngoi-sao-tu-vi-p01",
     "bd#0022-bi-mat-ngoi-sao-tu-vi-p02",
     "bd#0022-bi-mat-ngoi-sao-tu-vi-p03",
     "bd#0023-mau-sac-tren-la-so-tu-vi-p01",
@@ -39,14 +36,12 @@
     "bd#0034-ngoi-sao-kham-pha-p02",
     "bd#0038-binh-luan-la-so-tham-lang-cu-ty-p01",
     "bd#0038-binh-luan-la-so-tham-lang-cu-ty-p02",
-    "bd#0040-ngoi-sao-linh-ung-p01",
     "bd#0040-ngoi-sao-linh-ung-p02",
     "bd#0046-ong-vua-thu-ba-ngoi-sao-cu-mon-p01",
     "bd#0046-ong-vua-thu-ba-ngoi-sao-cu-mon-p02",
     "bd#0050-bi-mat-ngoi-sao-liem-trinh-p01",
     "bd#0050-bi-mat-ngoi-sao-liem-trinh-p02",
     "bd#0050-bi-mat-ngoi-sao-liem-trinh-p03",
-    "bd#0051-nhung-cach-noi-danh-p01",
     "bd#0051-nhung-cach-noi-danh-p02",
     "bd#0052-bi-mat-ngoi-sao-liem-trinh-phan-2-p01",
     "bd#0052-bi-mat-ngoi-sao-liem-trinh-phan-2-p02",
@@ -54,9 +49,6 @@
     "bd#0055-ban-ve-ngoi-saothai-tue-p02",
     "bd#0055-ban-ve-ngoi-saothai-tue-p03",
     "bd#0055-ban-ve-ngoi-saothai-tue-p04",
-    "bd#0056-ke-sy-thu-2-tren-tu-vi-p01",
-    "bd#0056-ke-sy-thu-2-tren-tu-vi-p02",
-    "bd#0057-rong-xanh-thanh-long-p01",
     "bd#0057-rong-xanh-thanh-long-p02",
     "bd#0057-rong-xanh-thanh-long-p03",
     "bd#0059-dieu-ky-la-hien-ra-p01",
@@ -67,44 +59,24 @@
     "bd#0062-phe-binh-la-so-hong-ha-menh-mong-p01",
     "bd#0062-phe-binh-la-so-hong-ha-menh-mong-p02",
     "bd#0063-bai-viet-tiep-ve-dai-hao-p01",
-    "bd#0063-bai-viet-tiep-ve-dai-hao-p02",
     "bd#0064-cach-hao-thuong-p01",
-    "bd#0064-cach-hao-thuong-p02",
     "bd#0065-tim-hieu-bo-tuong-binh-p01",
     "bd#0065-tim-hieu-bo-tuong-binh-p02",
-    "bd#0066-phuc-binh-ten-day-to-p01",
-    "bd#0066-phuc-binh-ten-day-to-p02",
-    "bd#0067-quoc-an-dau-roi-quoc-an-oi-p01",
-    "bd#0067-quoc-an-dau-roi-quoc-an-oi-p02",
-    "bd#0067-quoc-an-dau-roi-quoc-an-oi-p03",
     "bd#0068-binh-luan-la-so-tu-vi-cu-ty-p01",
     "bd#0068-binh-luan-la-so-tu-vi-cu-ty-p02",
     "bd#0068-binh-luan-la-so-tu-vi-cu-ty-p03",
-    "bd#0072-bai-viet-ve-tu-hoa-p01",
-    "bd#0072-bai-viet-ve-tu-hoa-p02",
     "bd#0073-hai-la-so-cach-tu-tuong-p01",
     "bd#0073-hai-la-so-cach-tu-tuong-p02",
     "bd#0073-hai-la-so-cach-tu-tuong-p03",
-    "bd#0075-bo-khong-kiep-p01",
-    "bd#0075-bo-khong-kiep-p02",
     "bd#0075-bo-khong-kiep-p03",
     "bd#0075-bo-khong-kiep-p04",
-    "bd#0077-ban-ve-bo-linh-hoa-p01",
     "bd#0077-ban-ve-bo-linh-hoa-p02",
     "bd#0077-ban-ve-bo-linh-hoa-p03",
     "bd#0077-ban-ve-bo-linh-hoa-p04",
     "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p01",
     "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p02",
-    "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p03",
-    "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p04",
-    "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p05",
-    "bd#0080-ban-ve-ngoi-sao-dao-hoa-p01",
     "bd#0080-ban-ve-ngoi-sao-dao-hoa-p02",
     "bd#0080-ban-ve-ngoi-sao-dao-hoa-p03",
-    "bd#0081-bo-hong-loan-thien-hi-p01",
-    "bd#0081-bo-hong-loan-thien-hi-p02",
-    "bd#0081-bo-hong-loan-thien-hi-p03",
-    "bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p01",
     "bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p02",
     "bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p03",
     "bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p04",
@@ -112,11 +84,9 @@
     "bd#0084-tong-luan-ve-sao-that-sat-p02",
     "bd#0084-tong-luan-ve-sao-that-sat-p03",
     "bd#0084-tong-luan-ve-sao-that-sat-p04",
-    "bd#0084-tong-luan-ve-sao-that-sat-p05",
     "bd#0084-tong-luan-ve-sao-that-sat-p06",
     "bd#0085-la-so-cua-mot-that-sat-tai-tuat-p01",
     "bd#0085-la-so-cua-mot-that-sat-tai-tuat-p02",
-    "bd#0087-bo-vu-sat-mao-dau-p01",
     "bd#0087-bo-vu-sat-mao-dau-p02",
     "bd#0087-bo-vu-sat-mao-dau-p03",
     "bd#0088-liem-trinh-trong-sang-mau-trinh-bach-p01",
@@ -124,31 +94,17 @@
     "bd#0088-liem-trinh-trong-sang-mau-trinh-bach-p03",
     "bd#0088-liem-trinh-trong-sang-mau-trinh-bach-p04",
     "bd#0089-phuong-cac-an-tang-dieu-bi-mat-p01",
-    "bd#0089-phuong-cac-an-tang-dieu-bi-mat-p02",
-    "bd#0089-phuong-cac-an-tang-dieu-bi-mat-p03",
-    "bd#0091-duong-phu-loi-noi-ngot-ngao-p01",
-    "bd#0091-duong-phu-loi-noi-ngot-ngao-p02",
-    "bd#0091-duong-phu-loi-noi-ngot-ngao-p03",
-    "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01",
-    "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p02",
-    "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p03",
-    "bd#0093-hoa-cai-la-cai-chi-chi-vay-p01",
-    "bd#0093-hoa-cai-la-cai-chi-chi-vay-p02",
     "bd#0093-hoa-cai-la-cai-chi-chi-vay-p03",
     "bd#0094-tham-lang-ngoi-sao-tham-vong-p01",
     "bd#0094-tham-lang-ngoi-sao-tham-vong-p02",
     "bd#0095-liem-trinh-dan-than-cach-p01",
     "bd#0095-liem-trinh-dan-than-cach-p02",
-    "bd#0096-thien-khoi-thien-viet-ngoi-sao-buu-boi-p01",
     "bd#0096-thien-khoi-thien-viet-ngoi-sao-buu-boi-p02",
-    "bd#0096-thien-khoi-thien-viet-ngoi-sao-buu-boi-p03",
-    "bd#0097-cach-liem-sat-suu-mui-p01",
     "bd#0097-cach-liem-sat-suu-mui-p02",
     "bd#0097-cach-liem-sat-suu-mui-p03",
     "bd#0098-co-gia-hay-qua-nhan-p01",
     "bd#0098-co-gia-hay-qua-nhan-p02",
     "bd#0098-co-gia-hay-qua-nhan-p03",
-    "bd#0099-kinh-da-co-phai-la-sat-tinh-p01",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p02",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p03",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p04",
@@ -156,31 +112,22 @@
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p06",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p07",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p08",
-    "bd#0099-kinh-da-co-phai-la-sat-tinh-p09",
     "bd#0099-kinh-da-co-phai-la-sat-tinh-p10",
-    "bd#0100-cach-vu-tuong-dan-than-p01",
     "bd#0100-cach-vu-tuong-dan-than-p02",
     "bd#0100-cach-vu-tuong-dan-than-p03",
     "bd#0101-menh-than-han-khac-nhau-nhu-the-nao-p01",
     "bd#0101-menh-than-han-khac-nhau-nhu-the-nao-p02",
     "bd#0101-menh-than-han-khac-nhau-nhu-the-nao-p03",
     "bd#0101-menh-than-han-khac-nhau-nhu-the-nao-p04",
-    "bd#0103-bai-tong-hop-tuan-va-triet-p01",
-    "bd#0103-bai-tong-hop-tuan-va-triet-p02",
     "bd#0103-bai-tong-hop-tuan-va-triet-p03",
     "bd#0103-bai-tong-hop-tuan-va-triet-p04",
     "bd#0103-bai-tong-hop-tuan-va-triet-p05",
     "bd#0103-bai-tong-hop-tuan-va-triet-p06",
-    "bd#0104-pha-toai-ngoi-sao-phien-toai-p01",
     "bd#0104-pha-toai-ngoi-sao-phien-toai-p02",
-    "bd#0104-pha-toai-ngoi-sao-phien-toai-p03",
-    "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p01",
-    "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p02",
     "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p03",
     "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p04",
     "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p05",
     "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p06",
-    "bd#0106-bo-phu-tuong-don-thu-p01",
     "bd#0106-bo-phu-tuong-don-thu-p02",
     "bd#0106-bo-phu-tuong-don-thu-p03",
     "bd#0106-bo-phu-tuong-don-thu-p04",
@@ -195,19 +142,14 @@
     "bd#0108-bo-am-duong-suu-mui-p03",
     "bd#0108-bo-am-duong-suu-mui-p04",
     "bd#0108-bo-am-duong-suu-mui-p05",
-    "bd#0109-cu-co-ty-ngo-cach-p01",
     "bd#0109-cu-co-ty-ngo-cach-p02",
-    "bd#0109-cu-co-ty-ngo-cach-p03",
     "bd#0109-cu-co-ty-ngo-cach-p04",
     "bd#0109-cu-co-ty-ngo-cach-p05",
-    "bd#0110-pha-quan-bai-tong-hop-p01",
     "bd#0110-pha-quan-bai-tong-hop-p02",
     "bd#0110-pha-quan-bai-tong-hop-p03",
     "bd#0111-tham-vu-dong-hanh-p01",
     "bd#0111-tham-vu-dong-hanh-p02",
-    "bd#0111-tham-vu-dong-hanh-p03",
     "bd#0111-tham-vu-dong-hanh-p04",
-    "bd#0111-tham-vu-dong-hanh-p05",
     "bd#0112-co-luong-thin-tuat-p01",
     "bd#0112-co-luong-thin-tuat-p02",
     "bd#0112-co-luong-thin-tuat-p03",
@@ -215,20 +157,13 @@
     "bd#0112-co-luong-thin-tuat-p05",
     "bd#0115-thien-co-suu-mui-p01",
     "bd#0115-thien-co-suu-mui-p02",
-    "bd#0116-vo-chinh-dieu-la-gi-p01",
-    "bd#0116-vo-chinh-dieu-la-gi-p02",
-    "bd#0116-vo-chinh-dieu-la-gi-p03",
     "bd#0116-vo-chinh-dieu-la-gi-p04",
     "bd#0116-vo-chinh-dieu-la-gi-p05",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p01",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p02",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p03",
-    "bd#0119-tu-phu-dan-than-p01",
     "bd#0119-tu-phu-dan-than-p02",
-    "bd#0119-tu-phu-dan-than-p03",
     "bd#0119-tu-phu-dan-than-p04",
-    "bd#0120-liem-tham-ti-hoi-cach-p01",
-    "bd#0120-liem-tham-ti-hoi-cach-p02",
     "bd#0120-liem-tham-ti-hoi-cach-p03",
     "bd#0120-liem-tham-ti-hoi-cach-p04",
     "bd#0121-tu-sat-ti-hoi-cach-p01",
@@ -241,20 +176,13 @@
     "bd#0122-ngoi-sao-tu-vi-phan-2-p04",
     "bd#0123-vcd-co-liem-tham-xung-p01",
     "bd#0123-vcd-co-liem-tham-xung-p02",
-    "bd#0124-cu-nhat-cach-p01",
-    "bd#0124-cu-nhat-cach-p02",
-    "bd#0124-cu-nhat-cach-p03",
     "bd#0124-cu-nhat-cach-p04",
     "bd#0125-dong-am-ty-ngo-p01",
     "bd#0125-dong-am-ty-ngo-p02",
-    "bd#0125-dong-am-ty-ngo-p03",
     "bd#0126-vcd-co-cu-nhat-xung-p01",
     "bd#0126-vcd-co-cu-nhat-xung-p02",
     "bd#0126-vcd-co-cu-nhat-xung-p03",
-    "bd#0127-tu-tham-mao-dau-cach-p01",
     "bd#0127-tu-tham-mao-dau-cach-p02",
-    "bd#0128-luu-ha-p01",
-    "bd#0128-luu-ha-p02",
     "bd#0130-liem-phu-thin-tuat-cach-p01",
     "bd#0130-liem-phu-thin-tuat-cach-p02",
     "bd#0130-liem-phu-thin-tuat-cach-p03",
@@ -265,7 +193,6 @@
     "bd#0133-thien-luong-suu-mui-p01",
     "bd#0133-thien-luong-suu-mui-p02",
     "bd#0133-thien-luong-suu-mui-p03",
-    "bd#0134-duong-luong-mao-dau-p01",
     "bd#0134-duong-luong-mao-dau-p02",
     "bd#0134-duong-luong-mao-dau-p03",
     "bd#0134-duong-luong-mao-dau-p04",
@@ -273,8 +200,6 @@
     "bd#0135-vu-pha-ti-hoi-cach-p02",
     "bd#0135-vu-pha-ti-hoi-cach-p03",
     "bd#0135-vu-pha-ti-hoi-cach-p04",
-    "bd#0136-pha-quan-ty-ngo-cach-p01",
-    "bd#0136-pha-quan-ty-ngo-cach-p02",
     "bd#0136-pha-quan-ty-ngo-cach-p03",
     "bd#0136-pha-quan-ty-ngo-cach-p04",
     "bd#0137-tam-tinh-cua-mot-nguoi-thai-duong-cu-ti-p01",
@@ -310,8 +235,6 @@
     "bd#0149-thai-am-bai-tong-hop-p4-p03",
     "bd#0149-thai-am-bai-tong-hop-p4-p04",
     "bd#0149-thai-am-bai-tong-hop-p4-p05",
-    "bd#0150-kiep-sat-ke-cuop-doat-p01",
-    "bd#0150-kiep-sat-ke-cuop-doat-p02",
     "bd#0151-ke-ha-hiep-p01",
     "bd#0151-ke-ha-hiep-p02",
     "bd#0151-ke-ha-hiep-p03",
@@ -337,9 +260,6 @@
     "bd#0161-tu-mot-cau-phu-phan-2-p02",
     "bd#0161-tu-mot-cau-phu-phan-2-p03",
     "bd#0161-tu-mot-cau-phu-phan-2-p04",
-    "bd#0162-long-tri-quan-phu-p01",
-    "bd#0162-long-tri-quan-phu-p02",
-    "bd#0162-long-tri-quan-phu-p03",
     "bd#0163-tu-vi-hoan-toan-khoa-hoc-p01",
     "bd#0163-tu-vi-hoan-toan-khoa-hoc-p02",
     "bd#0163-tu-vi-hoan-toan-khoa-hoc-p03",
@@ -440,56 +360,25 @@
     "bd#0239-tu-vi-va-toan-hoc-p02",
     "bd#0239-tu-vi-va-toan-hoc-p03",
     "bd#0241-trinh-an-sao-cua-nhom-tvud",
-    "bd#0248-bach-ho",
-    "bd#0250-dao-hoa-p01",
     "bd#0250-dao-hoa-p02",
-    "bd#0252-khoi-viet",
-    "bd#0254-luu-ha",
     "bd#0256-vu-khuc-p01",
     "bd#0256-vu-khuc-p02",
-    "bd#0258-liem-trinh",
-    "bd#0260-thien-tuong-p01",
-    "bd#0260-thien-tuong-p02",
-    "bd#0262-that-sat-p01",
-    "bd#0262-that-sat-p02",
-    "bd#0264-tham-lang",
-    "bd#0266-thien-co-p01",
-    "bd#0266-thien-co-p02",
-    "bd#0268-thien-luong-p01",
     "bd#0268-thien-luong-p02",
     "bd#0269-hai-phuong-troi-cach-biet-p01",
     "bd#0269-hai-phuong-troi-cach-biet-p02",
     "bd#0269-hai-phuong-troi-cach-biet-p03",
-    "bd#0272-thien-phu",
-    "bd#0274-cu-mon",
-    "bd#0276-pha-quan-p01",
-    "bd#0276-pha-quan-p02",
-    "bd#0278-thai-am-p01",
-    "bd#0278-thai-am-p02",
-    "bd#0280-thien-dong-p01",
-    "bd#0280-thien-dong-p02",
     "bd#0281-chu-an-tren-la-so-tu-vi",
     "bd#0282-hoc-chu-sa-thoi-phai-tho-dai",
-    "bd#0283-thai-duong",
     "bd#0286-phi-tinh-at-mui-p01",
     "bd#0286-phi-tinh-at-mui-p02",
-    "bd#0287-thai-tue",
-    "bd#0289-loc-ton",
     "bd#0291-bai-ca-sao-p01",
     "bd#0291-bai-ca-sao-p02",
-    "bd#0292-co-than-qua-tu",
-    "bd#0293-dai-hao-p01",
     "bd#0293-dai-hao-p02",
-    "bd#0294-phuong-cac",
     "bd#0295-cung-tu-tuc-p01",
     "bd#0295-cung-tu-tuc-p02",
-    "bd#0296-tuong-quan",
-    "bd#0297-thien-hinh-thien-dieu-thien-y-p01",
-    "bd#0297-thien-hinh-thien-dieu-thien-y-p02",
     "bd#0298-cung-no-boc",
     "bd#0299-cung-thien-di",
     "bd#0300-luc-si",
-    "bd#0301-tau-thu",
     "bd#0302-cung-phuc-duc",
     "bd#0303-la-so-tu-vi-la-gi-p01",
     "bd#0303-la-so-tu-vi-la-gi-p02",
@@ -506,12 +395,9 @@
     "bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p01",
     "bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p02",
     "bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p03",
-    "bd#0320-nhom-phi-phuc-thanh",
     "bd#0321-linh-xuong-la-vu-cach-p01",
     "bd#0321-linh-xuong-la-vu-cach-p02",
     "bd#0321-linh-xuong-la-vu-cach-p03",
-    "bd#0322-nhom-sat-pha-tham-p01",
-    "bd#0322-nhom-sat-pha-tham-p02",
     "bd#0322-nhom-sat-pha-tham-p03",
     "bd#0323-cung-quan-loc",
     "bd#0324-nhung-sai-lam-khi-den-voi-tu-vi-p01",
@@ -535,7 +421,6 @@
     "bd#0344-chu-khai-trong-tu-vi-p01",
     "bd#0344-chu-khai-trong-tu-vi-p02",
     "bd#0385-co-lai-bao-khu-cach",
-    "bd#0388-phong-benh-tri-benh-trong-tu-vi-p01",
     "bd#0388-phong-benh-tri-benh-trong-tu-vi-p02",
     "bd#0405-nhung-la-so-tu-vi-thu-vi-1-p01",
     "bd#0405-nhung-la-so-tu-vi-thu-vi-1-p02",
@@ -560,7 +445,6 @@
     "bd#0421-luan-doan-menh-tu-vi-cu-ngo-co-loc-ton-p01",
     "bd#0421-luan-doan-menh-tu-vi-cu-ngo-co-loc-ton-p02",
     "bd#0422-ai-so-triet-ai-can-triet",
-    "bd#0423-nhom-tu-vu-liem",
     "bd#0424-khai-tru-cach-p01",
     "bd#0424-khai-tru-cach-p02",
     "bd#0425-cac-bo-sao-tren-la-so-tu-vi",
@@ -573,7 +457,6 @@
     "bd#0428-nhom-phu-tuong-phan-cuoi-p01",
     "bd#0428-nhom-phu-tuong-phan-cuoi-p02",
     "bd#0428-nhom-phu-tuong-phan-cuoi-p03",
-    "bd#0429-bo-tu-phu-vu-tuong-liem-p01",
     "bd#0429-bo-tu-phu-vu-tuong-liem-p02",
     "bd#0429-bo-tu-phu-vu-tuong-liem-p03",
     "bd#0429-bo-tu-phu-vu-tuong-liem-p04",
@@ -615,17 +498,12 @@
     "bd#0464-la-so-tu-vi-thai-thien-phuong-p02",
     "bd#0466-bo-phi-hinh-p01",
     "bd#0466-bo-phi-hinh-p02",
-    "bd#0470-thien-luong",
-    "bd#0471-ngoi-sao-tu-vi-p01",
-    "bd#0471-ngoi-sao-tu-vi-p02",
     "bd#0473-ngoi-sao-thai-duong-p01",
     "bd#0473-ngoi-sao-thai-duong-p02",
-    "bd#0474-ngoi-sao-vu-khuc",
     "bd#0475-phoi-hop-2-chinh-tinh-p01",
     "bd#0475-phoi-hop-2-chinh-tinh-p02",
     "bd#0477-bo-phi-khoi-p01",
     "bd#0477-bo-phi-khoi-p02",
-    "bd#0478-bo-quyen-loc-trung-phung-p01",
     "bd#0478-bo-quyen-loc-trung-phung-p02",
     "bd#0480-han-cu-nhat-nam-giap-thin-p01",
     "bd#0480-han-cu-nhat-nam-giap-thin-p02",
@@ -635,13 +513,10 @@
     "bd#0484-loc-ton-bac-si",
     "bd#0485-thai-tue",
     "bd#0486-bo-binh-hinh-tuong-an",
-    "bd#0487-han-ngo-thien-ma-p01",
-    "bd#0487-han-ngo-thien-ma-p02",
     "bd#0487-han-ngo-thien-ma-p03",
     "bd#0488-nhom-sao-an-lo-p01",
     "bd#0488-nhom-sao-an-lo-p02",
     "bd#0489-han-ngo-thai-am",
-    "bd#0490-bo-tam-khong-p01",
     "bd#0490-bo-tam-khong-p02",
     "bd#0490-bo-tam-khong-p03",
     "bd#0491-bo-hoa-hao-p01",
@@ -664,8 +539,6 @@
     "bd#0500-vi-sao-cac-sao-lai-co-ten-rieng-p03",
     "bd#0501-thay-long-doi-da-cach-p01",
     "bd#0501-thay-long-doi-da-cach-p02",
-    "bd#0502-tang-mon-p01",
-    "bd#0502-tang-mon-p02",
     "bd#0504-bo-phi-hong-p01",
     "bd#0504-bo-phi-hong-p02",
     "bd#0505-binh-luan-cau-phu",
@@ -686,7 +559,7 @@
     "bd#0518-cac-nhom-sao-tu-vi-phan-3-p03",
     "bd#0518-cac-nhom-sao-tu-vi-phan-3-p04"
    ],
-   "coverage_percent": 0.1
+   "coverage_percent": 18.8
   },
   "npl": {
    "chunks": 251,
@@ -938,7 +811,7 @@
   "tb": {
    "chunks": 184,
    "non_luan": 13,
-   "referenced": 155,
+   "referenced": 156,
    "unreferenced": [
     "tb#0001-an-dang-thai-thu-lang-tu-vi-dau-so-tan-bien",
     "tb#0002-luan-doan-van-han",
@@ -947,7 +820,6 @@
     "tb#0018-ngay-va-gio",
     "tb#0020-chinh-tinh-cac-cung",
     "tb#0043-nhan-dinh-anh-huong-cac-sao-toa-thu-tai-cung",
-    "tb#0093-thuong-cach",
     "tb#0094-ha-cach",
     "tb#0095-tieu-luan",
     "tb#0106-vat-dung-bieu-tuong-bang-cac-sao",
@@ -957,7 +829,7 @@
     "tb#0119-menh-vien-than",
     "tb#0120-tat-ach-tai-bach-tu-tuc-phu-the"
    ],
-   "coverage_percent": 90.6
+   "coverage_percent": 91.2
   },
   "tl": {
    "chunks": 107,
@@ -1084,6 +956,407 @@
   }
  },
  "chunk_refs": {
+  "bd#0020-tuan-va-triet-p01": [
+   "star:tuan"
+  ],
+  "bd#0020-tuan-va-triet-p02": [
+   "star:triet",
+   "star:tuan"
+  ],
+  "bd#0022-bi-mat-ngoi-sao-tu-vi-p01": [
+   "star:tu-vi"
+  ],
+  "bd#0040-ngoi-sao-linh-ung-p01": [
+   "star:linh-tinh"
+  ],
+  "bd#0051-nhung-cach-noi-danh-p01": [
+   "combo:khoa-quyen-loc-quy-cuc"
+  ],
+  "bd#0056-ke-sy-thu-2-tren-tu-vi-p01": [
+   "star:luc-sy"
+  ],
+  "bd#0056-ke-sy-thu-2-tren-tu-vi-p02": [
+   "star:luc-sy"
+  ],
+  "bd#0057-rong-xanh-thanh-long-p01": [
+   "star:thanh-long"
+  ],
+  "bd#0063-bai-viet-tiep-ve-dai-hao-p02": [
+   "star:dai-hao"
+  ],
+  "bd#0064-cach-hao-thuong-p02": [
+   "combo:tam-hoa-lien-chau"
+  ],
+  "bd#0066-phuc-binh-ten-day-to-p01": [
+   "star:phuc-binh"
+  ],
+  "bd#0066-phuc-binh-ten-day-to-p02": [
+   "star:phuc-binh"
+  ],
+  "bd#0067-quoc-an-dau-roi-quoc-an-oi-p01": [
+   "star:thien-khong"
+  ],
+  "bd#0067-quoc-an-dau-roi-quoc-an-oi-p02": [
+   "star:quoc-an"
+  ],
+  "bd#0067-quoc-an-dau-roi-quoc-an-oi-p03": [
+   "star:quoc-an"
+  ],
+  "bd#0072-bai-viet-ve-tu-hoa-p01": [
+   "combo:tam-hoa-lien-chau"
+  ],
+  "bd#0072-bai-viet-ve-tu-hoa-p02": [
+   "star:hoa-khoa",
+   "star:hoa-quyen"
+  ],
+  "bd#0075-bo-khong-kiep-p01": [
+   "star:dia-khong",
+   "star:dia-kiep"
+  ],
+  "bd#0075-bo-khong-kiep-p02": [
+   "star:dia-khong"
+  ],
+  "bd#0077-ban-ve-bo-linh-hoa-p01": [
+   "star:linh-tinh"
+  ],
+  "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p03": [
+   "star:thien-rieu"
+  ],
+  "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p04": [
+   "star:thien-rieu",
+   "star:thien-y"
+  ],
+  "bd#0079-bo-thien-hinh-thien-dieu-thien-y-p05": [
+   "star:thien-rieu"
+  ],
+  "bd#0080-ban-ve-ngoi-sao-dao-hoa-p01": [
+   "star:dao-hoa"
+  ],
+  "bd#0081-bo-hong-loan-thien-hi-p01": [
+   "star:hong-loan",
+   "star:thien-hy"
+  ],
+  "bd#0081-bo-hong-loan-thien-hi-p02": [
+   "star:hong-loan",
+   "star:thien-hy"
+  ],
+  "bd#0081-bo-hong-loan-thien-hi-p03": [
+   "star:hong-loan"
+  ],
+  "bd#0082-bi-mat-ve-ngoi-sao-vu-khuc-p01": [
+   "star:vu-khuc"
+  ],
+  "bd#0084-tong-luan-ve-sao-that-sat-p05": [
+   "combo:that-sat-tham-hoa-cach",
+   "combo:that-sat-trieu-nguong-dau"
+  ],
+  "bd#0087-bo-vu-sat-mao-dau-p01": [
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "bd#0089-phuong-cac-an-tang-dieu-bi-mat-p02": [
+   "star:phuong-cac"
+  ],
+  "bd#0089-phuong-cac-an-tang-dieu-bi-mat-p03": [
+   "star:phuong-cac"
+  ],
+  "bd#0091-duong-phu-loi-noi-ngot-ngao-p01": [
+   "star:duong-phu"
+  ],
+  "bd#0091-duong-phu-loi-noi-ngot-ngao-p02": [
+   "star:duong-phu"
+  ],
+  "bd#0091-duong-phu-loi-noi-ngot-ngao-p03": [
+   "star:duong-phu"
+  ],
+  "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01": [
+   "star:thien-la"
+  ],
+  "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p02": [
+   "star:thien-la"
+  ],
+  "bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p03": [
+   "star:thien-la"
+  ],
+  "bd#0093-hoa-cai-la-cai-chi-chi-vay-p01": [
+   "star:hoa-cai"
+  ],
+  "bd#0093-hoa-cai-la-cai-chi-chi-vay-p02": [
+   "star:hoa-cai"
+  ],
+  "bd#0096-thien-khoi-thien-viet-ngoi-sao-buu-boi-p01": [
+   "star:thien-khoi",
+   "star:thien-viet"
+  ],
+  "bd#0096-thien-khoi-thien-viet-ngoi-sao-buu-boi-p03": [
+   "combo:khoa-quyen-loc-quy-cuc"
+  ],
+  "bd#0097-cach-liem-sat-suu-mui-p01": [
+   "combo:liem-tham-ty-hoi-liem-sat-suu-mui"
+  ],
+  "bd#0099-kinh-da-co-phai-la-sat-tinh-p01": [
+   "star:kinh-duong"
+  ],
+  "bd#0099-kinh-da-co-phai-la-sat-tinh-p09": [
+   "combo:loc-ma-hinh-an-cach"
+  ],
+  "bd#0100-cach-vu-tuong-dan-than-p01": [
+   "combo:tu-phu-vu-tuong",
+   "combo:van-chuc-vo-chuc-uy-dung"
+  ],
+  "bd#0103-bai-tong-hop-tuan-va-triet-p01": [
+   "star:triet",
+   "star:tuan"
+  ],
+  "bd#0103-bai-tong-hop-tuan-va-triet-p02": [
+   "star:triet"
+  ],
+  "bd#0104-pha-toai-ngoi-sao-phien-toai-p01": [
+   "star:pha-toai"
+  ],
+  "bd#0104-pha-toai-ngoi-sao-phien-toai-p03": [
+   "star:pha-toai"
+  ],
+  "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p01": [
+   "star:hoa-ky"
+  ],
+  "bd#0105-nhung-dieu-can-biet-ve-hoa-ky-p02": [
+   "star:hoa-ky"
+  ],
+  "bd#0106-bo-phu-tuong-don-thu-p01": [
+   "combo:tu-phu-vu-tuong"
+  ],
+  "bd#0109-cu-co-ty-ngo-cach-p01": [
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "bd#0109-cu-co-ty-ngo-cach-p03": [
+   "combo:vu-khuc-thu-vien-cu-co-mao-dau"
+  ],
+  "bd#0110-pha-quan-bai-tong-hop-p01": [
+   "combo:tu-vi-pha-quan-pham-cach"
+  ],
+  "bd#0111-tham-vu-dong-hanh-p03": [
+   "combo:that-sat-tham-hoa-cach"
+  ],
+  "bd#0111-tham-vu-dong-hanh-p05": [
+   "combo:nhat-nguyet-quy-cuc"
+  ],
+  "bd#0116-vo-chinh-dieu-la-gi-p01": [
+   "combo:vo-chinh-dieu"
+  ],
+  "bd#0116-vo-chinh-dieu-la-gi-p02": [
+   "combo:vo-chinh-dieu"
+  ],
+  "bd#0116-vo-chinh-dieu-la-gi-p03": [
+   "combo:vo-chinh-dieu"
+  ],
+  "bd#0119-tu-phu-dan-than-p01": [
+   "combo:that-sat-tham-hoa-cach",
+   "combo:tu-vi-phu-ta-cach"
+  ],
+  "bd#0119-tu-phu-dan-than-p03": [
+   "combo:tu-vi-phu-ta-cach"
+  ],
+  "bd#0120-liem-tham-ti-hoi-cach-p01": [
+   "combo:liem-tham-ty-hoi-liem-sat-suu-mui"
+  ],
+  "bd#0120-liem-tham-ti-hoi-cach-p02": [
+   "combo:liem-tham-ty-hoi-liem-sat-suu-mui",
+   "combo:tu-hanh-trom-cuop"
+  ],
+  "bd#0124-cu-nhat-cach-p01": [
+   "combo:cu-nhat"
+  ],
+  "bd#0124-cu-nhat-cach-p02": [
+   "combo:cu-nhat"
+  ],
+  "bd#0124-cu-nhat-cach-p03": [
+   "combo:cu-nhat"
+  ],
+  "bd#0125-dong-am-ty-ngo-p03": [
+   "combo:nhat-nguyet-quy-cuc"
+  ],
+  "bd#0127-tu-tham-mao-dau-cach-p01": [
+   "combo:tu-hanh-trom-cuop"
+  ],
+  "bd#0128-luu-ha-p01": [
+   "star:luu-ha"
+  ],
+  "bd#0128-luu-ha-p02": [
+   "star:luu-ha"
+  ],
+  "bd#0134-duong-luong-mao-dau-p01": [
+   "combo:nhat-nguyet-quy-cuc"
+  ],
+  "bd#0136-pha-quan-ty-ngo-cach-p01": [
+   "combo:sat-pha-liem-tham",
+   "combo:that-sat-trieu-nguong-dau"
+  ],
+  "bd#0136-pha-quan-ty-ngo-cach-p02": [
+   "combo:tu-vi-pha-quan-pham-cach"
+  ],
+  "bd#0150-kiep-sat-ke-cuop-doat-p01": [
+   "star:kiep-sat"
+  ],
+  "bd#0150-kiep-sat-ke-cuop-doat-p02": [
+   "star:kiep-sat"
+  ],
+  "bd#0162-long-tri-quan-phu-p01": [
+   "star:long-tri",
+   "star:quan-phu"
+  ],
+  "bd#0162-long-tri-quan-phu-p02": [
+   "star:long-tri",
+   "star:quan-phu"
+  ],
+  "bd#0162-long-tri-quan-phu-p03": [
+   "star:long-tri"
+  ],
+  "bd#0248-bach-ho": [
+   "star:bach-ho"
+  ],
+  "bd#0250-dao-hoa-p01": [
+   "star:dao-hoa"
+  ],
+  "bd#0252-khoi-viet": [
+   "star:thien-khoi",
+   "star:thien-viet"
+  ],
+  "bd#0254-luu-ha": [
+   "star:luu-ha"
+  ],
+  "bd#0258-liem-trinh": [
+   "star:liem-trinh"
+  ],
+  "bd#0260-thien-tuong-p01": [
+   "star:thien-tuong"
+  ],
+  "bd#0260-thien-tuong-p02": [
+   "star:thien-tuong"
+  ],
+  "bd#0262-that-sat-p01": [
+   "star:that-sat"
+  ],
+  "bd#0262-that-sat-p02": [
+   "star:that-sat"
+  ],
+  "bd#0264-tham-lang": [
+   "star:tham-lang"
+  ],
+  "bd#0266-thien-co-p01": [
+   "star:thien-co"
+  ],
+  "bd#0266-thien-co-p02": [
+   "star:thien-co"
+  ],
+  "bd#0268-thien-luong-p01": [
+   "star:thien-luong"
+  ],
+  "bd#0272-thien-phu": [
+   "star:thien-phu"
+  ],
+  "bd#0274-cu-mon": [
+   "star:cu-mon"
+  ],
+  "bd#0276-pha-quan-p01": [
+   "star:pha-quan"
+  ],
+  "bd#0276-pha-quan-p02": [
+   "star:pha-quan"
+  ],
+  "bd#0278-thai-am-p01": [
+   "star:thai-am"
+  ],
+  "bd#0278-thai-am-p02": [
+   "star:thai-am"
+  ],
+  "bd#0280-thien-dong-p01": [
+   "star:thien-dong"
+  ],
+  "bd#0280-thien-dong-p02": [
+   "star:thien-dong"
+  ],
+  "bd#0283-thai-duong": [
+   "star:thai-duong"
+  ],
+  "bd#0287-thai-tue": [
+   "star:thai-tue"
+  ],
+  "bd#0289-loc-ton": [
+   "star:loc-ton"
+  ],
+  "bd#0292-co-than-qua-tu": [
+   "star:co-than",
+   "star:qua-tu"
+  ],
+  "bd#0293-dai-hao-p01": [
+   "star:dai-hao"
+  ],
+  "bd#0294-phuong-cac": [
+   "star:phuong-cac"
+  ],
+  "bd#0296-tuong-quan": [
+   "star:tuong-quan"
+  ],
+  "bd#0297-thien-hinh-thien-dieu-thien-y-p01": [
+   "star:thien-hinh",
+   "star:thien-y"
+  ],
+  "bd#0297-thien-hinh-thien-dieu-thien-y-p02": [
+   "star:thien-hinh"
+  ],
+  "bd#0301-tau-thu": [
+   "star:tau-thu"
+  ],
+  "bd#0320-nhom-phi-phuc-thanh": [
+   "star:benh-phu",
+   "star:phi-liem",
+   "star:thanh-long"
+  ],
+  "bd#0322-nhom-sat-pha-tham-p01": [
+   "combo:sat-pha-liem-tham"
+  ],
+  "bd#0322-nhom-sat-pha-tham-p02": [
+   "combo:sat-pha-liem-tham"
+  ],
+  "bd#0388-phong-benh-tri-benh-trong-tu-vi-p01": [
+   "star:benh-phu"
+  ],
+  "bd#0423-nhom-tu-vu-liem": [
+   "combo:sat-pha-liem-tham"
+  ],
+  "bd#0429-bo-tu-phu-vu-tuong-liem-p01": [
+   "combo:tu-phu-vu-tuong"
+  ],
+  "bd#0470-thien-luong": [
+   "star:thien-luong"
+  ],
+  "bd#0471-ngoi-sao-tu-vi-p01": [
+   "star:tu-vi"
+  ],
+  "bd#0471-ngoi-sao-tu-vi-p02": [
+   "star:tu-vi"
+  ],
+  "bd#0474-ngoi-sao-vu-khuc": [
+   "star:vu-khuc"
+  ],
+  "bd#0478-bo-quyen-loc-trung-phung-p01": [
+   "star:hoa-quyen"
+  ],
+  "bd#0487-han-ngo-thien-ma-p01": [
+   "star:thien-ma"
+  ],
+  "bd#0487-han-ngo-thien-ma-p02": [
+   "star:thien-ma"
+  ],
+  "bd#0490-bo-tam-khong-p01": [
+   "star:thien-khong"
+  ],
+  "bd#0502-tang-mon-p01": [
+   "star:tang-mon"
+  ],
+  "bd#0502-tang-mon-p02": [
+   "star:tang-mon"
+  ],
   "bd#0516-cac-nhom-sao-p01": [
    "combo:nhom-thi-phi"
   ],
@@ -2249,6 +2522,9 @@
   ],
   "tb#0092-thuan-mua-sinh": [
    "rule:thuan-mua-sinh-gio-sinh-menh-vuong-tuong"
+  ],
+  "tb#0093-thuong-cach": [
+   "rule:menh-cuc-tuong-sinh-thuong-cach-tuong-khac-trung-cach"
   ],
   "tb#0096-quy-cuc-co-danh-chuc-quyen-quy": [
    "combo:khoa-quyen-loc-quy-cuc",

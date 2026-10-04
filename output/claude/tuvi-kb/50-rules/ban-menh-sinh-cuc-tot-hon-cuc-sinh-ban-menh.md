@@ -25,6 +25,7 @@ chunks:
 - [TB] Kim Mệnh, Thổ Cục là Cục sinh Bản Mệnh, cũng tốt đẹp nhưng kém hơn trường hợp trên.
 
 ## Khi nào không áp dụng
+- [TB] Sách không có đoạn riêng cho chiều Cục khắc Bản Mệnh (ví dụ Hỏa Cục, Kim Mệnh) và cho Bản Mệnh cùng hành với Cục; không mượn câu "rất xấu" của chiều Bản Mệnh khắc Cục để áp cho chiều ngược lại. Chỗ duy nhất sách nói chung "Mệnh Cục tương khắc" không phân chiều là phân hạng Thượng cách và Trung cách, xem [[menh-cuc-tuong-sinh-thuong-cach-tuong-khac-trung-cach]].
 - [TB] Nguyên tắc này chỉ xét riêng quan hệ Bản Mệnh với Cục; không dùng để thay thế việc xét quan hệ giữa Bản Mệnh với Chính diệu thủ Mệnh, vốn là một mục riêng biệt (Kim Mệnh có Chính diệu thuộc Thổ là Chính diệu sinh Mệnh rất tốt; Chính diệu thuộc Thủy là Mệnh sinh Chính diệu, xấu; Chính diệu thuộc Hỏa là Mệnh khắc Chính diệu, càng xấu hơn).
 
 ## Nguyên văn
