@@ -3,7 +3,7 @@
   "bd": {
    "chunks": 681,
    "non_luan": 0,
-   "referenced": 128,
+   "referenced": 130,
    "unreferenced": [
     "bd#0000-giai-thich-mot-so-cau-phu-p01",
     "bd#0000-giai-thich-mot-so-cau-phu-p02",
@@ -158,7 +158,6 @@
     "bd#0115-thien-co-suu-mui-p01",
     "bd#0115-thien-co-suu-mui-p02",
     "bd#0116-vo-chinh-dieu-la-gi-p04",
-    "bd#0116-vo-chinh-dieu-la-gi-p05",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p01",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p02",
     "bd#0117-lam-the-nao-luan-doan-han-chuyen-dong-p03",
@@ -547,7 +546,6 @@
     "bd#0508-gio-thang-sinh-va-so-menh-p01",
     "bd#0508-gio-thang-sinh-va-so-menh-p02",
     "bd#0508-gio-thang-sinh-va-so-menh-p03",
-    "bd#0508-gio-thang-sinh-va-so-menh-p04",
     "bd#0508-gio-thang-sinh-va-so-menh-p05",
     "bd#0508-gio-thang-sinh-va-so-menh-p06",
     "bd#0508-gio-thang-sinh-va-so-menh-p07",
@@ -559,12 +557,12 @@
     "bd#0518-cac-nhom-sao-tu-vi-phan-3-p03",
     "bd#0518-cac-nhom-sao-tu-vi-phan-3-p04"
    ],
-   "coverage_percent": 18.8
+   "coverage_percent": 19.1
   },
   "npl": {
    "chunks": 251,
    "non_luan": 3,
-   "referenced": 9,
+   "referenced": 10,
    "unreferenced": [
     "npl#0001-quyen-tu-vi-ham-so-xuat-ban-hoi-nam-1972-la-mot",
     "npl#0002-quyen-nay-moi-hy-vong-tro-thanh-mot-cong-trinh",
@@ -725,7 +723,6 @@
     "npl#0148-l-nhung-benh-la",
     "npl#0149-a-dinh-nghia-danh-tu-hoa",
     "npl#0150-cung-phuc",
-    "npl#0151-cung-menh-cung-than",
     "npl#0152-c-cach-hoa-qua-cac-sao",
     "npl#0153-hoa-cua-phai-nam-p01",
     "npl#0153-hoa-cua-phai-nam-p02",
@@ -806,7 +803,7 @@
     "npl#0225-cach-giau",
     "npl#0226-cach-da-phu"
    ],
-   "coverage_percent": 3.6
+   "coverage_percent": 4.0
   },
   "tb": {
    "chunks": 184,
@@ -885,7 +882,7 @@
   "td": {
    "chunks": 122,
    "non_luan": 1,
-   "referenced": 57,
+   "referenced": 58,
    "unreferenced": [
     "td#0002-tho-cao-ba-quat-p01",
     "td#0002-tho-cao-ba-quat-p02",
@@ -899,7 +896,6 @@
     "td#0006-cung-xung-chieu-tot-la-nghenh-xuan-tiep-phuc",
     "td#0007-chu-tinh-van-dap-luan",
     "td#0048-thap-nhi-cung-luan",
-    "td#0049-cung-menh-cung-than-va-han-deu-tot-thi-suot-doi",
     "td#0053-sao-ta-phu-co-the-giang-phuc-la-nguoi-don-hau",
     "td#0054-sao-kinh-duong-thu-menh-tinh-net-cung-ran-tu-mo",
     "td#0059-tu-tai-bach-cung",
@@ -952,7 +948,7 @@
     "td#0111-gian-ta-kiep-sat-phuc-binh-cung-tai",
     "td#0112-luan-menh-va-phe-menh"
    ],
-   "coverage_percent": 47.1
+   "coverage_percent": 47.9
   }
  },
  "chunk_refs": {
@@ -1148,6 +1144,9 @@
   ],
   "bd#0116-vo-chinh-dieu-la-gi-p03": [
    "combo:vo-chinh-dieu"
+  ],
+  "bd#0116-vo-chinh-dieu-la-gi-p05": [
+   "rule:menh-than-dong-cung-quy-tac-chung"
   ],
   "bd#0119-tu-phu-dan-than-p01": [
    "combo:that-sat-tham-hoa-cach",
@@ -1357,6 +1356,9 @@
   "bd#0502-tang-mon-p02": [
    "star:tang-mon"
   ],
+  "bd#0508-gio-thang-sinh-va-so-menh-p04": [
+   "rule:menh-than-dong-cung-quy-tac-chung"
+  ],
   "bd#0516-cac-nhom-sao-p01": [
    "combo:nhom-thi-phi"
   ],
@@ -1399,6 +1401,9 @@
   ],
   "npl#0063-van-de-hanh-cua-tam-hop-tuoi-va-tam-hopl-dai-han": [
    "han:van-hoi-tot-thien-thoi-nhan-hoa-dia-loi"
+  ],
+  "npl#0151-cung-menh-cung-than": [
+   "rule:menh-than-dong-cung-quy-tac-chung"
   ],
   "npl#0204-cac-sao-thien-can": [
    "palace:menh-than:tu-vi+tham-lang"
@@ -1575,6 +1580,7 @@
   "tb#0038-cac-nhan-dinh": [
    "rule:menh-khong-than-kiep-doi-lap-menh-kiep-than-khong",
    "rule:menh-o-sinh-vuong-bai-tuyet-dia-theo-ban-menh",
+   "rule:menh-than-dong-cung-quy-tac-chung",
    "rule:menh-tuan-than-triet-doi-lap-menh-triet-than-tuan",
    "rule:menh-vo-chinh-dieu-dac-diem-va-cuu-giai"
   ],
@@ -2907,6 +2913,9 @@
    "star:thien-quy",
    "star:trang-sinh"
   ],
+  "td#0049-cung-menh-cung-than-va-han-deu-tot-thi-suot-doi": [
+   "rule:menh-than-dong-cung-quy-tac-chung"
+  ],
   "td#0050-sao-tu-vi-de-nhat-tinh-tren-bau-troi-cung-menh": [
    "palace:menh-than:liem-trinh",
    "palace:menh-than:thai-duong",
@@ -3252,6 +3261,7 @@
    "combo:cu-nhat"
   ],
   "tl#0027-thien-can-o-tai-long-ta": [
+   "rule:menh-than-dong-cung-quy-tac-chung",
    "star:thien-tai",
    "star:thien-tho"
   ],

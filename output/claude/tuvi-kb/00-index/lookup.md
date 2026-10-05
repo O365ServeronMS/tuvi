@@ -175,6 +175,7 @@ Bảng/danh sách này để riêng vì quá lớn: xem `00-index/lookup-palaces
 - `chinh-khong-bang-chieu-chieu-khong-bang-giap` (phuong-phap, tam-hop, chieu, giap) → `50-rules/chinh-khong-bang-chieu-chieu-khong-bang-giap.md`
 - `giap-luc-sat-tinh-anh-huong-nguoi-than` (phuong-phap, giap, luc-sat-tinh) → `50-rules/giap-luc-sat-tinh-anh-huong-nguoi-than.md`
 - `menh-o-tam-hop-thai-tue-la-loi-the` (phuong-phap, thai-tue, tam-hop) → `50-rules/menh-o-tam-hop-thai-tue-la-loi-the.md`
+- `menh-than-dong-cung-quy-tac-chung` (phuong-phap, menh-than-dong-cung, than-cu-menh) → `50-rules/menh-than-dong-cung-quy-tac-chung.md`
 - `menh-than-tu-sinh-tu-chinh-tu-mo-anh-huong-suc-khoe` (phuong-phap, tu-sinh, tu-chinh, tu-mo, suc-khoe) → `50-rules/menh-than-tu-sinh-tu-chinh-tu-mo-anh-huong-suc-khoe.md`
 - `ngu-hanh-thang-thu-thai-bo-sung-tu-tru` (phuong-phap, ngu-hanh, thang-thu-thai) → `50-rules/ngu-hanh-thang-thu-thai-bo-sung-tu-tru.md`
 - `nhi-hop-bo-khuyet-noi-tam-14-chinh-tinh` (phuong-phap, nhi-hop, chinh-tinh) → `50-rules/nhi-hop-bo-khuyet-noi-tam-14-chinh-tinh.md`
