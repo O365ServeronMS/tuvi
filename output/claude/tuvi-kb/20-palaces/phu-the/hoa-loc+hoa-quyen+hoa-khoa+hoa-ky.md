@@ -7,9 +7,10 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [bd]
 chunks:
   - tb#0088-sat-tinh
+  - bd#0306-cung-phu-the-p01
 ---
 # Tứ Hóa (Lộc/Quyền/Khoa/Kỵ) tại Phu Thê (14.19–14.22)
 
@@ -24,6 +25,7 @@ chunks:
 
 ## Đối chứng
 Sách Trần Đoàn không có đoạn riêng về Tứ Hóa tại Phu Thê trong phần đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
+- [BĐ] Thân cư Phối: muốn biết sợ hay ghét thì nhìn cung Phối có Hóa Kỵ (đố kỵ, ghét, căm), biến hóa tùy sát tinh, Kỵ Hình, Tuần Triệt, Cáo Phụ; BĐ nói Thân cư Phối không có nghĩa là sợ cung ấy (bd#0306 p01).
 
 ## Nguyên văn
 > "Trai lấy vợ có của, gái lấy chồng giàu sang" (tb#0088-sat-tinh)

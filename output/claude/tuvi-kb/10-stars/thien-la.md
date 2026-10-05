@@ -4,10 +4,14 @@ type: star-card
 stars: [thien-la]
 tags: [la-vong, kim-ham, giam-cam, thin, da-la]
 primary: [tb, tl]
-cross: [bd]
+cross: [npl, bd]
 chunks:
   - tb#0033-thien-tai-tho
   - tl#0015-the-nao-la-thien-la-dia-vong
+  - npl#0040-phan-biet-do-so-theo-nghia-chinh-cua-sao
+  - npl#0101-b-cach-nong-nay
+  - npl#0152-c-cach-hoa-qua-cac-sao
+  - npl#0174-chinh-tinh-p03
   - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p01
   - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p02
   - bd#0092-la-troi-hay-troi-la-oan-dat-hay-dat-oan-p03
@@ -30,10 +34,13 @@ chunks:
 Không nguồn chính nào nêu điểm riêng cho nam nữ.
 
 ## Đối chứng
-Sách Trần Đoàn không có sao Thiên La, Địa Võng; chưa đối chiếu Nguyễn Phát Lộc. Bửu Đình đối chứng như sau.
+Sách Trần Đoàn không có sao Thiên La, Địa Võng. Nguyễn Phát Lộc và Bửu Đình đối chứng như sau.
+- [NPL] Thiên La, Địa Võng được xếp vào nhóm hình tinh (cùng Thiên Hình, Quan Phù, Quan Phủ, Thái Tuế), chỉ hình ngục, quan tụng trực tiếp; sát tinh đi kèm các sao này thì thêm nghĩa hình tụng (npl#0040, npl#0152).
+- [NPL] Ngược lại, Thiên La, Địa Võng "làm cho sao xấu thành tốt lên ít nhiều", góp phần giảm họa riêng cho các họa nhỏ; chỉ là hai sao nhỏ, hiệu lực không mạnh (npl#0174-p03). NPL cũng kể hai sao này (hành Thổ) trong nhóm sao đồng nghĩa nóng nảy (npl#0101).
 - [BĐ] Thiên La là lưới của trời chụp xuống, Địa Võng là lưới dưới đất giăng ra; ở Thìn Tuất (La Võng chi địa) dễ bị người ta nghi ngờ oan ức, hàm oan nặng nhẹ tùy các sao quan sự như Quan Phù, Quan Phủ, nhất là Đường Phù thổi phồng (khúc bd#0092 p01).
 - [BĐ] Kỵ gặp thêm Đà La thành "Tam La", cùng Không Kiếp thì như kiếp nạn vì oan tình; Đà La được coi là cái lưới di động làm xấu thêm cho La Võng (p01, p03). Khác TL chỉ coi La Võng thành hình khi có Đà La.
 - [BĐ] Câu phú "Tang Môn thậm khô Thiên La", "Quan Phù đa kinh ư Địa Võng": BĐ nói chỉ mang tính gợi ý về quan sự khi bị vu, không nên tin để lo lắng; chỉ đáng ngại khi có bộ Kỵ Hình hoặc Không Kiếp (p02).
+- [BĐ] Câu phú "Tang Môn thậm khô Thiên La, xuân huyên lãnh đạm": Tang Môn gặp Thiên La (hàm oan) thì cha mẹ lãnh đạm, ngao ngán (bd#0092 p02).
 - [BĐ] Thiên La và Địa Võng đóng cạnh nhau: Địa Võng chủ nói vu, nói khống nên lợi thế hơn, Thiên La lãnh hậu quả (p03); không có ở TB/TL.
 
 ## Nguyên văn

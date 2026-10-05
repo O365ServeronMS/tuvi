@@ -2,10 +2,11 @@
 id: rule:xem-mot-cung-phai-xem-ca-tam-hop-xung-chieu-nhi-hop
 type: rule-card
 primary: [tb]
-cross: []
+cross: [bd]
 tags: [phuong-phap, tam-hop, xung-chieu, nhi-hop]
 chunks:
   - tb#0013-tam-chieu
+  - bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p02
 ---
 # Xem một cung phải xem cả hai cung tam hợp, một cung xung chiếu và một cung nhị hợp
 
@@ -24,6 +25,9 @@ chunks:
 
 ## Khi nào không áp dụng
 - [TB] Quy tắc này là bước xem cung tổng quát cho mọi cung số; không thay thế các quy tắc luận đoán riêng biệt về cách khởi Đại Hạn (dựa theo giới tính và âm dương của tuổi) hay các phép luận khác của lá số.
+
+## Đối chứng
+- [BĐ] Tam hợp là "của ta, nội bộ", là hoàn cảnh của mình: cung tam hợp có thể cứu nguy bản cung (ví dụ đại hạn Tử Tức, tam hợp Phụ Mẫu, Nô Bộc có Vũ Khúc, Thiên Đồng, Thiên Lương thì có chi viện); nhị hợp và lục hội cũng là các cung phải xét thêm (bd#0319 p02, p03).
 
 ## Nguyên văn
 > "Sau khi an sao, phải định hướng chiếu của các cung số. Xem một cung, phải xem cả cung chiếu của nó." (tb#0013-tam-chieu)

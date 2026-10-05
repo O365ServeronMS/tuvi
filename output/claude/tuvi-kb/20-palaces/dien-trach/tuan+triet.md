@@ -7,11 +7,12 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0050-co-qua
   - tb#0052-nhung-truong-hop-7-40-7-48-7-50-7-60-duoc-tuan
   - td#0064-cung-nhieu-ruong-vuon-nha-cua-o-dau-cung-thuong
+  - bd#0336-cung-dien-trach-p02
 ---
 # Tuần + Triệt án ngữ tại Điền Trạch
 
@@ -26,6 +27,7 @@ chunks:
 
 ## Đối chứng
 - [TĐ] Triệt, Tuần đóng ở cung Điền Trạch thì tư cơ cha mẹ không truyền lại được.
+- [BĐ] Điền liền kề Phúc và Quan Lộc nên Triệt ở Điền ảnh hưởng hai cung này: Triệt tại Điền Phúc là bỏ nhà bỏ tổ tiên đi xa; Triệt tại Quan Điền là bỏ việc cũ, bán nhà đi nơi khác (bd#0336 p02).
 
 ## Nguyên văn
 > "Nhận định nghịch đảo ảnh hưởng của những sao tọa thủ, tốt hóa xấu, xấu thành tốt" (tb#0050-co-qua)

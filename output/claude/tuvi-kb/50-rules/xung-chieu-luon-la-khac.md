@@ -2,10 +2,11 @@
 id: rule:xung-chieu-luon-la-khac
 type: rule-card
 primary: [tl]
-cross: []
+cross: [bd]
 tags: [phuong-phap, xung-chieu, tam-hop]
 chunks:
   - tl#0040-ty-voi-than-ngo-voi-mui
+  - bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p01
 ---
 # Quan hệ xung chiếu luôn là khắc, không bao giờ sinh
 
@@ -23,6 +24,9 @@ chunks:
 
 ## Khi nào không áp dụng
 - [TL] Không áp dụng cho quan hệ nhị hợp (luôn là sinh, xem thẻ riêng); phải phân biệt rõ cung đang xét là quan hệ tam hợp đối xung (khắc) hay nhị hợp (sinh) trước khi luận đoán.
+
+## Đối chứng
+- [BĐ] Cung xung chiếu (Thiên Di) có thể là đối tác hoặc đối thủ, tùy người và trường hợp, không có mẫu số chung; với người tranh đấu thì Di là đối thủ nên cần yếu hơn Mệnh, với văn nghệ sĩ thì Mệnh Di cần phối hợp nhịp nhàng (bd#0319 p01). Khác chữ "luôn là khắc" của TL: BĐ không khẳng định xung chiếu luôn đối nghịch.
 
 ## Nguyên văn
 > "Còn xung là thế khắc như Dần Ngọ Tuất xung Thân Tí Thìn và Tỵ Dậu Sửu xung Hợi Mão Mùi, có nghĩa là luôn luôn khắc nhau không bao giờ có sinh, một là khắc xuất hai là khắc nhập." (tl#0040-ty-voi-than-ngo-voi-mui)

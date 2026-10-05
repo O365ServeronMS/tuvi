@@ -7,9 +7,10 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [bd]
 chunks:
   - tb#0088-sat-tinh
+  - bd#0306-cung-phu-the-p02
 ---
 # Sát Tinh (Kình, Đà, Hỏa, Linh, Không, Kiếp) tại Phu Thê (14.14)
 
@@ -22,6 +23,7 @@ chunks:
 
 ## Đối chứng
 Sách Trần Đoàn không có đoạn riêng về Sát tinh tại Phu Thê trong phần đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
+- [BĐ] Khi luận cung Phối chú trọng các bộ sao đôi: Tuần Triệt, Không Kiếp, Hỏa Linh, Cáo Phụ, Xương Khúc, Khôi Việt; cung Phối thường yếu hơn Mệnh khi Mệnh tốt (bd#0306 p02).
 
 ## Nguyên văn
 > "Nhiều sao sáng sủa tốt đẹp: hay bất hòa, nếu cô phải chia ly cũng chi trong một thời gian ngắn" (tb#0088-sat-tinh)

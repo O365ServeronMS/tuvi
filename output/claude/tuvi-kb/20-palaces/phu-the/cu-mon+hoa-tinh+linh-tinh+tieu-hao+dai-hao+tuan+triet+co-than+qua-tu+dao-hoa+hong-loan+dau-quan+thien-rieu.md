@@ -7,9 +7,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: []
+cross: [bd]
 chunks:
   - tb#0089-song-hao
+  - bd#0306-cung-phu-the-p01
+  - bd#0306-cung-phu-the-p02
 ---
 # Song Hao, Cô/Quả, Đào/Hồng, Đẩu Quân, Thiên Riêu, Tuần/Triệt, Cự/Hỏa/Linh tại Phu Thê (14.29–14.36)
 
@@ -28,6 +30,8 @@ chunks:
 
 ## Đối chứng
 Sách Trần Đoàn không có đoạn riêng về các sao này tại Phu Thê trong phần đã đọc; chưa đối chiếu Nguyễn Phát Lộc.
+- [BĐ] Thân cư Phối có Tuần hoặc Triệt dễ thất vọng tình trường vì chủ mất; nếu có cát tinh hội họp vẫn ăn ở suốt đời nhưng không tránh vài lần mất mát đau thương (bd#0306 p01).
+- [BĐ] Câu phú "Hồng Loan cư Thê tiểu khác": chuyện không có gì cũng la to nói lớn; Đào Hoa thường chỉ thấy đào chuyện để xa nhau. Mệnh có Đào hoặc Hồng, Phối có sao còn lại là trường hợp hiếm "phu xướng phụ tùy" (bd#0306 p02).
 
 ## Nguyên văn
 > "Cưới xin quá dễ dàng, nếu gặp nhiều sao mờ ám xấu xa trai lấy vợ hoang tàng, gái lấy chồng chơi bời, cờ bạc và phá của" (tb#0089-song-hao)

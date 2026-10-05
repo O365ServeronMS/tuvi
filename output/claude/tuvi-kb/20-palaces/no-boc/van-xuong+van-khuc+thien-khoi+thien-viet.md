@@ -7,10 +7,11 @@ positions: []
 gender: any
 tags: []
 primary: [tb]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0063-phu-doan
   - td#0063-bat-no-boc-cung
+  - bd#0298-cung-no-boc
 ---
 # Văn Xương + Văn Khúc + Thiên Khôi + Thiên Việt tại Nô Bộc
 
@@ -24,6 +25,7 @@ chunks:
 
 ## Đối chứng
 - [TĐ] Văn Xương nhập miếu đơn thủ thì đắc lực trợ chủ, thêm Dương, Đà, Linh, Hỏa thì phản chủ; Văn Khúc miếu địa thì đắc lực, hãm cung thêm Dương, Đà, Linh, Hỏa thì oán chủ đào tẩu.
+- [BĐ] Cung Nô Bộc rất kỵ Văn Xương, nhất là tọa thủ (cách "Thương Xương"); cũng kỵ Văn Khúc (cách "Thương Khúc"); xấu hơn nếu có bộ Sát Phá Tham hội họp, hàm ý bạn bè thương tiếc ta gặp chuyện không may (bd#0298).
 
 ## Nguyên văn
 > "Bạn bè có danh chức. - Nhiều sao sáng sủa tốt đẹp: nên kết giao với những người có địa vị hay quyền thế, nhất là với những người có học thức" (tb#0063-phu-doan)

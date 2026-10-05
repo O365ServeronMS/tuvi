@@ -2,10 +2,12 @@
 id: rule:nhi-hop-luon-la-sinh
 type: rule-card
 primary: [tl]
-cross: []
+cross: [bd]
 tags: [phuong-phap, nhi-hop, tam-hop]
 chunks:
   - tl#0040-ty-voi-than-ngo-voi-mui
+  - bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p02
+  - bd#0319-the-xung-chieu-tam-hop-nhi-hop-va-luc-hoi-p03
 ---
 # Quan hệ nhị hợp luôn là sinh, không bao giờ khắc
 
@@ -25,6 +27,9 @@ chunks:
 
 ## Khi nào không áp dụng
 - [TL] Phải xác định trước cung đang xét thuộc tam hợp ngũ hành nào (Thân Tý Thìn = Thủy, Dần Ngọ Tuất = Hỏa, Tỵ Dậu Sửu = Kim, Hợi Mão Mùi = Mộc) rồi mới tra được cung nhị hợp và chiều sinh; áp dụng sai tam hợp gốc sẽ suy luận sai chiều sinh.
+
+## Đối chứng
+- [BĐ] Nhị hợp tốt thì sinh tài sinh lộc (bd#0319 p02). Lục hội (trục Mão Thìn, Dậu Tuất; BĐ nói sách khác gọi là "lục hại") là thế riêng, xấu tốt tùy; Mệnh lục hội Tật rõ ràng không tốt (bd#0319 p03). Đây là điều TL không nêu.
 
 ## Nguyên văn
 > "Tình trạng nhị hợp là luôn luôn đối với chính cung chỉ có sinh không có khắc, tức là chỉ có sinh nhập hay sinh xuất như" (tl#0040-ty-voi-than-ngo-voi-mui)

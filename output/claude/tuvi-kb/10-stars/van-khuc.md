@@ -4,12 +4,13 @@ type: star-card
 stars: [van-khuc]
 tags: [luc-cat, van-tinh, khoa-giap, my-thuat]
 primary: [tb, tl]
-cross: [td]
+cross: [td, bd]
 chunks:
   - tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh
   - tl#0021-pham-chat-rieng-biet-giua-van-xuong-va-van-khuc
   - tl#0009-danh-du-cua-long-phuong-ta-huu-xuong-khuc
   - td#0028-sao-van-khuc
+  - bd#0311-cung-tat-ach
 ---
 # Văn Khúc (Nam Đẩu tinh, Dương Thủy đới Hỏa, Văn tinh)
 
@@ -33,6 +34,7 @@ Tân Biên mục 3 không nêu điểm riêng cho nam nữ; xem thẻ cung Mện
 - [TĐ] Đồng ý chủ khoa, tài hoa phong nhã; bổ sung: đơn thủ gặp hung tinh chỉ là người bẻm mép; cùng Liêm Trinh làm đề lại; cặp Thái Âm làm thuật sĩ; sợ Phá Quân, không ưa Tham Lang; Cự Môn Văn Khúc khiến người táng chí.
 - [TĐ] Miếu hãm: miếu Tí Thìn Tị Dậu Sửu, vượng Hợi Mão Mùi, hãm Ngọ Tuất (khác Tân Biên coi Tuất là đắc địa).
 - [TĐ] Nữ mệnh: "Nữ mệnh Xương Khúc thông minh phú quí chỉ đa dâm"; số đàn bà không nên có Văn Khúc.
+- [BĐ] Văn Xương, Văn Khúc đồng cung tại Tật Ách: ở Mệnh hoặc cường cung là tốt, nhưng ở Tật Ách là từ xấu đến cực xấu, nhất là khi tam hợp, xung chiếu có Thất Sát; Văn Khúc ở đây thành "nghệ thuật thảm" (nhạc đám tang). Phú dẫn: "Quế Sứ Hoa Thương tối hiềm giao hội, mạc phùng Sát diệu đa khổ tai ương" (bd#0311). TB/TL không có đoạn riêng cho Văn Khúc tại Tật Ách.
 
 ## Nguyên văn
 > "Chủ văn chương, mỹ thuật, khoa giáp - Đắc địa: Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi" (tb#0026-hoa-tinh-nam-dau-tinh-duong-hoa-doi-kim-linh)
